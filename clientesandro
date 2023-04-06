@@ -1214,6 +1214,9 @@ https://seig.tv/14/1/10017bb49e2e44795e50ecf8240b5608/720p/720p.m3u8
 ############## FAX FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX FILMES" group-title="
 
+
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/04/21/37/556902.jpg"group-title="FAX FILMES",Sobreviventes
+https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/hls_2500.m3u8
 #EXTINF:1 tvg-logo="https://www.themoviedb.org/t/p/w342/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg"group-title="FAX FILMES",VELOZES & FURIOSOS 9
 https://download2389.mediafire.com/d780948yt8sgSF4KF9x1xLorqt61FHM7O8MpVukJeyWsO0e6cqpQ9n4A1YAUuAo8jycgUr9oX6OJxZH0hM2ZXYo6tqSP/cnex80fox7tv5wg/Velozes.e.Furiosos.9-HD.mp4
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w342/bNVuVBhRrTFU6N8yeDggT4GyddY.jpg"group-title="FAX FILMES",MAGIC MIKE XXL
@@ -1373,26 +1376,26 @@ https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/pla
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTM3U url-tvg="http://grade-de-Filmes 2023.xml"
-############## Filmes 2023 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes 2023" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Terror.xml"
+############## Filmes Terror ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Terror" group-title="
 
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Filmes 2023",Sayen
-https://seig.tv/19/1/23dcf32ee0520fa0083d1b3596518f1a/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg" group-title="Filmes 2023",Detetive Knight: Independência
-https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/yRJIqsE3JnP92HOXpmch1EJQ0xq.jpg" group-title="Filmes 2023",Fúrias Femininas
-https://seig.tv/19/1/2564fa6183503b4427fb11a16e722d96/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://www.themoviedb.org/t/p/original/tpcsSRYkcnh6GADlcLEvEKVc9U9.jpg" group-title="Filmes 2023",Avatar: O Caminho da Água
-https://seig.tv/13/1/0f0a5c91933f3dcc1e65f6195d2257a5/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg" group-title="Filmes 2023",Já Era Hora Filme Já Era Hora 2023 
-https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg" group-title="Filmes 2023",O Rei das Sombras
-https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/9FBu1uWJp1pkwEUhJXejpMEYd5g.jpg" group-title="Filmes 2023",A Elefanta do Mágico 
-https://seig.tv/19/1/6e5335874b4d6c712cd06d2ee69595f2/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg" group-title="Filmes 2023",O Som do Caos Noise 2023 
-https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/5aKA1L3zaO4/maxresdefault.jpg" group-title="Filmes Terror",Ritual Maldito
+https://play.prod.gcp.vix.services/atakan-bloody-legend_pt/atakan-bloody-legend_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2021/04/a-colheita-poster.jpg" group-title="Filmes Terror",A Colheita
+https://play.prod.gcp.vix.services/harvesting_pt/harvesting_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/PCY-EALEcvY/maxresdefault.jpg" group-title="Filmes Terror",O Desejo Final
+https://play.prod.gcp.vix.services/final-wish_pt/final-wish_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/60CVU-8DFXM/maxresdefault.jpg" group-title="Filmes Terror",As Bruxas de Amityville
+https://play.prod.gcp.vix.services/amityville-witches_pt/amityville-witches_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/632727.jpg" group-title="Filmes Terror",Um Assombramento no Texas 
+https://play.prod.gcp.vix.services/hauting-texas_pt/hauting-texas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/84/78/34/19758227.jpg" group-title="Filmes Terror",Ring 0 O Chamado
+https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p31460_v_v8_ai.jpg" group-title="Filmes Terror",Ring 2 - O Chamado
+https://play.prod.gcp.vix.services/ringu-2_pt/ringu-2_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/14926.jpg" group-title="Filmes Terror",A Face
+https://play.prod.gcp.vix.services/peiseu_pt/peiseu_pt_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTM3U url-tvg="http://grade-de-FAX FILME NACIONAL.xml"
@@ -1537,10 +1540,6 @@ file:///C:/Users/AlexSilva/Downloads/videoplayback%20(9).mp4
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w342/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FAX O Gordo e o Magro",STAN E OLLIE - O GORDO E O MAGRO Stan & Ollie (2019)
 https://video.wixstatic.com/video/834009_ae3b81f49cce4075b5118c7b9539ae95/480p/mp4/file.mp4
 
-
-
-
-
 #EXTM3U url-tvg="http://grade-de-plutotv.xml"
 ############## plutotv ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeplutotv" group-title="
@@ -1569,9 +1568,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTDxoR7QNbqDAq5KY6nY8GwZsttlpcb518LQsfVFEGPKO85cNfmUCvtS_xDsc2_6bkWE&usqp=CAU" group-title="plutotv",I Love Reality
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
-
-
-
 
 #EXTM3U url-tvg="http://grade-de-FilmesDrama.xml"
 ############## FilmesDrama ################# 
@@ -1802,7 +1798,6 @@ https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
 #EXTM3U url-tvg=" http://grade-de-FAX CLIPS.xml "
  ############## FAX CLIPS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX CLIPS " group-title="
-
 
 #EXTINF:1 tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX CLIPS",TNT
 http://livetv.ktv.zone/3/play.m3u8
@@ -2057,7 +2052,6 @@ https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u
 #EXTM3U url-tvg=" http://grade-de-FAX RADIOS.xml "
  ############## FAX RADIOS ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX RADIOS " group-title="
-
 
 #EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="FAX RADIOS",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
 https://hts02.kshost.com.br:9322/live?1679835613105
@@ -2532,8 +2526,6 @@ https://play.prod.gcp.vix.services/aventura-zico_pt/aventura-zico_pt_1-1/play_v1
 https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://en.kidsmusic.info/photo/sandy-junior/voce-e-d/sandy-junior-voce-e-d-cover.jpg?size=768x768" group-title="Documentarios",A GENTE SE GOSTA DEMAIS - SANDY E JUNIOR
 https://stmv1.painelvideo.top/gostademaistv/gostademaistv/playlist.m3u8
-
-
 
 #EXTM3U url-tvg=" http://grade-de-Maiores.xml "
 ############## Maiores ################# 
