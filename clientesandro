@@ -1,31 +1,13 @@
 #EXTM3U 
-#EXTINF:7,file.mp4
-#EXTVLCOPT:network-caching=1000
-https://video.wixstatic.com/video/c634a0_4d47eda7060e4d74b56db2fdd0e44ec9/1080p/mp4/file.mp4
+#EXTINF:29,chamada tv fax.mp4
+file:///C:/Users/AlexSilva/Documents/Corel%20VideoStudio%20Pro/17.0/chamada%20tv%20fax.mp4
 
-############## Radio DEUS é Tudo #################   
+############## RADIO E TV  RADIO FAX ALEX #################
 
-#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RADIO E TV | RADIO FAX ALEX",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
-#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/pss6v1h6mfhvv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="  Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/pss6v1h6mfhvv.pls
-
-#EXTM3U url-tvg="http://grade-de-RADIO FAX.xml"
-############## RADIO FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRADIO FAX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX ALEX | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO E TV | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=qeXXv7ntT4K1qU2BlXqAXg
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX ALEX | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
-https://stream-51.zeno.fm/0puscmkcu68uv?zs=otHk2wGBQBaT2lUNmewFVQ&acu-uid=751324370731&an-uid=2757408917935696907&mm-uid=58d463ee-d2c7-4d00-bb5a-375d1bd68aa0&amb-uid=4414560767181171804&cto-uid=5d369dea-15d1-409c-8999-ff85a80403a8-63ef5f7c-4252&bsw-uid=e06ec068-27ab-46ba-8053-b7c9125a749b&dyn-uid=04030002_63eed2c810908&ttd-uid=8d93998a-d91c-499c-8415-0a8f267a7552&triton-uid=cookie%3A81d72210-5b41-40d1-9a61-95cc7dd178da&adt-uid=cuid_20a7afe0-ae5f-11ed-b418-12821240e6ec
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX ALEX | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/hu70hmkcu68uv
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX ALEX | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/hu70hmkcu68uv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX ALEX | RADIO FAX ALEX",FAX Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 CANAIS   ABERTOS
 
@@ -787,7 +769,7 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44194.mp4
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44186.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3Lf5QXb8e0BOdutXGb8oNgDNl0E_big.jpg" group-title="FILMES | LANÇAMENTOS",Kingdon: Ashin do Norte (2021)
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44184.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9E76j2DcQv8LdbX1Wa9jpbDBfw1_big.jpg" group-title="FILMES | LANÇAMENTOSs",Jungle Cruise (2021)
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9E76j2DcQv8LdbX1Wa9jpbDBfw1_big.jpg" group-title="FILMES | LANÇAMENTOS",Jungle Cruise (2021)
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44178.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tZ3JJ2BevksKc0BwM4kdM3H6jV1_big.jpg" group-title="FILMES | LANÇAMENTOS",Jovens Bruxas Nova Irmandade (2020)
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44176.mp4
@@ -871,7 +853,32 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44050.mp4
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44046.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qNxZ40JG87gsSy8t1k1uGFmHCvM_big.jpg" group-title="FILMES | LANÇAMENTOS",A Jornada de Vivo (2021)
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44041.mp4
-
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yeEL2hkUrQ5dJMDToFnDztjdGNK_big.jpg" group-title="FILMES | LANÇAMENTOS",A Guerra dos Consoles (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44038.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/xgwFIsMikmQiCYVvkprb4o9s9f5_big.jpg" group-title="FILMES | LANÇAMENTOS",A Boa Esposa (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44034.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rnxc5X7r2KQtkK3ZLuve4Qbvdz_big.jpg" group-title="FILMES | LANÇAMENTOS",A Barraca do Beijo 3 (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44031.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nhu9KUeSmyCwHXcMXRcKggwrUuu_big.jpg" group-title="FILMES | LANÇAMENTOS",Wander (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44024.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/50mYEEOiueKarAhlHAz5qOTuIzX_big.jpg" group-title="FILMES | LANÇAMENTOS",Viajantes Instinto E Desejo (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44021.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jART4wnzFZeZ2fDpPwVvm9qihTA_big.jpg" group-title="FILMES | LANÇAMENTOS",Um Milagre Inesperado (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44014.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kPry1BAfJtYNyQEpKdV4cYan6MB_big.jpg" group-title="FILMES | LANÇAMENTOS",The Witcher Lenda do Lobo (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44009.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hTZe8H3vhgmGEyxvhcoEuFFGEtU_big.jpg" group-title="FILMES | LANÇAMENTOS",The Loud House O Filme (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44007.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9lI6MrGqeokTR65szTDVGEac4PQ_big.jpg" group-title="FILMES | LANÇAMENTOS",SAS Red Notice (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43995.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hqqEHkLUdOyoDYcvXi0lUEeQ748_big.jpg" group-title="FILMES | LANÇAMENTOS",Really Love (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43993.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wC9d6gSTGmrAOqWGQN1VUqfqQx1_big.jpg" group-title="FILMES | LANÇAMENTOS",Raizes Macabras (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43991.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/et0OqqfYINGCFB76YTmdinuuGTn_big.jpg" group-title="FILMES | LANÇAMENTOS",O Espiao Ingles (2020)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43977.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qhMv2uDyraW3s9t30FFfkauDyI9_big.jpg" group-title="FILMES | LANÇAMENTOS",Luccas Neto O Mapa Do Tesouro 2 (2021)
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43975.mp4
 
 FILMES  FANTASIA
 
@@ -883,9 +890,19 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44204.mp4
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44158.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iQD3GbY0zrxF2AknxAj4fynmuvY_big.jpg" group-title="FILMES | FANTASIA",Ghost Town - Um Espírito Atrás de Mim
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44152.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rHps2s8XFQYtyP0lUvF7682ExWo_big.jpg" group-title="FILMES | FANTASIA",As Múmias do Faraó
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44069.mp4
 
 FILMES  FICCAO
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cwHOpllMXqVcjNjgaVz9Oxf5r1o_big.jpg" group-title="FILMES | FICCAO",Agente do Futuro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44053.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6HH0yMBUqiHo3uWiejTgT9Q3MKl_big.jpg" group-title="FILMES | FICCAO",A Reconquista
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44048.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/r6xha4lGM1d1FJMlj0elbdmJoMz_big.jpg" group-title="FILMES | FICCAO",Uma Estranha de Los Angeles
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44018.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zrHZvRon9pUtwcf2Y4fFJVCc02m_big.jpg" group-title="FILMES | FICCAO",Transformers - O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44011.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/c6ci4ZXQQFv9Kyj07OHK3IYMDBS_big.jpg" group-title="FILMES | FICCAO",O Último Guerreiro
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44255.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oz7euNg7BmA5aYjcjKIzIAMT8V6_big.jpg" group-title="FILMES | FICCAO",O Cavaleiro Solitário
@@ -909,6 +926,10 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44104.mp4
 
 FILMES   FAROESTES 
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zwonyZQ9ZidBMQ3BoJxjxe5ShyP_big.jpg" group-title="FILMES | FAROESTES",Vingança Cega
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44085.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wsjaEPserDMXR6aNUByepN2jtb2_big.jpg" group-title="FILMES | FAROESTES",Os Jovens Pistoleiros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43985.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zbE1IDcN91G6RxWDBkAqiPE4U1M_big.jpg" group-title="FILMES | FAROESTES",Onde Começa o Inferno
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44256.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terra dos Bravos" tvg-logo="https://i.ytimg.com/vi/8khKMFxWvgA/maxresdefault.jpg" group-title="FILMES | FAROESTES",Terra dos Bravos
@@ -926,6 +947,24 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44111.mp4
 
 FILMES  COMEDIA
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zdJ53lOdFmdxlgxoO5WVIlvEINo_big.jpg" group-title="FILMES | COMEDIA",A Mulher Invisível
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44045.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lzKhuEM6bf4ypZb4uQqQOqqyPXa_big.jpg" group-title="FILMES | COMEDIA",A Hora da Virada
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44039.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1nYYLgmwm4yK29ircaEGKXwXNj3_big.jpg" group-title="FILMES | COMEDIA",17 Outra Vez 2009
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44027.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wOMeb1BV9gsjPcCo1IysIRwBgXK_big.jpg" group-title="FILMES | COMEDIA",Um Final de Semana em Hyde Park
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44013.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mBI1WTduABARAPzOhi8k0Sh2F6b_big.jpg" group-title="FILMES | COMEDIA",Uma Família Muito Nobre
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44019.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/enKFquVv8TPdLiZL0vXeMAw7U76_big.jpg" group-title="FILMES | COMEDIA",Tá Tudo Incluído!
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44004.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gbFINH7DRFBmxqWGV2Dj4SIgihi_big.jpg" group-title="FILMES | COMEDIA",Sem Direito a Resgate
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44000.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dKFbBktCmP56J3x4jU6uDX1ECzz_big.jpg" group-title="FILMES | COMEDIA",Primavera na Pele
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43990.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hrpG1ZbnRNHJOgVReoREb6u3nzA_big.jpg" group-title="FILMES | COMEDIA",Onda de crimes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43980.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cCIqBhOew8ptoIT73I6hsUuF0kb_big.jpg" group-title="FILMES | COMEDIA",Com Mérito
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44102.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4iviSGM2KWEUDhU4m8ujyN9MI6K_big.jpg" group-title="FILMES | COMEDIA",De Repente Pai
@@ -979,6 +1018,13 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44259.mp4
 
 FILMES  ROMANCE
 
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iubYnv72EyWB6rDaMSULULrVvVF_big.jpg" group-title="FILMES | ROMANCE",Ao Compasso do Amor
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44062.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iMVdqBp4ys3kIOzlUY6B1ZJUz3z_big.jpg" group-title="FILMES | ROMANCE",Amizade Colorida
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44057.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/V1hmsVKK3gc1WCLP9UqYastHGa_big.jpg" group-title="FILMES | ROMANCE",Um Toque de Rosa
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44016.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7KYXxN1PkVMvPwl1LAxRmpHhWRf_big.jpg" group-title="FILMES | ROMANCE",Paixão de Ocasião
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44269.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hVo7gSTaHevkR3TpXXzKJ6TYdWN_big.jpg" group-title="FILMES | ROMANCE",Nada Mais a Perder
@@ -1149,11 +1195,31 @@ file:///C:/Users/AlexSilva/Downloads/videoplayback%20(13).mp4
 file:///C:/Users/AlexSilva/Downloads/videoplayback%20(8).mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Herói do Navio (1927)"tvg-logo="https://i.pinimg.com/originals/9e/e0/92/9ee092c9547d50c790d9c7e25ecf7006.gif"group-title="FILMES | O GORDO E O MAGRO CINEMA",O Herói do Navio (1927)
 file:///C:/Users/AlexSilva/Downloads/videoplayback%20(9).mp4
-#EXTINF:-1 tvg-id="" tvg-name="STAN E OLLIE - O GORDO E O MAGRO Stan & Ollie (2019)"tvg-logo="https://image.tmdb.org/t/p/w342/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | O GORDO E O MAGRO CINEMA",STAN E OLLIE - O GORDO E O MAGRO Stan & Ollie (2019)
+#EXTINF:-1 tvg-id="" tvg-name="STAN E OLLIE (1927)"tvg-logo="https://image.tmdb.org/t/p/w342/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | O GORDO E O MAGRO CINEMA",STAN E OLLIE (1927)
 https://video.wixstatic.com/video/834009_ae3b81f49cce4075b5118c7b9539ae95/480p/mp4/file.mp4
 
 FILMES  AÇÃO CINEMA
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uHYwAUc4AiyUpkwjERq5icFKt2d_big.jpg" group-title="FILMES | AÇÃO CINEMA",Armas na Mesa
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44066.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iNepOVr7DJOukyR6jhl5kFrMQwz_big.jpg" group-title="FILMES | AÇÃO CINEMA",À Sombra de um Disfarce
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44049.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5rJvzuIh1TcfS3GWC1dj6n0dUBB_big.jpg" group-title="FILMES | AÇÃO CINEMA",Amigos Inseparáveis
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44056.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kgHUQnKqaABB8t8wC2bZMza0DPQ_big.jpg" group-title="FILMES | AÇÃO CINEMA",A Irmandade
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44040.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/m1XRnhxv2VLFUY1PDa0RlVJOasX_big.jpg" group-title="FILMES | AÇÃO CINEMA",A Cruz 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44036.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rnxc5X7r2KQtkK3ZLuve4Qbvdz_big.jpg" group-title="FILMES | AÇÃO CINEMA",A Barraca do Beijo 3 (2021) 4K
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44032.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sMncURxEueGeBxdmx2gTFaNUgzF_big.jpg" group-title="FILMES | AÇÃO CINEMA",400 Contra 1: Uma História do Crime Organizado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44029.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/xz2GPDlXuVfH8FgL81dqSSsSF0Q_big.jpg" group-title="FILMES | AÇÃO CINEMA",Um Álibi Perfeito
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44017.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oNclZVIcoCJwaoHaiWtkiNsXybJ_big.jpg" group-title="FILMES | AÇÃO CINEMA",Terapia de Risco
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44006.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/truOx8NkWRYwK9vgZYWhHeHMUpB_big.jpg" group-title="FILMES | AÇÃO CINEMA",Perseguição Implacável
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43988.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
 https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sobreviventes"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/04/21/37/556902.jpg"group-title="FILMES | AÇÃO CINEMA",Sobreviventes
@@ -1313,7 +1379,175 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44101.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/m7l8CWR6WS4mNWRzG9DvehK66l_big.jpg" group-title="FILMES | AÇÃO CINEMA",Caça aos Gângsteres
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44090.mp4
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/brDYycnYgG6hxsM3Ysyqsg9ANyx_big.jpg" group-title="FILMES | AÇÃO CINEMA",O Último Desafio
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58270.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ybt7v6M74KwnffPOB88VDCwc5Fw_big.jpg" group-title="FILMES | AÇÃO CINEMA",O Último Samurai
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58269.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nLQ9Ugvc3DjkZrLFojpgY6OZowr_big.jpg" group-title="FILMES | AÇÃO CINEMA",O Vendedor Chinês
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58268.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kvL3CZRILLJ9STxRadGXI0MOeac_big.jpg" group-title="FILMES | AÇÃO CINEMA",Jawbone - Último Assalto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58267.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qryAt2xNRxxjJZGwFMGvJKbCNvp_big.jpg" group-title="FILMES | AÇÃO CINEMA",Ong-Bak 2: O Guerreiro Sagrado Voltou
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58266.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gE0ouuxZ5NaM5nbL9xgJC1Hq1lf_big.jpg" group-title="FILMES | AÇÃO CINEMA",Ong-Bak 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58265.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/giScNN1AdVEEZ1G6TLlxx4sZBb_big.jpg" group-title="FILMES | AÇÃO CINEMA",Ong-Bak: Guerreiro Sagrado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58264.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2KfhMmTMNAj3NehyhrYtadDO7yc_big.jpg" group-title="FILMES | AÇÃO CINEMA",Operação Fronteira
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58263.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5dDHkDbzj8rYOCYqlFIna3sV8tg_big.jpg" group-title="FILMES | AÇÃO CINEMA",Operação Invasão
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58262.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7wubJeBNod3z4UTG30XvEhXA7Xr_big.jpg" group-title="FILMES | AÇÃO CINEMA",Operação Invasão 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58261.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/r0Z5gDSgS1h6bzdt7L4psUTtSzn_big.jpg" group-title="FILMES | AÇÃO CINEMA",Operação Sombra: Jack Ryan
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58260.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wjziUc5HK1emyez9lBGHre3jD4i_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Aventureiros do Bairro Proibido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58259.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tMhMdsz9KFSh4ZrJQ8KWPksd305_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Bad Boys
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58258.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yCvB5fG5aEPqa1St7ihY6KEAsHD_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Bad Boys II
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58257.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nqN4GM5nfKkpHQBdZdGUd7pJ9c_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Condenados
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58256.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/emXjVhz8LL4ZWahmUsk6YSg5wcU_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Indomáveis
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58255.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/glHqwsvFkQHFMFpA0FjFp8hPu6P_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Instrumentos Mortais: Cidade dos Ossos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58254.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tTfRV9lOBi3YDJpYXqbj4Ai04g2_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Mercenários
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58253.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gEDpD6l2CJ8aLbtYLL2ecQ3yk09_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Mercenários 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58252.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vd22faXhHRCr8d1FSiXuFfnpSKv_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Mercenários 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58251.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1GyARLcQF124BKs9IBBlpaSrSqn_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Outros Caras
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58250.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5UH6cULJZBU4pgzNXShoWp5e3ha_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Perdedores
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58249.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/keINQqFnbovPS5NuYFhgeE1i5Rv_big.jpg" group-title="FILMES | AÇÃO CINEMA",Os Quatro 2: Reino Sem Lei
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58247.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wqwt2DKcQV6EeSwXuYTk7pkLFii_big.jpg" group-title="FILMES | AÇÃO CINEMA",O Crime do Padre Amaro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58246.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nFYdt6lCDaAtcStXrk55xaZ9DqF_big.jpg" group-title="FILMES | AÇÃO CINEMA",Par Perfeito
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58245.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/xCBPNwfjPCjs44w7EbJYUKrpI5P_big.jpg" group-title="FILMES | AÇÃO CINEMA",Passageiro 57
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58244.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cdokJoHaX0DnoX58b7Wn52sYJSo_big.jpg" group-title="FILMES | AÇÃO CINEMA",Perda Total
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58243.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cgSNAGszPXwqrv3YL9OS3S4jYyn_big.jpg" group-title="FILMES | AÇÃO CINEMA",Perigo Extremo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58242.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uxo1Jc4iBQAsWmOI8K01YCdR2XN_big.jpg" group-title="FILMES | AÇÃO CINEMA",Perseguição Explosiva
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58241.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5yQliDYCBFx8LcPUWW09ef6LHBp_big.jpg" group-title="FILMES | AÇÃO CINEMA",Pixels
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58240.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6GUP6ZXCLwv0mcrnQkJeSt8y3oU_big.jpg" group-title="FILMES | AÇÃO CINEMA",Platoon
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58239.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2btxGF270fxOeNJInRNnFtZGkAA_big.jpg" group-title="FILMES | AÇÃO CINEMA",Polar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58238.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6ra0R68G73hjeKuN4MwalhHd5vK_big.jpg" group-title="FILMES | AÇÃO CINEMA",Pompeia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58237.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1ma5b9XLCziCHzQP0Zy1Y1PqNyM_big.jpg" group-title="FILMES | AÇÃO CINEMA",Poseidon
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58236.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/czVBkHRaZu8rOnCNTd0t7EHYj97_big.jpg" group-title="FILMES | AÇÃO CINEMA",Tempo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58235.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yGf2Ms0ExStHa0QwZoreiykB63m_big.jpg" group-title="FILMES | AÇÃO CINEMAo",Próxima Parada: Apocalipse
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58234.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yGf2Ms0ExStHa0QwZoreiykB63m_big.jpg" group-title="FILMES | AÇÃO CINEMA",Quarteto Fantastico 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58233.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yGf2Ms0ExStHa0QwZoreiykB63m_big.jpg" group-title="FILMES | AÇÃO CINEMA",Quarteto Fantastico 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58232.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yGf2Ms0ExStHa0QwZoreiykB63m_big.jpg" group-title="FILMES | AÇÃO CINEMA",Quarteto Fantastico 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58231.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/44MkE7h2Yx7QTN5uTCmx9Qo5Bzp_big.jpg" group-title="FILMES | AÇÃO CINEMA",Queima de Arquivo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58230.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bLpIFiuWF1bKnBqi7LqnJcLHtN_big.jpg" group-title="FILMES | AÇÃO CINEMA",Thor: Ragnarok
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58229.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45YC86aMjWlcPkvgWwqdI6Clq7b_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rambo IV
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58228.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45YC86aMjWlcPkvgWwqdI6Clq7b_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rambo IV
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58227.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wwIRc9Ga33RFY3G4yspQocnY1rN_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rambo III
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58226.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45YC86aMjWlcPkvgWwqdI6Clq7b_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rambo IV
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58225.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7bhqCvl771uepyt6wbzEiryxEoc_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rampage: Destruição Total
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58224.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9cVdATgHe8yh81tLwRbp3SN2wLQ_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rebelião em Vila Rica
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58223.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bLCflHS789mmJTXhoeQCFdA0Saz_big.jpg" group-title="FILMES | AÇÃO CINEMAo",RED - Aposentados e Perigosos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58222.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dJKpxGaEH8Xf2buOHFn34MeZrSX_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rede de Corrupção
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58221.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/32hjhlZf8rR9ahxOS26xeIGf95m_big.jpg" group-title="FILMES | AÇÃO CINEMA",Refém do Jogo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58220.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/shnGJ9aFkwjCJSfiAfjsyuiNdsL_big.jpg" group-title="FILMES | AÇÃO CINEMA",Reféns do Crime
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58219.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1tdzIzxZEYBFn0pi9aG0dCgl7Tr_big.jpg" group-title="FILMES | AÇÃO CINEMA",Reféns do Desconhecido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58218.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wI8OOeEIN8k9HD2HaBM8jOHm2LF_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rei Arthur: A Lenda da Espada
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58217.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/71270b62705449592bd513e373c3708e.jpg" group-title="FILMES | AÇÃO CINEMA",Reino dos Assassinos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58216.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jyaHMBzzHfxuF8AxV6Cr0WWsq1T_big.jpg" group-title="FILMES | AÇÃO CINEMA",Resgate Mortal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58215.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tHYEH5axU9tBV9ZNGcm90UWUtU1_big.jpg" group-title="FILMES | AÇÃO CINEMA",Resgate Sem Limites
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58214.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/74C2YX0NLWnozVMRS56d5CKDdEv_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rogue One: Uma História Star Wars
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58213.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wwCuBA58NukJIqx81sD785RGh0i_big.jpg" group-title="FILMES | AÇÃO CINEMA",Romeu Tem Que Morrer
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58212.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/11WGsTnwF5nCP07L2OyCUaf1Riy_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rota de Fuga
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58211.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zbRRUh38fQQjxOhCCdDZn5CQcKK_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rota de Fuga
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58210.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wTqlEF01SGo4QONor55zUPxHZGP_big.jpg" group-title="FILMES | AÇÃO CINEMA",Rota de Fuga 3: O Resgate
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58209.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/xBshLPA17Sbq1AJEACpkDLnRvPd_big.jpg" group-title="FILMES | AÇÃO CINEMAo",Ruas Sangrentas - O Acerto Final
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58208.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dmhNSdqp9guZwmDktqvfJZ5DVjt_big.jpg" group-title="FILMES | AÇÃO CINEMA",S.W.A.T.: Comando Especial
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58207.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/j89bzqyw5Ouc8Itw5UXmvAeFmdk_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sabotagem
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58206.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/xaGxGvERRuJMgvFL3JFwlu6j3on_big.jpg" group-title="FILMES | AÇÃO CINEMA",Escape Room
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58205.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5leTFl2GYZFJ9X06SdiL66zRrK0_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sangue na Veia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58204.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9lfd1HZCwP4svcTHUtn3cC0rtlN_big.jpg" group-title="FILMES | AÇÃO CINEMA",Scarface
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58203.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mZMXCmoDwZpyXi0bnRxJVWui7VC_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sem Escalas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58202.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/418SAp2w6wBH0iRLn0TMtoj5uCC_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sentença de Morte
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58200.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/118V2OBcF0Y8ll5JXUKUYsYCpl6_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sequestro na Ilha
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58199.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cH4g8WjAGw7lL0o2CS3tAAXskF7_big.jpg" group-title="FILMES | AÇÃO CINEMA",Shaft
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58198.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2frluqnVEoBPz0aT6omnVNpmVSg_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sherlock Holmes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58197.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/of8oht9uENwEdx35HehEPUhGC2w_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sherlock Holmes: O Jogo de Sombras
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58196.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/x7xXm9EDs5YTnGjczAATJ5jsown_big.jpg" group-title="FILMES | AÇÃO CINEMA",Show Dogs: O Agente Canino
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58195.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aV9q6XPA4R19dzhwEmj5W20fhY5_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sicário: Dia do Soldado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58194.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dG4nBHtz2M0zhHPxUW1VuwilixD_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sicário: Terra de Ninguém
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58193.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mAXzc2oDTTYcnn6IGHlSXvmXloG_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sniper Americano
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58192.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mdzK6VzX0NYDvYvMw5Gy8ojHtgB_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sniper: Operações Especiais
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58191.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/arJV6ypZidAn4qiJXrvow3KbBqZ_big.jpg" group-title="FILMES | AÇÃO CINEMA",Speed Racer
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58190.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/k7DOPUhlGLxRowC4VFY9n0wQTup_big.jpg" group-title="FILMES | AÇÃO CINEMA",Street Fighter: A Última Batalha
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58189.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uUDZWIOUxtVhU1YwlOxvNlnZM5h_big.jpg" group-title="FILMES | AÇÃO CINEMA",Sucker Punch: Mundo Surreal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58188.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sHgPR5jrN09KoHKltAnLp8cfgg3_big.jpg" group-title="FILMES | AÇÃO CINEMA",Supercross
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58187.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3gooCZPkWvosSIlLJSSiJSzS5jL_big.jpg" group-title="FILMES | AÇÃO CINEMA",Superfly: Crime e Poder
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58186.mp4
+
 FILMES  DRAMA CINEMA
+
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iixcawSjjXSWNC1ChXK3SQDKGZW_big.jpg" group-title="FILMES | DRAMA CINEMA",Biutiful
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44082.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/z0RpIgdTMFhQTHQpb2EQSwV09QJ_big.jpg" group-title="FILMES | DRAMA CINEMA",Apostando Alto (2018)
@@ -1324,7 +1558,6 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44061.mp4
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44060.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cwXTFgfEXKiacH5jJcL6b42bjim_big.jpg" group-title="FILMES | DRAMA CINEMA",Assassina
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44071.mp4
-
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qI1AvD6w2fNvlOpe8c8H4mEE1mf_big.jpg" group-title="FILMES | DRAMA CINEMA",David
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44112.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/u6z3D9ayD1VFZjb6N3D92sStY4K_big.jpg" group-title="FILMES | DRAMA CINEMA",Coisas Insignificantes
@@ -1453,10 +1686,39 @@ https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
 https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O Vigilante Mascarado"tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FILMES | DRAMA CINEMA",O Vigilante Mascarado
 https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
-
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ksk8Ao5xNgHix2904FNaEGXoPEN_big.jpg" group-title="FILMES | DRAMA CINEMA",Os Miseráveis
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43986.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hAt3FTG7rIaUbc4zkGZtrqRuoqw_big.jpg" group-title="FILMES | DRAMA CINEMA",3096 Dias de Cativeiro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44028.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/z8Vew0X034bqtnEiEIEwatt7u4k_big.jpg" group-title="FILMES | DRAMA CINEMA",Vício Inerente
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44023.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gE71dCtgYY2liMybEAgm8HB2qzb_big.jpg" group-title="FILMES | DRAMA CINEMA",Uma Prova de Amor
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44020.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uU1rDGSlnxl1mCz2r6ZLVNdJbCL_big.jpg" group-title="FILMES | DRAMA CINEMA",Seabiscuit: Alma de Herói
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43999.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mvhb61EWrbEPb69cR0xqlzkYdS2_big.jpg" group-title="FILMES | DRAMA CINEMA",Os Heróis do Pedaço
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43984.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9eynCD68IsRCBrV0gFFGnFS3sQ8_big.jpg" group-title="FILMES | DRAMA CINEMA",Onde Estão as Crianças?
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43982.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mvlSKfmMzjIHM5cfryEDFNofy5c_big.jpg" group-title="FILMES | DRAMA CINEMA",Olhar de Anjo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43979.mp4
 
 FILMES  TERROR
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/k82jk8ZWy1W5NzI7NFnTvGUhrmF_big.jpg" group-title="FILMES | TERROR",A Enfermeira Assassina
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44037.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qGfT6Edm2PSXDbGfwIJgCUzbHCl_big.jpg" group-title="FILMES | TERROR",A Caverna
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44035.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zTANZaCUwG6prdRygximOdWKV6U_big.jpg" group-title="FILMES | TERROR",1303 - Apartamento do Mal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44026.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9L8Ar7ayazSXPNLNxiaVWOCjzrf_big.jpg" group-title="FILMES | TERROR",Sobrenatural: Capítulo 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44002.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2L8fErMpGD4s81VtWwspeyHYdiI_big.jpg" group-title="FILMES | TERROR",Sobrenatural
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44001.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pDje5PYPYgAODXOjY0oZHPKafjr_big.jpg" group-title="FILMES | TERROR",Possessão
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43989.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ekskn5Zjclv4F2YBwJNmrYt4Z2q_big.jpg" group-title="FILMES | TERROR",Os Estranhos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43983.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/npFa8Z1LgBZAzJc6cNhSY9VOHMw_big.jpg" group-title="FILMES | TERROR",Desce? (2019)
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44119.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sy73Cp21kAxFuoC3DLn7u9Z4LP2_big.jpg" group-title="FILMES | TERROR",Através da Sombra
@@ -1486,6 +1748,10 @@ http://esrv.cc:80/movie/aroldo14/2xl7riq/44214.mp4
 
 FILMES  INFANTIL CINEMA
 
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zTdYoROAO5T8IsUodUgrnceT3Y1_big.jpg" group-title="FILMES | INFANTIL CINEMA",Ben 10: Corrida Contra o Tempo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/44081.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tOlvwlIImnHTjH1KmiPdJU2LagX_big.jpg" group-title="FILMES | INFANTIL CINEMA",Scooby-Doo e o Abominável Homem das Neves
+http://esrv.cc:80/movie/aroldo14/2xl7riq/43998.mp4
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3rfClKuMmhFawkdCJXMEV3OGOJ3_big.jpg" group-title="FILMES | INFANTIL CINEMA",O Lorax: Em Busca da Trúfula Perdida
 http://esrv.cc:80/movie/aroldo14/2xl7riq/44239.mp4  
 #EXTINF:-1 tvg-id="" tvg-name="TÁ DANDO ONDA 2"tvg-logo="https://i.imgur.com/yNUZCdR.jpg?1"group-title="FILMES | INFANTIL CINEMA",TÁ DANDO ONDA 2
@@ -1676,6 +1942,599 @@ https://download2390.mediafire.com/ylfpjionvvjgTayZ1gKxX-cr3o7uth7JwafW2PLdjSr1w
 https://download2390.mediafire.com/xc7eznpuuwcglv2L4IP9agQm1JckJYMNEi8gAY8njMuZRtCuEJ9pjyvYEA8GLdhuOYSz-lsnKjmqrnZta_Hx5eJfRpTQ/c22b19tdt376xpy/Exterminador.Cavaleiros.e.Dragoes.2020-HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UMA SEREIA EM PARIS Une sirène à Paris (2020)"tvg-logo="https://image.tmdb.org/t/p/w342/gLumn0yQu3TrHKazP40TDGYpNqi.jpg"group-title="FILMES | INFANTIL CINEMA",UMA SEREIA EM PARIS Une sirène à Paris (2020)
 https://download2296.mediafire.com/0j6b4ta719dgL0fVPkEVaKDsfvhc2Bumg-kG3WpGt1Zhe7b9LNSGBbq7DliVaRXRxsQTJxptCC4VH_Bv4aRX56K3T7O3/obohojradptx33d/Uma.Sereia.em.Paris.2020-HD.mp4
+
+
+FILMES | ANIMACAO
+
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/smg2Uf596BuwztwQmb8lt2wAzDk_big.jpg" group-title="FILMES | ANIMACAO",A Abelha Maya O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58671.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jbNYpZoe1TMw2L78VGS8NTspAwj_big.jpg" group-title="FILMES | ANIMACAO",A Árvore Dos Desejos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58670.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/57bEiV6qwcT1sWyYD8pye39qH7T_big.jpg" group-title="FILMES | ANIMACAOo",A Pequena Sereia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58669.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jMRyt4mMKRJhiW62yvznQeKNJd4_big.jpg" group-title="FILMES | ANIMACAO",A Pequena Sereia 2  O Retorno Para O Mar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58668.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qW6uvSFzHIJm9Y8ZfFuTl71HxMh_big.jpg" group-title="FILMES | ANIMACAO",A Pequena Sereia: A Historia De Ariel
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58667.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3vq0XC4a7C1IRqpnI2tdfkuMB7g_big.jpg" group-title="FILMES | ANIMACAO",Animatrix
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58666.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bqBGQUV1IsLP1zXwMxwgXwYfNG2_big.jpg" group-title="FILMES | ANIMACAOo",Batman: A Alma Do Dragao
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58665.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pNpjWhUMz4Ik1fOHmjJyf50m3OM_big.jpg" group-title="FILMES | ANIMACAO",Batman: O Retorno Da Dupla Dinamica
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58664.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/puW6ynGLcCowqiYvhPhdbNH8Zzj_big.jpg" group-title="FILMES | ANIMACAO",Bee Movie A Historia De Uma Abelha
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58663.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1HlAwAYR1pjeNMrnwIO1EmYGjDo_big.jpg" group-title="FILMES | ANIMACAO",Era Uma Vez Um Boneco De Neve
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58662.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ccbrPygrecMP2QnGcC6taskeiNS_big.jpg" group-title="FILMES | ANIMACAO",Horton E O Mundo Dos Quem
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58661.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9kqN43yygrJM2ckpnYBdtJRmn1b_big.jpg" group-title="FILMES | ANIMACAO",LEGO Star Wars Especial De Festas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58660.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zn9s3Pj3aDWBOYUJuVnjW3mJZfz_big.jpg" group-title="FILMES | ANIMACAO",Mazinger Z  Infinito
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58659.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8IvONOYDawf3TFbXM29kkCw4LzU_big.jpg" group-title="FILMES | ANIMACAO",O Natal Do Ze Coleta
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58658.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6TFKcVSIfIFDffi91XztloA6X7o_big.jpg" group-title="FILMES | ANIMACAO",O Presente De Natal De Angela
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58657.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tdBhe9LVIBKMgfGYJSkY2dVqfaz_big.jpg" group-title="FILMES | ANIMACAO",O Tempo Com Você
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58656.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3UGrAX6D1AMVra80jmUMUOLq8Qr_big.jpg" group-title="FILMES | ANIMACAO",O X Do Natal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58655.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yXrb84zJidCefyhTWHwo4yCDvwz_big.jpg" group-title="FILMES | ANIMACAOo",Raya E O Último Dragão
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58654.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tRbKCQxQ6PF9GWMWknN3LVm9sCZ_big.jpg" group-title="FILMES | ANIMACAO",Spycies Agentes Selvagens
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58652.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fzd01r7Ar3kkqPpONXXX7S7WRgz_big.jpg" group-title="FILMES | ANIMACAO",Tom E Jerry O Dragao Perdido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58650.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4aOyZTiybSidipdjtv7xpeO4TZp_big.jpg" group-title="FILMES | ANIMACAOo",Trolls 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58649.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/h9Q9XlyIBspegMLCuxo4UWZyZlm_big.jpg" group-title="FILMES | ANIMACAO",Vombate Ao Combate
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58648.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/orOMIRLONNoNkDRScVlfYiDKz4n_big.jpg" group-title="FILMES | ANIMACAO",Xico O Cachorro Magico
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58647.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sytZMXtuWlqqYs5lOzt5yjwFiAE_big.jpg" group-title="FILMES | ANIMACAO",101 Dalmatas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58646.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/68ot38BwgfZjkIYRiuvXCtKDxCL_big.jpg" group-title="FILMES | ANIMACAO",A Abelhinha Maya O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58645.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oMEbjQCLiquhAd2MeVyDr3rHKvM_big.jpg" group-title="FILMES | ANIMACAO",A Bailarina
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58644.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uR9rV69x4saB2vh9yfgQ5PA5E0r_big.jpg" group-title="FILMES | ANIMACAO",A Familia Do Futuro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58643.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",A Fuga Das Galinhas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58642.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lcsp12VyKiWdxRegsCD76MMJbLw_big.jpg" group-title="FILMES | ANIMACAO",A Guarda Do Leao Um Novo Rugido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58641.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1gLjjiNrSfblI3Vopvuyd266LF8_big.jpg" group-title="FILMES | ANIMACAO",A Lenda De Beowulf
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58640.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/efFenszsONkgeqBU0rjG9jA6g6x_big.jpg" group-title="FILMES | ANIMACAO",A Lenda Do Pato Sol
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58639.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zWx7qwzT0WDRUaJafnotACJDX3e_big.jpg" group-title="FILMES | ANIMACAO",A Lenda Dos Guardioes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58638.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gG3tTRj4ryFOQ1dGDn7DutpjDWe_big.jpg" group-title="FILMES | ANIMACAOo",A Morte Do Superman
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58637.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/89B6W9mlTfSxeMEFMSyRBViXy83_big.jpg" group-title="FILMES | ANIMACAO",A Noiva Cadaver
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58636.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qexDkVYcoJMP9YguYw3ej1Xud3U_big.jpg" group-title="FILMES | ANIMACAO",A Origem Dos Guardioes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58635.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eWpbrTpACpLIGUA2RNdVwpwkdd0_big.jpg" group-title="FILMES | ANIMACAO",A Princesa E O Dragao
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58634.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eWpbrTpACpLIGUA2RNdVwpwkdd0_big.jpg" group-title="FILMES | ANIMACAO",Aladdin Desenho
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58633.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ehwqRB6x5gEpZRhQWS3ei8b7Fx8_big.jpg" group-title="FILMES | ANIMACAO",Alvin E Os Esquilos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58632.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6luAGSMdHrfjSzoOg2i4TjNDBiU_big.jpg" group-title="FILMES | ANIMACAO",Amarelo E O Novo Preto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58631.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bppGWGA8zq1sRvTdDJnUzVW9GcH_big.jpg" group-title="FILMES | ANIMACAO",Anastasia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58630.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pMqAjEyj234escPleCthcmh84ka_big.jpg" group-title="FILMES | ANIMACAO",Angry Birds
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58629.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mXM3Ou7D7LErxmEQLMwcVVcJkCf_big.jpg" group-title="FILMES | ANIMACAO",As Aventuras De Tadeo 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58628.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wKkfJQSijg4Ur35AGtgbBhcozCF_big.jpg" group-title="FILMES | ANIMACAO",As Aventuras Do Capitao Cueca
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58627.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7UmnKr6yJF4orjxNvrut4eoOpyR_big.jpg" group-title="FILMES | ANIMACAO",Atlantis  O Reino Perdido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58626.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",Avioes 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58625.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",Avioes 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58624.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nJMyNN2nSOg9FmU5fYqEjWmsH8W_big.jpg" group-title="FILMES | ANIMACAO",Bambi 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58623.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wIVLCnwYynKIiAheJoEQtC8gTjq_big.jpg" group-title="FILMES | ANIMACAO",Bambi 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58622.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/edIqnYPOW0gkTsX2CEFdqpHhQhz_big.jpg" group-title="FILMES | ANIMACAO",Pocahontas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58621.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/edIqnYPOW0gkTsX2CEFdqpHhQhz_big.jpg" group-title="FILMES | ANIMACAO",Barbie A Princesa E A Pop Star
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58620.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oSnvYsz0qJZre1NQlLjXvImi5p8_big.jpg" group-title="FILMES | ANIMACAO",Barbie A Sereia Das Perola
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58619.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/Aip9h0zIzKHTdSxoZHdOWweQTrI_big.jpg" group-title="FILMES | ANIMACAO",Pokemon O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58618.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4s9CoIDiC9O1H9cdV97ogci5HdH_big.jpg" group-title="FILMES | ANIMACAO",Barbie Aventura Nas Estrelas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58617.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/itLe1z7g5ucxfxkEOAoasOr6di9_big.jpg" group-title="FILMES | ANIMACAO",Ponyo Uma Amizade Que Veio Do Mar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58616.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qzyUeoCg6fh8nSQD1LFiUiiOs8P_big.jpg" group-title="FILMES | ANIMACAO",Por Agua Abaixo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58615.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5MOyKnmtE2hd778bIybw9v8HkiP_big.jpg" group-title="FILMES | ANIMACAO",Procurando Dory
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58614.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qx0EDGXslJvH4qU3DCTseNUL2wo_big.jpg" group-title="FILMES | ANIMACAO",Procurando Nemo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58613.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qx0EDGXslJvH4qU3DCTseNUL2wo_big.jpg" group-title="FILMES | ANIMACAO",Rapunzel Enrolados
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58612.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lpyqGZXjaPpr2dzkD9XD5DUGMkN_big.jpg" group-title="FILMES | ANIMACAO",Ratatouille
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58611.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pwtlAQWMXLosi1gLBbdBqy5VT76_big.jpg" group-title="FILMES | ANIMACAO",Reino Escondido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58610.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pPvCSyQCY6Xtl78Qo9o0YStUj6o_big.jpg" group-title="FILMES | ANIMACAO",Rio
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58609.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e0CKmNlKfWwc8LSgfyf4gYsTjjP_big.jpg" group-title="FILMES | ANIMACAO",Rio 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58608.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/izIxXz7oWmqZagyp5PHEhfinp1V_big.jpg" group-title="FILMES | ANIMACAO",Scooby Doo E O Fantasma Gourmet
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58607.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ilm2lTg9GL7c9U6vcVza9X9Vuqn_big.jpg" group-title="FILMES | ANIMACAO",Scooby Doo Na Ilha Dos Zumbis 
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58606.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/u6SuXzWrfX5OmSznf3J175DG5X7_big.jpg" group-title="FILMES | ANIMACAO",Shopkins Aventura Selvagem
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58605.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iB64vpL3dIObOtMZgX3RqdVdQDc_big.jpg" group-title="FILMES | ANIMACAO",Shrek 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58604.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2SwrbqS8Tv40bHx4AGYpNJX1xDW_big.jpg" group-title="FILMES | ANIMACAO",Shrek 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58603.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/abw1mIJIjG9X3xSEffE9siLcOkN_big.jpg" group-title="FILMES | ANIMACAO",Shrek 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58602.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fxMK2UCjvB8hOFod3v2wQDXLGF3_big.jpg" group-title="FILMES | ANIMACAO",Shrek 4
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58601.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rkPf3AH4DPJC1T26T8CwAjBHHvc_big.jpg" group-title="FILMES | ANIMACAO",Sing  Quem Canta Seus Males Espanta
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58600.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lnBbIL2gYex4aVomvZOg5ZGtOOa_big.jpg" group-title="FILMES | ANIMACAO",Snoopy Charlie Brown Peanuts
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58599.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vXjHtOAHNkK6RjtzLd3cGqUP6Bj_big.jpg" group-title="FILMES | ANIMACAO",Space Jam  O Jogo Do Seculo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58598.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pT9Feh7VESID4gbTlmTcIMHZIzJ_big.jpg" group-title="FILMES | ANIMACAO",Spark Uma Aventura Espacial
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58597.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jycgp5AdZFKj2Qh2VACG9ilK93l_big.jpg" group-title="FILMES | ANIMACAO",Spirit  O Corcel Indomavel
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58596.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/32hNVmJ0taDwx7LdUz8BS4xomLd_big.jpg" group-title="FILMES | ANIMACAO",Barbie E As Agentes Secretas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58595.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ahA8oEtJuHLeSDSghIhZU7gWxWX_big.jpg" group-title="FILMES | ANIMACAO",Steven Universo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58594.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uhaUcohBo40n9Uf8CtKW6Q1aUA4_big.jpg" group-title="FILMES | ANIMACAO",Barbie E O Portal Secreto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58593.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fX9g1AE1JIqjX3LPPKVjcmHs6fd_big.jpg" group-title="FILMES | ANIMACAO",Barbie Em A Cancao De Natal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58592.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7Mar7KWdm4muSueufwDm7T4kctJ_big.jpg" group-title="FILMES | ANIMACAO",Super Monstros  Superamigos Para Sempre
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58591.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iECvqAtlvUIihc9b2Dyr2uUaqNW_big.jpg" group-title="FILMES | ANIMACAO",Barbie Em Vida De Sereia 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58590.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iECvqAtlvUIihc9b2Dyr2uUaqNW_big.jpg" group-title="FILMES | ANIMACAO",Ta Chovendo Hamburguer 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58589.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bFnf8f8DXdCANQ7Y62djgubhh4P_big.jpg" group-title="FILMES | ANIMACAO",Barbie Moda E Magia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58588.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f2prUcInmfAEdjfLUIY8RIQ1fih_big.jpg" group-title="FILMES | ANIMACAO",Ta Chovendo Hamburguer 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58587.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sYMAc4BLMHVAXmt7VSEnDM97Sy1_big.jpg" group-title="FILMES | ANIMACAO",Batman Vs  Duas-Caras
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58586.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/drP4J85UCoau7J2E9sANDSmD1rC_big.jpg" group-title="FILMES | ANIMACAO",Bob Esponja  Um Heroi Fora Dagua
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58585.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ce4mU4yyubjP1uXcz48fMndCZni_big.jpg" group-title="FILMES | ANIMACAO",Tarzan
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58584.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lPWg4tgJpyPAuViHQnQHaGBPH8h_big.jpg" group-title="FILMES | ANIMACAO",Caminhando Com Dinossauros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58583.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qVf6lTFzDsBZUbYbk8m9dk9SipX_big.jpg" group-title="FILMES | ANIMACAO",The Lego Batman Movie
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58582.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9sIHDlr8tFcx2oy6tvCLtxtdPeQ_big.jpg" group-title="FILMES | ANIMACAO",Caninos Brancos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58581.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58580.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Cavaleiros Do Zodiaco O Filme Prologo Do Ceu
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58579.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58578.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/el6x9YlHw4zc5rdYhVDqZkbgLdQ_big.jpg" group-title="FILMES | ANIMACAO",Cegonhas A Historia Que Nao Te Contaram
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58577.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zTlGXx2A1JwdaLvLQXmb0lYBdDt_big.jpg" group-title="FILMES | ANIMACAO",Christopher Robin - Um Reencontro Inesquecivel
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58576.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58575.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 4
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58574.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/caMtietnPdDz8EHSgH3nzijhEws_big.jpg" group-title="FILMES | ANIMACAO",Cinderela E O Principe Secreto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58573.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 5
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58572.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vH6xVfAfgE1Toe5CMjHit8DPqMQ_big.jpg" group-title="FILMES | ANIMACAO",Combatentes Da Liberdade: Ray
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58571.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Tinker Bell 6
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58570.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/azgjMUMoUJB2yheVcN1Ae8lFNeD_big.jpg" group-title="FILMES | ANIMACAO",Constantine - Cidade De Demonios  O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58569.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3ymTnRmZ9F7WICOAmYNMECF7bgQ_big.jpg" group-title="FILMES | ANIMACAO",Tito E Os Passaros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58568.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1podiBXOP7qO6psuCScADUOnLSB_big.jpg" group-title="FILMES | ANIMACAO",Detetives Do Predio Azul
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58567.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9VcQCyCX6kzX7Xz3OYQYMh7PytC_big.jpg" group-title="FILMES | ANIMACAO",Tres Espias Demais O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58566.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qISzj26R3LnsChQcXQKnuyxQQhK_big.jpg" group-title="FILMES | ANIMACAO",Dinossauro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58565.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qVbNDmPrbnfgINfEoAMx41N7IfH_big.jpg" group-title="FILMES | ANIMACAO",Trolls
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58564.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/62SAZfLfzhxJWUFJvfIPMw6QUpE_big.jpg" group-title="FILMES | ANIMACAO",Divertida Mente
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58563.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tN4bjzZ3ePY57hpCTFk0Kc3oXAw_big.jpg" group-title="FILMES | ANIMACAO",Turbo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58562.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tuay76gZt7kOIb806hTzIktsQDT_big.jpg" group-title="FILMES | ANIMACAO",Dragon Ball Super Broly
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58561.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tVn6BQ3vsY1YqOmeTHUSF9Tr2i0_big.jpg" group-title="FILMES | ANIMACAO",Um Time Show De Bola
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58560.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/Akt1i1g47sS4Bhz5bR43U371E0k_big.jpg" group-title="FILMES | ANIMACAO",Uma Aventura Lego
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58559.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9CxRXbiutg7vn2rNTPFN3wGVyRe_big.jpg" group-title="FILMES | ANIMACAO",Dragon Ball A Lenda De Shenlong
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58558.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/Akt1i1g47sS4Bhz5bR43U371E0k_big.jpg" group-title="FILMES | ANIMACAO",Uma Aventura Lego 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58557.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/TQtQcckcXwkWxcij6JxJiyVXkG_big.jpg" group-title="FILMES | ANIMACAO",Dragon Ball Z Bardock O Pai De Goku
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58556.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/z03U4V07y3teOxWYUyVzo3VoWRY_big.jpg" group-title="FILMES | ANIMACAO",Uma Família Feliz
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58555.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dhzWQMLQ6oRaKokfWzn2tfqMHNn_big.jpg" group-title="FILMES | ANIMACAO",Em Busca Do Vale Encantado 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58554.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/w0IgQuk4NMBp2il1WvcZhJQkRB1_big.jpg" group-title="FILMES | ANIMACAO",Uma Floresta Muito Louca
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58553.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dhzWQMLQ6oRaKokfWzn2tfqMHNn_big.jpg" group-title="FILMES | ANIMACAO",Em Busca Do Vale Encantado 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58552.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wIRraYJCWcfmXW9v3MfD8uhnUvO_big.jpg" group-title="FILMES | ANIMACAO",Universidade Monstros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58551.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dhzWQMLQ6oRaKokfWzn2tfqMHNn_big.jpg" group-title="FILMES | ANIMACAO",Em Busca Do Vale Encantado 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58550.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nOEzQanBDekstniJGbH3iGLCA75_big.jpg" group-title="FILMES | ANIMACAO",UP Altas Aventuras
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58549.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dhzWQMLQ6oRaKokfWzn2tfqMHNn_big.jpg" group-title="FILMES | ANIMACAO",Em Busca Do Vale Encantado 4
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58548.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/twzLdfNxyAa5xQWLLVQyapSqJJP_big.jpg" group-title="FILMES | ANIMACAO",Vida De Inseto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58547.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dhzWQMLQ6oRaKokfWzn2tfqMHNn_big.jpg" group-title="FILMES | ANIMACAO",Em Busca Do Vale Encantado 5
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58546.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pegsyR4wnLJg9fcwPlcHNrL48cJ_big.jpg" group-title="FILMES | ANIMACAO",Viva  A Vida E Uma Festa
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58545.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/g4LW0JOeHyOFRsN6PAyWrH4qbG_big.jpg" group-title="FILMES | ANIMACAO",Emoji O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58544.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",Festa No Ceu
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58543.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/o06EMgTpbObtQabzKCHwU1QS0Y6_big.jpg" group-title="FILMES | ANIMACAO",Wallace  Gromit A Batalha Dos Vegetais
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58542.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/plM5vyLRiiVrVlLC7bQPVmjSwN2_big.jpg" group-title="FILMES | ANIMACAO",Formiguinhaz
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58541.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cMcKGUEKXeNZwhJizfsmNcFp6F0_big.jpg" group-title="FILMES | ANIMACAO",Zoo  Uma Amizade Maior Que A Vida
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58540.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gowwCKxLvqnkMzlImDW3ONJWMu1_big.jpg" group-title="FILMES | ANIMACAO",Frozen Febre Congelante
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58539.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kyiEmCk6mOenJiL7s3LspVKkoZM_big.jpg" group-title="FILMES | ANIMACAO",Zootopia Essa Cidade E O Bicho
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58538.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/j1kU4Bao570vUcc1VkTIBaaxxTi_big.jpg" group-title="FILMES | ANIMACAO",Frozen, Uma Aventura Congelante
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58537.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/w2HamcBWs8Uv2Xgt2nNPlOtyczU_big.jpg" group-title="FILMES | ANIMACAO",Zumbilenio: O Parque Dos Monstros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58536.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ajN39RQfotbMynhCFOKDliYbOwe_big.jpg" group-title="FILMES | ANIMACAO",Garotos Em Guerra
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58535.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/z2yMr33rR7LwGGgDNkyEuIjzgfc_big.jpg" group-title="FILMES | ANIMACAO",Barbie Dreamtopia Festival Da Alegria
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58534.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jup8h5qypisx9LhWSCUfAVgnb7K_big.jpg" group-title="FILMES | ANIMACAO",Gato De Botas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58533.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5fepR3N7FtTaZp5aiLrrYiQUH0A_big.jpg" group-title="FILMES | ANIMACAO",Batman Silencio
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58532.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/q8lhqfcL1E8m7iWZUaBaP4gCOLB_big.jpg" group-title="FILMES | ANIMACAO",Gavin O Ratinho Corajoso
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58531.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/k65BZ0njzoTXhJFeXhIZt6owqDI_big.jpg" group-title="FILMES | ANIMACAO",A Vida Moderna De Rocko: Volta Ao Lar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58530.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/crfkHThpFO8ddvkhJn5XVSgMT6Q_big.jpg" group-title="FILMES | ANIMACAO",Gnomeu E Julieta
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58529.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/crfkHThpFO8ddvkhJn5XVSgMT6Q_big.jpg" group-title="FILMES | ANIMACAO",Lego DC Batman Assuntos De Familia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58528.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tv1MHGKwRNKXzuJsNH9aZqU2djI_big.jpg" group-title="FILMES | ANIMACAO",Homem-Aranha: No Aranhaverso
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58527.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ixSFQoVC3VU1ACjmRnfIyR631kX_big.jpg" group-title="FILMES | ANIMACAO",UglyDolls
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58526.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3ji1aJB052iPLnnzL082It683Nr_big.jpg" group-title="FILMES | ANIMACAO",Hotel Transilvania 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58525.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gs0iSjc9tbpbAElolwbDwPDpNXo_big.jpg" group-title="FILMES | ANIMACAO",Pets A Vida Secreta Dos Bichos 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58524.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3ji1aJB052iPLnnzL082It683Nr_big.jpg" group-title="FILMES | ANIMACAO",Hotel Transilvania 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58523.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",Encantado 
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58522.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6zt5l4DYV1kLPL5Vqz1kLq3THXD_big.jpg" group-title="FILMES | ANIMACAO",Hotel Transylvania 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58521.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/waaPtmhVFgieG021OwoEPTkbltI_big.jpg" group-title="FILMES | ANIMACAO",Invasor Zim E O Florpus
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58520.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4k4sjRXGMTfIDkfVi7lHccatnWk_big.jpg" group-title="FILMES | ANIMACAO",Ilha De Cachorros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58519.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4k4sjRXGMTfIDkfVi7lHccatnWk_big.jpg" group-title="FILMES | ANIMACAO",My Hero Academia: 2 Heróis  O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58518.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pFRQgHiZwHTX7LmHEI0hwocuBC3_big.jpg" group-title="FILMES | ANIMACAO",Irmao Urso 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58517.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vYDafpsEwQ3M6EmG0ewcMokHtJr_big.jpg" group-title="FILMES | ANIMACAO",Modest Heroes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58516.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/r4kOIrwYMXInmFH8eaJ6kDoAkUW_big.jpg" group-title="FILMES | ANIMACAOo",Irmao Urso 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58515.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2WjImKh2iXGFRuteLzXU782MJ6l_big.jpg" group-title="FILMES | ANIMACAO",Astro Kid
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58514.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nNCAhzJK8IiRJFu3lLHBcsXfF1O_big.jpg" group-title="FILMES | ANIMACAO",Jumbo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58513.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y0zfYNjoXQKDoHlYJqIvGx9Hkvx_big.jpg" group-title="FILMES | ANIMACAO",Asterix E O Segredo Da Pocao Magica
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58512.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d4DL9BV3M9az0gJMtpWbAs4w122_big.jpg" group-title="FILMES | ANIMACAO",Kung Fu Panda 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58511.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y6yeAsB2Ynw0cPUc9yj62eJQXnN_big.jpg" group-title="FILMES | ANIMACAO",O Heroi Cuco
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58510.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d4DL9BV3M9az0gJMtpWbAs4w122_big.jpg" group-title="FILMES | ANIMACAO",Kung Fu Panda 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58509.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pMqAjEyj234escPleCthcmh84ka_big.jpg" group-title="FILMES | ANIMACAO",Angry Birds 2 O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58508.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pXYJjUNtnLfXVKGmqi1nfGornri_big.jpg" group-title="FILMES | ANIMACAO",Kung Fu Panda 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58507.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vbEtDEoQddlQncJ8x8XrnVSPzs_big.jpg" group-title="FILMES | ANIMACAO",Agente o Gato
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58506.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vbEtDEoQddlQncJ8x8XrnVSPzs_big.jpg" group-title="FILMES | ANIMACAOo",Lego Jurassic World A Exposicao Secreta Parte 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58505.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lxO2VxlzrgoW59Ox92HQWoVZy1Y_big.jpg" group-title="FILMES | ANIMACAO",LEGO Liga Da Justica  Combate Cosmico
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58503.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vuWC8NXGjooaJFZTxpxotZ0AMlR_big.jpg" group-title="FILMES | ANIMACAO",LEGO NinjaGo O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58502.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/212b34c20dfa62480e1c282dbb8cec39.jpg" group-title="FILMES | ANIMACAO",Liga Da Justica Os Cinco Fatais
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58501.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ottRXMCQ9jPB318syTcfIdtJWIE_big.jpg" group-title="FILMES | ANIMACAOo",Lilo E Stitch
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58500.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aZnMOMIVa4k79EGZtveo6HSbiLH_big.jpg" group-title="FILMES | ANIMACAO",Lino Uma Aventura De Sete Vidas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58499.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7aoLcwd4nQVGbG7L4vqu0d929JD_big.jpg" group-title="FILMES | ANIMACAO",Madagascar 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58498.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/u6w0HVvpQTsthsi6pqxO5X72E8K_big.jpg" group-title="FILMES | ANIMACAO",Madagascar 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58497.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bPRvFj9MGeLeqidaTniUf8yQ0PW_big.jpg" group-title="FILMES | ANIMACAO",Madagascar 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58496.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aLniylyJlbXEdxvaGSuQkRACWUx_big.jpg" group-title="FILMES | ANIMACAO",Klaus
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58495.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4VQcLPXlJJZhNDYdjvOcw2KylUF_big.jpg" group-title="FILMES | ANIMACAO",Magia Estranha
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58494.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4qDfyJ9BucztiShYjZLszxsILj5_big.jpg" group-title="FILMES | ANIMACAO",As Aventuras De Fujiwara Manchester O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58493.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/j2UPS5hPBFgRN1Zbs7RKvn0iipu_big.jpg" group-title="FILMES | ANIMACAO",Marvel Rising Coracao De Ferro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58491.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jH0mknMEByXUDTfiS1SQOxYDL5z_big.jpg" group-title="FILMES | ANIMACAO",Perdi Meu Corpo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58490.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kbiEPYIfdRENV7t0KvMZJ2HIfcQ_big.jpg" group-title="FILMES | ANIMACAO",Megamente
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58489.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vsevvBL09foTh3Ljbh9fn3Sky5z_big.jpg" group-title="FILMES | ANIMACAO",Super Monstros Salvam O Natal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58488.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hRMoKa0vu2qT6PySwBE6waBp6gU_big.jpg" group-title="FILMES | ANIMACAO",Meu Amigo Vampiro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58487.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oBUKoeZNhHppEmGlhbNZPDBTgiW_big.jpg" group-title="FILMES | ANIMACAO",Vera  Sonhos De Inverno
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58486.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jzel4mWk6MmUlLaaCavQmg43PgO_big.jpg" group-title="FILMES | ANIMACAO",Meus Amigos Dinossauros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58485.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/oNOXntnRY7dFrgu1x6bQQmWBVdu_big.jpg" group-title="FILMES | ANIMACAO",Voando Alto
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58484.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/caq9Xi6b1sZNREfzFBO2tRIBzWn_big.jpg" group-title="FILMES | ANIMACAO",Minions
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58483.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4jNbH7A9HGL4OCNQvzj98ksoa2f_big.jpg" group-title="FILMES | ANIMACAO",Moana Um Mar De Aventuras
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58482.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bADPrYHUtPv6tTUaEiU03JuYEJc_big.jpg" group-title="FILMES | ANIMACAO",Corgi Top Dog
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58481.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pinxZ81xfig6sNeVPCSfTIbGgBI_big.jpg" group-title="FILMES | ANIMACAO",Monstros S A
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58480.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/pinxZ81xfig6sNeVPCSfTIbGgBI_big.jpg" group-title="FILMES | ANIMACAO",Os Pequenos Ajudantes Do Papai Noel
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58479.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nq4taYpb2PjN1Cwni23GOZJbOaR_big.jpg" group-title="FILMES | ANIMACAO",Mulan 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58478.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nq4taYpb2PjN1Cwni23GOZJbOaR_big.jpg" group-title="FILMES | ANIMACAO",Dias De Inverno
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58477.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/72I82eKXCadZWEYygV9GkJOQNEq_big.jpg" group-title="FILMES | ANIMACAO",Mulan 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58476.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rJTpz9LJFmDflvibkY2Y7IFOGua_big.jpg" group-title="FILMES | ANIMACAO",Pinocchio 
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58475.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kaZPzYhSwf7sUYeX2h1K4BcgCNa_big.jpg" group-title="FILMES | ANIMACAO",My Little Pony O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58474.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/h6Sm61aFV7UVFMHWrzrSRRjVhiD_big.jpg" group-title="FILMES | ANIMACAO",Nem Que A Vaca Tussa
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58473.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kiz3KNsePwMi9A5CYCkID6hi0C4_big.jpg" group-title="FILMES | ANIMACAO",Animais Em Apuros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58472.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3L6FTmsEts6Iiqe5Y7dRB6SBRAk_big.jpg" group-title="FILMES | ANIMACAO",O Bicho Vai Pegar 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58471.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/16ECNyTfEOfE49gFdrutZfGFd9x_big.jpg" group-title="FILMES | ANIMACAO",South Park Maior Melhor E Sem Cortes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58470.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3L6FTmsEts6Iiqe5Y7dRB6SBRAk_big.jpg" group-title="FILMES | ANIMACAO",O Bicho Vai Pegar 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58469.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aAOKVhTESY4tMqjDPn3KW4ugnFn_big.jpg" group-title="FILMES | ANIMACAO",Um Espião Animal
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58468.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3L6FTmsEts6Iiqe5Y7dRB6SBRAk_big.jpg" group-title="FILMES | ANIMACAO",O Bicho Vai Pegar 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58467.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6DIObOvdH1jCCIe06DLjQFIsZOY_big.jpg" group-title="FILMES | ANIMACAO",O Bom Dinossauro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58466.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nZp3wSY9VaDYAFjFuKPyThVy8Xa_big.jpg" group-title="FILMES | ANIMACAO",Aventuras No Fundo Do Mar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58465.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1v9aB9b5j1kkoedcJhTyjdkdVZs_big.jpg" group-title="FILMES | ANIMACAO",O Corcel Negro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58464.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ndGl3yPRbHlem0PuDJuUvUuY9dQ_big.jpg" group-title="FILMES | ANIMACAO",As Aventuras De Peabody E Sherman
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58463.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1tPhFqGScPYbaLuczBnlFGjNUqj_big.jpg" group-title="FILMES | ANIMACAO",O Espanta Tubaroes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58462.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jsi2UM64Mhr6NmY1LKeeCuZOaCo_big.jpg" group-title="FILMES | ANIMACAO",Dois Irmaos Uma Jornada Fantástica
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58461.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5JfuyhzCDxlBwmJnqLAoswshdLk_big.jpg" group-title="FILMES | ANIMACAO",O Expresso Polar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58460.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fu7luWwrs8uKiOjTv9aCvJ9pYrB_big.jpg" group-title="FILMES | ANIMACAO",Arthur E A Guerra Dos Dois Mundos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58459.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/sFZQeqiKvcqV45kTz3KDQV9tgAQ_big.jpg" group-title="FILMES | ANIMACAO",O Parque Dos Sonhos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58458.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9zaToGTmlWfRBAzsk4vYWMtM1bD_big.jpg" group-title="FILMES | ANIMACAO",Fixies  Amigos Secretos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58456.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1vdPKC35IOjEAJEr9Y2rjEeyCcW_big.jpg" group-title="FILMES | ANIMACAOo",O Pequeno Stuart Little
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58455.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/qNSY6WMOxiqGyRiK6IVrOLI4vl1_big.jpg" group-title="FILMES | ANIMACAO",O Reino Gelado A Terra Dos Espelhos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58454.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6rctP6SAW7caWbx9NgxGnn3fU07_big.jpg" group-title="FILMES | ANIMACAO",O Poderoso Chefinho
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58453.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/btS35byvD8xhI1Ta8C69imPj8Gg_big.jpg" group-title="FILMES | ANIMACAO",O Castelo Animado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58452.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/77kZV9SUlQd3bEzekD2xC06VMAt_big.jpg" group-title="FILMES | ANIMACAO",O Que Sera De Nozes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58451.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dYakRmxzy1QnokUVQt8W6opEo9Q_big.jpg" group-title="FILMES | ANIMACAO",Aqui Estamos Nós Notas Sobre Como Viver No Planeta Terra
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58450.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8aIvm8OaJISOpVTt7rMIh7X35G5_big.jpg" group-title="FILMES | ANIMACAO",O Rei Leao 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58448.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/feu311aXpDoSQC7tNZ6HpE7I1aw_big.jpg" group-title="FILMES | ANIMACAO",As Aristogatas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58447.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8aIvm8OaJISOpVTt7rMIh7X35G5_big.jpg" group-title="FILMES | ANIMACAO",O Rei Leao 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58446.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hGnQmQARgtXtoesIGAsmmTbMKfH_big.jpg" group-title="FILMES | ANIMACAO",O Grinch
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58445.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vtX3wirmv2VkQi1u4C9cSdHTXQn_big.jpg" group-title="FILMES | ANIMACAO",O Rei Leao 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58444.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8DnmmpThvdY1PrOAJoL3rDEI4el_big.jpg" group-title="FILMES | ANIMACAO",Os Irmaos Willoughby
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58443.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y2pvlZsqGcXKT4S7nUdvYfETG5r_big.jpg" group-title="FILMES | ANIMACAO",O Reino Gelado 1
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58442.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y2pvlZsqGcXKT4S7nUdvYfETG5r_big.jpg" group-title="FILMES | ANIMACAO",O Reino Gelado 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58441.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/54xZJ33NP3FPqEMwwkMryjgER2S_big.jpg" group-title="FILMES | ANIMACAO",Selvagem 
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58440.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y2pvlZsqGcXKT4S7nUdvYfETG5r_big.jpg" group-title="FILMES | ANIMACAO",O Reino Gelado 3
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58439.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/m654U2gVyMVdSmdHTTbCc4kXe8O_big.jpg" group-title="FILMES | ANIMACAO",Rango
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58438.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/nG4eJPNA4M4odMPR9bso3RZUKOL_big.jpg" group-title="FILMES | ANIMACAO",O Segredo Dos Animais
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58437.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/tg2ixwNGT1FHsKpGVWSBw49aF8y_big.jpg" group-title="FILMES | ANIMACAO",Fantástica  Uma Aventura No Mundo Boonie Bears
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58436.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bbECz3sNhmj3eSzBVtj13CnZ5e4_big.jpg" group-title="FILMES | ANIMACAO",O Show Da Luna Bichos Na Fazenda
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58435.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9XVuzv16QH63OUMGIHrfBOctWUM_big.jpg" group-title="FILMES | ANIMACAO",Voltando Do Inferno
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58434.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2z4SysiS73JvRAiVYy7gZW5JbpQ_big.jpg" group-title="FILMES | ANIMACAO",O Touro Ferdinando
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58433.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5EodFesjReSDlX1c0I5ANZijBFy_big.jpg" group-title="FILMES | ANIMACAO",Operacao Big Hero
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58432.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bNBXskBHOwPSW21o7iT3N8QVg9L_big.jpg" group-title="FILMES | ANIMACAOo",A Viagem De Chihiro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58431.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zl3jpbZ1weIUIUBB3OzUY9HSSSF_big.jpg" group-title="FILMES | ANIMACAO",Operacao Presente
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58430.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/jHo6W1gkDbcFx5gAS8PuJnqXHge_big.jpg" group-title="FILMES | ANIMACAO",Meu Amigo Totoro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58429.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7k9w3RgKYoJ9MCwdBY0ZBxC323L_big.jpg" group-title="FILMES | ANIMACAO",Os Croods
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58428.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kREN2RkMqkzkoL0wLLqPxZqgyZ3_big.jpg" group-title="FILMES | ANIMACAO",Tumulo Dos Vagalumes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58427.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/rJoFwqMaYyS3bmWXQGJh5qa7KMW_big.jpg" group-title="FILMES | ANIMACAO",Os Fantasmas De Scrooge
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58426.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eCNhEmDFeEchbAvv3SZej5ZvWTs_big.jpg" group-title="FILMES | ANIMACAO",Os Incriveis
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58425.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yFfWd5TkLOLemoqf0tdO4kGz71Y_big.jpg" group-title="FILMES | ANIMACAO",A Incrível História Da Pera Gigante
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58424.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/z8k5EhZZTLsCRF8NWjSe6snWNZg_big.jpg" group-title="FILMES | ANIMACAO",Os Incriveis 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58423.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45Yy8cObIwk9cTf2lCniSTYswcz_big.jpg" group-title="FILMES | ANIMACAO",Superman Shazam O Retorno Do Adão Negro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58422.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45Yy8cObIwk9cTf2lCniSTYswcz_big.jpg" group-title="FILMES | ANIMACAO",Batman Vs  As Tartarugas Ninjas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58421.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/45Yy8cObIwk9cTf2lCniSTYswcz_big.jpg" group-title="FILMES | ANIMACAO",Os Jovens Titans
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58420.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/uJks6H03gpSv2kj8jfP4CSpAn6L_big.jpg" group-title="FILMES | ANIMACAO",Os Jovens Titas Em Acao Vs  Os Jovens Titas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58419.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/y8sTpoYcjvFut9DtemQcppAQr9s_big.jpg" group-title="FILMES | ANIMACAO",Os Jovens Titas Em Acao Nos Cinemas
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58418.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/u4rWHJLzM8CrsdtcTOLGY58ef4j_big.jpg" group-title="FILMES | ANIMACAO",Reino Do Superman
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58417.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/w9jno0ySammISRGvc0RZREjYUvg_big.jpg" group-title="FILMES | ANIMACAO",Os Pinguins De Madagascar
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58416.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dqFhMb6zozOPaiXILKt0VC8n7y6_big.jpg" group-title="FILMES | ANIMACAO",O Caminho Para El Dorado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58415.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cNPhs8Gkm1SJ4vuZDnytZnj1EsY_big.jpg" group-title="FILMES | ANIMACAO",Os Sem Floresta
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58414.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/yHcRRtWYGpMsO7tofPqLObYCvyX_big.jpg" group-title="FILMES | ANIMACAO",Scooby-Doo E A Espada Do Samurai
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58413.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4xGhRkBo791KeITsAKbWtrforxi_big.jpg" group-title="FILMES | ANIMACAO",Os Smurfs
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58412.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vZqD8QMXiZh977LipOsXQmaMM7l_big.jpg" group-title="FILMES | ANIMACAO",Superman Batman: Apocalipse
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58411.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/52p2PtBAebB0HwvfY5YIowT7sFI_big.jpg" group-title="FILMES | ANIMACAO",Os Smurfs 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58410.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ujWOI68vGkfLOgEDmcrjIS6il7B_big.jpg" group-title="FILMES | ANIMACAO",A Família Addams
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58409.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7DtiMnR55uSRIUAaIpnEMwYdGFD_big.jpg" group-title="FILMES | ANIMACAO",Os Smurfs E A Vila Perdida
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58408.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/92KD9tnXutVegHwGAuM5EfDxoxa_big.jpg" group-title="FILMES | ANIMACAO",Zarafa
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58407.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9MP51jJ3ksNy0zXqkuhF8mgOPMJ_big.jpg" group-title="FILMES | ANIMACAO",Pachamama
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58406.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/epvRtYmscoCPEQ4DLtzr2o6TuL1_big.jpg" group-title="FILMES | ANIMACAO",Gnomeu E Julieta: O Misterio Do Jardim
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58405.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f9Yp41eDDrx4HxFKW8vt9xKPobB_big.jpg" group-title="FILMES | ANIMACAO",Pedro Coelho
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58404.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/_big.jpg" group-title="FILMES | ANIMACAO",E O Bicho
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58403.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dRprH1Us81KB2HqqV1ejL5zrhHL_big.jpg" group-title="FILMES | ANIMACAO",Peixonauta
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58402.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bMfqHLb6UJHVFH2lqy1wt9gQ1lG_big.jpg" group-title="FILMES | ANIMACAO",Um Panda Em Apuros
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58401.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gs0iSjc9tbpbAElolwbDwPDpNXo_big.jpg" group-title="FILMES | ANIMACAO",Pets A Vida Secreta Dos Bichos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58400.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lIMTtFwSffSbQl6hfqzX6Q4EuF3_big.jpg" group-title="FILMES | ANIMACAO",Arctic Dogs
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58399.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/4GJnKM1CLylmp8phkyiITiwu7L_big.jpg" group-title="FILMES | ANIMACAO",Planeta Do Tesouro
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58398.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bs3p45IGZUZyqkHa4WLaiSk7xO9_big.jpg" group-title="FILMES | ANIMACAO",Feliz Halloween Scooby Doo
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58397.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fPhPXOL1wN1OPTqoCCcLJnHbgyn_big.jpg" group-title="FILMES | ANIMACAO",Pets Unidos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58396.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/72I82eKXCadZWEYygV9GkJOQNEq_big.jpg" group-title="FILMES | ANIMACAO",Mulan
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58395.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/dqK0aiv6Fb3lIO2L8LRmv2Bb39t_big.jpg" group-title="FILMES | ANIMACAO",Superman: O Homem Do AmanhA
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58394.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/wlizMbZByBYPOC4i2AN64e4W1iM_big.jpg" group-title="FILMES | ANIMACAO",Octonautas E As Cavernas De Sac Actun
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58393.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/lwDNwvzXkPslQTRRCEoPNnNo76T_big.jpg" group-title="FILMES | ANIMACAO",Nível Hard
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58392.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ulPe6Zqkr4ZODmOFJ67ef9MWh9A_big.jpg" group-title="FILMES | ANIMACAO",Mulher-Maravilha - Linhagem De Sangue
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58391.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ykhI6BEEUG39Mrg47V1YpIrk5vy_big.jpg" group-title="FILMES | ANIMACAOo",Exterminador Cavaleiros E Dragoes
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58390.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fCy1aWSMUm5dQpEzPfGJ4lPDNVe_big.jpg" group-title="FILMES | ANIMACAO",Um Lobo Em Pele De Cordeiro 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58389.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f4yoHMsJsCt9UNmxa6LR3Vjl2z4_big.jpg" group-title="FILMES | ANIMACAO",Link Perdido
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58388.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ql1LTDbfa5InwtvIdkzORxUZdTL_big.jpg" group-title="FILMES | ANIMACAO",Racetime  Hora Da Corrida
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58387.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5rEiUz4ZiH1ZpXiT45kCOBu0gOw_big.jpg" group-title="FILMES | ANIMACAO",O Ritmo Da Selva: O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58386.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/p7RjlzDLV4KksrWtyve1Rg40nLv_big.jpg" group-title="FILMES | ANIMACAO",SCOOBY O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58385.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9DWSsLs8jltBxH2LSazuSR9FjpQ_big.jpg" group-title="FILMES | ANIMACAO",Scooby Doo De Volta à Ilha Dos Zumbis
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58384.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/afecdT4uWB9sjo6MnnnjOQmRljq_big.jpg" group-title="FILMES | ANIMACAO",Dragões Equipe De Resgate: Em Busca Do Dragao Dourado
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58383.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gNygVjotBeHHMSfVfhuTWZvkTr9_big.jpg" group-title="FILMES | ANIMACAO",Tina  Téo  A Pedra Encantada
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58382.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/gNygVjotBeHHMSfVfhuTWZvkTr9_big.jpg" group-title="FILMES | ANIMACAO",Sargento Stubby Um Heroi Americano
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58381.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/vbEtDEoQddlQncJ8x8XrnVSPzs_big.jpg" group-title="FILMES | ANIMACAO",Marnie E Os Amigos
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58380.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cC0IbNhWN1QQQkOJQsxXaud6eBh_big.jpg" group-title="FILMES | ANIMACAO",Kikoriki  Agência De Viagens Deja Vu
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58379.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/kFiTH61TrnLQ5ciVa9dT3PyF74l_big.jpg" group-title="FILMES | ANIMACAO",Axel E Os Meninos Do Espaço
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58378.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/zrzGLUDdziaBEvIbmXBSCJgLHrC_big.jpg" group-title="FILMES | ANIMACAO",Frozen 2
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58377.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/hehlwNM5Lpzo7ndkint6RnpQGeo_big.jpg" group-title="FILMES | ANIMACAO",Missão Dragão  Sua Historia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58376.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/mhxWyLscNxa2cSIkr3OzCA0QKKV_big.jpg" group-title="FILMES | ANIMACAO",Capitao Dentes De Sabre E O Diamante Magico
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58375.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iOtzxWZbveKez2wUGLlH9QkIA5E_big.jpg" group-title="FILMES | ANIMACAO",Playmobil  O Filme
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58374.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2e817NLsD0CmubPkyqKlNnAPhmP_big.jpg" group-title="FILMES | ANIMACAO",Lord  A Lenda Da Dinastia
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58373.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/iN4nsXWzASSjYUIHUkwSJQ6b2UW_big.jpg" group-title="FILMES | ANIMACAO",A Nova Onda Do Imperador
+http://esrv.cc:80/movie/aroldo14/2xl7riq/58372.mp4
 
 FILMES  ADOLECENTE CINEMA
 
@@ -2525,6 +3384,28 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="FAX RADIOS |  AO VIVO",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
 
+#EXTM3U url-tvg="http://grade-de- Serie Mulher-Hulk: Defensora de Heróis.xml"
+############## Serie Mulher-Hulk: Defensora de Heróis ################# 
+#EXTINF:-1 tvg-id=" iddocanalde Serie Mulher-Hulk: Defensora de Heróis" group-title="
+
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x1
+https://seig.tv/15/1/39e58605cd1b928606840cee0261f72f/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x2
+https://seig.tv/13/1/9a4ed1e7a7f83a8777ba4d400806035e/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x3
+https://seig.tv/14/1/6126c262944347be05e1146e6c9e15dd/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x4
+https://seig.tv/13/1/8d9d50ab669ee2f7be6fc19aecb6b80e/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x5
+https://seig.tv/18/1/429d6e0d422b304c90c36bca7017d49d/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x6
+https://seig.tv/14/1/a90ab580f88c4409bba1bb2f6e2562c3/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x7
+https://seig.tv/16/1/a00211d06fb2583d6c388d8d90d2d6af/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x8
+https://seig.tv/17/1/8a54e5468bcc1892800d5ceda6fad371/720p/720p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x9
+https://seig.tv/11/1/311a5c813f02553fa6c17907fbbe1654/720p/720p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-Serie Que a Justiça Seja Feita.xml"
 ############## Serie Que a Justiça Seja Feita  ################# 
@@ -4926,29 +5807,6 @@ https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_108
 https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
 https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
-
-#EXTM3U url-tvg="http://grade-de- Serie Mulher-Hulk: Defensora de Heróis.xml"
-############## Serie Mulher-Hulk: Defensora de Heróis ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie Mulher-Hulk: Defensora de Heróis" group-title="
-
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x1
-https://seig.tv/15/1/39e58605cd1b928606840cee0261f72f/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x2
-https://seig.tv/13/1/9a4ed1e7a7f83a8777ba4d400806035e/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x3
-https://seig.tv/14/1/6126c262944347be05e1146e6c9e15dd/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x4
-https://seig.tv/13/1/8d9d50ab669ee2f7be6fc19aecb6b80e/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x5
-https://seig.tv/18/1/429d6e0d422b304c90c36bca7017d49d/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x6
-https://seig.tv/14/1/a90ab580f88c4409bba1bb2f6e2562c3/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x7
-https://seig.tv/16/1/a00211d06fb2583d6c388d8d90d2d6af/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x8
-https://seig.tv/17/1/8a54e5468bcc1892800d5ceda6fad371/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x9
-https://seig.tv/11/1/311a5c813f02553fa6c17907fbbe1654/720p/720p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Maiores.xml "
 ############## Maiores ################# 
