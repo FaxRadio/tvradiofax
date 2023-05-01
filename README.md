@@ -1,36 +1,10 @@
 #EXTM3U 
 
 ############## ALEX RADIO E TV  FAX  #################
-
 #EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX RADIO E TV |  DEUS é Tudo",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO E TV |  FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  REALITY SHOWS BBB.xml "
- ############## CANAIS  REALITY SHOWS BBB############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  REALITY SHOWS BBB" group-title="
-
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 01" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 01
-http://meuplay.shop:80/828474929852/34882748924/84966
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 02" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 02
-http://meuplay.shop:80/828474929852/34882748924/84967
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 03" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 03
-http://meuplay.shop:80/828474929852/34882748924/84968
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 04" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 04
-http://meuplay.shop:80/828474929852/34882748924/84969
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 05" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 05
-http://meuplay.shop:80/828474929852/34882748924/84970
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 06" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 06
-http://meuplay.shop:80/828474929852/34882748924/84971
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 07" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 07
-http://meuplay.shop:80/828474929852/34882748924/84972
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 08" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 08
-http://meuplay.shop:80/828474929852/34882748924/84973
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 09" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 09
-http://meuplay.shop:80/828474929852/34882748924/84974
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 10" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",BBB CAM 10
-http://meuplay.shop:80/828474929852/34882748924/84975
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ABERTOS.xml "
  ############## CANAIS  ABERTOS ############## ### 
@@ -50,8 +24,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Metropole Ao Vivo"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="CANAIS | ABERTOS",TV Metropole Ao Vivo
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1897663759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleBärn Ao Vivo"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4848302dfaddb5c0b31f92f21519d629.webp" group-title="CANAIS | ABERTOS",TeleBärn Ao Vivo
-https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sertão TV"tvg-logo="https://yt3.googleusercontent.com/MqggRJeIippgzCxi9ncidyZdEXIVLr0NVCxuDPssKwi2dHnlzNCvpRJi1DbLA5vPJ4W1RLZ18wk=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ABERTOS",Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w570692774.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVU Recife"tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU35BzAyDp0nKMkXkhF2UbalU2zRb-X7HB6oFVw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ABERTOS",TVU Recife
@@ -244,7 +216,7 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/61717
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD"tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CANAL | Band",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band", Band 
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band 4K
 http://pbrz.xyz:80/67531382/36606924/1177
@@ -264,7 +236,7 @@ http://pbrz.xyz:80/67531382/36606924/1195
 http://pbrz.xyz:80/67531382/36606924/1196
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SPORTS SD
 http://pbrz.xyz:80/67531382/36606924/1197
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BandSports (H265)
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band Sports (H265)
 http://pbrz.xyz:80/67531382/36606924/1198
 
 #EXTM3U url-tvg=" http://grade-de-CANAL  Globo.xml "
@@ -423,10 +395,6 @@ http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/22226
 http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/22345
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil Alternativo " tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="Noticias",CNN Brasil Alternativo 
 http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/22346
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional " tvg-logo="http://printv.esy.es/server/CNN.png" group-title="Noticias",CNN Internacional 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/62368
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN Espanhol" tvg-logo="http://printv.esy.es/server/CNN.png" group-title="Noticias",CNN Espanhol
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/62369
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS.xml "
  ############## CANAIS  FECHADOS ############## ### 
@@ -720,6 +688,12 @@ http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/59880
  ############## CANAIS  HBO ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  HBO" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO+"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO+
+http://51.222.44.30:14081/hbo+
+#EXTINF:-1 tvg-id="" tvg-name="HBO+"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO+
+http://15.235.10.31:14411
+#EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CANAIS | HBO",HBO
+http://15.235.10.31:14380
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
 http://15.235.10.31:14401
 #EXTINF:-1 tvg-id="" tvg-name="HBO"tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CANAIS | HBO",HBO
@@ -921,12 +895,7 @@ http://grtsvk.life:80/661282206/318344838/48642
 http://grtsvk.life:80/661282206/318344838/48663
 #EXTINF:-1 tvg-id="" tvg-name="CINE 10" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 10
 http://grtsvk.life:80/661282206/318344838/48665
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD ACTION" tvg-logo="https://1.bp.blogspot.com/-Yw4CYMSAYz8/XvvrSKqtdGI/AAAAAAAAGhA/zIvdMrpZdMo8cj-VMKHrQZo8cq0LaJUiQCLcBGAsYHQ/s1600/cine%2Ba%25C3%25A7%25C3%25A3o%2B01.png" group-title="FILMES 24H",CINE HD ACTION
-http://grtsvk.life:80/661282206/318344838/32586
-#EXTINF:-1 tvg-id="" tvg-name="CINE KID" tvg-logo="https://1.bp.blogspot.com/-TncAaYInomk/X0VYuaSMK3I/AAAAAAAAG8Q/oq-7lA-JCs0xzSBgpw1X4De-Q6UscOiAgCLcBGAsYHQ/s300/CINE%2BKID.png" group-title="FILMES 24H",CINE KID
-http://grtsvk.life:80/661282206/318344838/43368
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="https://4.bp.blogspot.com/-eNIsvpD7vwQ/Xt-W6zlbtvI/AAAAAAAAGNk/RwJanh-vRmAzfKsY2t9eIqJUOxdpZlBxgCK4BGAYYCw/s1600/Marvel%2Bvs%2BDC.png" group-title="FILMES 24H",CINE MARVEL VS DC
-http://grtsvk.life:80/661282206/318344838/29900
+
 
 #EXTM3U url-tvg=" http://grade-de-CINE SKY  CINEMA.xml "
  ############## CINE SKY  CINEMA ############## ### 
@@ -1032,6 +1001,8 @@ http://84.17.44.179:14635/
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  A&E" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
+http://199.127.60.83:16002/
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
 http://45.58.126.146:14293/A&E
@@ -1039,18 +1010,20 @@ http://45.58.126.146:14293/A&E
 http://199.127.60.83:16002/
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
 http://45.58.126.146:14293
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS | A&E",A&EFULL HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS | A&E",A&E FULL HD
 http://45.58.126.146:14293
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS | A&E",A&E
 https://cdn2.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E(H265)
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
 http://pbrz.xyz:80/67531382/36606924/1136
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&EFHD
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E 
 http://pbrz.xyz:80/67531382/36606924/1137
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&EHD
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E 
 http://pbrz.xyz:80/67531382/36606924/1138
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&ESD
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E 
 http://pbrz.xyz:80/67531382/36606924/1139
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
+http://45.58.126.146:14293/A&E
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  AXN.xml "
  ############## CANAIS  AXN ############## ### 
@@ -1074,6 +1047,8 @@ http://pbrz.xyz:80/67531382/36606924/1170
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SPACE" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
+http://195.181.163.144:14730/space
+#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
 http://195.181.163.144:14730/
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="CANAIS | SPACE",SPACE
 http://195.181.163.144:14730/space
@@ -1081,9 +1056,9 @@ http://195.181.163.144:14730/space
 http://45.58.126.146:14323
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CANAIS | SPACE",SPACE
 http://51.159.54.153:14408/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACEHD
-http://51.159.54.153:14408/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACESPACE UHD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE HD
+http://51.159.54.153:14408/ 
+#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
 http://51.159.54.153:14408/space
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE HD
 http://51.159.54.153:14408/space
@@ -1091,11 +1066,11 @@ http://51.159.54.153:14408/space
 http://meuplay.shop:80/Adminn8/6646885468/80568
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE
 http://45.58.126.146:14323
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE SPACE UHD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
 http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD 2"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE SPACE UHD 2
+#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD 2"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD 2
 http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACES PACE UHD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
 http://195.181.163.144:14730/
 
 #EXTM3U url-tvg=" http://grade-de-Canais Documentários Discovery.xml "
@@ -1406,6 +1381,8 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/162802.m3u8
  ############## Canais | FOX Sports 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | FOX Sports 2" group-title="
 
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | FOX Sports 2",FOX Sports 2
+http://15.235.10.31:14326
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | FOX Sports 2",FOX Sports 2 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/151046.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 FHD
@@ -2095,6 +2072,638 @@ http://grtsvk.life:80/661282206/318344838/30009
 http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
+
+
+#EXTM3U url-tvg="http://grade-de-Lançamentos 2023.xml"
+############## Lançamentos 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água (2022) (HdRip)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Lançamentos 2023",Avatar: O Caminho da Água (2022) (HdRip)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excluídos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg" group-title="Lançamentos 2023",Excluídos (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Lançamentos 2023",A Jogada de Chang (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tangos, Tequilas e Algumas Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg" group-title="Lançamentos 2023",Tangos, Tequilas e Algumas Mentiras (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg" group-title="Lançamentos 2023",Meu Nome é Chihiro (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023) (Cinema)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Lançamentos 2023",65: Ameaça Pré-Histórica (2023) (Cinema)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Festa de Arromba (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" group-title="Lançamentos 2023",Uma Festa de Arromba (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="Lançamentos 2023",Alguém Que Eu Costumava Conhecer (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="Lançamentos 2023",At Midnight (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Atuar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="Lançamentos 2023",Duro de Atuar (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="Lançamentos 2023",Amor Entre Amigos: O Casamento (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Novo... de Novo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ECITzA9sQVbTjbcaFcYINN9Nkr.jpg" group-title="Lançamentos 2023",Feliz Ano Novo... de Novo (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procura-se Gonker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziAL5224J9QHA0S0exarpkz4eUN.jpg" group-title="Lançamentos 2023",Procura-se Gonker (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Independência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Lançamentos 2023",Detetive Knight: Independência (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SlVgSeK19ZhhxDBsU6AQq4EN2W.jpg" group-title="Lançamentos 2023",Jung_E (2023)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897978.mp4
+
+#EXTM3U url-tvg="http://grade-de-Lançamentos 2022.xml"
+############## Lançamentos 2022 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2022" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Além do Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb2esYfCjkz2RhXDQCPz1evsQfY.jpg" group-title="Lançamentos 2022",Amor Além do Tempo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inspetor Aranha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg" group-title="Lançamentos 2022",Inspetor Aranha (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lições para Canalhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4VmrPu4QCtYWgfjvHIwqJVklp.jpg" group-title="Lançamentos 2022",Lições para Canalhas (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrimilhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5M8xOeAMrKZLNFMdNThHAEcM9v.jpg" group-title="Lançamentos 2022",Matrimilhas (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="Lançamentos 2022",Mindcage (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada é por Acaso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efHs9YhjVdb7DacqBM830IguqIK.jpg" group-title="Lançamentos 2022",Nada é por Acaso (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amante de Lady Chatterley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hydNtbpr8Ryahb7HzdkeSicBGQo.jpg" group-title="Lançamentos 2022",O Amante de Lady Chatterley (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="Lançamentos 2022",O Assassino Perfeito (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chefinho: Bônus de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6HDYVK2qubLKtcjS1WtN8bch6c.jpg" group-title="Lançamentos 2022",O Chefinho: Bônus de Natal (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruído (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyNl3NlZx1CXgbrCuSiWkWdp9D.jpg" group-title="Lançamentos 2022",Ruído (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="Lançamentos 2022",Vale do Medo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Fica com o Bar? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sicJmpsyetX00Bpu8UmoSawxyel.jpg" group-title="Lançamentos 2022",Quem Fica com o Bar? (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman e Superman: Batalha dos Super Filhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="Lançamentos 2022",Batman e Superman: Batalha dos Super Filhos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detox Digital (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg" group-title="Lançamentos 2022",Detox Digital (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Honra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="Lançamentos 2022",Irmãos de Honra (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kompromat: O Dossiê Russo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yakB8fDVhqmqiocjILPVh1aBze2.jpg" group-title="Lançamentos 2022",Kompromat: O Dossiê Russo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lutKUOeedR5TZdfuMbD4fcAy64b.jpg" group-title="Lançamentos 2022",Narvik (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ataque ao Capitólio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z3dkp3l6TwVDp1cNdQaLGtk0oT.jpg" group-title="Lançamentos 2022",O Ataque ao Capitólio (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão: Mar de Sangue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg" group-title="Lançamentos 2022",Tubarão: Mar de Sangue (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Armado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="Lançamentos 2022",Casamento Armado (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Lançamentos 2022",30 Noites com a Minha Ex (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Lançamentos 2022",A Maldição do Quarto 203 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darby: A Jovem Sensitiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg" group-title="Lançamentos 2022",Darby: A Jovem Sensitiva (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Zone: Operação Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRm0yqIgoOa3k05SipqOB2yQJ1F.jpg" group-title="Lançamentos 2022",Dead Zone: Operação Resgate (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lâmina Dos 47 Ronins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Lançamentos 2022",Lâmina Dos 47 Ronins (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marte Um (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AcoZ8aodKgVuOrYPTpc4NmjSue.jpg" group-title="Lançamentos 2022",Marte Um (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preço da Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LajfxwKDkZlbKacfLvrzLMIocQ.jpg" group-title="Lançamentos 2022",O Preço da Família (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pronto, Falei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1bu48BHurEJxy865CdgWPhO5IL.jpg" group-title="Lançamentos 2022",Pronto, Falei (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozceAmPJHgK9AqTkHYyksmMofdR.jpg" group-title="Lançamentos 2022",Vingança (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="Lançamentos 2023",Pantera Negra: Wakanda para Sempre (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="Lançamentos 2022",Armageddon Time (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Americano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg" group-title="Lançamentos 2022",Assassino Americano (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deuqT4q8GS0hXvaSqi97tq3VvTc.jpg" group-title="Lançamentos 2022",Detetive Knight: Justiça (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg" group-title="Lançamentos 2022",Em Busca de Mim (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Football (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC99lme4UplMUICswlA4mfe5GNx.jpg" group-title="Lançamentos 2022",Fantasy Football (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="Lançamentos 2022",Guardiões da Galáxia: Especial de Festas (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Império da Luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hoNGfSq3ZiolERu1yFEOWhGLPL.jpg" group-title="Lançamentos 2022",Império da Luz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nix: A Entidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57NX3hO40PrxBQerdT7sFBFfS8a.jpg" group-title="Lançamentos 2022",Nix: A Entidade (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack & Jill Nos Passos do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quAseCUjPhksKWnvEFyyJWZMdc.jpg" group-title="Lançamentos 2022",Jack & Jill Nos Passos do Amor (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobo Viking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg" group-title="Lançamentos 2022",O Lobo Viking (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Asilo Fora do Comum (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXnKdf3K2FNGx9ME8QPz4z7TYEx.jpg" group-title="Lançamentos 2022",Um Asilo Fora do Comum (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime na Rodovia Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg" group-title="Lançamentos 2022",Crime na Rodovia Paraíso (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Macaco: A Lenda Começa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYEWg7ir0XD4mMUA1pyHNGImrOZ.jpg" group-title="Lançamentos 2022",O Rei Macaco: A Lenda Começa (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Suplente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOoPOjz93DbZzMAcm2g8xa1WxK6.jpg" group-title="Lançamentos 2022",O Suplente (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Observador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="Lançamentos 2022",Observador (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida, Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sNADkvJd6dMkQQxM8L8IZTJzyE.jpg" group-title="Lançamentos 2022",Querida, Alice (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei do Ringue: A História de Jem Belcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg" group-title="Lançamentos 2022",Rei do Ringue: A História de Jem Belcher (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Obsessão Desconhecida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLFnV0w9aQ4c507owJwMSWStsMD.jpg" group-title="Lançamentos 2022",Uma Obsessão Desconhecida (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="Lançamentos 2022",Gato de Botas 2: O Último Pedido (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento em Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG9fOheV8chlcKjQdUgJaJXrzkf.jpg" group-title="Lançamentos 2022",Acampamento em Família (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta de Emergência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E6ShgX7LL02hDqoKpK79M5HBzv.jpg" group-title="Lançamentos 2022",Alerta de Emergência (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta! Temporada de Tubarões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pODSiR9nguBXoB6iW0Qjz1LiuD0.jpg" group-title="Lançamentos 2022",Alerta! Temporada de Tubarões (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deslizando pela Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q53nx651SCGCZFWIbethzQhyfZ.jpg" group-title="Lançamentos 2022",Deslizando pela Vida (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre em Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" group-title="Lançamentos 2022",Notre-Dame: Desastre em Paris (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sistema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="Lançamentos 2022",O Sistema (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" group-title="Lançamentos 2022",Re/Member (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Lançamentos 2022",M3GAN (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Disse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" group-title="Lançamentos 2022",Ela Disse (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3orh0EZQ10ea87vGDOylrvBV6HC.jpg" group-title="Lançamentos 2022",Detetive Knight: Redenção (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Agradar Uma Mulher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg" group-title="Lançamentos 2022",Como Agradar Uma Mulher (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cordialmente Teus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM8bbrlsAAs8dUHO92HH3VGvAqm.jpg" group-title="Lançamentos 2022",Cordialmente Teus (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" group-title="Lançamentos 2022",I Wanna Dance with Somebody: A História de Whitney Houston (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Oculta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaI4egyV9dCMzOYoumyLMZrmRPg.jpg" group-title="Lançamentos 2022",Guerra Oculta (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valentes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg" group-title="Lançamentos 2022",Valentes (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babilônia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="Lançamentos 2022",Babilônia (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Lançamentos 2022",A Farsa (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisão de Partir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg" group-title="Lançamentos 2022",Decisão de Partir (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descida ao Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg" group-title="Lançamentos 2022",Descida ao Inferno (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey II: Uma Nova Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg" group-title="Lançamentos 2022",Downton Abbey II: Uma Nova Era (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triângulo da Tristeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" group-title="Lançamentos 2022",Triângulo da Tristeza (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aterrorizante 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="Lançamentos 2022",Aterrorizante 2 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Quem? Heróis Por Acidente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9XVAP8AWQ30uRkKNTvmER8OVMa.jpg" group-title="Lançamentos 2022",Super Quem? Heróis Por Acidente (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição nas Alturas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjL4xFc6uxrfxBuZLei6L268SM.jpg" group-title="Lançamentos 2022",Perseguição nas Alturas (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quebrando o Gelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg" group-title="Lançamentos 2022",Quebrando o Gelo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucia e o Cristal Mágico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv44fVFbCtfJV6hgat524vvByIN.jpg" group-title="Lançamentos 2022",Lucia e o Cristal Mágico (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maior que o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg" group-title="Lançamentos 2022",Maior que o Mundo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meteor: First Impact (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNIUbrxPIKndBUXAzXbzYg085gY.jpg" group-title="Lançamentos 2022",Meteor: First Impact (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Infeliz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg" group-title="Lançamentos 2022",Noite Infeliz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Tigre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg" group-title="Lançamentos 2022",O Menino e o Tigre (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="Lançamentos 2022",O Mistério de Ozarks (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="Lançamentos 2022",O Pior Vizinho do Mundo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900807.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES  2022.xml"
+############## FILMES  2022 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  2022" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="FILMES | 2022",A Mulher Rei (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="FILMES | 2022",Adão Negro (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="FILMES | 2022",Broad Peak (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drifting Home (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOkalOuwZl1KuOLIkBqVuOVpGKq.jpg" group-title="FILMES | 2022",Drifting Home (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Noite, Mamãe! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg" group-title="FILMES | 2022",Boa Noite, Mamãe! (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="FILMES | 2022",Honor Society (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Já Fui Famoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvqHMh0DBVRMmfeRxTPlk5Fcu8f.jpg" group-title="FILMES | 2022",Já Fui Famoso (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justiceiras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg" group-title="FILMES | 2022",Justiceiras (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Alfaiate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg" group-title="FILMES | 2022",O Alfaiate (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escândalo da Wirecard (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOA6zX9ayEyHU6Y3D04rZxigBbX.jpg" group-title="FILMES | 2022",O Escândalo da Wirecard (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reflexões no Espelho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg" group-title="FILMES | 2022",Reflexões no Espelho (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YViYlgufUsJT61HE0qsKsdXmn6.jpg" group-title="FILMES | 2022",Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança e Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg" group-title="FILMES | 2022",Vingança e Redenção (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="FILMES | 2022",A Fera (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="FILMES | 2022",A Máquina Infernal (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Athena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg" group-title="FILMES | 2022",Athena (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Colateral (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTyvVGHdyG53nhHOySSYGxsVAvN.jpg" group-title="FILMES | 2022",Efeito Colateral (2002)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist: A Alquimia Final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMzOYHGiHEfknowTlg3o72gSvHy.jpg" group-title="FILMES | 2022",Fullmetal Alchemist: A Alquimia Final (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="FILMES | 2022",Lou (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minta Para Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg" group-title="FILMES | 2022",Minta Para Mim (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Jazz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvKmySdoCFmjuPeokOtEK3jGHx.jpg" group-title="FILMES | 2022",O Homem do Jazz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Perfumista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg" group-title="FILMES | 2022",O Perfumista (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon: As Crônicas de Arceus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg" group-title="FILMES | 2022",Pokémon: As Crônicas de Arceus (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trem-Bala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="FILMES | 2022",Trem-Bala (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Viagem ao Infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38KllKVpeTLvirHvuLWWy5I71rX.jpg" group-title="FILMES | 2022",Uma Viagem ao Infinito (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Depois da Promessa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4sjznbscJtlGsCeBfLTeeOjAUX.jpg" group-title="FILMES | 2022",After: Depois da Promessa (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg" group-title="FILMES | 2022",Blonde (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="FILMES | 2022",Esquadrão Secreto (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trancada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWBCMiORHEfXWf6AreeDzkczyTy.jpg" group-title="FILMES | 2022",Trancada (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="FILMES | 2022",Abracadabra 2 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg" group-title="FILMES | 2022",Conspiração Explosiva (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entergalactic (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg" group-title="FILMES | 2022",Entergalactic (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo da Minha Melhor Amiga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDNsaFksrA78eMEfVoaGRCAbIHk.jpg" group-title="FILMES | 2022",O Exorcismo da Minha Melhor Amiga (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Cerveja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjofmT6fIbuc2IsVa79UNBLP7XN.jpg" group-title="FILMES | 2022",Operação Cerveja (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aníkúlápó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="FILMES | 2022",Aníkúlápó (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Traidor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0MbKWieMwVDZl0eJdNt7Z6pbKU.jpg" group-title="FILMES | 2022",Eu, Traidor (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Destino de Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg" group-title="FILMES | 2022",O Destino de Haffmann (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano A, Plano B (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg" group-title="FILMES | 2022",Plano A, Plano B (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg" group-title="FILMES | 2022",Rainbow (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RRR: Revolta, Rebelião, Revolução (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0W61w08KPAxO63uuM0Xspxb27l.jpg" group-title="FILMES | 2022",RRR: Revolta, Rebelião, Revolução (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasil 2002: Os Bastidores do Penta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg" group-title="FILMES | 2022",Brasil 2002: Os Bastidores do Penta (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Não é Um Soldado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVndyIFjeEf2kZVYuZ25DTtaWYX.jpg" group-title="FILMES | 2022",Você Não é Um Soldado (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="FILMES | 2022",100 Medos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBvHFU97cmep48zbl5X85gvXCn.jpg" group-title="FILMES | 2022",A Vida de Togo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catarina, a Menina Chamada Passarinha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMRLFYzhdWIOguLaPTwm2afiPMj.jpg" group-title="FILMES | 2022",Catarina, a Menina Chamada Passarinha (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convite Maldito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JdYO1vmuDcqVgZD3nPEpdX7GvI.jpg" group-title="FILMES | 2022",Convite Maldito (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esposa de Aluguel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="FILMES | 2022",Esposa de Aluguel (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lar dos Esquecidos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fApMyuO562IDcpxhilpeehrEJXW.jpg" group-title="FILMES | 2022",Lar dos Esquecidos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobisomem na Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg" group-title="FILMES | 2022",Lobisomem na Noite (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster High: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="FILMES | 2022",Monster High: O Filme (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lendário Cão Guerreiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg" group-title="FILMES | 2022",O Lendário Cão Guerreiro (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Meme do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg" group-title="FILMES | 2022",O Meme do Mal (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Telefone do Sr. Harrigan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JptBMGTikUK4CxJpG9cNTYAGjV.jpg" group-title="FILMES | 2022",O Telefone do Sr. Harrigan (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Time da Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg" group-title="FILMES | 2022",O Time da Redenção (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 13 Sobreviventes da Caverna (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF55KYpT70qho6PkJf4NQpgjNdL.jpg" group-title="FILMES | 2022",Os 13 Sobreviventes da Caverna (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg" group-title="FILMES | 2022",They/Them: O Acampamento (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Garota de Muita Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg" group-title="FILMES | 2022",Uma Garota de Muita Sorte (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ameaça A Bordo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg" group-title="FILMES | 2022",Ameaça A Bordo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="FILMES | 2022",A Maldição de Bridge Hollow (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto na Paulista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg" group-title="FILMES | 2022",Assalto na Paulista (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg" group-title="FILMES | 2022",Blackout (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Balconista 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg" group-title="FILMES | 2022",O Balconista 3 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Palestrante (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg" group-title="FILMES | 2022",O Palestrante (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg" group-title="FILMES | 2022",Rosalina (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="FILMES | 2022",A Luta de uma Vida (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="FILMES | 2022",A Madrasta (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="FILMES | 2022",Argentina, 1985 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota do Século 20 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3NhZq5IMw9c7vSoP2Z1GsQOJo.jpg" group-title="FILMES | 2022",Garota do Século 20 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmLxwOnUFL5NQSCSY9cwtXFR1m.jpg" group-title="FILMES | 2022",Jaula (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Cuidado Com Meu Poder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjfcOlpNZocBB3lbw8KHMPT9Ov4.jpg" group-title="FILMES | 2022",Lanterna Verde: Cuidado Com Meu Poder (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite de Sustos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg" group-title="FILMES | 2022",Noite de Sustos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Desconhecido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg" group-title="FILMES | 2022",O Desconhecido (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="FILMES | 2022",Panamá (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perigo no Grupo de Mães (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg" group-title="FILMES | 2022",Perigo no Grupo de Mães (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phobias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" group-title="FILMES | 2022",Phobias (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKZmSQHD17JjGUYkluhpttgJRi.jpg" group-title="FILMES | 2022",Raymond & Ray (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldo, O Fenômeno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNlwArDpdG60HCtmjxMEpVu0WLO.jpg" group-title="FILMES | 2022",Ronaldo, O Fenômeno (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rubikon: Ponto Sem Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2uZmhVk6lkqierZLFnBHnL24q.jpg" group-title="FILMES | 2022",Rubikon: Ponto Sem Retorno (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Órfã 2: A Origem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg" group-title="FILMES | 2022",Órfã 2: A Origem (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada de Novo no Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg" group-title="FILMES | 2022",Nada de Novo no Front (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corra, Querida, Corra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" group-title="FILMES | 2022",Corra, Querida, Corra (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="FILMES | 2022",Depois do Universo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ingresso Para o Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="FILMES | 2022",Ingresso Para o Paraíso (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men: Faces do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg" group-title="FILMES | 2022",Men: Faces do Medo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte, Morte, Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veTVl90P4lStxOLYNFn8bXozNcZ.jpg" group-title="FILMES | 2022",Morte, Morte, Morte (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Se Preocupe, Querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="FILMES | 2022",Não Se Preocupe, Querida (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Lugar Errado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFlGsQVzmzBei9D95RtSLCyZS6D.jpg" group-title="FILMES | 2022",No Lugar Errado (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noites Brutais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg" group-title="FILMES | 2022",Noites Brutais (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Enfermeiro da Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg" group-title="FILMES | 2022",O Enfermeiro da Noite (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monastério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3retN9fNG3fXJlUjasDsyfZqT7T.jpg" group-title="FILMES | 2022",O Monastério (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo de Mia: A Esperança de Centopia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg" group-title="FILMES | 2022",O Mundo de Mia: A Esperança de Centopia (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Céus do Norte sobre o Vazio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg" group-title="FILMES | 2022",Os Céus do Norte sobre o Vazio (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Gerações (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmbpeBp9qeCFj94f6NtMd7Sssge.jpg" group-title="FILMES | 2022",Quatro Gerações (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roubando Mussolini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4JxW3rWsOF87XNeAoeewESrMY.jpg" group-title="FILMES | 2022",Roubando Mussolini (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sala de Espionagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg" group-title="FILMES | 2022",Sala de Espionagem (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rio Muito Frio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg" group-title="FILMES | 2022",Um Rio Muito Frio (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vento Selvagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg" group-title="FILMES | 2022",Vento Selvagem (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y33paUKgDhJrdsvNDiGjltYkWau.jpg" group-title="FILMES | 2022",Vingança Fatal (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wendell & Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg" group-title="FILMES | 2022",Wendell & Wild (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="FILMES | 2022",Enola Holmes 2 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg" group-title="FILMES | 2022",Fúria de Titãs 2 (2012)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="FILMES | 2022",A Bravura de Molly (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trAGoCXjkCpZUNHxzrFtMqLj8sN.jpg" group-title="FILMES | 2022",A Espera de Liz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="FILMES | 2022",A Jaula (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="FILMES | 2022",A Matriarca (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="FILMES | 2022",Alice (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caça Implacável (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUQ898w7faH39KpMA64v59PKRoV.jpg" group-title="FILMES | 2022",Caça Implacável (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuN7KfZCnm9WmZNiPeg6HUBsANz.jpg" group-title="FILMES | 2022",Curtas dos Minions 2 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Futebol em Apuros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg" group-title="FILMES | 2022",Futebol em Apuros (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insanidade (2019)" tvg-logo="https://imgur.com/GAVOttR.jpg" group-title="FILMES | 2022",Insanidade (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogada De Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anvor6NY8DlQjAmIe67VqLbTvcn.jpg" group-title="FILMES | 2022",Jogada De Amor (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg" group-title="FILMES | 2022",Medieval (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Policial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" group-title="FILMES | 2022",Meu Policial (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Mãe é Para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg" group-title="FILMES | 2022",Nossa Mãe é Para Sempre (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AjIDqNC37ML6fPidheFBYG2xVF.jpg" group-title="FILMES | 2022",O Cavaleiro do Rei (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="FILMES | 2022",Overdose (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg" group-title="FILMES | 2022",Passagem (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predestinado: Arigó e o Espírito do Dr. Fritz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx8v1E6t0GvUAUFdXjyE1L5D6qW.jpg" group-title="FILMES | 2022",Predestinado: Arigó e o Espírito do Dr. Fritz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Território Hostil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg" group-title="FILMES | 2022",Território Hostil (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Pitada de Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg" group-title="FILMES | 2022",Uma Pitada de Sorte (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg" group-title="FILMES | 2022",Bala Perdida 2 (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5GZWM1NmXtESsXxtXxoK8Pjtx.jpg" group-title="FILMES | 2022",Beleza (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrective Measures – Fuga da Prisão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIus2B83moSdfIkD4wD7tOaG5Y1.jpg" group-title="FILMES | 2022",Corrective Measures – Fuga da Prisão (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duetto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbzUiyexmnCaCpu3RKWVwUNXIJ.jpg" group-title="FILMES | 2022",Duetto (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Suas Mãos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTd3gRGk8a0rtHOWemdvOakVakR.jpg" group-title="FILMES | 2022",Em Suas Mãos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mônica, O My Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg" group-title="FILMES | 2022",Mônica, O My Darling (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg" group-title="FILMES | 2022",Não Vá (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dragão do Meu Pai (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg" group-title="FILMES | 2022",O Dragão do Meu Pai (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="FILMES | 2022",O Milagre (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Promoção do Século (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvCXkSo9yHPeN1N3CntYONjE1ez.jpg" group-title="FILMES | 2022",Promoção do Século (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Racionais: Das Ruas de São Paulo Pro Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="FILMES | 2022",Racionais: Das Ruas de São Paulo Pro Mundo (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sorria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDTXsc8uzJuvPLvfFBXTf9rYyTf.jpg" group-title="FILMES | 2022",Sorria (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: Terra do Boneco de Neve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDR6w0O7QcUeEjp4DxO6NweI3Ls.jpg" group-title="FILMES | 2022",Tom & Jerry: Terra do Boneco de Neve (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quedinha de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg" group-title="FILMES | 2022",Uma Quedinha de Natal (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Não Estará Só! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg" group-title="FILMES | 2022",Você Não Estará Só! (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X: A Marca da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg" group-title="FILMES | 2022",X: A Marca da Morte (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg" group-title="FILMES | 2022",Desencantada (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg" group-title="FILMES | 2022",Terra dos Sonhos (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: As Consequências do Caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rPYzUYdBOccDvIxASFZBVaWUj.jpg" group-title="FILMES | 2022",7 Denúncias: As Consequências do Caso COVID-19 (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Aventura de Blue na Cidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg" group-title="FILMES | 2022",A Grande Aventura de Blue na Cidade (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg" group-title="FILMES | 2022",Cisne Negro (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Confinamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV5vEMXsCKakk2usQ4QLhiJa00h.jpg" group-title="FILMES | 2022",Em Confinamento (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZPrXBXYf2s4VztHdQpd0441jF6.jpg" group-title="FILMES | 2022",Dahmer (2002)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Bilhete Premiado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0FBgHdLW4PTEhybUTDrsWasahS.jpg" group-title="FILMES | 2022",Em Busca do Bilhete Premiado (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frank & Penelope - Até que a Morte nos Separe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg" group-title="FILMES | 2022",Frank & Penelope - Até que a Morte nos Separe (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Maravilhoso Outono do Mickey Mouse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLVcwkgQ0nPLlE8lg0XbFxPdX5t.jpg" group-title="FILMES | 2022",O Maravilhoso Outono do Mickey Mouse (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Odiados do Casamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQZKw9jetOInPPdSZgbKFxJALHc.jpg" group-title="FILMES | 2022",Os Odiados do Casamento (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roubo Entre Ladrões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg" group-title="FILMES | 2022",Roubo Entre Ladrões (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Save the Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="FILMES | 2022",Save the Cinema (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! Gostosuras ou Travessuras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkd1zT65LEFieZlIltNxcUnzGNr.jpg" group-title="FILMES | 2022",Scooby-Doo! Gostosuras ou Travessuras (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg" group-title="FILMES | 2022",The Phantom of the Open (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween Ends (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD2YiqLp5vXq7l2V3iYC7usWYXD.jpg" group-title="FILMES | 2022",Halloween Ends (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" group-title="FILMES | 2022",As Nadadoras (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Gold Brick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="FILMES | 2022",Big Gold Brick (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Malcolm's List (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="FILMES | 2022",Mr. Malcolm's List (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Garoto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AwndqKMSVBmipyMu9qorzEVLMA.jpg" group-title="FILMES | 2022",O Bom Garoto (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano de Aula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QE0YczuK6RMTvRY6uBa2t65kY7.jpg" group-title="FILMES | 2022",Plano de Aula (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Estranho em Nossa Cama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTw9NlecsL5LYM6JQLogjC1sypD.jpg" group-title="FILMES | 2022",Um Estranho em Nossa Cama (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93604.mp4
 
 #EXTM3U url-tvg="http://grade-de-Ação Crime.xml"
 ############## Ação Crime ################# 
@@ -3448,10 +4057,129 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/67032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contrato Obsessivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g27AMMhkMpzOdil8CLo6j4lLMkK.jpg" group-title="Suspense/ Mistério",Contrato Obsessivo (2020)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/61708.mp4
 
-#EXTM3U url-tvg="http://grade-de-Drama História.xml"
-############## Drama História ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeDrama História" group-title="
 
+#EXTM3U url-tvg="http://grade-de-Drama/ História.xml"
+############## Drama/ História ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDrama/ História" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Drama/ História",A Escavação (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/44675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Despedida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oenx30V5wzfMjxzTOOM1CD9YSq4.jpg" group-title="Drama/ História",A Despedida (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Deusa dos Vagalumes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWiOWC7bg50ik1FPpcY2XuGLoQx.jpg" group-title="Drama/ História",A Deusa dos Vagalumes (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Drama/ História",A Colina Escarlate (2015)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Condenação (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEgU4Hw5VwUYTNF6182oKjpowgn.jpg" group-title="Drama/ História",A Condenação (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="Drama/ História",7500 (2019) [DUAL]
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV5BPqLxe1BynyexKZar3KOnYV.jpg" group-title="Drama/ História",3096 Dias de Cativeiro (2013)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Órfãos Poderosos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="Drama/ História",12 Órfãos Poderosos (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJazel1knaYGfJ2m6CcnDOLHrLg.jpg" group-title="Drama/ História",127 Horas (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Anos de Escravidão (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg" group-title="Drama/ História",12 Anos de Escravidão (2013)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Drama/ História",13 Minutos de Tormenta (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/72461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1922 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="Drama/ História",1922 (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Drama/ História",22 de Julho (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="40 Dias - O Milagre da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg" group-title="Drama/ História",40 Dias - O Milagre da Vida (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="42 - A História de Uma Lenda (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToC9fhyGkEdDgJBwJbWPMrt8vc.jpg" group-title="Drama/ História",42 - A História de Uma Lenda (2013)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="Drama/ História",6 Balões (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdFkZyfMpj1AItzsiW5kML9oFbY.jpg" group-title="Drama/ História",A Carga (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="Drama/ História",A Face da Verdade (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Depois (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg" group-title="Drama/ História",A Vida Depois (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Eletrizante de Louis Wain (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg" group-title="Drama/ História",A Vida Eletrizante de Louis Wain (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Em Espera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrrhS0VLaSmOfPmi2UPOQMcO58h.jpg" group-title="Drama/ História",A Vida Em Espera (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Mim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv4a1MntQA8pydnTTf3iICEFcHB.jpg" group-title="Drama/ História",A Vida em Mim (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Si (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3btqYtTmY2GLrMmLcNFVpPxLD4.jpg" group-title="Drama/ História",A Vida em Si (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Troca (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBoFTZmPAYjnNgKB68DbTI0tDMq.jpg" group-title="Drama/ História",A Troca (2008)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rede Social (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg" group-title="Drama/ História",A Rede Social (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Redenção (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epbyGz8drJMTL2f8absrO1RHH6G.jpg" group-title="Drama/ História",A Redenção (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Drama/ História",A Máquina De Lembranças (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mula (2018)" tvg-logo="http://dns.clientetv.xyz:8000/images/CFKZACq4xOyGp4jdzxB5RiAuvrEdnZCL.jpg" group-title="Drama/ História",A Mula (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10255.mp4
+XTINF:-1 tvg-id="" tvg-name="A Menina que Roubava Livros (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyG9CkuEfGXxygOUagnWPCQQnL.jpg" group-title="Drama/ História",A Menina que Roubava Livros (2013)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Missão (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irAuhrymA7aVa1S3Skf0e0uDTsY.jpg" group-title="Drama/ História",A Missão (1986)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Melhor Escolha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM39QLCMDqcdxg4LsPvalv9s2dO.jpg" group-title="Drama/ História",A Melhor Escolha (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Juventude (2015)" tvg-logo="http://dns.clientetv.xyz:8000/images/dxD5rBFHQjzfqMcSYAnvqFqiahMeLnJ5.jpg" group-title="Drama/ História",A Juventude (2015)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHEOX7ohRs4yCEh4KJy0eKqO3qi.jpg" group-title="Drama/ História",A Jornada (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História da Ilha das Rosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nQkSXRwun0dLk4EKvU2LfpgZhG.jpg" group-title="Drama/ História",A Incrível História da Ilha das Rosas (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Drama/ História",A Forma da Água (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Drama/ História",A Favorita (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Drama/ História",A Fera (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg" group-title="Drama/ História",A Filha Perdida (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força do Destino (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56OYnI0FKeaNbwBQy1ypzIxqMzn.jpg" group-title="Drama/ História",A Força do Destino (1982)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsShGq2gzkPRqYSb5cu7s8i9Q1y.jpg" group-title="Drama/ História",A Grande Aposta (2015)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6M8pond5C5nJ2z4qWgRANa6Pb.jpg" group-title="Drama/ História",A Grande Jogada (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Mentira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GCNkBJYUEngIR9nkS2f34er4A6.jpg" group-title="Drama/ História",A Grande Mentira (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Virada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sElsIOipaH6G3RwxLFCM3xd4Yhd.jpg" group-title="Drama/ História",A Grande Virada (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lavanderia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxEmaUYeO43LlWDRzuykVtrqzhC.jpg" group-title="Drama/ História",A Lavanderia (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei da Noite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AW7HboE5heyyHuxaUzlHldEp6w.jpg" group-title="Drama/ História",A Lei da Noite (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pior Pessoa do Mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="Drama/ História",A Pior Pessoa do Mundo (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Procura da Felicidade (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKIzxWRb391Tu7uXIwYkINs8FQ9.jpg" group-title="Drama/ História",A Procura da Felicidade (2006)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Professora do Jardim de Infância (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewxLFRI40ysuWxdyLlKUhgtcRqb.jpg" group-title="Drama/ História",A Professora do Jardim de Infância (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Revolução em Paris (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg" group-title="Drama/ História",A Revolução em Paris (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tabacaria (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4h717rbBuy78KgxtMKCZThWjF2.jpg" group-title="Drama/ História",A Tabacaria (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Teoria de Tudo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg" group-title="Drama/ História",A Teoria de Tudo (2014)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agora e para Sempre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxF6rnGn2n78117xtItLzhlj7BB.jpg" group-title="Drama/ História",Agora e para Sempre (2012)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adam (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAv4u8E6DN5Jc7qjQT3WLQBO4C3.jpg" group-title="Drama/ História",Adam (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim: A História de Lisa Mcvey (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5osEwU9NdsmgPIMbD5Mq3KU4PHR.jpg" group-title="Drama/ História",Acredite em Mim: A História de Lisa Mcvey (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Canção (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHINfhbI9iWHd8dnlDZtwvdOwMW.jpg" group-title="Drama/ História",A Última Canção (2014)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança Está na Moda (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXNobPTdS2sDUTFGd6j4A7bluog.jpg" group-title="Drama/ História",A Vingança Está na Moda (2015)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Cartada (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ojzfj02r27uwqN6HAZpq69amzy.jpg" group-title="Drama/ História",A Última Cartada (2006)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adoráveis Mulheres (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXRJlVPJO8GqPPpJwbomQEpAi3N.jpg" group-title="Drama/ História",Adoráveis Mulheres (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afunde o Navio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWym6hb3avqbIGbAgd2UfT52BUf.jpg" group-title="Drama/ História",Afunde o Navio (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Curiosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyJgh0oh73YZ63nJHOJxHkLatgb.jpg" group-title="Drama/ História",Curiosa (2019)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/27618.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Curral (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xMDCOwl6qE4Ypcy0HsMwalnEXU.jpg" group-title="Drama/ História",Curral (2021)
@@ -3678,636 +4406,7 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902463.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros: O Filme (2023) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg" group-title="Filmes da Semana",Super Mario Bros: O Filme (2023) (HDCAM)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902465.mp4
 
-#EXTM3U url-tvg="http://grade-de-Lançamentos 2023.xml"
-############## Lançamentos 2023 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2023" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água (2022) (HdRip)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Lançamentos 2023",Avatar: O Caminho da Água (2022) (HdRip)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Excluídos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg" group-title="Lançamentos 2023",Excluídos (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Lançamentos 2023",A Jogada de Chang (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tangos, Tequilas e Algumas Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg" group-title="Lançamentos 2023",Tangos, Tequilas e Algumas Mentiras (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg" group-title="Lançamentos 2023",Meu Nome é Chihiro (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023) (Cinema)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Lançamentos 2023",65: Ameaça Pré-Histórica (2023) (Cinema)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Festa de Arromba (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" group-title="Lançamentos 2023",Uma Festa de Arromba (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="Lançamentos 2023",Alguém Que Eu Costumava Conhecer (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="Lançamentos 2023",At Midnight (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Atuar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="Lançamentos 2023",Duro de Atuar (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="Lançamentos 2023",Amor Entre Amigos: O Casamento (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Novo... de Novo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ECITzA9sQVbTjbcaFcYINN9Nkr.jpg" group-title="Lançamentos 2023",Feliz Ano Novo... de Novo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Procura-se Gonker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziAL5224J9QHA0S0exarpkz4eUN.jpg" group-title="Lançamentos 2023",Procura-se Gonker (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Independência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Lançamentos 2023",Detetive Knight: Independência (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SlVgSeK19ZhhxDBsU6AQq4EN2W.jpg" group-title="Lançamentos 2023",Jung_E (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897978.mp4
-
-#EXTM3U url-tvg="http://grade-de-Lançamentos 2022.xml"
-############## Lançamentos 2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2022" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Amor Além do Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb2esYfCjkz2RhXDQCPz1evsQfY.jpg" group-title="Lançamentos 2022",Amor Além do Tempo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inspetor Aranha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg" group-title="Lançamentos 2022",Inspetor Aranha (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lições para Canalhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4VmrPu4QCtYWgfjvHIwqJVklp.jpg" group-title="Lançamentos 2022",Lições para Canalhas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matrimilhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5M8xOeAMrKZLNFMdNThHAEcM9v.jpg" group-title="Lançamentos 2022",Matrimilhas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="Lançamentos 2022",Mindcage (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada é por Acaso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efHs9YhjVdb7DacqBM830IguqIK.jpg" group-title="Lançamentos 2022",Nada é por Acaso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Amante de Lady Chatterley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hydNtbpr8Ryahb7HzdkeSicBGQo.jpg" group-title="Lançamentos 2022",O Amante de Lady Chatterley (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="Lançamentos 2022",O Assassino Perfeito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Chefinho: Bônus de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6HDYVK2qubLKtcjS1WtN8bch6c.jpg" group-title="Lançamentos 2022",O Chefinho: Bônus de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ruído (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyNl3NlZx1CXgbrCuSiWkWdp9D.jpg" group-title="Lançamentos 2022",Ruído (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vale do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="Lançamentos 2022",Vale do Medo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Fica com o Bar? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sicJmpsyetX00Bpu8UmoSawxyel.jpg" group-title="Lançamentos 2022",Quem Fica com o Bar? (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman e Superman: Batalha dos Super Filhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="Lançamentos 2022",Batman e Superman: Batalha dos Super Filhos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detox Digital (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg" group-title="Lançamentos 2022",Detox Digital (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Honra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="Lançamentos 2022",Irmãos de Honra (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kompromat: O Dossiê Russo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yakB8fDVhqmqiocjILPVh1aBze2.jpg" group-title="Lançamentos 2022",Kompromat: O Dossiê Russo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lutKUOeedR5TZdfuMbD4fcAy64b.jpg" group-title="Lançamentos 2022",Narvik (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ataque ao Capitólio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z3dkp3l6TwVDp1cNdQaLGtk0oT.jpg" group-title="Lançamentos 2022",O Ataque ao Capitólio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tubarão: Mar de Sangue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg" group-title="Lançamentos 2022",Tubarão: Mar de Sangue (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casamento Armado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="Lançamentos 2022",Casamento Armado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Lançamentos 2022",30 Noites com a Minha Ex (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Lançamentos 2022",A Maldição do Quarto 203 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Darby: A Jovem Sensitiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg" group-title="Lançamentos 2022",Darby: A Jovem Sensitiva (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dead Zone: Operação Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRm0yqIgoOa3k05SipqOB2yQJ1F.jpg" group-title="Lançamentos 2022",Dead Zone: Operação Resgate (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lâmina Dos 47 Ronins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Lançamentos 2022",Lâmina Dos 47 Ronins (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marte Um (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AcoZ8aodKgVuOrYPTpc4NmjSue.jpg" group-title="Lançamentos 2022",Marte Um (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Preço da Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LajfxwKDkZlbKacfLvrzLMIocQ.jpg" group-title="Lançamentos 2022",O Preço da Família (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pronto, Falei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1bu48BHurEJxy865CdgWPhO5IL.jpg" group-title="Lançamentos 2022",Pronto, Falei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozceAmPJHgK9AqTkHYyksmMofdR.jpg" group-title="Lançamentos 2022",Vingança (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="Lançamentos 2023",Pantera Negra: Wakanda para Sempre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="Lançamentos 2022",Armageddon Time (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Americano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg" group-title="Lançamentos 2022",Assassino Americano (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deuqT4q8GS0hXvaSqi97tq3VvTc.jpg" group-title="Lançamentos 2022",Detetive Knight: Justiça (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg" group-title="Lançamentos 2022",Em Busca de Mim (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy Football (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC99lme4UplMUICswlA4mfe5GNx.jpg" group-title="Lançamentos 2022",Fantasy Football (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="Lançamentos 2022",Guardiões da Galáxia: Especial de Festas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Império da Luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hoNGfSq3ZiolERu1yFEOWhGLPL.jpg" group-title="Lançamentos 2022",Império da Luz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nix: A Entidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57NX3hO40PrxBQerdT7sFBFfS8a.jpg" group-title="Lançamentos 2022",Nix: A Entidade (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jack & Jill Nos Passos do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quAseCUjPhksKWnvEFyyJWZMdc.jpg" group-title="Lançamentos 2022",Jack & Jill Nos Passos do Amor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lobo Viking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg" group-title="Lançamentos 2022",O Lobo Viking (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Asilo Fora do Comum (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXnKdf3K2FNGx9ME8QPz4z7TYEx.jpg" group-title="Lançamentos 2022",Um Asilo Fora do Comum (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime na Rodovia Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg" group-title="Lançamentos 2022",Crime na Rodovia Paraíso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Macaco: A Lenda Começa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYEWg7ir0XD4mMUA1pyHNGImrOZ.jpg" group-title="Lançamentos 2022",O Rei Macaco: A Lenda Começa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Suplente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOoPOjz93DbZzMAcm2g8xa1WxK6.jpg" group-title="Lançamentos 2022",O Suplente (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Observador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="Lançamentos 2022",Observador (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querida, Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sNADkvJd6dMkQQxM8L8IZTJzyE.jpg" group-title="Lançamentos 2022",Querida, Alice (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rei do Ringue: A História de Jem Belcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg" group-title="Lançamentos 2022",Rei do Ringue: A História de Jem Belcher (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Obsessão Desconhecida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLFnV0w9aQ4c507owJwMSWStsMD.jpg" group-title="Lançamentos 2022",Uma Obsessão Desconhecida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="Lançamentos 2022",Gato de Botas 2: O Último Pedido (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento em Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG9fOheV8chlcKjQdUgJaJXrzkf.jpg" group-title="Lançamentos 2022",Acampamento em Família (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta de Emergência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E6ShgX7LL02hDqoKpK79M5HBzv.jpg" group-title="Lançamentos 2022",Alerta de Emergência (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta! Temporada de Tubarões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pODSiR9nguBXoB6iW0Qjz1LiuD0.jpg" group-title="Lançamentos 2022",Alerta! Temporada de Tubarões (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deslizando pela Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q53nx651SCGCZFWIbethzQhyfZ.jpg" group-title="Lançamentos 2022",Deslizando pela Vida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre em Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" group-title="Lançamentos 2022",Notre-Dame: Desastre em Paris (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sistema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="Lançamentos 2022",O Sistema (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" group-title="Lançamentos 2022",Re/Member (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Lançamentos 2022",M3GAN (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ela Disse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" group-title="Lançamentos 2022",Ela Disse (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3orh0EZQ10ea87vGDOylrvBV6HC.jpg" group-title="Lançamentos 2022",Detetive Knight: Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Agradar Uma Mulher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg" group-title="Lançamentos 2022",Como Agradar Uma Mulher (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cordialmente Teus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM8bbrlsAAs8dUHO92HH3VGvAqm.jpg" group-title="Lançamentos 2022",Cordialmente Teus (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" group-title="Lançamentos 2022",I Wanna Dance with Somebody: A História de Whitney Houston (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra Oculta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaI4egyV9dCMzOYoumyLMZrmRPg.jpg" group-title="Lançamentos 2022",Guerra Oculta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valentes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg" group-title="Lançamentos 2022",Valentes (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Babilônia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="Lançamentos 2022",Babilônia (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Lançamentos 2022",A Farsa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Decisão de Partir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg" group-title="Lançamentos 2022",Decisão de Partir (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descida ao Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg" group-title="Lançamentos 2022",Descida ao Inferno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey II: Uma Nova Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg" group-title="Lançamentos 2022",Downton Abbey II: Uma Nova Era (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Triângulo da Tristeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" group-title="Lançamentos 2022",Triângulo da Tristeza (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aterrorizante 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="Lançamentos 2022",Aterrorizante 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Quem? Heróis Por Acidente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9XVAP8AWQ30uRkKNTvmER8OVMa.jpg" group-title="Lançamentos 2022",Super Quem? Heróis Por Acidente (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perseguição nas Alturas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjL4xFc6uxrfxBuZLei6L268SM.jpg" group-title="Lançamentos 2022",Perseguição nas Alturas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando o Gelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg" group-title="Lançamentos 2022",Quebrando o Gelo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucia e o Cristal Mágico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv44fVFbCtfJV6hgat524vvByIN.jpg" group-title="Lançamentos 2022",Lucia e o Cristal Mágico (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maior que o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg" group-title="Lançamentos 2022",Maior que o Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meteor: First Impact (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNIUbrxPIKndBUXAzXbzYg085gY.jpg" group-title="Lançamentos 2022",Meteor: First Impact (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite Infeliz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg" group-title="Lançamentos 2022",Noite Infeliz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Tigre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg" group-title="Lançamentos 2022",O Menino e o Tigre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="Lançamentos 2022",O Mistério de Ozarks (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="Lançamentos 2022",O Pior Vizinho do Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900807.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES  2022.xml"
-############## FILMES  2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  2022" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="FILMES | 2022",A Mulher Rei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="FILMES | 2022",Adão Negro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="FILMES | 2022",Broad Peak (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drifting Home (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOkalOuwZl1KuOLIkBqVuOVpGKq.jpg" group-title="FILMES | 2022",Drifting Home (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boa Noite, Mamãe! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg" group-title="FILMES | 2022",Boa Noite, Mamãe! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="FILMES | 2022",Honor Society (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Já Fui Famoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvqHMh0DBVRMmfeRxTPlk5Fcu8f.jpg" group-title="FILMES | 2022",Já Fui Famoso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justiceiras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg" group-title="FILMES | 2022",Justiceiras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Alfaiate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg" group-title="FILMES | 2022",O Alfaiate (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Escândalo da Wirecard (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOA6zX9ayEyHU6Y3D04rZxigBbX.jpg" group-title="FILMES | 2022",O Escândalo da Wirecard (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reflexões no Espelho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg" group-title="FILMES | 2022",Reflexões no Espelho (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YViYlgufUsJT61HE0qsKsdXmn6.jpg" group-title="FILMES | 2022",Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança e Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg" group-title="FILMES | 2022",Vingança e Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="FILMES | 2022",A Fera (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="FILMES | 2022",A Máquina Infernal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Athena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg" group-title="FILMES | 2022",Athena (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Efeito Colateral (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTyvVGHdyG53nhHOySSYGxsVAvN.jpg" group-title="FILMES | 2022",Efeito Colateral (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist: A Alquimia Final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMzOYHGiHEfknowTlg3o72gSvHy.jpg" group-title="FILMES | 2022",Fullmetal Alchemist: A Alquimia Final (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="FILMES | 2022",Lou (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minta Para Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg" group-title="FILMES | 2022",Minta Para Mim (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem do Jazz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvKmySdoCFmjuPeokOtEK3jGHx.jpg" group-title="FILMES | 2022",O Homem do Jazz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Perfumista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg" group-title="FILMES | 2022",O Perfumista (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: As Crônicas de Arceus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg" group-title="FILMES | 2022",Pokémon: As Crônicas de Arceus (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trem-Bala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="FILMES | 2022",Trem-Bala (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Viagem ao Infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38KllKVpeTLvirHvuLWWy5I71rX.jpg" group-title="FILMES | 2022",Uma Viagem ao Infinito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Depois da Promessa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4sjznbscJtlGsCeBfLTeeOjAUX.jpg" group-title="FILMES | 2022",After: Depois da Promessa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg" group-title="FILMES | 2022",Blonde (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="FILMES | 2022",Esquadrão Secreto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trancada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWBCMiORHEfXWf6AreeDzkczyTy.jpg" group-title="FILMES | 2022",Trancada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="FILMES | 2022",Abracadabra 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg" group-title="FILMES | 2022",Conspiração Explosiva (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entergalactic (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg" group-title="FILMES | 2022",Entergalactic (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo da Minha Melhor Amiga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDNsaFksrA78eMEfVoaGRCAbIHk.jpg" group-title="FILMES | 2022",O Exorcismo da Minha Melhor Amiga (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Cerveja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjofmT6fIbuc2IsVa79UNBLP7XN.jpg" group-title="FILMES | 2022",Operação Cerveja (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aníkúlápó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="FILMES | 2022",Aníkúlápó (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu, Traidor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0MbKWieMwVDZl0eJdNt7Z6pbKU.jpg" group-title="FILMES | 2022",Eu, Traidor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Destino de Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg" group-title="FILMES | 2022",O Destino de Haffmann (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plano A, Plano B (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg" group-title="FILMES | 2022",Plano A, Plano B (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rainbow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg" group-title="FILMES | 2022",Rainbow (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RRR: Revolta, Rebelião, Revolução (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0W61w08KPAxO63uuM0Xspxb27l.jpg" group-title="FILMES | 2022",RRR: Revolta, Rebelião, Revolução (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasil 2002: Os Bastidores do Penta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg" group-title="FILMES | 2022",Brasil 2002: Os Bastidores do Penta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Não é Um Soldado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVndyIFjeEf2kZVYuZ25DTtaWYX.jpg" group-title="FILMES | 2022",Você Não é Um Soldado (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="FILMES | 2022",100 Medos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida de Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBvHFU97cmep48zbl5X85gvXCn.jpg" group-title="FILMES | 2022",A Vida de Togo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Catarina, a Menina Chamada Passarinha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMRLFYzhdWIOguLaPTwm2afiPMj.jpg" group-title="FILMES | 2022",Catarina, a Menina Chamada Passarinha (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Convite Maldito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JdYO1vmuDcqVgZD3nPEpdX7GvI.jpg" group-title="FILMES | 2022",Convite Maldito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esposa de Aluguel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="FILMES | 2022",Esposa de Aluguel (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lar dos Esquecidos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fApMyuO562IDcpxhilpeehrEJXW.jpg" group-title="FILMES | 2022",Lar dos Esquecidos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobisomem na Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg" group-title="FILMES | 2022",Lobisomem na Noite (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster High: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="FILMES | 2022",Monster High: O Filme (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lendário Cão Guerreiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg" group-title="FILMES | 2022",O Lendário Cão Guerreiro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Meme do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg" group-title="FILMES | 2022",O Meme do Mal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Telefone do Sr. Harrigan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JptBMGTikUK4CxJpG9cNTYAGjV.jpg" group-title="FILMES | 2022",O Telefone do Sr. Harrigan (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Time da Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg" group-title="FILMES | 2022",O Time da Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os 13 Sobreviventes da Caverna (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF55KYpT70qho6PkJf4NQpgjNdL.jpg" group-title="FILMES | 2022",Os 13 Sobreviventes da Caverna (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg" group-title="FILMES | 2022",They/Them: O Acampamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Garota de Muita Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg" group-title="FILMES | 2022",Uma Garota de Muita Sorte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ameaça A Bordo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg" group-title="FILMES | 2022",Ameaça A Bordo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="FILMES | 2022",A Maldição de Bridge Hollow (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assalto na Paulista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg" group-title="FILMES | 2022",Assalto na Paulista (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg" group-title="FILMES | 2022",Blackout (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Balconista 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg" group-title="FILMES | 2022",O Balconista 3 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Palestrante (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg" group-title="FILMES | 2022",O Palestrante (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rosalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg" group-title="FILMES | 2022",Rosalina (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="FILMES | 2022",A Luta de uma Vida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="FILMES | 2022",A Madrasta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="FILMES | 2022",Argentina, 1985 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Garota do Século 20 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3NhZq5IMw9c7vSoP2Z1GsQOJo.jpg" group-title="FILMES | 2022",Garota do Século 20 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmLxwOnUFL5NQSCSY9cwtXFR1m.jpg" group-title="FILMES | 2022",Jaula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Cuidado Com Meu Poder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjfcOlpNZocBB3lbw8KHMPT9Ov4.jpg" group-title="FILMES | 2022",Lanterna Verde: Cuidado Com Meu Poder (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite de Sustos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg" group-title="FILMES | 2022",Noite de Sustos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Desconhecido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg" group-title="FILMES | 2022",O Desconhecido (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="FILMES | 2022",Panamá (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perigo no Grupo de Mães (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg" group-title="FILMES | 2022",Perigo no Grupo de Mães (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Phobias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" group-title="FILMES | 2022",Phobias (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKZmSQHD17JjGUYkluhpttgJRi.jpg" group-title="FILMES | 2022",Raymond & Ray (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ronaldo, O Fenômeno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNlwArDpdG60HCtmjxMEpVu0WLO.jpg" group-title="FILMES | 2022",Ronaldo, O Fenômeno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rubikon: Ponto Sem Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2uZmhVk6lkqierZLFnBHnL24q.jpg" group-title="FILMES | 2022",Rubikon: Ponto Sem Retorno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Órfã 2: A Origem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg" group-title="FILMES | 2022",Órfã 2: A Origem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada de Novo no Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg" group-title="FILMES | 2022",Nada de Novo no Front (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corra, Querida, Corra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" group-title="FILMES | 2022",Corra, Querida, Corra (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="FILMES | 2022",Depois do Universo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ingresso Para o Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="FILMES | 2022",Ingresso Para o Paraíso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Men: Faces do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg" group-title="FILMES | 2022",Men: Faces do Medo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morte, Morte, Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veTVl90P4lStxOLYNFn8bXozNcZ.jpg" group-title="FILMES | 2022",Morte, Morte, Morte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Se Preocupe, Querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="FILMES | 2022",Não Se Preocupe, Querida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Lugar Errado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFlGsQVzmzBei9D95RtSLCyZS6D.jpg" group-title="FILMES | 2022",No Lugar Errado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noites Brutais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg" group-title="FILMES | 2022",Noites Brutais (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Enfermeiro da Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg" group-title="FILMES | 2022",O Enfermeiro da Noite (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Monastério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3retN9fNG3fXJlUjasDsyfZqT7T.jpg" group-title="FILMES | 2022",O Monastério (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mundo de Mia: A Esperança de Centopia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg" group-title="FILMES | 2022",O Mundo de Mia: A Esperança de Centopia (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Céus do Norte sobre o Vazio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg" group-title="FILMES | 2022",Os Céus do Norte sobre o Vazio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quatro Gerações (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmbpeBp9qeCFj94f6NtMd7Sssge.jpg" group-title="FILMES | 2022",Quatro Gerações (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roubando Mussolini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4JxW3rWsOF87XNeAoeewESrMY.jpg" group-title="FILMES | 2022",Roubando Mussolini (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sala de Espionagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg" group-title="FILMES | 2022",Sala de Espionagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Rio Muito Frio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg" group-title="FILMES | 2022",Um Rio Muito Frio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vento Selvagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg" group-title="FILMES | 2022",Vento Selvagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y33paUKgDhJrdsvNDiGjltYkWau.jpg" group-title="FILMES | 2022",Vingança Fatal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wendell & Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg" group-title="FILMES | 2022",Wendell & Wild (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="FILMES | 2022",Enola Holmes 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg" group-title="FILMES | 2022",Fúria de Titãs 2 (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="FILMES | 2022",A Bravura de Molly (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trAGoCXjkCpZUNHxzrFtMqLj8sN.jpg" group-title="FILMES | 2022",A Espera de Liz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="FILMES | 2022",A Jaula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="FILMES | 2022",A Matriarca (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="FILMES | 2022",Alice (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caça Implacável (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUQ898w7faH39KpMA64v59PKRoV.jpg" group-title="FILMES | 2022",Caça Implacável (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuN7KfZCnm9WmZNiPeg6HUBsANz.jpg" group-title="FILMES | 2022",Curtas dos Minions 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Futebol em Apuros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg" group-title="FILMES | 2022",Futebol em Apuros (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Insanidade (2019)" tvg-logo="https://imgur.com/GAVOttR.jpg" group-title="FILMES | 2022",Insanidade (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogada De Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anvor6NY8DlQjAmIe67VqLbTvcn.jpg" group-title="FILMES | 2022",Jogada De Amor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg" group-title="FILMES | 2022",Medieval (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Policial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" group-title="FILMES | 2022",Meu Policial (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nossa Mãe é Para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg" group-title="FILMES | 2022",Nossa Mãe é Para Sempre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AjIDqNC37ML6fPidheFBYG2xVF.jpg" group-title="FILMES | 2022",O Cavaleiro do Rei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="FILMES | 2022",Overdose (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Passagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg" group-title="FILMES | 2022",Passagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Predestinado: Arigó e o Espírito do Dr. Fritz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx8v1E6t0GvUAUFdXjyE1L5D6qW.jpg" group-title="FILMES | 2022",Predestinado: Arigó e o Espírito do Dr. Fritz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Território Hostil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg" group-title="FILMES | 2022",Território Hostil (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Pitada de Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg" group-title="FILMES | 2022",Uma Pitada de Sorte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg" group-title="FILMES | 2022",Bala Perdida 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5GZWM1NmXtESsXxtXxoK8Pjtx.jpg" group-title="FILMES | 2022",Beleza (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrective Measures – Fuga da Prisão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIus2B83moSdfIkD4wD7tOaG5Y1.jpg" group-title="FILMES | 2022",Corrective Measures – Fuga da Prisão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duetto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbzUiyexmnCaCpu3RKWVwUNXIJ.jpg" group-title="FILMES | 2022",Duetto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Suas Mãos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTd3gRGk8a0rtHOWemdvOakVakR.jpg" group-title="FILMES | 2022",Em Suas Mãos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mônica, O My Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg" group-title="FILMES | 2022",Mônica, O My Darling (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Vá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg" group-title="FILMES | 2022",Não Vá (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dragão do Meu Pai (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg" group-title="FILMES | 2022",O Dragão do Meu Pai (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Milagre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="FILMES | 2022",O Milagre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Promoção do Século (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvCXkSo9yHPeN1N3CntYONjE1ez.jpg" group-title="FILMES | 2022",Promoção do Século (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Racionais: Das Ruas de São Paulo Pro Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="FILMES | 2022",Racionais: Das Ruas de São Paulo Pro Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sorria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDTXsc8uzJuvPLvfFBXTf9rYyTf.jpg" group-title="FILMES | 2022",Sorria (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: Terra do Boneco de Neve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDR6w0O7QcUeEjp4DxO6NweI3Ls.jpg" group-title="FILMES | 2022",Tom & Jerry: Terra do Boneco de Neve (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Quedinha de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg" group-title="FILMES | 2022",Uma Quedinha de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Não Estará Só! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg" group-title="FILMES | 2022",Você Não Estará Só! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X: A Marca da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg" group-title="FILMES | 2022",X: A Marca da Morte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desencantada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg" group-title="FILMES | 2022",Desencantada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg" group-title="FILMES | 2022",Terra dos Sonhos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: As Consequências do Caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rPYzUYdBOccDvIxASFZBVaWUj.jpg" group-title="FILMES | 2022",7 Denúncias: As Consequências do Caso COVID-19 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aventura de Blue na Cidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg" group-title="FILMES | 2022",A Grande Aventura de Blue na Cidade (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg" group-title="FILMES | 2022",Cisne Negro (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Confinamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV5vEMXsCKakk2usQ4QLhiJa00h.jpg" group-title="FILMES | 2022",Em Confinamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dahmer (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZPrXBXYf2s4VztHdQpd0441jF6.jpg" group-title="FILMES | 2022",Dahmer (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Bilhete Premiado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0FBgHdLW4PTEhybUTDrsWasahS.jpg" group-title="FILMES | 2022",Em Busca do Bilhete Premiado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frank & Penelope - Até que a Morte nos Separe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg" group-title="FILMES | 2022",Frank & Penelope - Até que a Morte nos Separe (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Maravilhoso Outono do Mickey Mouse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLVcwkgQ0nPLlE8lg0XbFxPdX5t.jpg" group-title="FILMES | 2022",O Maravilhoso Outono do Mickey Mouse (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Odiados do Casamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQZKw9jetOInPPdSZgbKFxJALHc.jpg" group-title="FILMES | 2022",Os Odiados do Casamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roubo Entre Ladrões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg" group-title="FILMES | 2022",Roubo Entre Ladrões (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Save the Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="FILMES | 2022",Save the Cinema (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! Gostosuras ou Travessuras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkd1zT65LEFieZlIltNxcUnzGNr.jpg" group-title="FILMES | 2022",Scooby-Doo! Gostosuras ou Travessuras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg" group-title="FILMES | 2022",The Phantom of the Open (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Halloween Ends (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD2YiqLp5vXq7l2V3iYC7usWYXD.jpg" group-title="FILMES | 2022",Halloween Ends (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" group-title="FILMES | 2022",As Nadadoras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Gold Brick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="FILMES | 2022",Big Gold Brick (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Malcolm's List (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="FILMES | 2022",Mr. Malcolm's List (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Garoto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AwndqKMSVBmipyMu9qorzEVLMA.jpg" group-title="FILMES | 2022",O Bom Garoto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plano de Aula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QE0YczuK6RMTvRY6uBa2t65kY7.jpg" group-title="FILMES | 2022",Plano de Aula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Estranho em Nossa Cama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTw9NlecsL5LYM6JQLogjC1sypD.jpg" group-title="FILMES | 2022",Um Estranho em Nossa Cama (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93604.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES Romance .xml"
 ############## FILMES Romance ################# 
@@ -5282,11 +5381,97 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/9527.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/23376.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/25475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Emoção: Além do Limite (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1kcojadmCqDM8sqLR8APnYu1lx.jpg" group-title="Guerra/ Policial",Caçadores de Emoção: Além do Limite (2015)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Frenética (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aevqb0AIthxiVIQI3CCkhQy8JYw.jpg" group-title="Guerra/ Policial",Busca Frenética (1988)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglórios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg" group-title="Guerra/ Policial",Bastardos Inglórios (2009)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastardoz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac9cLKaSWBRtdOEFzOZkm2YnhUh.jpg" group-title="Guerra/ Policial",Bastardoz (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" group-title="Guerra/ Policial",Até o Último Homem (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atraídos Pelo Crime (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVmWICU5rTu9t7B8CwdlIaHRa63.jpg" group-title="Guerra/ Policial",Atraídos Pelo Crime (2009)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás da Linha: Fuga para Dunkirk (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg" group-title="Guerra/ Policial",Atrás da Linha: Fuga para Dunkirk (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ato de Coragem (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jwRYDsSEwJQhdBiiWgjvv7jZKX.jpg" group-title="Guerra/ Policial",Ato de Coragem (2012)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha do Caçador (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ind0vC70PbjQeLVYMqhSxGyjfpq.jpg" group-title="Guerra/ Policial",Armadilha do Caçador (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvo Triplo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWRI8Ew9RyJweGJycUfnaO6RtVY.jpg" group-title="Guerra/ Policial",Alvo Triplo (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8swZAUefTHzK8cCEpgLOXzBH7QE.jpg" group-title="Guerra/ Policial",A Última Jornada (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tragédia de Macbeth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIKT6a3bD44a5sY4vVdP4xSPm9f.jpg" group-title="Guerra/ Policial",A Tragédia de Macbeth (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face da Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg" group-title="Guerra/ Policial",A Outra Face da Guerra (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Guerra/ Policial",A Batalha Esquecida (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Guerra/ Policial",13 Horas: Os Soldados Secretos de Benghazi (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Beira do Abismo - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3TIOW2Ydoq54eXDGJprwu2cuGY.jpg" group-title="Guerra/ Policial",A Beira do Abismo - 2012
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph9s2yu65bQS5IDjKRPdEXoD3tC.jpg" group-title="Guerra/ Policial",A Fera da Guerra (1988)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Resistência (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSOmOm5PlJ3kEhkQJxtqMSeuWpQ.jpg" group-title="Guerra/ Policial",A Última Resistência (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne Frank, Minha Melhor Amiga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LEIoUuHQw1UhyyV8TCLNtO3E6g.jpg" group-title="Guerra/ Policial",Anne Frank, Minha Melhor Amiga (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock - O Super Comando (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntLGHv9mS1bQOio96kWBsXwUM96.jpg" group-title="Guerra/ Policial",Braddock - O Super Comando (1984)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 2 - O Início da Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daXL5a0BLjaFsN9CsCEf4J7HsIF.jpg" group-title="Guerra/ Policial",Braddock 2 - O Início da Missão (1985)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 3 - O Resgate (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGGMPMPZnyP4VRWatE1igyje4YY.jpg" group-title="Guerra/ Policial",Braddock 3 - O Resgate (1988)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Sem Limites (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPImEQzFOn2Ryjb2dRTAepKPCbf.jpg" group-title="Guerra/ Policial",Busca Sem Limites (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos na Prisão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOllmhr6pVWR18Prmp1dCMPVtw6.jpg" group-title="Guerra/ Policial",Caos na Prisão (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Bruta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/met0gYYNyQYCZS4uD0TW1SJyPwA.jpg" group-title="Guerra/ Policial",Carga Bruta (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10648.mp4
 
 #EXTM3U url-tvg="http://grade-de-Família Aventura.xml"
 ############## Família Aventura ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFamília Aventura" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Leão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="Família/ Aventura",A Menina e o Leão (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina que Acredita em Milagres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="Família/ Aventura",A Menina que Acredita em Milagres (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Família/ Aventura",A Lenda do Cavaleiro Negro (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJaIMHO88X5BWWnnirejsHtgQvF.jpg" group-title="Família/ Aventura",A Invenção de Hugo Cabret (2011)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg" group-title="Família/ Aventura",A Ilha da Fantasia (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="Família/ Aventura",A Família Noel (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Família/ Aventura",A Família Perfeita (2022)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="Família/ Aventura",A Extraordinária Garota Chamada Estrela (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estranha Vida de Timothy Green (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DzAiR21jQpuy832gIGCdUdnOvm.jpg" group-title="Família/ Aventura",A Estranha Vida de Timothy Green (2012)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWUTDVedmpG4RTFZ8oTy5IyG1jh.jpg" group-title="Família/ Aventura",A Caminho de Casa (2019)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="Família/ Aventura",A Batalha do Ano (2013)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz6rT9M05abWXlU964qJ151On47.jpg" group-title="Família/ Aventura",101 Dálmatas (1996)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas para o Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwhbcbG9N7yR9Wq5e0UZVAJqUy.jpg" group-title="Família/ Aventura",24 Horas para o Natal (2018)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusões (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="Família/ Aventura",8 Mile: Rua das Ilusões (2002)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada - 1986" tvg-logo="http://dns.clientetv.xyz:8000/images/3YdXKgHBg1JGry8xgb69Ftk0JiObrpmc.jpg" group-title="Família/ Aventura",A Encruzilhada - 1986
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fita Cassete (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" group-title="Família/ Aventura",A Fita Cassete (2021)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmandade do Dragão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXn6VkbTmH7wuoqCuTrTxmBPemG.jpg" group-title="Família/ Aventura",A Irmandade do Dragão (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Música do Silêncio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFLxGQ7YhH5Oc6XgHa2fXAfJTSE.jpg" group-title="Família/ Aventura",A Música do Silêncio (2017)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10538.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IyM08kfgW3iMThfJLSOcURgGvN.jpg" group-title="Família/ Aventura",Zoo: Uma Amizade Maior que a Vida (2018)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10605.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Família/ Aventura",13: O Musical (2022)
@@ -5397,10 +5582,7 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
 ############## FILMES  COLETÂNEA JACKIE CHAN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETÂNEA JACKIE CHAN" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN", JACKIE CHAN Fora do Rumo  (2016)
-http://7go.xyz:8080/movie/03xp0h/bk0kvq/294484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Agentes Vanguard  (2020)
-http://7go.xyz:8080/movie/03xp0h/bk0kvq/277876.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios
@@ -5503,6 +5685,31 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODE1NTk2NTJ9fX1dfQ__&Signature=I2ejIWvzniR44egjKLK2XpvV4XXpKhitfR891~K-hYqlJ1nvSNiUTEdAoEUR2~Z1Eth8C~-uYgRg2wLXkZ0DCSXQrObUWAWWHbwJd4Wo1nQt56DGBS08WiPCJ0GOGruRg2x~dU3jOFuPQjI6u7jaUF8T7ZunGI7dZ0S~U8uf4F3oAUd-IUA7MO90W9W0mEOqpOFlbqm2fnPUjeK4UPQnTNFe0etbri6cF4Rfm9-A2B6ncBzH-rU0GxmYsC~uCIIyGewlv7-R6O-PJj2ATZw2s2P0aE90F1gRcAiXZ9RwTkTjVb5dfoLStcZXVJMGkAlg6cHutp6xqwnEZL0o1gonrQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2015/09/florestaquesemove.jpg" group-title="FILMES | DRAMA RUN",A Floresta que se Move
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_0itnvx2p/v/1/pv/1/ev/9/flavorId/1_e1a8506o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8waXRudngycC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4MTU2MDEwOH19fV19&Signature=akiLe5SGexL7U2fx42u1odUtS7Qm7K0wB0ejKEt8ljy6BCHerkP~DoSjuqItFm10Sj1hX1iDfSz5gbt2fJ-MCWLMEAtlg3j2uiqmCp8UwYd2Maz0a799QVyPDNDvjMze8znwpvyZ2~~ylcuQiMpqkS8Lb9RM43wHE0L1Fg-wuPj0AbRdYI92hqR7gbdb8KKyyvvG67A5P0oZw0mWFHV3DlrBmo6x05Es7eosMAtUOB5TdlmJ8DeNfzIXdi57iAzvVuE15ANRyW4zgx8sxS5LIo5x1V7nkUA~xlgDuB5RIEemhkaNUtZrfSFpxXFMGZbQPDwAwVneKYZXeaZuy660bg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Alice no País das Maravilhas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjaiHtykx4LcHJLzhKhn7tNPpAj.jpg" group-title="Fantasia",Alice no País das Maravilhas (2010)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice Através do Espelho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io1bxt3XFPkIkkgujatzRfI8ftl.jpg" group-title="Fantasia",Alice Através do Espelho (2016)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice e Peter: Onde Nascem os Sonhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg" group-title="Fantasia",Alice e Peter: Onde Nascem os Sonhos (2020)
+http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60626.mp4
+
+
+
+
+
+
+
+
+
 
 #EXTM3U url-tvg="http://grade-de-FILMES  DRAMA CINEMA.xml"
 ############## FILMES  DRAMA CINEMA ################# 
@@ -5633,11 +5840,6 @@ https://play.prod.gcp.vix.services/morgue-story_pt/morgue-story_pt_1-1/play_v1_h
 https://play.prod.gcp.vix.services/lado-fora_pt/lado-fora_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inocência"tvg-logo="https://cdn.douradosnews.com.br/upload/dn_noticia/2016/11/581b342e61f5d8d36a1ce9f7791fb55994d4ce42a2818.jpg" group-title="FILMES |  NACIONAL CINEMA",Inocência
 https://play.prod.gcp.vix.services/inocencia-1983_pt/inocencia-1983_pt_1-1/play_v1_hls_1080p.m3u8
-
-
-
-
-
 
 #EXTM3U url-tvg="http://grade-de-FAX AUTISMO.xml"
 ############## FAX AUTISMO ################# 
@@ -6552,6 +6754,932 @@ http://pbrz.xyz:80/67531382/36606924/1323
 http://pbrz.xyz:80/67531382/36606924/1324
 #EXTINF:-1 tvg-logo="https://originaldave77.files.wordpress.com/2012/11/kitt-car-stereo-deck-knight-rider-2012-daves-geeky-ideas3.gif" group-title="FAX RADIOS |  AO VIVO", Hunter Tropical
 http://pbrz.xyz:80/67531382/36606924/1325
+
+############## DESENHOS ################# 
+
+#EXTM3U url-tvg="http://grade-de-Masha e Urso.xml"
+############## Masha e Urso ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeMasha e Urso" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=" Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Masha e Urso", Masha e Urso
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12467
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso",[24h] Contos da Masha
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12460
+
+#EXTM3U url-tvg="http://grade-de-Peppa | Pig.xml"
+############## Peppa | Pig ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePeppa | Pig" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qTetLcRIUcVUjeZTrIjUBdQGJLR.jpg" group-title="Peppa | Pig",Peppa Pig S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/r5gIBQldH1x9ner9xyTpCZlHFnL.jpg" group-title="Peppa | Pig",Peppa Pig S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5CBC0H9Ml9JcUDX8zJOQeVZwiLh.jpg" group-title="Peppa | Pig",Peppa Pig S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8zUeNoatpu5EM5rcsUwh9S8FSyf.jpg" group-title="Peppa | Pig",Peppa Pig S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qH57airEQY4UcRLModSqWwbIIGZ.jpg" group-title="Peppa | Pig",Peppa Pig S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/94t7Vbzo3pQ1Y1GLCYrqEYj8UlT.jpg" group-title="Peppa | Pig",Peppa Pig S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ibbMrOFhXqJhAVSjNM4Ug05l3BF.jpg" group-title="Peppa | Pig",Peppa Pig S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iR9bNDctFOmVx7rxmODD1qf6QUl.jpg" group-title="Peppa | Pig",Peppa Pig S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/51zGwslZjdQDvZnODJJMuJbHpyd.jpg" group-title="Peppa | Pig",Peppa Pig S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jNrm5f5lFLKBILvefufPLrFS7a0.jpg" group-title="Peppa | Pig",Peppa Pig S01 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/uJtpPIXjayfYUZ7opV1fpWyhW4F.jpg" group-title="Peppa | Pig",Peppa Pig S01 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/dAh84XNsCezE3kDci4FS1aimmMr.jpg" group-title="Peppa | Pig",Peppa Pig S01 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/eHMT8LPbMFUMl0ZrajvIitcJeE3.jpg" group-title="Peppa | Pig",Peppa Pig S01 E13
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7ZZHyXyVtneKKmGZlin9C0XeqrC.jpg" group-title="Peppa | Pig",Peppa Pig S02 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/w0qtAl0oROG28qabV0w1fSktLaD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/l5w5hrje0xjdsPpAWnoWl9geXT0.jpg" group-title="Peppa | Pig",Peppa Pig S02 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cOK4QbVoRWdsKZkAX4VfPMziuYM.jpg" group-title="Peppa | Pig",Peppa Pig S02 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/d1zDqKFljURyauhhebh8md4PuEH.jpg" group-title="Peppa | Pig",Peppa Pig S02 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/v8b5slZLKmPgxpE0yLYv4BNk20K.jpg" group-title="Peppa | Pig",Peppa Pig S02 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/aaCHoZExKt8UF2MpIjkgEwVfeNu.jpg" group-title="Peppa | Pig",Peppa Pig S02 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/pQPk39GCWrqFPl4ZXKGCMIxKpF7.jpg" group-title="Peppa | Pig",Peppa Pig S02 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/h2dpwr4oJf9cmay7lJksZzKmqdD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/atebY6QSjmcCoz7AgxiNkk0Dn6l.jpg" group-title="Peppa | Pig",Peppa Pig S02 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jDp25PRgO6e1KCmglMOgGRgeMKN.jpg" group-title="Peppa | Pig",Peppa Pig S02 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/4OfFGBZiGRkkZAIj5ghmxXz30g5.jpg" group-title="Peppa | Pig",Peppa Pig S02 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9sQubP4AAUfbLvY69CicGG36DDA.jpg" group-title="Peppa | Pig",Peppa Pig S02 E13
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gSXTtvlLuekCLe5iU1kSAeZB3AU.jpg" group-title="Peppa | Pig",Peppa Pig S03 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ogQ63KhD1CEdTOKIuFMHAOJgP8l.jpg" group-title="Peppa | Pig",Peppa Pig S03 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qm6Ut26KKg12PptzZ9ETwTOcuSa.jpg" group-title="Peppa | Pig",Peppa Pig S03 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dwYoqkHjmHO6gMDEeoK55oLtPR7.jpg" group-title="Peppa | Pig",Peppa Pig S03 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oAKfvXEP76x5DFpcjQqz3TTDNVB.jpg" group-title="Peppa | Pig",Peppa Pig S03 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/c1n5IkNBbPBj7EqCiPbz6Hk7SrK.jpg" group-title="Peppa | Pig",Peppa Pig S03 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3E4XGObv6vrK67BR52f4GRyaxUm.jpg" group-title="Peppa | Pig",Peppa Pig S04 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bYPNS8CKSbKhkdqFAfjhGMckS6Y.jpg" group-title="Peppa | Pig",Peppa Pig S04 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lnSPQxIM6q18DCoJGgnrmDmMGJa.jpg" group-title="Peppa | Pig",Peppa Pig S04 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5k1KlLmmFRbWpo0MofKIPWFR4o6.jpg" group-title="Peppa | Pig",Peppa Pig S04 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kQLM4nMopverB7J7hv81RWGWktC.jpg" group-title="Peppa | Pig",Peppa Pig S04 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mG2bFGBQOBAVX9sFukTh5dJF5y5.jpg" group-title="Peppa | Pig",Peppa Pig S04 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nW8jPEzx3Z6IwU4h0kTN8cs5arj.jpg" group-title="Peppa | Pig",Peppa Pig S04 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k2mfLJI2p3OBcnhGQkDC5YggXrv.jpg" group-title="Peppa | Pig",Peppa Pig S05 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/42qbkP93HJLopS9bEtvV9ghLGTs.jpg" group-title="Peppa | Pig",Peppa Pig S05 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pihXINeEJ1hdcVxwmPwsm5YuLuo.jpg" group-title="Peppa | Pig",Peppa Pig S05 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eA29TOsjpMdX6iTMyu3lyeWoXrM.jpg" group-title="Peppa | Pig",Peppa Pig S05 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/FZb96HzbVrHRedpqndrGplvI0.jpg" group-title="Peppa | Pig",Peppa Pig S05 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xPP8wRI4RW0ZeGZFAuVqX3Cm2Fi.jpg" group-title="Peppa | Pig",Peppa Pig S05 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ey540Va0Utk8Qk9ipQfiwAxamYx.jpg" group-title="Peppa | Pig",Peppa Pig S05 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48089.mp4
+
+23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O2NpSaVkj3ROeKzkJc6idOyl7c.jpg" group-title="Anime | Coelho Ricochete",Coelho Ricochete e Blau Blau S01 E23
+http://grtsvk.life:80/series/661282206/318344838/202831.mp4
+
+
+############## DESENHOS ################# 
+#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
+############## 24 Horas | Desenhos ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Tico e Teco e os Defensores da Lei" tvg-logo="https://imgur.com/iThMuhN.jpg" group-title="Desenhos 24hs",[24h] Tico e Teco e os Defensores da Lei
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12513
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Saiyajins" tvg-logo="https://imgur.com/gmAS5En.jpg" group-title="Desenhos 24hs",[24h] Dragon Ball Saiyajins
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12815
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Super
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11526
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/62/d1/07/62d107a4857a8a1045fd91c4c0a6d3ed.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Z
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11525
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragões: Equipe de Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6M2LtECJgfLbJ5b4JTjSnBa794.jpg" group-title="Desenhos 24hs",[24h] Dragões: Equipe de Resgate
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/895257
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragões: Equipe de Resgate Heróis do Céu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4lfRiOgDHROOaKheKWpA0x41J.jpg" group-title="Desenhos 24hs",[24h] Dragões: Equipe de Resgate Heróis do Céu
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/895256
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://imgur.com/hvV48Io.jpg" group-title="Desenhos 24hs",[24H] Du, Dudu e Edu
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82906
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="Desenhos 24hs",[24h] Eu sou Groot
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/88397
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Familia Adams" tvg-logo="https://imgur.com/7jqIP0m.jpg" group-title="Desenhos 24hs",[24h] Familia Adams
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82907
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dora Aventureira" tvg-logo="https://imgur.com/748k0Mk.jpg" group-title="Desenhos 24hs",[24h] Dora Aventureira
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12559
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Desenhos 24hs",[24h] Doug Funnie
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12506
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde" tvg-logo="https://media.fstatic.com/82nFeQAuHxVGLaFS6lnyCETWCfs=/fit-in/290x478/smart/media/movies/covers/2017/01/CourageTheCowardlyDog_S4.jpg" group-title="Desenhos 24hs",[24H] Coragem o Cão Covarde
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11523
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Clarencio: O Otimista" tvg-logo="https://imgur.com/i155zwM.jpg" group-title="Desenhos 24hs",[24h] Clarencio: O Otimista
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/86270
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos Assustadores da Masha" tvg-logo="https://imgur.com/UjWDGIK.jpg" group-title="Desenhos 24hs",[24h] Contos Assustadores da Masha
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12457
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Desenhos 24hs",[24h] Contos da Masha
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12460
+#EXTINF:-1 tvg-id="" tvg-name="[24H] De Volta pro Futuro" tvg-logo="https://imgur.com/Urghy0P.jpg" group-title="Desenhos 24hs",[24H] De Volta pro Futuro
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82905
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24hs",[24H] Denis O Pimentinha
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11468
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81XWfzzdgkL._SY445_.jpg" group-title="Desenhos 24hs",[24H] Digimon
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11530
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel o Tigre " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg" group-title="Desenhos 24hs",[24H] Daniel o Tigre 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84581
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel, o Caçador de Magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="Desenhos 24hs",[24h] Daniel, o Caçador de Magia
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/892990
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="Desenhos 24hs",[24h] Dragon Age: Absolvição
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/894019
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball" tvg-logo="https://1.bp.blogspot.com/-bGtjCourogk/W7Zo2QMWFmI/AAAAAAAAdHw/cYwp6tMm26k-gKLh3IPWfzK9kqUYdfHXwCLcBGAs/s1600/Screenshot_3.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11464
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Cell" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_j4WiRbSAkte3bx_fBNEHOsg5BNlhqEwnf2TKQZb1_Fc2DkNI" group-title="Desenhos 24hs",[24h] Dragon Ball - Cell
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13525
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Majin Boo" tvg-logo="https://imgur.com/4hJqz71.jpg" group-title="Desenhos 24hs",[24h] Dragon Ball - Majin Boo
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12776
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 1" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Clássico Parte 1
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11818
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 2" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Clássico Parte 2
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11819
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84580
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S01 E S02" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S01 E S02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12452
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S03 E S04" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S03 E S04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12453
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S05 E S06" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S05 E S06
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12454
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Zoom" tvg-logo="https://imgur.com/Pdw4KRS.jpg" group-title="Desenhos 24hs",[24h] Bob Zoom
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12455
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Jachie Chan" tvg-logo="https://imgur.com/5XAKMx5.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Jachie Chan
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12505
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Desenhos 24hs",[24H] As Aventuras de Jackie Chan
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11509
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEmcwvz5Zgz3YQqcHY4nqQXtqiOdtAKowFw&usqp=CAU" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12355
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnd61YaafVOfP0iYg9tZj3gYcaB.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftFTY3EZTTAP5RKfRijD8Q8PNQX.jpg" group-title="Desenhos 24hs",[24H] As Meninas Super Poderosas
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897967
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Meninas Superpoderosas Geração Z" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyma9skDvtn6drk7sFtfmbTV3Vb.jpg" group-title="Desenhos 24hs",[24h] As Meninas Superpoderosas Geração Z
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60312
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Tartarugas Ninja" tvg-logo="https://media.fstatic.com/BjNcbc_mKW-CyX9aw_aaOZqwYgM=/fit-in/290x478/smart/media/movies/covers/2011/12/122154e9da4f8c31e5cc2ca9ec21f205.jpg" group-title="Desenhos 24hs",[24h] As Tartarugas Ninja
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11828
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg" group-title="Desenhos 24hs",[24h] As Terríveis Aventuras de Billy e Mandy
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60310
+#EXTINF:-1 tvg-id="" tvg-name="[24h] As Trapalhadas de Flapjack" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2nywQCi0SxyBjlNrYHKkI9tgod.jpg" group-title="Desenhos 24hs",[24h] As Trapalhadas de Flapjack
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60311
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 " tvg-logo="https://imgur.com/PbAhK0I.jpg" group-title="Desenhos 24hs",[24h] Ben 10 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82783
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 Reboot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="Desenhos 24hs",[24h] Ben 10 Reboot
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60315
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Força Alienígena " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Força Alienígena 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60313
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Omniverse" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Omniverse
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60314
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Supremacia Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YgXSWdHpRU3KzlK47tD6a3E6nY.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Supremacia Alienígena
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60316
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Beyblade Burst" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg" group-title="Desenhos 24hs",[24h] Beyblade Burst
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60368
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Billy Dilley" tvg-logo="https://imgur.com/rJ4mSII.jpg" group-title="Desenhos 24hs",[24h] Billy Dilley
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82968
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Vida e As Aventuras de Juniper Lee" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5oQ2VTHS46ykMfFH6DeIjrfHp.jpg" group-title="Desenhos 24hs",[24h] A Vida e As Aventuras de Juniper Lee
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60302
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acampamento De Verão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63nHPbKbroWostjpq4WLjjmhma7.jpg" group-title="Desenhos 24hs",[24h] Acampamento De Verão
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60303
+#EXTINF:-1 tvg-id="" tvg-name="[24h] American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="Desenhos 24hs",[24h] American Dad!
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898166
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Andy e seu Esquilo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xxRUjFtXxkeVFW66MOBDkBP56qP.jpg" group-title="Desenhos 24hs",[24h] Andy e seu Esquilo
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60309
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 1" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 1
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12556
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 2" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 2
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12557
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S01" tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S01
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82742
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S02 " tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S02 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82743
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Mansão Foster para Amigos Imaginários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerZJVODYwji4BnyWrHFmF3JxhX.jpg" group-title="Desenhos 24hs",[24h] A Mansão Foster para Amigos Imaginários
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60294
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Desenhos 24hs",[24H] A Pequena Sereia
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82964
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snopy" tvg-logo="https://imgur.com/YkKUgZW.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snopy
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12501
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Manda Chuva" tvg-logo="https://imgur.com/rg88haZ.jpg" group-title="Desenhos 24hs",[24h] A Turma do Manda Chuva
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12464
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango  " tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Desenhos 24hs",[24H] A Vaca e o Frango  
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82782
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://imgur.com/8AHg0m5.jpg" group-title="Desenhos 24hs",[24h] 3 Palavrinhas
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/93444
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 44 Gatos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6UxiKbdcPJr15eTZWiEbldAzlS.jpg" group-title="Desenhos 24hs",[24H] 44 Gatos 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84502
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Formiga Atômica" tvg-logo="https://imgur.com/J7mfM5G.jpg" group-title="Desenhos 24hs",[24h] A Formiga Atômica
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12333
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bananas de Pijamas Desenho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAOv5rXl74n70BteqYDVHFhMfSc.jpg" group-title="Desenhos 24hs",[24H] Bananas de Pijamas Desenho
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84566
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Blaze e os Monster Machines" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDTuk6TxOzjzHzrcOw0w27nwHa6.jpg" group-title="Desenhos 24hs",[24H] Blaze e os Monster Machines
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84567
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bubbles Guppies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg" group-title="Desenhos 24hs",[24H] Bubbles Guppies
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84568
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Faisca e Fumaça " tvg-logo="http://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/faisca-500x5001-822a9d19b543653ccf15376338970104-640-0.jpg" group-title="Desenhos 24hs",[24H] Faisca e Fumaça 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84570
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Megaman Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lATtzpRx8MW1JisBb70s9N2y0wI.jpg" group-title="Desenhos 24hs",[24H] Megaman Clássico 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84582
+#EXTINF:-1 tvg-id="" tvg-name="[24h ]Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg" group-title="Desenhos 24hs",[24h ]Animaniacs
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/62798
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa do Mickey S01" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa do Mickey S01
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82739
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S02" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82740
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S03 S04 S05" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S03 S04 S05
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82741
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YU-YU-Hakusho" tvg-logo="https://i.imgur.com/31FLn06.png" group-title="24 Horas | Desenhos",[24H] YU-YU-Hakusho
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83750
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zatch Bell" tvg-logo="https://i.imgur.com/2mdIzFg.png" group-title="24 Horas | Desenhos",[24H] Zatch Bell
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/279
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="24 Horas | Desenhos",[24H] Zé Buscapé
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/278
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="24 Horas | Desenhos",[24H] Wally Gator
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/276
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="24 Horas | Desenhos",[24H] Wolverine e os X-Men
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152887
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="24 Horas | Séries",[24H] Xena
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83748
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148202
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62953
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83746
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148274
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="24 Horas | Desenhos",[24H] Tartarugas Ninjas
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83738
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/266
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="24 Horas | Premium",[24H] Thiago Ventura
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/140704
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83739
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/274
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83740
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="24 Horas | Desenhos",[24H] Tom & Jerry
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83742
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="24 Horas | Desenhos",[24H] Três Espiãs Demais
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83743
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="24 Horas | Desenhos",[24H] Turma da Mônica
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148201
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="24 Horas | Desenhos",[24H] Turma do Pateta
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62989
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83735
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152554
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152555
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="24 Horas | Desenhos",[24H] Speed-Racer
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/265
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="24 Horas | Desenhos",[24H] Steven Universe
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83736
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="24 Horas | Desenhos",[24H] Street Fighter 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162896
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156748
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162901
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/273
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83718
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83704
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83737
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152553
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="24 Horas | Desenhos",[24H] Princesa e o Dragão
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62982
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83731
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="24 Horas | Desenhos",[24H] Reino Gelado
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="24 Horas | Desenhos",[24H] Rimas de Berçário
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62966
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/280
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/269
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147951
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143686
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62976
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83732
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/270
+#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/281
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62957
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/271
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63000
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147949
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62990
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147947
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/264
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="24 Horas | Desenhos",[24H] Pato Donald
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62991
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169538
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 3
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169536
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 4
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169535
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 5
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83733
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 6
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83723
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83724
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147948
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146926
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146927
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83727
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148200
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62973
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83728
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147945
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62963
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62958
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83722
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83729
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/141023
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83695
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62968
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143799
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143805
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/70685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83697
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156043
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83700
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83701
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142121
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142122
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/155389
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62984
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/122179
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83707
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62988
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83708
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62997
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83709
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83710
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147946
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63005
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83713
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62955
+#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162898
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83720
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143800
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143801
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143802
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143803
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143804
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83721
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147155
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147156
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
+
+
+#EXTM3U url-tvg="http://grade-de-Desenhos 24hs.xml"
+############## Desenhos 24hs ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Desenhos 24hs",[24h] Masha e Urso
+http://dns.acaidopara.net:8080/21964291463/1964291463a/1246767
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mickey e Donald  " tvg-logo="https://imgur.com/n0eNtEN.jpg" group-title="Desenhos 24hs",[24h] Mickey e Donald  
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93448
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Mundo Bita: Bita e os Animais" tvg-logo="https://imgur.com/inZshfU.jpg" group-title="Desenhos 24hs",[24h] Mundo Bita: Bita e os Animais
+http://dns.acaidopara.net:8080/21964291463/1964291463a/83340
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Louie" tvg-logo="https://ottvsimg.ottvs.com.br/cov/mil.040006/0040006_335.jpg" group-title="Desenhos 24hs",[24H] Louie
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84574
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Love Death e Robots" tvg-logo="https://imgur.com/FX96pNI.jpg" group-title="Desenhos 24hs",[24h] Love Death e Robots
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show do Garfield" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBoB8LuB7uKs7MPrA2FSPLezrAO.jpg" group-title="Desenhos 24hs",[24H] O Show do Garfield
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84575
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Show Do Scooby Doo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geO8f6BdJ0E3OcJSzqyS3AakuEx.jpg" group-title="Desenhos 24hs",[24h] O Show Do Scooby Doo
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82957
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show dos Looney Tunes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIQBufoTtoAaHLdiWzfubH8z8gy.jpg" group-title="Desenhos 24hs",[24H] O Show dos Looney Tunes
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84583
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Maskara" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/O_mascara_desenho.jpg/200px-O_mascara_desenho.jpg" group-title="Desenhos 24hs",[24H] O Maskara
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11490
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Naruto_vol._01.jpg" group-title="Desenhos 24hs",[24H] Naruto
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11494
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação Big Hero" tvg-logo="https://imgur.com/PaUJ4jH.jpg" group-title="Desenhos 24hs",[24h] Operação Big Hero
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82963
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Pequeno Principe" tvg-logo="https://imgur.com/hmxIlBo.jpg" group-title="Desenhos 24hs",[24h] O Pequeno Principe
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12510
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Poderoso Chefinho" tvg-logo="https://imgur.com/XY8bMqs.jpg" group-title="Desenhos 24hs",[24h] O Poderoso Chefinho
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12468
+#EXTINF:-1 tvg-id="" tvg-name="[24h] O Príncipe Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toU4TDWAdP6PEkyozFgiFoVzb5U.jpg" group-title="Desenhos 24hs",[24h] O Príncipe Dragão
+http://dns.acaidopara.net:8080/21964291463/1964291463a/893002
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Jetsons" tvg-logo="https://imgur.com/kiNfPyJ.jpg" group-title="Desenhos 24hs",[24h] Os Jetsons
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82967
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12320
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 2000/2010" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons 2000/2010
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84576
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 2011/ 2020" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons 2011/ 2020
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84577
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Smurfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezQyM5cO454vUdLiLOkv78K64D.jpg" group-title="Desenhos 24hs",[24H] Os Smurfs
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84506
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S01 e S02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S01 e S02
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93522
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S03 e S04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S03 e S04
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93523
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pj Mask" tvg-logo="https://imgur.com/gYpRXUC.jpg" group-title="Desenhos 24hs",[24h] Pj Mask
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12558
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pocoyo" tvg-logo="https://imgur.com/kGiNACA.jpg" group-title="Desenhos 24hs",[24h] Pocoyo
+http://dns.acaidopara.net:8080/21964291463/1964291463a/897966
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pokémon Journeys" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/427px_s23_poster.png" group-title="Desenhos 24hs",[24h] Pokémon Journeys
+http://dns.acaidopara.net:8080/21964291463/1964291463a/68867
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Polly Pocket " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDYxiyiaqSNh4s3uxHlyMPRBH4R.jpg" group-title="Desenhos 24hs",[24H] Polly Pocket 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84505
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Polícia 24hs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZdtvjj4EmllVMCzq4aAQf4fLMN.jpg" group-title="Especiais 24hs ",[24H] Polícia 24hs
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84598
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jn0QP45EMhthIX9WbDnfUFkDGP3.jpg" group-title="Desenhos 24hs",[24H] Pica Pau Clássico 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84586
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Pica Pau " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXzRLE9Q1xuU19_b9KnZ3AKF4sJYWhVgkwS3LEkHOlpLxKiB-m" group-title="Desenhos 24hs",[24h] Pica Pau 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/16605
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Popeye" tvg-logo="https://imgur.com/MY5hS9E.jpg" group-title="Desenhos 24hs",[24h] Popeye
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12511
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Princesinha Sofia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k7JFHUFxhx0rDftXRPtBMkgU21.jpg" group-title="Desenhos 24hs",[24h] Princesinha Sofia
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93541
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Rick e Morty" tvg-logo="https://imgur.com/4VK4xCT.jpg" group-title="Desenhos 24hs",[24h] Rick e Morty
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12449
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="Desenhos 24hs",[24h] Scooby-Doo! Mistério S/A
+http://dns.acaidopara.net:8080/21964291463/1964291463a/890141
+#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra Clássico" tvg-logo="https://imgur.com/W1SsLlL.jpg" group-title="Desenhos 24hs",[24h] She-Ra Clássico
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12516
+#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra e as Princesas do Poder" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="Desenhos 24hs",[24h] She-Ra e as Princesas do Poder
+http://dns.acaidopara.net:8080/21964291463/1964291463a/83342
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Snoopy no Espaço" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2paY29KtHEnUgL6KGG3BwIuwTz.jpg" group-title="Desenhos 24hs",[24h] Snoopy no Espaço
+http://dns.acaidopara.net:8080/21964291463/1964291463a/83339
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Silverwanks" tvg-logo="https://www.themoviedb.org/t/p/w500/d0CEhfR8yohpXlnwxqdOhh78DYY.jpg" group-title="Desenhos 24hs",[24H] Silverwanks
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84584
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Sonic Boom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ibiGOAzumOIzCk8fHwv03jzYbj9.jpg" group-title="Desenhos 24hs",[24h] Sonic Boom
+http://dns.acaidopara.net:8080/21964291463/1964291463a/83341
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg" group-title="Desenhos 24hs",[24H] South Park
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11478
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Clone Wars" tvg-logo="https://imgur.com/oOQwlP3.jpg" group-title="Desenhos 24hs",[24h] Star Wars Clone Wars
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82959
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Rebels" tvg-logo="https://imgur.com/SMdNseL.jpg" group-title="Desenhos 24hs",[24h] Star Wars Rebels
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82960
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Resistance" tvg-logo="https://imgur.com/t0X2FBb.jpg" group-title="Desenhos 24hs",[24h] Star Wars Resistance
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82961
+#EXTINF:-1 tvg-id="" tvg-name="[24h] StoryBots: Hora da Resposta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg" group-title="Desenhos 24hs",[24h] StoryBots: Hora da Resposta
+http://dns.acaidopara.net:8080/21964291463/1964291463a/892991
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Street Fighter" tvg-logo="https://imgur.com/kIfJGSp.jpg" group-title="Desenhos 24hs",[24h] Street Fighter
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12500
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Shock" tvg-logo="https://imgur.com/usCdqdM.jpg" group-title="Desenhos 24hs",[24h] Super Shock
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12461
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Strikas" tvg-logo="https://imgur.com/xeJfpyB.jpg" group-title="Desenhos 24hs",[24h] Super Strikas
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82746
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Wings" tvg-logo="https://imgur.com/5Xbdq3q.jpg" group-title="Desenhos 24hs",[24h] Super Wings
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84987
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Surfista Prateado" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lhkt2MQhyoh2eLl71hewOjxMWKn.jpg" group-title="Desenhos 24hs",[24H] Surfista Prateado
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84578
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Teletubbies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kqS1PhOHoYosFMsx7prPO3dHEZu.jpg" group-title="Desenhos 24hs",[24h] Teletubbies
+http://dns.acaidopara.net:8080/21964291463/1964291463a/898938
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fz23hySaUzpE71CvwcZXMDwqK1u.jpg" group-title="Desenhos 24hs",[24H] Thundercats
+http://dns.acaidopara.net:8080/21964291463/1964291463a/897968
+#EXTINF:-1 tvg-id="" tvg-name="[24h] ThunderCats Classic" tvg-logo="https://imgur.com/jxLwM3r.jpg" group-title="Desenhos 24hs",[24h] ThunderCats Classic
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82971
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Tico e Teco e os Defensores da Lei" tvg-logo="https://imgur.com/iThMuhN.jpg" group-title="Desenhos 24hs",[24h] Tico e Teco e os Defensores da Lei
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12513
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Tigrão e Pooh" tvg-logo="https://imgur.com/1Nv3hEU.jpg" group-title="Desenhos 24hs",[24h] Tigrão e Pooh
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82969
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Timão e Pumba" tvg-logo="https://imgur.com/wGQURzj.jpg" group-title="Desenhos 24hs",[24h] Timão e Pumba
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12514
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom e Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Tom%26JerryTales.jpg/250px-Tom%26JerryTales.jpg" group-title="Desenhos 24hs",[24H] Tom e Jerry
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11471
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Três Espiães Demais" tvg-logo="https://imgur.com/Ue9lPBt.jpg" group-title="Desenhos 24hs",[24h] Três Espiães Demais
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82747
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ultimate Homem Aranha" tvg-logo="https://imgur.com/wctUQQw.jpg" group-title="Desenhos 24hs",[24h] Ultimate Homem Aranha
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82958
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhosos" tvg-logo="https://imgur.com/2MH3z16.jpg" group-title="Desenhos 24hs",[24h] Ursinhos Carinhosos
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12515
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Uma Familia da Pesada  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="Desenhos 24hs",[24H] Uma Familia da Pesada  
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93590
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhosos e Seus Primos" tvg-logo="https://imgur.com/NZsrEVd.jpg" group-title="Desenhos 24hs",[24h] Ursinhos Carinhosos e Seus Primos
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82784
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg" group-title="Desenhos 24hs",[24H] Wolverine e os X-Men 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84585
+#EXTINF:-1 tvg-id="" tvg-name="[24h] X-Men " tvg-logo="https://imgur.com/FZNU2gz.jpg" group-title="Desenhos 24hs",[24h] X-Men 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12755
+#EXTINF:-1 tvg-id="" tvg-name="[24h] X-Men Classic" tvg-logo="https://imgur.com/WPpfGJq.jpg" group-title="Desenhos 24hs",[24h] X-Men Classic
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12512
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Zak Storm" tvg-logo="https://imgur.com/WkK6kSe.jpg" group-title="Desenhos 24hs",[24h] Zak Storm
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82748
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dick Vigarista e Muttley" tvg-logo="https://imgur.com/JOArqc3.jpg" group-title="Desenhos 24hs",[24h] Dick Vigarista e Muttley
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12503
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81XWfzzdgkL._SY445_.jpg" group-title="Desenhos 24hs",[24H] Digimon
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11530
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dora Aventureira" tvg-logo="https://imgur.com/748k0Mk.jpg" group-title="Desenhos 24hs",[24h] Dora Aventureira
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12559
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24hs",[24H] Denis O Pimentinha
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11468
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Desenhos 24hs",[24h] Doug Funnie
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12506
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="Desenhos 24hs",[24h] Dragon Age: Absolvição
+http://dns.acaidopara.net:8080/21964291463/1964291463a/894019
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball" tvg-logo="https://1.bp.blogspot.com/-bGtjCourogk/W7Zo2QMWFmI/AAAAAAAAdHw/cYwp6tMm26k-gKLh3IPWfzK9kqUYdfHXwCLcBGAs/s1600/Screenshot_3.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11464
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel o Tigre " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg" group-title="Desenhos 24hs",[24H] Daniel o Tigre 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84581
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel, o Caçador de Magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="Desenhos 24hs",[24h] Daniel, o Caçador de Magia
+http://dns.acaidopara.net:8080/21964291463/1964291463a/892990
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FLY o Pequeno Guerreiro " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4kiKGYvJ2trpzBVCgkeGwCJuUt.jpg" group-title="Desenhos 24hs",[24H] FLY o Pequeno Guerreiro 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84504
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Freakazoid " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="Desenhos 24hs",[24H] Freakazoid 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84571
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://media.fstatic.com/MWsx05UCqls9zddFATf7pe2tm7I=/fit-in/290x478/smart/media/movies/covers/2012/02/f0d4523baca55a1d4cd815fee1bcdbbd.jpg" group-title="Desenhos 24hs",[24H] Futurama
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11568
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Futurama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5e8kAq9jpaSmgvFM10su5LXGFR.jpg" group-title="Desenhos 24hs",[24h] Futurama
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82954
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDktEhMaiA60t1DAdXBAsWBy4CykY7UFJLXLOHoF0b7u62pK30&s" group-title="Desenhos 24hs",[24H] Galinha Pintadinha
+http://dns.acaidopara.net:8080/21964291463/1964291463a/11504
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha Mini " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq4E9OZEMCST45IQnrkn0Atv6e.jpg" group-title="Desenhos 24hs",[24H] Galinha Pintadinha Mini 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/93540
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Gasparzinhos e seus Amigos" tvg-logo="https://imgur.com/hMaV9RW.jpg" group-title="Desenhos 24hs",[24h] Gasparzinhos e seus Amigos
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12517
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Gravity Falls" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg" group-title="Desenhos 24hs",[24H] Gravity Falls
+http://dns.acaidopara.net:8080/21964291463/1964291463a/84573
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="Desenhos 24hs",[24h] Eu sou Groot
+http://dns.acaidopara.net:8080/21964291463/1964291463a/88397
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Familia Adams" tvg-logo="https://imgur.com/7jqIP0m.jpg" group-title="Desenhos 24hs",[24h] Familia Adams
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82907
+#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man" tvg-logo="https://imgur.com/kwbHi70.jpg" group-title="Desenhos 24hs",[24h] He-Man
+http://dns.acaidopara.net:8080/21964291463/1964291463a/12507
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homens de Preto" tvg-logo="https://imgur.com/1FM00MQ.jpg" group-title="Desenhos 24hs",[24H] Homens de Preto
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82970
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Larva Tuba" tvg-logo="https://imgur.com/LmNHhyZ.jpg" group-title="Desenhos 24hs",[24h] Larva Tuba
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82909
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Leo o Caminhão" tvg-logo="https://imgur.com/332ZWaK.jpg" group-title="Desenhos 24hs",[24h] Leo o Caminhão
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82962
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Liga da Justiça sem Limites " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgFvSmYWs1Yn1u1GQnrwdpc88lT.jpg" group-title="Desenhos 24hs",[24h] Liga da Justiça sem Limites 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/56443
+
+#EXTM3U url-tvg="http://grade-de-DISNEY+Willow.xml"
+############## DISNEY+Willow ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDISNEY+Willow" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fNlo0TJqLRuwGoogMK7tRevFSqo.jpg" group-title="DISNEY+",Willow S01 E01
+http://meuplay.shop:80/series/828474929852/34882748924/83950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99HTgLOFtZotTtHRwkXQFAOrDjN.jpg" group-title="DISNEY+",Willow S01 E02
+http://meuplay.shop:80/series/828474929852/34882748924/83951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCQ44uUqo1t8RtLYVvmnLLNHCHh.jpg" group-title="DISNEY+",Willow S01 E03
+http://meuplay.shop:80/series/828474929852/34882748924/83952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGdTbrbnejZA917t8l4LyONhXd.jpg" group-title="DISNEY+",Willow S01 E04
+http://meuplay.shop:80/series/828474929852/34882748924/83953.mp4
+
+#EXTM3U url-tvg="http://grade-de-GLOBOPLAY Turma da Mônica.xml"
+############## GLOBOPLAY Turma da Mônica ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeGLOBOPLAY Turma da Mônica" group-title="
+
+http://meuplay.shop:80/series/828474929852/34882748924/80785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eWWTyTqXipqGqsGJOZ2T0evyJYQ.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E01
+http://meuplay.shop:80/series/828474929852/34882748924/80880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yQMJDLeL82AyGn1N79ZdLvLLrEe.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E02
+http://meuplay.shop:80/series/828474929852/34882748924/80881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYYBTWqjLUvmIAMKkNrgNWtdurM.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E03
+http://meuplay.shop:80/series/828474929852/34882748924/80882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwKJUzwCZFwnirFX4bmJLcJmggE.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E04
+http://meuplay.shop:80/series/828474929852/34882748924/80883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dJSwqauI6VNcZeIhh9LBfpTiRXJ.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E05
+http://meuplay.shop:80/series/828474929852/34882748924/80884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVO7GASjjEW2IlhbbSzq0MAc6o.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E06
+http://meuplay.shop:80/series/828474929852/34882748924/80885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ipJtbOYrXgVL7bvPSYRmhG3uVL.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E07
+http://meuplay.shop:80/series/828474929852/34882748924/80886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjZjowIsgLqOibhBp06DC35jdi.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E08
+http://meuplay.shop:80/series/828474929852/34882748924/80887.mp4
+
+#EXTM3U url-tvg="http://grade-de-Animes 24hs.xml"
+############## Animes 24hs ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeAnimes 24hs" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Cyberpunk: Mercenários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWvAY8yHE873adMws83XqBPf7W2.jpg" group-title="Animes 24hs",[24h] Cyberpunk: Mercenários
+http://dns.acaidopara.net:8080/21964291463/1964291463a/892655
+#EXTINF:-1 tvg-id="" tvg-name="[24h] D.Gray-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg" group-title="Animes 24hs",[24h] D.Gray-Man
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87563
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Magi: Aventuras de Sinbad" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmNFk9TeB8YoKEhrn2n8tWkBSVO.jpg" group-title="Animes 24hs",[24h] Magi: Aventuras de Sinbad
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87577
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kimetsu no Yaiba " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg" group-title="Animes 24hs",[24h] Kimetsu no Yaiba 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87566
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kuutei Dragons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6VOhuHfcuRvAALmCr8wDeH7Cbh.jpg" group-title="Animes 24hs",[24h] Kuutei Dragons
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87575
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Jujutsu Kaisen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGYaVtwWInTzAT6HOGyAj1BTqnB.jpg" group-title="Animes 24hs",[24h] Jujutsu Kaisen
+http://dns.acaidopara.net:8080/21964291463/1964291463a/890143
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Kakegurui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Animes 24hs",[24h] Kakegurui
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87682
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Godzilla Singular Point	" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/macY0UVe8ocAWq8WwYom25WC9Ps.jpg" group-title="Animes 24hs",[24h] Godzilla Singular Point	
+http://dns.acaidopara.net:8080/21964291463/1964291463a/56439
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ghost in the Shell: SAC_2045" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLHPuObVB8zSIoJFfsAYP365c1L.jpg" group-title="Animes 24hs",[24h] Ghost in the Shell: SAC_2045
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87576
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Fullmetal Alchemist: Brotherhood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czAcsWfKK3UOGxfo8djuFpnCx9I.jpg" group-title="Animes 24hs",[24h] Fullmetal Alchemist: Brotherhood
+http://dns.acaidopara.net:8080/21964291463/1964291463a/890144
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Fora de Órbita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLf2ZI9sPf8nLAJoSUIsz6scntM.jpg" group-title="Animes 24hs",[24h] Fora de Órbita
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87570
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dr. Stone" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/64DIVpWiGlvvJczMnyu8jojSYKm.jpg" group-title="Animes 24hs",[24h] Dr. Stone
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87567
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Death Note" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg" group-title="Animes 24hs",[24h] Death Note
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87565
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 1 " tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 1 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82894
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 2" tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 2
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82895
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Ultraman" tvg-logo="https://imgur.com/Pvxq4Vp.jpg" group-title="Animes 24hs",[24h] Ultraman
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82890
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Yu Yu Hakusho " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j6dzDPkrAsfJ6GUyyMPz38ZkpbF.jpg" group-title="Animes 24hs",[24h] Yu Yu Hakusho 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87572
+#EXTINF:-1 tvg-id="" tvg-name="[24h] SWORDGAI The Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSWy4281JWgXcnI4HqBjDf7Umho.jpg" group-title="Animes 24hs",[24h] SWORDGAI The Animation
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87573
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Dragon Ball Heroes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Animes 24hs",[24h] Super Dragon Ball Heroes
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82780
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Tekken: Bloodline" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQTieStX2SRYL3h2Bf1ZrJkji7R.jpg" group-title="Animes 24hs",[24h] Tekken: Bloodline
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87683
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 1" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 1
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82788
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 2" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 2
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82789
+#EXTINF:-1 tvg-id="" tvg-name="[24h] One Piece" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" group-title="Animes 24hs",[24h] One Piece
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87584
+#EXTINF:-1 tvg-id="" tvg-name="[24h] One Punch Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="Animes 24hs",[24h] One Punch Man
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87587
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Onyx Equinox" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCPi4hXHjLQWv7j2TVsWoLE99Uw.jpg" group-title="Animes 24hs",[24h] Onyx Equinox
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87586
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saintia Shô" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLypgWEWGpBUJ6EDfPEdixJprbg.jpg" group-title="Animes 24hs",[24h] Os Cavaleiros do Zodíaco: Saintia Shô
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87579
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Piano no Mori " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg" group-title="Animes 24hs",[24h] Piano no Mori 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87578
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Record of Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg" group-title="Animes 24hs",[24h] Record of Ragnarok
+http://dns.acaidopara.net:8080/21964291463/1964291463a/56437
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Sailor Moon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeT71d_hA6xMd9zlRKh2ClYPx7C9vjJwMFuAGijg71GcupM8dX" group-title="Animes 24hs",[24h] Sailor Moon
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82893
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Sakura Card Captors" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dj0uI34MOkZMTE233tfRebs0YYx.jpg" group-title="Animes 24hs",[24h] Sakura Card Captors
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87561
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai 7" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HTBA7QrGSQD6bXBbwL0lLABY29.jpg" group-title="Animes 24hs",[24h] Samurai 7
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87580
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X - Parte 1 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imnien8hkGeoRuMPnnjyAh2qIdc.jpg" group-title="Animes 24hs",[24h] Samurai X - Parte 1 
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82891
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imnien8hkGeoRuMPnnjyAh2qIdc.jpg" group-title="Animes 24hs",[24h] Samurai X - Parte 2
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82892
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Seiren" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/acz4astonaJXe1qoH41ukRis2zC.jpg" group-title="Animes 24hs",[24h] Seiren
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87581
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Seis Punhos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLIC5AigbrUYP2vHoBhmm687nnF.jpg" group-title="Animes 24hs",[24h] Seis Punhos
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87582
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Shenmue the Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/owwTW4OVSG1IbU9gpVgRHbD6Dgz.jpg" group-title="Animes 24hs",[24h] Shenmue the Animation
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87583
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Shurato" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CrlgdCfOrZQRO1KdNBvnZWAzxq.jpg" group-title="Animes 24hs",[24h] Shurato
+http://dns.acaidopara.net:8080/21964291463/1964291463a/87585
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S01 S02 S03" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S01 S02 S03
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82785
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S04 S05 S06" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S04 S05 S06
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82786
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S07 S08 S09" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S07 S08 S09
+http://dns.acaidopara.net:8080/21964291463/1964291463a/82787
+
+#EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
+############## Infantil Car City ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeInfantil Car City" group-title="
+
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x1
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x2
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x3
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9Zb24cdNGwqmskkixOO3hXSbVQwTGnHKJsq3JC_M6sPSOBp_JUL1suP6jc_EAIzMj6E&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x4
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jQZAQLac62Fmndp8sAySHxTvlNAHpC24BWFgUBTlCcJyWj9AJCB1BD3q-QHdobZ3ODk&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x5
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Efo9ElFAG5w/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x6
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-6/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3aG9Jhd5WES8_AmOs8q5aiXf8zvvwCeNRauowf-Qgaw80GrK4A46BOUn0AWZFwABH60&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x7
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-7/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUzBA4fZ4-Lbd30WwN3uydTkIvcPK64d2wsLrt0ko_oOZCBO34vyYE6iD136eeNn3IWs&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x8
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-8/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/hGcFzQP9Scs/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x9
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-9/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SR6YX2AilUc/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x1
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-10/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7MKh9oEW0Xg/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x2
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-11/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/21Ovygff7bg/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x3
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-12/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Iq3QnHPKovc/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x4
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-13/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/HgX8876NvPc/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x5
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-14/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/486QcMTOz84/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAfiK03_HH7NR8dG-xCKGP6NRIG9Q" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x6
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-15/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fMPrIOTJDLE/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x7
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-16/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Hiz2fFh7Azs/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x8
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-17/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/aiSQvPPAYgU/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x9
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-18/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/3PTxblOGVkM/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x1
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-19/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Jreh1ElkZaM/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x2
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-20/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gb0l3P0gJm0/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x3
+https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-21/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/I6V_xMqORkw/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x4      
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-WD9pC7UADs/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x5
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Yf2ZtgiMlDk/mqdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x6
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6KJwDlOByks/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x7
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/eJ1NLN6j2i0/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x8
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jJa7B9nNpwk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x9
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-6/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/mOKfsUegbyY/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x1
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-7/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/B-2w9rfzoUo/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x2
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-8/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/cPzDKt0Ncu8/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x3
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-9/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/85/87/79/858779b5aa98f9e651b45a574054c99b.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x4
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-10/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/8BEyTW_xTgs/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x5
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-11/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SDXaj_YHl_4/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x6
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-12/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6KJwDlOByks/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x7
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-14/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/mil.047288/looke_1010_670.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x8
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-15/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a96ea8bc0ec7c76003c355098544db51c7412b77e5e795bad91bb65a11fbee5._RI_V_TTW_.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x9
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-16/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7giDUS8V5UI/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x1
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/wd0Yk9h2LYk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x2
+https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-Patati Patatá .xml"
+############## Patati Patatá ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePatati Patatá" group-title="
+
+#EXTINF:-1 tvg-logo="https://bologuarana.com.br/wp-content/uploads/sites/3/2022/06/gif-patati-patata-festa-infantil.gif" group-title="Patati Patatá | Patati Patatá",Patatoons
+https://play.prod.gcp.vix.services/patatoons/patatoons_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/ClumsyTediousBlackbird-size_restricted.giff" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Carrossel
+https://play.prod.gcp.vix.services/pat-vida-carrossel_pt/pat-vida-carrossel_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/5-23-2018/z1UvD2.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Fantasia
+https://play.prod.gcp.vix.services/pat-vida-fantasia_pt/pat-vida-fantasia_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://media.tenor.com/W4LbQ_gZueMAAAAC/mara-maravilha-patati-patata.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Imaginação
+https://play.prod.gcp.vix.services/pat-vida-imaginacao_pt/pat-vida-imaginacao_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Tudo Que Eu Preciso
+https://play.prod.gcp.vix.services/pat-vida-preciso_pt/pat-vida-preciso_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Amigos do Peito
+https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
+https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
 
 #EXTM3U url-tvg="http://grade-de-NETFLIX",Henry Danger.xml"
 ############## NETFLIX",Henry Danger ################# 
@@ -10427,788 +11555,94 @@ https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
 https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
 
-############## DESENHOS ################# 
-
-#EXTM3U url-tvg="http://grade-de-Masha e Urso.xml"
-############## Masha e Urso ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeMasha e Urso" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Masha e Urso", Masha e Urso
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12467
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso",[24h] Contos da Masha
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12460
-
-#EXTM3U url-tvg="http://grade-de-Peppa | Pig.xml"
-############## Peppa | Pig ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePeppa | Pig" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qTetLcRIUcVUjeZTrIjUBdQGJLR.jpg" group-title="Peppa | Pig",Peppa Pig S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/r5gIBQldH1x9ner9xyTpCZlHFnL.jpg" group-title="Peppa | Pig",Peppa Pig S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5CBC0H9Ml9JcUDX8zJOQeVZwiLh.jpg" group-title="Peppa | Pig",Peppa Pig S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8zUeNoatpu5EM5rcsUwh9S8FSyf.jpg" group-title="Peppa | Pig",Peppa Pig S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qH57airEQY4UcRLModSqWwbIIGZ.jpg" group-title="Peppa | Pig",Peppa Pig S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/94t7Vbzo3pQ1Y1GLCYrqEYj8UlT.jpg" group-title="Peppa | Pig",Peppa Pig S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ibbMrOFhXqJhAVSjNM4Ug05l3BF.jpg" group-title="Peppa | Pig",Peppa Pig S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iR9bNDctFOmVx7rxmODD1qf6QUl.jpg" group-title="Peppa | Pig",Peppa Pig S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/51zGwslZjdQDvZnODJJMuJbHpyd.jpg" group-title="Peppa | Pig",Peppa Pig S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jNrm5f5lFLKBILvefufPLrFS7a0.jpg" group-title="Peppa | Pig",Peppa Pig S01 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/uJtpPIXjayfYUZ7opV1fpWyhW4F.jpg" group-title="Peppa | Pig",Peppa Pig S01 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/dAh84XNsCezE3kDci4FS1aimmMr.jpg" group-title="Peppa | Pig",Peppa Pig S01 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/eHMT8LPbMFUMl0ZrajvIitcJeE3.jpg" group-title="Peppa | Pig",Peppa Pig S01 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7ZZHyXyVtneKKmGZlin9C0XeqrC.jpg" group-title="Peppa | Pig",Peppa Pig S02 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/w0qtAl0oROG28qabV0w1fSktLaD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/l5w5hrje0xjdsPpAWnoWl9geXT0.jpg" group-title="Peppa | Pig",Peppa Pig S02 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cOK4QbVoRWdsKZkAX4VfPMziuYM.jpg" group-title="Peppa | Pig",Peppa Pig S02 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/d1zDqKFljURyauhhebh8md4PuEH.jpg" group-title="Peppa | Pig",Peppa Pig S02 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/v8b5slZLKmPgxpE0yLYv4BNk20K.jpg" group-title="Peppa | Pig",Peppa Pig S02 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/aaCHoZExKt8UF2MpIjkgEwVfeNu.jpg" group-title="Peppa | Pig",Peppa Pig S02 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/pQPk39GCWrqFPl4ZXKGCMIxKpF7.jpg" group-title="Peppa | Pig",Peppa Pig S02 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/h2dpwr4oJf9cmay7lJksZzKmqdD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/atebY6QSjmcCoz7AgxiNkk0Dn6l.jpg" group-title="Peppa | Pig",Peppa Pig S02 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jDp25PRgO6e1KCmglMOgGRgeMKN.jpg" group-title="Peppa | Pig",Peppa Pig S02 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/4OfFGBZiGRkkZAIj5ghmxXz30g5.jpg" group-title="Peppa | Pig",Peppa Pig S02 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9sQubP4AAUfbLvY69CicGG36DDA.jpg" group-title="Peppa | Pig",Peppa Pig S02 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gSXTtvlLuekCLe5iU1kSAeZB3AU.jpg" group-title="Peppa | Pig",Peppa Pig S03 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ogQ63KhD1CEdTOKIuFMHAOJgP8l.jpg" group-title="Peppa | Pig",Peppa Pig S03 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qm6Ut26KKg12PptzZ9ETwTOcuSa.jpg" group-title="Peppa | Pig",Peppa Pig S03 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dwYoqkHjmHO6gMDEeoK55oLtPR7.jpg" group-title="Peppa | Pig",Peppa Pig S03 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oAKfvXEP76x5DFpcjQqz3TTDNVB.jpg" group-title="Peppa | Pig",Peppa Pig S03 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/c1n5IkNBbPBj7EqCiPbz6Hk7SrK.jpg" group-title="Peppa | Pig",Peppa Pig S03 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3E4XGObv6vrK67BR52f4GRyaxUm.jpg" group-title="Peppa | Pig",Peppa Pig S04 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bYPNS8CKSbKhkdqFAfjhGMckS6Y.jpg" group-title="Peppa | Pig",Peppa Pig S04 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lnSPQxIM6q18DCoJGgnrmDmMGJa.jpg" group-title="Peppa | Pig",Peppa Pig S04 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5k1KlLmmFRbWpo0MofKIPWFR4o6.jpg" group-title="Peppa | Pig",Peppa Pig S04 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kQLM4nMopverB7J7hv81RWGWktC.jpg" group-title="Peppa | Pig",Peppa Pig S04 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mG2bFGBQOBAVX9sFukTh5dJF5y5.jpg" group-title="Peppa | Pig",Peppa Pig S04 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nW8jPEzx3Z6IwU4h0kTN8cs5arj.jpg" group-title="Peppa | Pig",Peppa Pig S04 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k2mfLJI2p3OBcnhGQkDC5YggXrv.jpg" group-title="Peppa | Pig",Peppa Pig S05 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/42qbkP93HJLopS9bEtvV9ghLGTs.jpg" group-title="Peppa | Pig",Peppa Pig S05 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pihXINeEJ1hdcVxwmPwsm5YuLuo.jpg" group-title="Peppa | Pig",Peppa Pig S05 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eA29TOsjpMdX6iTMyu3lyeWoXrM.jpg" group-title="Peppa | Pig",Peppa Pig S05 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/FZb96HzbVrHRedpqndrGplvI0.jpg" group-title="Peppa | Pig",Peppa Pig S05 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xPP8wRI4RW0ZeGZFAuVqX3Cm2Fi.jpg" group-title="Peppa | Pig",Peppa Pig S05 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ey540Va0Utk8Qk9ipQfiwAxamYx.jpg" group-title="Peppa | Pig",Peppa Pig S05 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48089.mp4
-
-23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O2NpSaVkj3ROeKzkJc6idOyl7c.jpg" group-title="Anime | Coelho Ricochete",Coelho Ricochete e Blau Blau S01 E23
-http://grtsvk.life:80/series/661282206/318344838/202831.mp4
 
 
-############## DESENHOS ################# 
 
-#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
-############## 24 Horas | Desenhos ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
+#EXTM3U url-tvg="http://grade-de-Especiais 24hs.xml"
+############## Especiais 24hs ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeEspeciais 24hs" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YU-YU-Hakusho" tvg-logo="https://i.imgur.com/31FLn06.png" group-title="24 Horas | Desenhos",[24H] YU-YU-Hakusho
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83750
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Zatch Bell" tvg-logo="https://i.imgur.com/2mdIzFg.png" group-title="24 Horas | Desenhos",[24H] Zatch Bell
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/279
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="24 Horas | Desenhos",[24H] Zé Buscapé
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/278
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="24 Horas | Desenhos",[24H] Wally Gator
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/276
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="24 Horas | Desenhos",[24H] Wolverine e os X-Men
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152887
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="24 Horas | Séries",[24H] Xena
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83748
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148202
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62953
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83746
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148274
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="24 Horas | Desenhos",[24H] Tartarugas Ninjas
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83738
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/266
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="24 Horas | Premium",[24H] Thiago Ventura
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/140704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83739
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/274
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83740
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="24 Horas | Desenhos",[24H] Tom & Jerry
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83742
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="24 Horas | Desenhos",[24H] Três Espiãs Demais
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83743
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="24 Horas | Desenhos",[24H] Turma da Mônica
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148201
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="24 Horas | Desenhos",[24H] Turma do Pateta
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62989
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83735
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152554
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152555
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="24 Horas | Desenhos",[24H] Speed-Racer
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/265
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="24 Horas | Desenhos",[24H] Steven Universe
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83736
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="24 Horas | Desenhos",[24H] Street Fighter 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162896
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83757
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156748
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162901
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/273
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83718
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83737
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152553
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="24 Horas | Desenhos",[24H] Princesa e o Dragão
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62982
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83731
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="24 Horas | Desenhos",[24H] Reino Gelado
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="24 Horas | Desenhos",[24H] Rimas de Berçário
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62966
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/280
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/269
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147951
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147991
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62976
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83732
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/270
-#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/281
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62957
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/271
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62980
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63000
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147949
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62990
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62979
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147947
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/264
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="24 Horas | Desenhos",[24H] Pato Donald
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62991
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169538
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 3
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169536
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 4
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169535
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 5
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83733
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 6
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83723
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83724
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147948
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146926
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146927
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83727
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148200
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62973
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83728
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147945
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62963
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62958
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83722
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83729
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147950
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/141023
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154892
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162900
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83695
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62968
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143799
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143805
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/70685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83697
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156043
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83700
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83701
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142121
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142122
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62994
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/155389
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62984
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/122179
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156744
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62996
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83707
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62981
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62988
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83708
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62997
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62993
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83709
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83710
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147946
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63005
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83713
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62955
-#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162898
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83720
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162897
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143800
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143801
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143802
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143803
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143804
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62992
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83721
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147155
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147156
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tarzan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SkdODSGOfK8awjyLi7VAilctB.jpg" group-title="Especiais 24hs ",[24H] Tarzan
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84600
 
 
-#EXTM3U url-tvg="http://grade-de-Desenhos 24hs.xml"
-############## Desenhos 24hs ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
+#EXTINF:-1 tvg-id="" tvg-name="[24h] A Familia Hathaway " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24h] A Familia Hathaway 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61321
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Hathaways" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24H] A Família Hathaways
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84588
+#EXTINF:-1 tvg-id="" tvg-name="[24h] 220 Volts" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPX7V19ME8y6qjuu1Uj1txrhnSY.jpg" group-title="Especiais 24hs ",[24h] 220 Volts
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/56850
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vida Como Ela é" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjoPxAbzidwPcuzJ4TTJVL7xo6N.jpg" group-title="Especiais 24hs ",[24H] A Vida Como Ela é
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84589
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 9-1-1 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg" group-title="Especiais 24hs ",[24H] 9-1-1 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84628
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF o E. Teimoso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="Especiais 24hs ",[24H] ALF o E. Teimoso
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84590
+#EXTINF:-1 tvg-id="" tvg-name="[24h] ALF o ET Teimoso " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" group-title="Especiais 24hs ",[24h] ALF o ET Teimoso 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61319
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Acorrentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DD1WVGrjSEVDWpKaDBrVjLvCC8.jpg" group-title="Especiais 24hs ",[24h] Acorrentada
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897603
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S01 e S02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82896
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S04 e S03" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S04 e S03
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S05, S06 e S07
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82898
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Changeman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHC80SHVrlQLHjq88isra3r3GV3.jpg" group-title="Especiais 24hs ",[24h] Changeman 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61318
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S01 e S02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82899
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S03 e S04" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S03 e S04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S05, S06 e S07
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82901
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Casamento as Cegas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHbWlIb7ceeNJm7Qb2pNJVBsu8a.jpg" group-title="Especiais 24hs ",[24h] Casamento as Cegas
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/896829
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S01 a S04" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S01 a S04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82749
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S05 a S08" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S05 a S08
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82750
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S09 a S12" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S09 a S12
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82751
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Desafio em Dose Dupla " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJIzXY9xYS9lnqe1Vqfj7SU1HeP.jpg" group-title="Especiais 24hs ",[24H] Desafio em Dose Dupla 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84591
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Criminal Minds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLlH7zxGol0hn7LOkCWx9CdOvZ8.jpg" group-title="Especiais 24hs ",[24H] Criminal Minds
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84626
+#EXTINF:-1 tvg-id="" tvg-name="[24h] CyberCops" tvg-logo="https://imgur.com/peDf3HR.jpg" group-title="Especiais 24hs ",[24h] CyberCops
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12448
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg" group-title="Especiais 24hs ",[24H] Breaking Bad
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84627
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Black Kamen Raider " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCj0R6fIXz4cfFiydWbxQimTwaV.jpg" group-title="Especiais 24hs ",[24h] Black Kamen Raider 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61322
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S01 e 02" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S01 e 02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82752
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S03 e 04" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S03 e 04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82753
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DR. House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Especiais 24hs ",[24H] DR. House
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84625
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S01" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S01
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82754
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S02" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S02
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82755
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S03" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S03
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82756
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S04" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Família Dinossauro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="Especiais 24hs ",[24H] Família Dinossauro 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84593
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S01 e S02 " tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S01 e S02 
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82758
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S03 e S04" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S03 e S04
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82759
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S05 e S06" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S05 e S06
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82760
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S07 e S08" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S07 e S08
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82761
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S09 e S10" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S09 e S10
+http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82769
 
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Desenhos 24hs",[24h] Masha e Urso
-http://dns.acaidopara.net:8080/21964291463/1964291463a/1246767
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Mickey e Donald  " tvg-logo="https://imgur.com/n0eNtEN.jpg" group-title="Desenhos 24hs",[24h] Mickey e Donald  
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93448
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Mundo Bita: Bita e os Animais" tvg-logo="https://imgur.com/inZshfU.jpg" group-title="Desenhos 24hs",[24h] Mundo Bita: Bita e os Animais
-http://dns.acaidopara.net:8080/21964291463/1964291463a/83340
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Louie" tvg-logo="https://ottvsimg.ottvs.com.br/cov/mil.040006/0040006_335.jpg" group-title="Desenhos 24hs",[24H] Louie
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84574
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Love Death e Robots" tvg-logo="https://imgur.com/FX96pNI.jpg" group-title="Desenhos 24hs",[24h] Love Death e Robots
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82745
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show do Garfield" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBoB8LuB7uKs7MPrA2FSPLezrAO.jpg" group-title="Desenhos 24hs",[24H] O Show do Garfield
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84575
-#EXTINF:-1 tvg-id="" tvg-name="[24h] O Show Do Scooby Doo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/geO8f6BdJ0E3OcJSzqyS3AakuEx.jpg" group-title="Desenhos 24hs",[24h] O Show Do Scooby Doo
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82957
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Show dos Looney Tunes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIQBufoTtoAaHLdiWzfubH8z8gy.jpg" group-title="Desenhos 24hs",[24H] O Show dos Looney Tunes
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84583
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Maskara" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/O_mascara_desenho.jpg/200px-O_mascara_desenho.jpg" group-title="Desenhos 24hs",[24H] O Maskara
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11490
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Naruto_vol._01.jpg" group-title="Desenhos 24hs",[24H] Naruto
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11494
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Operação Big Hero" tvg-logo="https://imgur.com/PaUJ4jH.jpg" group-title="Desenhos 24hs",[24h] Operação Big Hero
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82963
-#EXTINF:-1 tvg-id="" tvg-name="[24h] O Pequeno Principe" tvg-logo="https://imgur.com/hmxIlBo.jpg" group-title="Desenhos 24hs",[24h] O Pequeno Principe
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12510
-#EXTINF:-1 tvg-id="" tvg-name="[24h] O Poderoso Chefinho" tvg-logo="https://imgur.com/XY8bMqs.jpg" group-title="Desenhos 24hs",[24h] O Poderoso Chefinho
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12468
-#EXTINF:-1 tvg-id="" tvg-name="[24h] O Príncipe Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toU4TDWAdP6PEkyozFgiFoVzb5U.jpg" group-title="Desenhos 24hs",[24h] O Príncipe Dragão
-http://dns.acaidopara.net:8080/21964291463/1964291463a/893002
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Jetsons" tvg-logo="https://imgur.com/kiNfPyJ.jpg" group-title="Desenhos 24hs",[24h] Os Jetsons
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82967
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12320
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 2000/2010" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons 2000/2010
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84576
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 2011/ 2020" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ARIEA8fMTk8HLy8AyLbKyUjsqC.jpg" group-title="Desenhos 24hs",[24H] Os Simpsons 2011/ 2020
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84577
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Smurfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezQyM5cO454vUdLiLOkv78K64D.jpg" group-title="Desenhos 24hs",[24H] Os Smurfs
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84506
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S01 e S02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S01 e S02
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93522
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Patrulha Canina - S03 e S04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="Desenhos 24hs",[24h] Patrulha Canina - S03 e S04
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93523
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Pj Mask" tvg-logo="https://imgur.com/gYpRXUC.jpg" group-title="Desenhos 24hs",[24h] Pj Mask
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12558
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Pocoyo" tvg-logo="https://imgur.com/kGiNACA.jpg" group-title="Desenhos 24hs",[24h] Pocoyo
-http://dns.acaidopara.net:8080/21964291463/1964291463a/897966
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Pokémon Journeys" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/427px_s23_poster.png" group-title="Desenhos 24hs",[24h] Pokémon Journeys
-http://dns.acaidopara.net:8080/21964291463/1964291463a/68867
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Polly Pocket " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDYxiyiaqSNh4s3uxHlyMPRBH4R.jpg" group-title="Desenhos 24hs",[24H] Polly Pocket 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84505
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Polícia 24hs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZdtvjj4EmllVMCzq4aAQf4fLMN.jpg" group-title="Especiais 24hs ",[24H] Polícia 24hs
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84598
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jn0QP45EMhthIX9WbDnfUFkDGP3.jpg" group-title="Desenhos 24hs",[24H] Pica Pau Clássico 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84586
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Pica Pau " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXzRLE9Q1xuU19_b9KnZ3AKF4sJYWhVgkwS3LEkHOlpLxKiB-m" group-title="Desenhos 24hs",[24h] Pica Pau 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/16605
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Popeye" tvg-logo="https://imgur.com/MY5hS9E.jpg" group-title="Desenhos 24hs",[24h] Popeye
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12511
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Princesinha Sofia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k7JFHUFxhx0rDftXRPtBMkgU21.jpg" group-title="Desenhos 24hs",[24h] Princesinha Sofia
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93541
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Rick e Morty" tvg-logo="https://imgur.com/4VK4xCT.jpg" group-title="Desenhos 24hs",[24h] Rick e Morty
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12449
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="Desenhos 24hs",[24h] Scooby-Doo! Mistério S/A
-http://dns.acaidopara.net:8080/21964291463/1964291463a/890141
-#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra Clássico" tvg-logo="https://imgur.com/W1SsLlL.jpg" group-title="Desenhos 24hs",[24h] She-Ra Clássico
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12516
-#EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra e as Princesas do Poder" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="Desenhos 24hs",[24h] She-Ra e as Princesas do Poder
-http://dns.acaidopara.net:8080/21964291463/1964291463a/83342
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Snoopy no Espaço" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2paY29KtHEnUgL6KGG3BwIuwTz.jpg" group-title="Desenhos 24hs",[24h] Snoopy no Espaço
-http://dns.acaidopara.net:8080/21964291463/1964291463a/83339
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Silverwanks" tvg-logo="https://www.themoviedb.org/t/p/w500/d0CEhfR8yohpXlnwxqdOhh78DYY.jpg" group-title="Desenhos 24hs",[24H] Silverwanks
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84584
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Sonic Boom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ibiGOAzumOIzCk8fHwv03jzYbj9.jpg" group-title="Desenhos 24hs",[24h] Sonic Boom
-http://dns.acaidopara.net:8080/21964291463/1964291463a/83341
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg" group-title="Desenhos 24hs",[24H] South Park
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11478
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Clone Wars" tvg-logo="https://imgur.com/oOQwlP3.jpg" group-title="Desenhos 24hs",[24h] Star Wars Clone Wars
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82959
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Rebels" tvg-logo="https://imgur.com/SMdNseL.jpg" group-title="Desenhos 24hs",[24h] Star Wars Rebels
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82960
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Star Wars Resistance" tvg-logo="https://imgur.com/t0X2FBb.jpg" group-title="Desenhos 24hs",[24h] Star Wars Resistance
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82961
-#EXTINF:-1 tvg-id="" tvg-name="[24h] StoryBots: Hora da Resposta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg" group-title="Desenhos 24hs",[24h] StoryBots: Hora da Resposta
-http://dns.acaidopara.net:8080/21964291463/1964291463a/892991
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Street Fighter" tvg-logo="https://imgur.com/kIfJGSp.jpg" group-title="Desenhos 24hs",[24h] Street Fighter
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12500
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Shock" tvg-logo="https://imgur.com/usCdqdM.jpg" group-title="Desenhos 24hs",[24h] Super Shock
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12461
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Strikas" tvg-logo="https://imgur.com/xeJfpyB.jpg" group-title="Desenhos 24hs",[24h] Super Strikas
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82746
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Wings" tvg-logo="https://imgur.com/5Xbdq3q.jpg" group-title="Desenhos 24hs",[24h] Super Wings
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84987
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Surfista Prateado" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lhkt2MQhyoh2eLl71hewOjxMWKn.jpg" group-title="Desenhos 24hs",[24H] Surfista Prateado
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84578
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Teletubbies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kqS1PhOHoYosFMsx7prPO3dHEZu.jpg" group-title="Desenhos 24hs",[24h] Teletubbies
-http://dns.acaidopara.net:8080/21964291463/1964291463a/898938
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fz23hySaUzpE71CvwcZXMDwqK1u.jpg" group-title="Desenhos 24hs",[24H] Thundercats
-http://dns.acaidopara.net:8080/21964291463/1964291463a/897968
-#EXTINF:-1 tvg-id="" tvg-name="[24h] ThunderCats Classic" tvg-logo="https://imgur.com/jxLwM3r.jpg" group-title="Desenhos 24hs",[24h] ThunderCats Classic
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82971
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Tico e Teco e os Defensores da Lei" tvg-logo="https://imgur.com/iThMuhN.jpg" group-title="Desenhos 24hs",[24h] Tico e Teco e os Defensores da Lei
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12513
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Tigrão e Pooh" tvg-logo="https://imgur.com/1Nv3hEU.jpg" group-title="Desenhos 24hs",[24h] Tigrão e Pooh
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82969
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Timão e Pumba" tvg-logo="https://imgur.com/wGQURzj.jpg" group-title="Desenhos 24hs",[24h] Timão e Pumba
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12514
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom e Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Tom%26JerryTales.jpg/250px-Tom%26JerryTales.jpg" group-title="Desenhos 24hs",[24H] Tom e Jerry
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11471
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Três Espiães Demais" tvg-logo="https://imgur.com/Ue9lPBt.jpg" group-title="Desenhos 24hs",[24h] Três Espiães Demais
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82747
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ultimate Homem Aranha" tvg-logo="https://imgur.com/wctUQQw.jpg" group-title="Desenhos 24hs",[24h] Ultimate Homem Aranha
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82958
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhosos" tvg-logo="https://imgur.com/2MH3z16.jpg" group-title="Desenhos 24hs",[24h] Ursinhos Carinhosos
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12515
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Uma Familia da Pesada  " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="Desenhos 24hs",[24H] Uma Familia da Pesada  
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93590
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhosos e Seus Primos" tvg-logo="https://imgur.com/NZsrEVd.jpg" group-title="Desenhos 24hs",[24h] Ursinhos Carinhosos e Seus Primos
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82784
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg" group-title="Desenhos 24hs",[24H] Wolverine e os X-Men 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84585
-#EXTINF:-1 tvg-id="" tvg-name="[24h] X-Men " tvg-logo="https://imgur.com/FZNU2gz.jpg" group-title="Desenhos 24hs",[24h] X-Men 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12755
-#EXTINF:-1 tvg-id="" tvg-name="[24h] X-Men Classic" tvg-logo="https://imgur.com/WPpfGJq.jpg" group-title="Desenhos 24hs",[24h] X-Men Classic
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12512
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Zak Storm" tvg-logo="https://imgur.com/WkK6kSe.jpg" group-title="Desenhos 24hs",[24h] Zak Storm
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82748
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dick Vigarista e Muttley" tvg-logo="https://imgur.com/JOArqc3.jpg" group-title="Desenhos 24hs",[24h] Dick Vigarista e Muttley
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12503
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81XWfzzdgkL._SY445_.jpg" group-title="Desenhos 24hs",[24H] Digimon
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11530
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dora Aventureira" tvg-logo="https://imgur.com/748k0Mk.jpg" group-title="Desenhos 24hs",[24h] Dora Aventureira
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12559
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24hs",[24H] Denis O Pimentinha
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11468
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Desenhos 24hs",[24h] Doug Funnie
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12506
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="Desenhos 24hs",[24h] Dragon Age: Absolvição
-http://dns.acaidopara.net:8080/21964291463/1964291463a/894019
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball" tvg-logo="https://1.bp.blogspot.com/-bGtjCourogk/W7Zo2QMWFmI/AAAAAAAAdHw/cYwp6tMm26k-gKLh3IPWfzK9kqUYdfHXwCLcBGAs/s1600/Screenshot_3.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11464
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel o Tigre " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg" group-title="Desenhos 24hs",[24H] Daniel o Tigre 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84581
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel, o Caçador de Magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="Desenhos 24hs",[24h] Daniel, o Caçador de Magia
-http://dns.acaidopara.net:8080/21964291463/1964291463a/892990
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FLY o Pequeno Guerreiro " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4kiKGYvJ2trpzBVCgkeGwCJuUt.jpg" group-title="Desenhos 24hs",[24H] FLY o Pequeno Guerreiro 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84504
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Freakazoid " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="Desenhos 24hs",[24H] Freakazoid 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84571
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://media.fstatic.com/MWsx05UCqls9zddFATf7pe2tm7I=/fit-in/290x478/smart/media/movies/covers/2012/02/f0d4523baca55a1d4cd815fee1bcdbbd.jpg" group-title="Desenhos 24hs",[24H] Futurama
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11568
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Futurama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5e8kAq9jpaSmgvFM10su5LXGFR.jpg" group-title="Desenhos 24hs",[24h] Futurama
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82954
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDktEhMaiA60t1DAdXBAsWBy4CykY7UFJLXLOHoF0b7u62pK30&s" group-title="Desenhos 24hs",[24H] Galinha Pintadinha
-http://dns.acaidopara.net:8080/21964291463/1964291463a/11504
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha Mini " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq4E9OZEMCST45IQnrkn0Atv6e.jpg" group-title="Desenhos 24hs",[24H] Galinha Pintadinha Mini 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/93540
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Gasparzinhos e seus Amigos" tvg-logo="https://imgur.com/hMaV9RW.jpg" group-title="Desenhos 24hs",[24h] Gasparzinhos e seus Amigos
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12517
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Gravity Falls" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg" group-title="Desenhos 24hs",[24H] Gravity Falls
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84573
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="Desenhos 24hs",[24h] Eu sou Groot
-http://dns.acaidopara.net:8080/21964291463/1964291463a/88397
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Familia Adams" tvg-logo="https://imgur.com/7jqIP0m.jpg" group-title="Desenhos 24hs",[24h] Familia Adams
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82907
-#EXTINF:-1 tvg-id="" tvg-name="[24h] He-Man" tvg-logo="https://imgur.com/kwbHi70.jpg" group-title="Desenhos 24hs",[24h] He-Man
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12507
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homens de Preto" tvg-logo="https://imgur.com/1FM00MQ.jpg" group-title="Desenhos 24hs",[24H] Homens de Preto
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82970
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Larva Tuba" tvg-logo="https://imgur.com/LmNHhyZ.jpg" group-title="Desenhos 24hs",[24h] Larva Tuba
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82909
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Leo o Caminhão" tvg-logo="https://imgur.com/332ZWaK.jpg" group-title="Desenhos 24hs",[24h] Leo o Caminhão
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82962
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Liga da Justiça sem Limites " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgFvSmYWs1Yn1u1GQnrwdpc88lT.jpg" group-title="Desenhos 24hs",[24h] Liga da Justiça sem Limites 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/56443
 
-#EXTM3U url-tvg="http://grade-de-DISNEY+Willow.xml"
-############## DISNEY+Willow ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeDISNEY+Willow" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fNlo0TJqLRuwGoogMK7tRevFSqo.jpg" group-title="DISNEY+",Willow S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/83950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99HTgLOFtZotTtHRwkXQFAOrDjN.jpg" group-title="DISNEY+",Willow S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/83951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCQ44uUqo1t8RtLYVvmnLLNHCHh.jpg" group-title="DISNEY+",Willow S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/83952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Willow S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGdTbrbnejZA917t8l4LyONhXd.jpg" group-title="DISNEY+",Willow S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/83953.mp4
-
-#EXTM3U url-tvg="http://grade-de-GLOBOPLAY Turma da Mônica.xml"
-############## GLOBOPLAY Turma da Mônica ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeGLOBOPLAY Turma da Mônica" group-title="
-
-http://meuplay.shop:80/series/828474929852/34882748924/80785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eWWTyTqXipqGqsGJOZ2T0evyJYQ.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/80880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yQMJDLeL82AyGn1N79ZdLvLLrEe.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/80881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYYBTWqjLUvmIAMKkNrgNWtdurM.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/80882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwKJUzwCZFwnirFX4bmJLcJmggE.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/80883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dJSwqauI6VNcZeIhh9LBfpTiRXJ.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/80884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVO7GASjjEW2IlhbbSzq0MAc6o.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/80885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ipJtbOYrXgVL7bvPSYRmhG3uVL.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/80886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjZjowIsgLqOibhBp06DC35jdi.jpg" group-title="GLOBOPLAY",Turma da Mônica A Série - 2022 S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/80887.mp4
-
-#EXTM3U url-tvg="http://grade-de-Animes 24hs.xml"
-############## Animes 24hs ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeAnimes 24hs" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Cyberpunk: Mercenários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWvAY8yHE873adMws83XqBPf7W2.jpg" group-title="Animes 24hs",[24h] Cyberpunk: Mercenários
-http://dns.acaidopara.net:8080/21964291463/1964291463a/892655
-#EXTINF:-1 tvg-id="" tvg-name="[24h] D.Gray-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg" group-title="Animes 24hs",[24h] D.Gray-Man
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87563
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Magi: Aventuras de Sinbad" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmNFk9TeB8YoKEhrn2n8tWkBSVO.jpg" group-title="Animes 24hs",[24h] Magi: Aventuras de Sinbad
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87577
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Kimetsu no Yaiba " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg" group-title="Animes 24hs",[24h] Kimetsu no Yaiba 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87566
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Kuutei Dragons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6VOhuHfcuRvAALmCr8wDeH7Cbh.jpg" group-title="Animes 24hs",[24h] Kuutei Dragons
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87575
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Jujutsu Kaisen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGYaVtwWInTzAT6HOGyAj1BTqnB.jpg" group-title="Animes 24hs",[24h] Jujutsu Kaisen
-http://dns.acaidopara.net:8080/21964291463/1964291463a/890143
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Kakegurui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Animes 24hs",[24h] Kakegurui
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87682
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Godzilla Singular Point	" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/macY0UVe8ocAWq8WwYom25WC9Ps.jpg" group-title="Animes 24hs",[24h] Godzilla Singular Point	
-http://dns.acaidopara.net:8080/21964291463/1964291463a/56439
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ghost in the Shell: SAC_2045" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLHPuObVB8zSIoJFfsAYP365c1L.jpg" group-title="Animes 24hs",[24h] Ghost in the Shell: SAC_2045
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87576
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Fullmetal Alchemist: Brotherhood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czAcsWfKK3UOGxfo8djuFpnCx9I.jpg" group-title="Animes 24hs",[24h] Fullmetal Alchemist: Brotherhood
-http://dns.acaidopara.net:8080/21964291463/1964291463a/890144
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Fora de Órbita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLf2ZI9sPf8nLAJoSUIsz6scntM.jpg" group-title="Animes 24hs",[24h] Fora de Órbita
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87570
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dr. Stone" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/64DIVpWiGlvvJczMnyu8jojSYKm.jpg" group-title="Animes 24hs",[24h] Dr. Stone
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87567
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Death Note" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg" group-title="Animes 24hs",[24h] Death Note
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87565
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 1 " tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 1 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82894
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Digimon Adventure Parte 2" tvg-logo="https://imgur.com/L63QLeN.jpg" group-title="Animes 24hs",[24h] Digimon Adventure Parte 2
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82895
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ultraman" tvg-logo="https://imgur.com/Pvxq4Vp.jpg" group-title="Animes 24hs",[24h] Ultraman
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82890
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Yu Yu Hakusho " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j6dzDPkrAsfJ6GUyyMPz38ZkpbF.jpg" group-title="Animes 24hs",[24h] Yu Yu Hakusho 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87572
-#EXTINF:-1 tvg-id="" tvg-name="[24h] SWORDGAI The Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSWy4281JWgXcnI4HqBjDf7Umho.jpg" group-title="Animes 24hs",[24h] SWORDGAI The Animation
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87573
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Super Dragon Ball Heroes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg" group-title="Animes 24hs",[24h] Super Dragon Ball Heroes
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82780
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Tekken: Bloodline" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQTieStX2SRYL3h2Bf1ZrJkji7R.jpg" group-title="Animes 24hs",[24h] Tekken: Bloodline
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87683
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 1" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 1
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82788
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto Shippuden Parte 2" tvg-logo="https://imgur.com/ne0FIGz.jpg" group-title="Animes 24hs",[24h] Naruto Shippuden Parte 2
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82789
-#EXTINF:-1 tvg-id="" tvg-name="[24h] One Piece" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" group-title="Animes 24hs",[24h] One Piece
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87584
-#EXTINF:-1 tvg-id="" tvg-name="[24h] One Punch Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="Animes 24hs",[24h] One Punch Man
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87587
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Onyx Equinox" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCPi4hXHjLQWv7j2TVsWoLE99Uw.jpg" group-title="Animes 24hs",[24h] Onyx Equinox
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87586
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saintia Shô" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLypgWEWGpBUJ6EDfPEdixJprbg.jpg" group-title="Animes 24hs",[24h] Os Cavaleiros do Zodíaco: Saintia Shô
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87579
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Piano no Mori " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg" group-title="Animes 24hs",[24h] Piano no Mori 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87578
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Record of Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg" group-title="Animes 24hs",[24h] Record of Ragnarok
-http://dns.acaidopara.net:8080/21964291463/1964291463a/56437
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Sailor Moon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeT71d_hA6xMd9zlRKh2ClYPx7C9vjJwMFuAGijg71GcupM8dX" group-title="Animes 24hs",[24h] Sailor Moon
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82893
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Sakura Card Captors" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dj0uI34MOkZMTE233tfRebs0YYx.jpg" group-title="Animes 24hs",[24h] Sakura Card Captors
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87561
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai 7" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HTBA7QrGSQD6bXBbwL0lLABY29.jpg" group-title="Animes 24hs",[24h] Samurai 7
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87580
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X - Parte 1 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imnien8hkGeoRuMPnnjyAh2qIdc.jpg" group-title="Animes 24hs",[24h] Samurai X - Parte 1 
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82891
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Samurai X - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imnien8hkGeoRuMPnnjyAh2qIdc.jpg" group-title="Animes 24hs",[24h] Samurai X - Parte 2
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82892
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Seiren" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/acz4astonaJXe1qoH41ukRis2zC.jpg" group-title="Animes 24hs",[24h] Seiren
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87581
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Seis Punhos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLIC5AigbrUYP2vHoBhmm687nnF.jpg" group-title="Animes 24hs",[24h] Seis Punhos
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87582
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Shenmue the Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/owwTW4OVSG1IbU9gpVgRHbD6Dgz.jpg" group-title="Animes 24hs",[24h] Shenmue the Animation
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87583
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Shurato" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CrlgdCfOrZQRO1KdNBvnZWAzxq.jpg" group-title="Animes 24hs",[24h] Shurato
-http://dns.acaidopara.net:8080/21964291463/1964291463a/87585
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S01 S02 S03" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S01 S02 S03
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82785
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S04 S05 S06" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S04 S05 S06
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82786
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Naruto S07 S08 S09" tvg-logo="https://imgur.com/7gWbxb4.jpg" group-title="Animes 24hs",[24h] Naruto S07 S08 S09
-http://dns.acaidopara.net:8080/21964291463/1964291463a/82787
-
-#EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
-############## Infantil Car City ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeInfantil Car City" group-title="
-
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x1
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x2
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7DnjpXJ6J2U/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x3
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9Zb24cdNGwqmskkixOO3hXSbVQwTGnHKJsq3JC_M6sPSOBp_JUL1suP6jc_EAIzMj6E&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x4
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jQZAQLac62Fmndp8sAySHxTvlNAHpC24BWFgUBTlCcJyWj9AJCB1BD3q-QHdobZ3ODk&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x5
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Efo9ElFAG5w/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x6
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3aG9Jhd5WES8_AmOs8q5aiXf8zvvwCeNRauowf-Qgaw80GrK4A46BOUn0AWZFwABH60&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x7
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUzBA4fZ4-Lbd30WwN3uydTkIvcPK64d2wsLrt0ko_oOZCBO34vyYE6iD136eeNn3IWs&usqp=CAU" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x8
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/hGcFzQP9Scs/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 1x9
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-9/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SR6YX2AilUc/mqdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x1
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-10/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7MKh9oEW0Xg/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x2
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-11/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/21Ovygff7bg/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x3
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-12/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Iq3QnHPKovc/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x4
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-13/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/HgX8876NvPc/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x5
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-14/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/486QcMTOz84/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAfiK03_HH7NR8dG-xCKGP6NRIG9Q" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x6
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-15/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fMPrIOTJDLE/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x7
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-16/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Hiz2fFh7Azs/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x8
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-17/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/aiSQvPPAYgU/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 2x9
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-18/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/3PTxblOGVkM/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x1
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-19/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Jreh1ElkZaM/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x2
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-20/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gb0l3P0gJm0/maxresdefault.jpg" group-title="Serie Infantil Car City",Oficina de Pintura",Infantil Car City",Oficina de Pintura 3x3
-https://play.prod.gcp.vix.services/car-city-tom-paint-shop_pt/car-city-tom-paint-shop_pt_1-21/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/I6V_xMqORkw/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x4      
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-WD9pC7UADs/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x5
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/Yf2ZtgiMlDk/mqdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x6
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6KJwDlOByks/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x7
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/eJ1NLN6j2i0/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x8
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jJa7B9nNpwk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 3x9
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/mOKfsUegbyY/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x1
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/B-2w9rfzoUo/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x2
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/cPzDKt0Ncu8/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x3
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-9/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/85/87/79/858779b5aa98f9e651b45a574054c99b.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x4
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-10/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/8BEyTW_xTgs/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x5
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-11/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SDXaj_YHl_4/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x6
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-12/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6KJwDlOByks/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x7
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-14/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/mil.047288/looke_1010_670.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x8
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-15/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a96ea8bc0ec7c76003c355098544db51c7412b77e5e795bad91bb65a11fbee5._RI_V_TTW_.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 4x9
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-16/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7giDUS8V5UI/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x1
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/wd0Yk9h2LYk/maxresdefault.jpg" group-title="Serie Infantil Car City",Super Caminhão",Infantil Car City",Super Caminhão 5x2
-https://play.prod.gcp.vix.services/car-city-super-truck_pt/car-city-super-truck_pt_1-17/play_v1_hls_1080p.m3u8
-
-#EXTM3U url-tvg="http://grade-de-Patati Patatá .xml"
-############## Patati Patatá ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePatati Patatá" group-title="
-
-#EXTINF:-1 tvg-logo="https://bologuarana.com.br/wp-content/uploads/sites/3/2022/06/gif-patati-patata-festa-infantil.gif" group-title="Patati Patatá | Patati Patatá",Patatoons
-https://play.prod.gcp.vix.services/patatoons/patatoons_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/ClumsyTediousBlackbird-size_restricted.giff" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Carrossel
-https://play.prod.gcp.vix.services/pat-vida-carrossel_pt/pat-vida-carrossel_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/5-23-2018/z1UvD2.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Fantasia
-https://play.prod.gcp.vix.services/pat-vida-fantasia_pt/pat-vida-fantasia_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/W4LbQ_gZueMAAAAC/mara-maravilha-patati-patata.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Imaginação
-https://play.prod.gcp.vix.services/pat-vida-imaginacao_pt/pat-vida-imaginacao_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",A Vida é Bela - Tudo Que Eu Preciso
-https://play.prod.gcp.vix.services/pat-vida-preciso_pt/pat-vida-preciso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Amigos do Peito
-https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
-https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
 https://play.prod.gcp.vix.services/pat-coletanea-bom_pt/pat-coletanea-bom_pt_1-1/play_v1_hls_1080p.m3u8
 
 ############## SÉRIES ################# 
@@ -12629,6 +13063,1591 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149242.mp4
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149243.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5mdvoz1lF0FWBgDykU9PpzhWaa.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149244.mp4
+
+#EXTM3U url-tvg="http://grade-de-[Reality]",Largados e Pelados.xml"
+############## [Reality]",Largados e Pelados ################# 
+#EXTINF:-1 tvg-id=" iddocanalde[Reality]",Largados e Pelados" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e87kOWVI7XvkOYHIA3HzqomOvbc.jpg" group-title="[Reality]",Largados e Pelados S01 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPMjSnuOA5z9wEgFZsujZQlr7f4.jpg" group-title="[Reality]",Largados e Pelados S01 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqa7WzThaBdKbkuGrRGmfFsFK5U.jpg" group-title="[Reality]",Largados e Pelados S01 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ymm57jOMa522An8xzN2EoIPn1Q.jpg" group-title="[Reality]",Largados e Pelados S01 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxw4ZPSWrgx7zrZtfyuDY18USFs.jpg" group-title="[Reality]",Largados e Pelados S01 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Z1hTbLWFkLIQnuJe6ZSNjl2nV1.jpg" group-title="[Reality]",Largados e Pelados S01 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzxxsMTpI7qfxjMNzNAzJ3FxPL.jpg" group-title="[Reality]",Largados e Pelados S04 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oQSsFqvVQwT0Cf1or8wPrNnVQg.jpg" group-title="[Reality]",Largados e Pelados S04 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DC7EQah9EGMTQp3IvGspK3wdZl.jpg" group-title="[Reality]",Largados e Pelados S04 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2ivUi3VvqlSRr4WywQpY7bsBi0.jpg" group-title="[Reality]",Largados e Pelados S04 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQtfsst4xBAtzozwrKqetSzW9w6.jpg" group-title="[Reality]",Largados e Pelados S04 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnrvHf7Ba8dgyprYcdKZsWdCcR.jpg" group-title="[Reality]",Largados e Pelados S04 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naAcXIPOYgidgoup7uKI61Sw5oB.jpg" group-title="[Reality]",Largados e Pelados S09 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VMq8pIuDeFe8mTHYwdARpHszRd.jpg" group-title="[Reality]",Largados e Pelados S09 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aOwNhYjoAOwDISNHPUQ53IQvcw.jpg" group-title="[Reality]",Largados e Pelados S09 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT95ISPAuKtRS7q68jiQ6uGGNM4.jpg" group-title="[Reality]",Largados e Pelados S09 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS2xWyc7dtGWVc3fD0cM1oHnaAH.jpg" group-title="[Reality]",Largados e Pelados S09 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WaVApbVAAXTqxz3UFp1borzuO5.jpg" group-title="[Reality]",Largados e Pelados S09 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2boSATNSuCcsrTmfofNLaidduWx.jpg" group-title="[Reality]",Largados e Pelados S09 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70135.mp4
+
+#EXTM3U url-tvg="http://grade-de-Reality Largados e Pelados A Tribo.xml"
+############## Reality Largados e Pelados A Tribo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeReality Largados e Pelados A Tribo" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPROVBi59tgdfpfsvzCMYj6GppO.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM1viDggOXQgL63ibdpDt7FeTN2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78066.mp4
+
+#EXTM3U url-tvg="http://grade-de-Chiquititas.xml"
+############## Chiquititas ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeChiquititas" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E46
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E47
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E48
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E49
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E50
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E51
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E52
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E53
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E54
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E55
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E56
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E57
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E58
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E59
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E60
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E61
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E62
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E63
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E64
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E65
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E66
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E67
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E68
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E69
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E70
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E71
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E72
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E73
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E74
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E75
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E76
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E77
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E78
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E79
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E80
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E81
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E82
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E83
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E84
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E85
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E86
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E87
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E88
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E89
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E90
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E91
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E92
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E93
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E94
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E95
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E96
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E97
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E98
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E99
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S01 E100
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E46
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E47
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E48
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E49
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E50
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E51
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E52
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E53
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E54
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E55
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E56
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E57
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E58
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E59
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E60
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E61
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E62
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E63
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E64
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E65
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E66
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E67
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E68
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E69
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E70
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E71
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E72
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E73
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E74
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E75
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E76
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E77
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E78
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E79
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E80
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E81
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E82
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E83
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E84
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E85
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E86
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E87
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E88
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E89
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E90
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E91
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E92
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E93
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E94
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E95
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E96
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E97
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E98
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E99
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S02 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S02 E100
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E46
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E47
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E48
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E49
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E50
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E51
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E52
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E53
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E54
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E55
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E56
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E57
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E58
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E59
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E60
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E61
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E62
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E63
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E64
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E65
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E66
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E67
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E68
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E69
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E70
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E71
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E72
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E73
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E74
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E75
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E76
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E77
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E78
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E79
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E80
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E81
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E82
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E83
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E84
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E85
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E86
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E87
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E88
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E89
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E90
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E91
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E92
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E93
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E94
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E95
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E96
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E97
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E98
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E99
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S03 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S03 E100
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E46
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E47
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E48
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E49
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E50
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E51
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E52
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E53
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E54
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E55
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E56
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E57
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E58
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E59
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E60
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E61
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E62
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E63
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E64
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E65
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E66
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E67
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E68
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E69
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E70
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E71
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E72
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E73
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E74
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E75
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E76
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E77
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E78
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E79
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E80
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E81
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E82
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E83
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E84
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E85
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E86
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E87
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E88
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E89
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E90
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E91
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E92
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E93
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E94
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E95
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E96
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E97
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E98
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E99
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S04 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S04 E100
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E46
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E47
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E48
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E49
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E50
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E51
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E52
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E53
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E54
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E55
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E56
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E57
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E58
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E59
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E60
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E61
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E62
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E63
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E64
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E65
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E66
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E67
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E68
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E69
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E70
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E71
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E72
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E73
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E74
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E75
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E76
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E77
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E78
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E79
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E80
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E81
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E82
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E83
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E84
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E85
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E86
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E87
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E88
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E89
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E90
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E91
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E92
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E93
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E94
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E95
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E96
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E97
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E98
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E99
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S05 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S05 E100
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E01
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E02
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E03
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E04
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E05
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E06
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E07
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E08
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E09
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E10
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E11
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E12
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E13
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E14
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E15
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E16
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E17
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E18
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E19
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E20
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E21
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E22
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E23
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E24
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E25
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E26
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E27
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E28
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E29
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E30
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E31
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E32
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E33
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E34
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E35
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E36
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E37
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E38
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E39
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E40
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E41
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E42
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E43
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E44
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S06 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="[Novelas Outras]",Chiquititas S06 E45
+http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/43413.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Rebelde.xml"
 ############## SÉRIES | Rebelde ################# 
