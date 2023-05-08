@@ -746,9 +746,6 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/2200
 #EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PrimeBox Brasil Alternativo" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="CANAIS | Prime Box",PrimeBox Brasil Alternativo
 http://dns.acaidopara.net:8080/21964291463/1964291463a/1164
 
-
-
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS Especiais 24hs.xml "
  ############## CANAIS Especiais 24hs ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS Especiais 24hs" group-title="
@@ -1510,255 +1507,6 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/32
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 SD
 http://meuplay.shop:80/67598237854pw/9875352849pw/484
 
-#EXTM3U url-tvg=" http://grade-de-Esportes UFC.xml "
- ############## Esportes UFC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes UFC" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass 1 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/902438
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass 1 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/896939
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897945
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass 2 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/902439
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/896842
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="Esportes UFC",UFC Fight Pass Alternativo 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897944
-
-#EXTM3U url-tvg=" http://grade-de-Esportes SporTV.xml "
- ############## Esportes SporTV ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes SporTV" group-title="
-
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2035
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHDR" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV FHDR
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901869
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2038
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2218
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV H265" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV H265
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/6570
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13069
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1303
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes SporTV",SporTV Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1221
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1917
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2036
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2219
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13072
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1301
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes SporTV",SporTV 2 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1173
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1918
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2037
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2220
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13075
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo  HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3 Alternativo  HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1302
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes SporTV",SporTV 3 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1174
-
-#EXTM3U url-tvg=" http://grade-de-Esportes ESPN.xml "
- ############## Esportes ESPN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes ESPN" group-title="
-
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD " tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4 FHD 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1887
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD " tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4 HD 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2122
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2121
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13078
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1295
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN 4 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1136
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes ESPN",ESPN FHD 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1883
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes ESPN",ESPN HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2105
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes ESPN",ESPN
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2104
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD²" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes ESPN",ESPN FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13087
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes ESPN",ESPN Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1294
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Alternativo " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes ESPN",ESPN Alternativo 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1193
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 2 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1884
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 2 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2108
-#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn 2" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",Espn 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2101
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes ESPN",ESPN 2 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13090
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 2 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1311
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1130
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1827
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2103
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2102
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3 FHD²" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes ESPN",ESPN 3 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13084
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1293
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes ESPN",ESPN 3 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1192
-
-#EXTM3U url-tvg=" http://grade-de-Esportes ESPN Extra.xml "
- ############## Esportes ESPN Extra ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes ESPN Extra" group-title="
-
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes ESPN Extra",ESPN Extra FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1828
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes ESPN Extra",ESPN Extra HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2107
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes ESPN Extra",ESPN Extra
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2106
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FHD²" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes ESPN Extra",ESPN Extra FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13093
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes ESPN Extra",ESPN Extra Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1310
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%2B.png" group-title="Esportes ESPN Extra",ESPN Extra Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1131
-
-#EXTM3U url-tvg=" http://grade-de-Esportes Prime Vídeo.xml "
- ############## Esportes Prime Vídeo ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes Prime Vídeo" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Prime Vídeo 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="Esportes Prime Vídeo",Prime Vídeo 01
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/77850
-#EXTINF:-1 tvg-id="" tvg-name="Prime Vídeo 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="Esportes Prime Vídeo",Prime Vídeo 02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/77859
-#EXTINF:-1 tvg-id="" tvg-name="Prime Vídeo 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="Esportes Prime Vídeo",Prime Vídeo 03
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/77851
-#EXTINF:-1 tvg-id="" tvg-name="Prime Vídeo 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="Esportes Prime Vídeo",Prime Vídeo 04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/77858
-
-#EXTM3U url-tvg=" http://grade-de-Premiere.xml "
- ############## Premiere ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldePremiere" group-title="
-
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1898
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2199
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2198
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes Alternativo FHD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes Alternativo FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12820
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1277
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1163
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1892
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2187
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1273
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1157
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1893
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2189
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2188
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1274
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1158
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1894
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2191
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2190
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1275
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1214
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 FHD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1895
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2193
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2192
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1276
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1159
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1896
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2195
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2194
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/7945
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1160
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1897
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2197
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2196
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/7946
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1161
-
-#EXTM3U url-tvg=" http://grade-de-Esportes.xml "
- ############## Esportes ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes" group-title="
-
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1886
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2124
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2123
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD²" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13081
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX Sports 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX Sports 2 Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1314
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 Alternativo" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1135
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1880
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2076
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/2075
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD²" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate FHD²
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13095
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate Alternativo HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1291
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate Alternativo" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/1186
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES TNT.xml "
  ############## CANAIS  ESPORTES TNT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES TNT" group-title="
@@ -1841,80 +1589,95 @@ http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/54496
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports BR 10 " tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="ELEVEN SPORTS",Eleven Sports BR 10 
 http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/54497
 
-#EXTM3U url-tvg=" http://grade-de-Esportes PPV.xml "
- ############## Esportes PPV ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes PPV" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | ESPN/Fox Sports.xml "
+ ############## Canais | ESPN/Fox Sports ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN/Fox Sports" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png" group-title="Esportes PPV",Furacão Live FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/902267
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png" group-title="Esportes PPV",Furacão Live HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/902268
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png" group-title="Esportes PPV",Furacão Live
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/52277
-#EXTINF:-1 tvg-id="" tvg-name="Nsports 1 " tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="Esportes PPV",Nsports 1 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/75611
-#EXTINF:-1 tvg-id="" tvg-name="Nsports 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="Esportes PPV",Nsports 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/75612
-#EXTINF:-1 tvg-id="" tvg-name="Nsports 3" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="Esportes PPV",Nsports 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/75613
-#EXTINF:-1 tvg-id="" tvg-name="Nsports 4" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="Esportes PPV",Nsports 4
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/75614
-#EXTINF:-1 tvg-id="" tvg-name="OneFootball FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="Esportes PPV",OneFootball FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897943
-#EXTINF:-1 tvg-id="" tvg-name="OneFootball HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="Esportes PPV",OneFootball HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901863
-#EXTINF:-1 tvg-id="" tvg-name="OneFootball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="Esportes PPV",OneFootball
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901864
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83809.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [Alt]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147541.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [H265]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | 4K - H265",ESPN 1 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83385.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83208.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD [Alt]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147542.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162796.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83807.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147545.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | 4K - H265",ESPN 2 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83383.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83209.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147546.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83552.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN/Fox Sports",ESPN 3 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147540.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN/Fox Sports",ESPN 3 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83553.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN/Fox Sports",ESPN 3 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83808.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN/Fox Sports",ESPN 3 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147539.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN/Fox Sports",ESPN 3 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83207.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN/Fox Sports",ESPN 4 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83811.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN/Fox Sports",ESPN 4 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147568.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN/Fox Sports",ESPN 4 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83217.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN/Fox Sports",ESPN 4 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147565.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN/Fox Sports",ESPN 4 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83560.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83810.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147543.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83210.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147544.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162802.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | 4K - H265",FOX Sports 2 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151046.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83812.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147566.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83216.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147567.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | 4K - H265",FOX Sports 2 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Copa Libertadores.xml "
- ############## Copa Libertadores ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCopa Libertadores" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | ESPN - H265.xml "
+ ############## Canais | ESPN - H265 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN - H265" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount+ 1 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901876
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 1 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 1 HD 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898826
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898822
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount+ 2 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901877
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 2 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 2 HD 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898827
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898823
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount+ 3 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901878
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 3 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898828
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898824
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount+ 4 FHD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901880
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount+ 4 HD
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/901879
-#EXTINF:-1 tvg-id="" tvg-name="Paramount + 4 " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="Copa Libertadores",Paramount + 4 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898825
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="Conmebol TV 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/40596
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="Conmebol TV 1 Alternativo " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 1 Alternativo 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/48678
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="Conmebol TV Alternativo 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV Alternativo 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35232
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 2 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35223
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="Conmebol TV 2 Alternativo" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 2 Alternativo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/48679
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="Conmebol TV Alternativo 2" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV Alternativo 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35233
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="Conmebol TV 3" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 3
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35230
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="Conmebol TV Alternativo 3 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV Alternativo 3 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35242
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="Conmebol TV 4" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV 4
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35231
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="Conmebol TV Alternativo 4 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Copa Libertadores",Conmebol TV Alternativo 4 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/35243
-
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN - H265",ESPN 1 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/155420.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151048.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83384.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151039.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83388.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN - H265",ESPN Extra FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SHOWS LIVE.xml "
  ############## CANAIS  SHOWS LIVE ############## ### 
@@ -2141,6 +1904,359 @@ https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorot
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de uma Super Professora"tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="FILMES | ADOLECENTE CINEMA",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
+############## 24 Horas | Desenhos ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="24 Horas | Desenhos",[24H] Zé Buscapé
+http://srv.cldplay.net:80/live/820584rohs/67864336899/278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/70685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/154001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
+http://srv.cldplay.net:80/live/820584rohs/67864336899/154002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/154003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/142121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
+http://srv.cldplay.net:80/live/820584rohs/67864336899/142122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/155389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
+http://srv.cldplay.net:80/live/820584rohs/67864336899/122179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
+http://srv.cldplay.net:80/live/820584rohs/67864336899/63003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/63005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/146926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/146927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
+http://srv.cldplay.net:80/live/820584rohs/67864336899/141023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
+http://srv.cldplay.net:80/live/820584rohs/67864336899/154892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="24 Horas | Desenhos",[24H] Rimas de Berçário
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
+http://srv.cldplay.net:80/live/820584rohs/67864336899/280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
+http://srv.cldplay.net:80/live/820584rohs/67864336899/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
+http://srv.cldplay.net:80/live/820584rohs/67864336899/270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
+http://srv.cldplay.net:80/live/820584rohs/67864336899/63002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
+http://srv.cldplay.net:80/live/820584rohs/67864336899/271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
+http://srv.cldplay.net:80/live/820584rohs/67864336899/63000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="24 Horas | Desenhos",[24H] Speed-Racer
+http://srv.cldplay.net:80/live/820584rohs/67864336899/265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="24 Horas | Desenhos",[24H] Steven Universe
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="24 Horas | Desenhos",[24H] Street Fighter 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="24 Horas | Desenhos",[24H] Wally Gator
+http://srv.cldplay.net:80/live/820584rohs/67864336899/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="24 Horas | Desenhos",[24H] Wolverine e os X-Men
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="24 Horas | Desenhos",[24H] Tartarugas Ninjas
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
+http://srv.cldplay.net:80/live/820584rohs/67864336899/266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="24 Horas | Desenhos",[24H] Tom & Jerry
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="24 Horas | Desenhos",[24H] Três Espiãs Demais
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="24 Horas | Desenhos",[24H] Turma da Mônica
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="24 Horas | Desenhos",[24H] Turma do Pateta
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/140789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/89548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="24 Horas | Desenhos",[24H] Dragon Ball Heroes
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 3
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball [Filmes 1]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="24 Horas | Desenhos",[24H] Du, Dudu e Edu
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="24 Horas | Desenhos",[24H] Em Busca do Vale Encantado
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="24 Horas | Desenhos",[24H] Chaves Desenho
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="24 Horas | Desenhos",[24H] Clarêncio, O Otimista
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1 " tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 1 
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1968
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/148277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 3
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 15º Aniversário
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Adventure Zero Two
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Frontier
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Savers
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
+http://srv.cldplay.net:80/live/820584rohs/67864336899/153995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="24 Horas | Desenhos",[24H] A Guarda do Leão
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="24 Horas | Desenhos",[24H] A Mansão Foster
+http://srv.cldplay.net:80/live/820584rohs/67864336899/544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="24 Horas | Desenhos",[24H] A Roda do Ônibus
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/KbTJCL3.png" group-title="24 Horas | Desenhos",[24H] Aladdin
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="24 Horas | Desenhos",[24H] Angry Birds
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/143798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="24 Horas | Desenhos",[24H] As Meninas Superpoderosas
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83675.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="24 Horas | Desenhos",[24H] Baby Looney Tunes
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 - 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/140811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="24 Horas | Desenhos",[24H] Bita e os Animais
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="24 Horas | Desenhos",[24H] Bob Esponja 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/140950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="24 Horas | Desenhos",[24H] Caillou
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="24 Horas | Desenhos",[24H] Cascão A Turma da Monica
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="24 Horas | Desenhos",[24H] Caverna do Dragão 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62995.m3u8
+
 #EXTM3U url-tvg="http://grade-de-CANAIS  INFANTIL.xml"
 ############## CANAIS  INFANTIL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  INFANTIL" group-title="
@@ -2175,738 +2291,6 @@ http://grtsvk.life:80/661282206/318344838/30009
 http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
-
-
-#EXTM3U url-tvg="http://grade-de-Lançamentos 2023.xml"
-############## Lançamentos 2023 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2023" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Enredo 2022A Good Person - 1WIN 2023" tvg-logo="https://maniacosporfilme.files.wordpress.com/2010/08/alem-da-vida-0.jpg" group-title="Lançamentos 2023",Enredo 2022
-https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt20198774/eng.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Good Person - 1WIN 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBkZGYyM2QtNzgwYy00NmZjLTk2ZTItYzY3ZTdjY2M0YmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" group-title="Lançamentos 2023",A Good Person - 1WIN 2023
-https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt14153080/dub_1win.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água (2022) (HdRip)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Lançamentos 2023",Avatar: O Caminho da Água (2022) (HdRip)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Excluídos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg" group-title="Lançamentos 2023",Excluídos (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Lançamentos 2023",A Jogada de Chang (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tangos, Tequilas e Algumas Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg" group-title="Lançamentos 2023",Tangos, Tequilas e Algumas Mentiras (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg" group-title="Lançamentos 2023",Meu Nome é Chihiro (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023) (Cinema)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Lançamentos 2023",65: Ameaça Pré-Histórica (2023) (Cinema)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Festa de Arromba (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" group-title="Lançamentos 2023",Uma Festa de Arromba (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="Lançamentos 2023",Alguém Que Eu Costumava Conhecer (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="Lançamentos 2023",At Midnight (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Atuar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="Lançamentos 2023",Duro de Atuar (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="Lançamentos 2023",Amor Entre Amigos: O Casamento (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Novo... de Novo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ECITzA9sQVbTjbcaFcYINN9Nkr.jpg" group-title="Lançamentos 2023",Feliz Ano Novo... de Novo (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Procura-se Gonker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziAL5224J9QHA0S0exarpkz4eUN.jpg" group-title="Lançamentos 2023",Procura-se Gonker (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Independência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Lançamentos 2023",Detetive Knight: Independência (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SlVgSeK19ZhhxDBsU6AQq4EN2W.jpg" group-title="Lançamentos 2023",Jung_E (2023)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897978.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e10396bf13a832745c832de3167bb338.jpg" group-title="Lançamentos 2023",Caçador de Tormentas 4K [HDR] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98173.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3ef243f3ca1bb1483db30347b028ca3a.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98171.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/09f3a2b97cfa2764a14ae9b924dab529.jpg" group-title="Lançamentos 2023",Casamento em Família (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98240.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3352839e7fae48a9b885dba2db88d75c.jpg" group-title="Lançamentos 2023",Certas Pessoas 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98175.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8e45c0b9c75c329e4e85292cb790e22e.jpg" group-title="Lançamentos 2023",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98163.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ac5e9e258c8f3357918a2dd021a37714.jpg" group-title="Lançamentos 2023",Guia de Viagem para o Amor (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98161.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/de9f2821a46eb01ce95ad1270fd9c199.jpg" group-title="Lançamentos 2023",Tudo pela Noiva (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98156.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd802bd1428498f0c48f6cf6f8b9e9a8.jpg" group-title="Lançamentos 2023",Quasimodo 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98154.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7c4871b8bd09366602095ddfcb5a2b4b.jpg" group-title="Lançamentos 2023",Encurralados (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98153.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd802bd1428498f0c48f6cf6f8b9e9a8.jpg" group-title="Lançamentos 2023",Quasimodo (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98152.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/62ad04beb46e5ed4c8ffaefc94469318.jpg" group-title="Lançamentos 2023",Peter Pan & Wendy 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98150.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1b5142d0df7d0195fd82afada521b9ae.jpg" group-title="Lançamentos 2023",Tudo de Novo, Mais Uma Vez (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98111.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/069ed40aee8862c4f3a1f394035a56d2.jpg" group-title="Lançamentos 2023",Raquel 1:1 (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98109.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cb268cbee89f8e285d54308e8cd0a4f6.jpg" group-title="Lançamentos 2023",O Som do Caos 4K (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98148.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5fce0120e6750df5f5894612976b5b1a.jpg" group-title="Lançamentos 2023",Em Todas as Partes 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98145.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd060f402f759dc690d143be3a434edd.jpg" group-title="Lançamentos 2023",Duas Bruxas: A Herança Diabólica (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98127.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/51bbec4d65f8b20feacf73d7160e345d.jpg" group-title="Lançamentos 2023",Tic-Tac: A Maternidade do Mal 4K (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98124.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/540aeb74f3866b4839dd343e9fca6f91.jpg" group-title="Lançamentos 2023",Assassin Club 4K [HDR] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98097.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a4c777c406a98584a50bf0b505fca755.jpg" group-title="Lançamentos 2023",Pânico VI (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98089.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5c0ec1f9a8304f1a63ab8cf969b126a0.jpg" group-title="Lançamentos 2023",Agente Infiltrado (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98074.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ffc7adb53706735bb559f50a3fa47afa.jpg" group-title="Lançamentos 2023",Ghosted: Sem Resposta 4K [Hybrid] (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98072.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/62ad04beb46e5ed4c8ffaefc94469318.jpg" group-title="Lançamentos 2023",Peter Pan & Wendy (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98070.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f2d72cff00b3ad3f3cf2a9375c3ccfbc.jpg" group-title="Lançamentos 2023",Sem Rastro (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98069.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ffc7adb53706735bb559f50a3fa47afa.jpg" group-title="Lançamentos 2023",Ghosted: Sem Resposta (2023)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98066.mp4
-
-#EXTM3U url-tvg="http://grade-de-Lançamentos 2022.xml"
-############## Lançamentos 2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2022" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://www.ofuxico.com.br/wp-content/uploads/2022/10/protagonistas-pantera-negra-wakanda-para-sempre-poster.jpg" group-title="Lançamentos 2022",Pantera Negra: Wakanda para Sempre (2022)
-https://pub-a66aac9b0f6e428896c58f98eb0a2d8c.r2.dev/movies/tt9114286/dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Além do Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb2esYfCjkz2RhXDQCPz1evsQfY.jpg" group-title="Lançamentos 2022",Amor Além do Tempo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inspetor Aranha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg" group-title="Lançamentos 2022",Inspetor Aranha (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lições para Canalhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4VmrPu4QCtYWgfjvHIwqJVklp.jpg" group-title="Lançamentos 2022",Lições para Canalhas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matrimilhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5M8xOeAMrKZLNFMdNThHAEcM9v.jpg" group-title="Lançamentos 2022",Matrimilhas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="Lançamentos 2022",Mindcage (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada é por Acaso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efHs9YhjVdb7DacqBM830IguqIK.jpg" group-title="Lançamentos 2022",Nada é por Acaso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Amante de Lady Chatterley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hydNtbpr8Ryahb7HzdkeSicBGQo.jpg" group-title="Lançamentos 2022",O Amante de Lady Chatterley (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="Lançamentos 2022",O Assassino Perfeito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Chefinho: Bônus de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6HDYVK2qubLKtcjS1WtN8bch6c.jpg" group-title="Lançamentos 2022",O Chefinho: Bônus de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ruído (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyNl3NlZx1CXgbrCuSiWkWdp9D.jpg" group-title="Lançamentos 2022",Ruído (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vale do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="Lançamentos 2022",Vale do Medo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Fica com o Bar? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sicJmpsyetX00Bpu8UmoSawxyel.jpg" group-title="Lançamentos 2022",Quem Fica com o Bar? (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman e Superman: Batalha dos Super Filhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="Lançamentos 2022",Batman e Superman: Batalha dos Super Filhos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detox Digital (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg" group-title="Lançamentos 2022",Detox Digital (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Honra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="Lançamentos 2022",Irmãos de Honra (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kompromat: O Dossiê Russo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yakB8fDVhqmqiocjILPVh1aBze2.jpg" group-title="Lançamentos 2022",Kompromat: O Dossiê Russo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lutKUOeedR5TZdfuMbD4fcAy64b.jpg" group-title="Lançamentos 2022",Narvik (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ataque ao Capitólio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z3dkp3l6TwVDp1cNdQaLGtk0oT.jpg" group-title="Lançamentos 2022",O Ataque ao Capitólio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tubarão: Mar de Sangue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg" group-title="Lançamentos 2022",Tubarão: Mar de Sangue (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casamento Armado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="Lançamentos 2022",Casamento Armado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Lançamentos 2022",30 Noites com a Minha Ex (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Lançamentos 2022",A Maldição do Quarto 203 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Darby: A Jovem Sensitiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg" group-title="Lançamentos 2022",Darby: A Jovem Sensitiva (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dead Zone: Operação Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRm0yqIgoOa3k05SipqOB2yQJ1F.jpg" group-title="Lançamentos 2022",Dead Zone: Operação Resgate (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lâmina Dos 47 Ronins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="Lançamentos 2022",Lâmina Dos 47 Ronins (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marte Um (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AcoZ8aodKgVuOrYPTpc4NmjSue.jpg" group-title="Lançamentos 2022",Marte Um (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Preço da Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LajfxwKDkZlbKacfLvrzLMIocQ.jpg" group-title="Lançamentos 2022",O Preço da Família (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pronto, Falei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1bu48BHurEJxy865CdgWPhO5IL.jpg" group-title="Lançamentos 2022",Pronto, Falei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozceAmPJHgK9AqTkHYyksmMofdR.jpg" group-title="Lançamentos 2022",Vingança (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="Lançamentos 2023",Pantera Negra: Wakanda para Sempre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="Lançamentos 2022",Armageddon Time (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Americano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg" group-title="Lançamentos 2022",Assassino Americano (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deuqT4q8GS0hXvaSqi97tq3VvTc.jpg" group-title="Lançamentos 2022",Detetive Knight: Justiça (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg" group-title="Lançamentos 2022",Em Busca de Mim (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy Football (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC99lme4UplMUICswlA4mfe5GNx.jpg" group-title="Lançamentos 2022",Fantasy Football (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="Lançamentos 2022",Guardiões da Galáxia: Especial de Festas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Império da Luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hoNGfSq3ZiolERu1yFEOWhGLPL.jpg" group-title="Lançamentos 2022",Império da Luz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nix: A Entidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57NX3hO40PrxBQerdT7sFBFfS8a.jpg" group-title="Lançamentos 2022",Nix: A Entidade (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jack & Jill Nos Passos do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quAseCUjPhksKWnvEFyyJWZMdc.jpg" group-title="Lançamentos 2022",Jack & Jill Nos Passos do Amor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lobo Viking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg" group-title="Lançamentos 2022",O Lobo Viking (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Asilo Fora do Comum (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXnKdf3K2FNGx9ME8QPz4z7TYEx.jpg" group-title="Lançamentos 2022",Um Asilo Fora do Comum (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime na Rodovia Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg" group-title="Lançamentos 2022",Crime na Rodovia Paraíso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Macaco: A Lenda Começa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYEWg7ir0XD4mMUA1pyHNGImrOZ.jpg" group-title="Lançamentos 2022",O Rei Macaco: A Lenda Começa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Suplente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOoPOjz93DbZzMAcm2g8xa1WxK6.jpg" group-title="Lançamentos 2022",O Suplente (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Observador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="Lançamentos 2022",Observador (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querida, Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sNADkvJd6dMkQQxM8L8IZTJzyE.jpg" group-title="Lançamentos 2022",Querida, Alice (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rei do Ringue: A História de Jem Belcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg" group-title="Lançamentos 2022",Rei do Ringue: A História de Jem Belcher (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Obsessão Desconhecida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLFnV0w9aQ4c507owJwMSWStsMD.jpg" group-title="Lançamentos 2022",Uma Obsessão Desconhecida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="Lançamentos 2022",Gato de Botas 2: O Último Pedido (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento em Família (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG9fOheV8chlcKjQdUgJaJXrzkf.jpg" group-title="Lançamentos 2022",Acampamento em Família (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta de Emergência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E6ShgX7LL02hDqoKpK79M5HBzv.jpg" group-title="Lançamentos 2022",Alerta de Emergência (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta! Temporada de Tubarões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pODSiR9nguBXoB6iW0Qjz1LiuD0.jpg" group-title="Lançamentos 2022",Alerta! Temporada de Tubarões (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deslizando pela Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q53nx651SCGCZFWIbethzQhyfZ.jpg" group-title="Lançamentos 2022",Deslizando pela Vida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre em Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" group-title="Lançamentos 2022",Notre-Dame: Desastre em Paris (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sistema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="Lançamentos 2022",O Sistema (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" group-title="Lançamentos 2022",Re/Member (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Lançamentos 2022",M3GAN (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ela Disse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" group-title="Lançamentos 2022",Ela Disse (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3orh0EZQ10ea87vGDOylrvBV6HC.jpg" group-title="Lançamentos 2022",Detetive Knight: Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Agradar Uma Mulher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg" group-title="Lançamentos 2022",Como Agradar Uma Mulher (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cordialmente Teus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM8bbrlsAAs8dUHO92HH3VGvAqm.jpg" group-title="Lançamentos 2022",Cordialmente Teus (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" group-title="Lançamentos 2022",I Wanna Dance with Somebody: A História de Whitney Houston (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra Oculta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaI4egyV9dCMzOYoumyLMZrmRPg.jpg" group-title="Lançamentos 2022",Guerra Oculta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valentes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg" group-title="Lançamentos 2022",Valentes (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Babilônia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="Lançamentos 2022",Babilônia (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Lançamentos 2022",A Farsa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Decisão de Partir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg" group-title="Lançamentos 2022",Decisão de Partir (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descida ao Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg" group-title="Lançamentos 2022",Descida ao Inferno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey II: Uma Nova Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg" group-title="Lançamentos 2022",Downton Abbey II: Uma Nova Era (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Triângulo da Tristeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" group-title="Lançamentos 2022",Triângulo da Tristeza (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aterrorizante 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="Lançamentos 2022",Aterrorizante 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Quem? Heróis Por Acidente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9XVAP8AWQ30uRkKNTvmER8OVMa.jpg" group-title="Lançamentos 2022",Super Quem? Heróis Por Acidente (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perseguição nas Alturas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFjL4xFc6uxrfxBuZLei6L268SM.jpg" group-title="Lançamentos 2022",Perseguição nas Alturas (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando o Gelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg" group-title="Lançamentos 2022",Quebrando o Gelo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucia e o Cristal Mágico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv44fVFbCtfJV6hgat524vvByIN.jpg" group-title="Lançamentos 2022",Lucia e o Cristal Mágico (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maior que o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg" group-title="Lançamentos 2022",Maior que o Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meteor: First Impact (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNIUbrxPIKndBUXAzXbzYg085gY.jpg" group-title="Lançamentos 2022",Meteor: First Impact (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite Infeliz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg" group-title="Lançamentos 2022",Noite Infeliz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Tigre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg" group-title="Lançamentos 2022",O Menino e o Tigre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="Lançamentos 2022",O Mistério de Ozarks (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="Lançamentos 2022",O Pior Vizinho do Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900807.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a24fde3aad993f6743b81843db9af55c.jpg" group-title="Lançamentos 2022",13 exorcismos (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98242.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f46cc790c82dbe92732b74fe96642d60.jpg" group-title="Filmes 2022",Como Os Anos Me Deixaram (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98172.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cc4d22a3e10047065f4573ae22376ccc.jpg" group-title="Filmes 2022",O Acidente (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98170.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/51bf0a838c700bd0347257d7c4a94806.jpg" group-title="Filmes 2022",That Time I Got Reincarnated as a Slime the Movie Scarlet Bond (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98169.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b698e8c71d43da480439cc24ff60ffcb.jpg" group-title="Filmes 2022",O Rei Piu-Piu (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98167.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98138.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98138.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fdcaddc8d874577162456417da9d5bd3.jpg" group-title="Filmes 2022",Oferenda ao Demônio 4K [Hybrid] (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98137.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown 4K [Hybrid] (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98129.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e37fc28b9e0ba4693abdd3af2cb08d23.jpg" group-title="Filmes 2022",Dias de Desejo (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98128.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e37fc28b9e0ba4693abdd3af2cb08d23.jpg" group-title="Filmes 2022",Dias de Desejo (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98128.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/07cd6c5dd0ebda4e491fc18e2aeba735.jpg" group-title="Filmes 2022",O Grande Mauricinho (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98117.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/07cd6c5dd0ebda4e491fc18e2aeba735.jpg" group-title="Filmes 2022",O Grande Mauricinho (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98117.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98116.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98116.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/531214248ebc084dbc4d78dfbd246594.jpg" group-title="Filmes 2022",Fogaréu (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98104.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/531214248ebc084dbc4d78dfbd246594.jpg" group-title="Filmes 2022",Fogaréu (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98104.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/54f22385a70d4c0a037f3b8ce3d2d048.jpg" group-title="Filmes 2022",Jogo Perigoso: Vítimas do Legado (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98102.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/54f22385a70d4c0a037f3b8ce3d2d048.jpg" group-title="Filmes 2022",Jogo Perigoso: Vítimas do Legado (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98102.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e82728e787195df9957f748ca14e3d37.jpg" group-title="Filmes 2022",Gigi & Nate (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98087.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick 4K [Hybrid] (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98076.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1ba29c5e8e4681544fb8f58ce45ceb77.jpg" group-title="Filmes 2022",Drácula – Ele Ainda Está Vivo (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98073.mp4
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1ba29c5e8e4681544fb8f58ce45ceb77.jpg" group-title="Filmes 2022",Drácula – Ele Ainda Está Vivo (2022)
-http://esrv.cc:80/movie/Ws3ez/Bu0B7/98073.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES  2022.xml"
-############## FILMES  2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  2022" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="FILMES | 2022",A Mulher Rei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="FILMES | 2022",Adão Negro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="FILMES | 2022",Broad Peak (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drifting Home (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOkalOuwZl1KuOLIkBqVuOVpGKq.jpg" group-title="FILMES | 2022",Drifting Home (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boa Noite, Mamãe! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg" group-title="FILMES | 2022",Boa Noite, Mamãe! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="FILMES | 2022",Honor Society (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Já Fui Famoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvqHMh0DBVRMmfeRxTPlk5Fcu8f.jpg" group-title="FILMES | 2022",Já Fui Famoso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justiceiras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg" group-title="FILMES | 2022",Justiceiras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Alfaiate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg" group-title="FILMES | 2022",O Alfaiate (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Escândalo da Wirecard (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOA6zX9ayEyHU6Y3D04rZxigBbX.jpg" group-title="FILMES | 2022",O Escândalo da Wirecard (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reflexões no Espelho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg" group-title="FILMES | 2022",Reflexões no Espelho (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YViYlgufUsJT61HE0qsKsdXmn6.jpg" group-title="FILMES | 2022",Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança e Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg" group-title="FILMES | 2022",Vingança e Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="FILMES | 2022",A Fera (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="FILMES | 2022",A Máquina Infernal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Athena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg" group-title="FILMES | 2022",Athena (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Efeito Colateral (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTyvVGHdyG53nhHOySSYGxsVAvN.jpg" group-title="FILMES | 2022",Efeito Colateral (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist: A Alquimia Final (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMzOYHGiHEfknowTlg3o72gSvHy.jpg" group-title="FILMES | 2022",Fullmetal Alchemist: A Alquimia Final (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="FILMES | 2022",Lou (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minta Para Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg" group-title="FILMES | 2022",Minta Para Mim (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem do Jazz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvKmySdoCFmjuPeokOtEK3jGHx.jpg" group-title="FILMES | 2022",O Homem do Jazz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Perfumista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg" group-title="FILMES | 2022",O Perfumista (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: As Crônicas de Arceus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg" group-title="FILMES | 2022",Pokémon: As Crônicas de Arceus (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trem-Bala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" group-title="FILMES | 2022",Trem-Bala (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Viagem ao Infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38KllKVpeTLvirHvuLWWy5I71rX.jpg" group-title="FILMES | 2022",Uma Viagem ao Infinito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Depois da Promessa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4sjznbscJtlGsCeBfLTeeOjAUX.jpg" group-title="FILMES | 2022",After: Depois da Promessa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg" group-title="FILMES | 2022",Blonde (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg" group-title="FILMES | 2022",Esquadrão Secreto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trancada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWBCMiORHEfXWf6AreeDzkczyTy.jpg" group-title="FILMES | 2022",Trancada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="FILMES | 2022",Abracadabra 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg" group-title="FILMES | 2022",Conspiração Explosiva (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entergalactic (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg" group-title="FILMES | 2022",Entergalactic (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo da Minha Melhor Amiga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDNsaFksrA78eMEfVoaGRCAbIHk.jpg" group-title="FILMES | 2022",O Exorcismo da Minha Melhor Amiga (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Cerveja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjofmT6fIbuc2IsVa79UNBLP7XN.jpg" group-title="FILMES | 2022",Operação Cerveja (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aníkúlápó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="FILMES | 2022",Aníkúlápó (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu, Traidor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0MbKWieMwVDZl0eJdNt7Z6pbKU.jpg" group-title="FILMES | 2022",Eu, Traidor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Destino de Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg" group-title="FILMES | 2022",O Destino de Haffmann (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plano A, Plano B (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg" group-title="FILMES | 2022",Plano A, Plano B (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rainbow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg" group-title="FILMES | 2022",Rainbow (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RRR: Revolta, Rebelião, Revolução (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0W61w08KPAxO63uuM0Xspxb27l.jpg" group-title="FILMES | 2022",RRR: Revolta, Rebelião, Revolução (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasil 2002: Os Bastidores do Penta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg" group-title="FILMES | 2022",Brasil 2002: Os Bastidores do Penta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Não é Um Soldado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVndyIFjeEf2kZVYuZ25DTtaWYX.jpg" group-title="FILMES | 2022",Você Não é Um Soldado (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="FILMES | 2022",100 Medos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida de Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBvHFU97cmep48zbl5X85gvXCn.jpg" group-title="FILMES | 2022",A Vida de Togo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Catarina, a Menina Chamada Passarinha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMRLFYzhdWIOguLaPTwm2afiPMj.jpg" group-title="FILMES | 2022",Catarina, a Menina Chamada Passarinha (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Convite Maldito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JdYO1vmuDcqVgZD3nPEpdX7GvI.jpg" group-title="FILMES | 2022",Convite Maldito (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esposa de Aluguel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="FILMES | 2022",Esposa de Aluguel (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lar dos Esquecidos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fApMyuO562IDcpxhilpeehrEJXW.jpg" group-title="FILMES | 2022",Lar dos Esquecidos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobisomem na Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg" group-title="FILMES | 2022",Lobisomem na Noite (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster High: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="FILMES | 2022",Monster High: O Filme (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lendário Cão Guerreiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg" group-title="FILMES | 2022",O Lendário Cão Guerreiro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Meme do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg" group-title="FILMES | 2022",O Meme do Mal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Telefone do Sr. Harrigan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JptBMGTikUK4CxJpG9cNTYAGjV.jpg" group-title="FILMES | 2022",O Telefone do Sr. Harrigan (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Time da Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg" group-title="FILMES | 2022",O Time da Redenção (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os 13 Sobreviventes da Caverna (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF55KYpT70qho6PkJf4NQpgjNdL.jpg" group-title="FILMES | 2022",Os 13 Sobreviventes da Caverna (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg" group-title="FILMES | 2022",They/Them: O Acampamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Garota de Muita Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg" group-title="FILMES | 2022",Uma Garota de Muita Sorte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ameaça A Bordo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg" group-title="FILMES | 2022",Ameaça A Bordo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="FILMES | 2022",A Maldição de Bridge Hollow (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assalto na Paulista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg" group-title="FILMES | 2022",Assalto na Paulista (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg" group-title="FILMES | 2022",Blackout (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Balconista 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg" group-title="FILMES | 2022",O Balconista 3 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Palestrante (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg" group-title="FILMES | 2022",O Palestrante (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rosalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg" group-title="FILMES | 2022",Rosalina (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="FILMES | 2022",A Luta de uma Vida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="FILMES | 2022",A Madrasta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="FILMES | 2022",Argentina, 1985 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Garota do Século 20 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3NhZq5IMw9c7vSoP2Z1GsQOJo.jpg" group-title="FILMES | 2022",Garota do Século 20 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmLxwOnUFL5NQSCSY9cwtXFR1m.jpg" group-title="FILMES | 2022",Jaula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lanterna Verde: Cuidado Com Meu Poder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjfcOlpNZocBB3lbw8KHMPT9Ov4.jpg" group-title="FILMES | 2022",Lanterna Verde: Cuidado Com Meu Poder (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite de Sustos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg" group-title="FILMES | 2022",Noite de Sustos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Desconhecido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg" group-title="FILMES | 2022",O Desconhecido (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="FILMES | 2022",Panamá (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perigo no Grupo de Mães (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg" group-title="FILMES | 2022",Perigo no Grupo de Mães (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Phobias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" group-title="FILMES | 2022",Phobias (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKZmSQHD17JjGUYkluhpttgJRi.jpg" group-title="FILMES | 2022",Raymond & Ray (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ronaldo, O Fenômeno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNlwArDpdG60HCtmjxMEpVu0WLO.jpg" group-title="FILMES | 2022",Ronaldo, O Fenômeno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rubikon: Ponto Sem Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2uZmhVk6lkqierZLFnBHnL24q.jpg" group-title="FILMES | 2022",Rubikon: Ponto Sem Retorno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Órfã 2: A Origem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg" group-title="FILMES | 2022",Órfã 2: A Origem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada de Novo no Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg" group-title="FILMES | 2022",Nada de Novo no Front (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corra, Querida, Corra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" group-title="FILMES | 2022",Corra, Querida, Corra (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="FILMES | 2022",Depois do Universo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ingresso Para o Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="FILMES | 2022",Ingresso Para o Paraíso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Men: Faces do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg" group-title="FILMES | 2022",Men: Faces do Medo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morte, Morte, Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veTVl90P4lStxOLYNFn8bXozNcZ.jpg" group-title="FILMES | 2022",Morte, Morte, Morte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Se Preocupe, Querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="FILMES | 2022",Não Se Preocupe, Querida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Lugar Errado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFlGsQVzmzBei9D95RtSLCyZS6D.jpg" group-title="FILMES | 2022",No Lugar Errado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noites Brutais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg" group-title="FILMES | 2022",Noites Brutais (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Enfermeiro da Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg" group-title="FILMES | 2022",O Enfermeiro da Noite (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Monastério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3retN9fNG3fXJlUjasDsyfZqT7T.jpg" group-title="FILMES | 2022",O Monastério (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mundo de Mia: A Esperança de Centopia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg" group-title="FILMES | 2022",O Mundo de Mia: A Esperança de Centopia (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Céus do Norte sobre o Vazio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg" group-title="FILMES | 2022",Os Céus do Norte sobre o Vazio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quatro Gerações (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmbpeBp9qeCFj94f6NtMd7Sssge.jpg" group-title="FILMES | 2022",Quatro Gerações (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roubando Mussolini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4JxW3rWsOF87XNeAoeewESrMY.jpg" group-title="FILMES | 2022",Roubando Mussolini (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sala de Espionagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg" group-title="FILMES | 2022",Sala de Espionagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Rio Muito Frio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg" group-title="FILMES | 2022",Um Rio Muito Frio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vento Selvagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg" group-title="FILMES | 2022",Vento Selvagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y33paUKgDhJrdsvNDiGjltYkWau.jpg" group-title="FILMES | 2022",Vingança Fatal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wendell & Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg" group-title="FILMES | 2022",Wendell & Wild (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/91918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="FILMES | 2022",Enola Holmes 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg" group-title="FILMES | 2022",Fúria de Titãs 2 (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="FILMES | 2022",A Bravura de Molly (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trAGoCXjkCpZUNHxzrFtMqLj8sN.jpg" group-title="FILMES | 2022",A Espera de Liz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="FILMES | 2022",A Jaula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="FILMES | 2022",A Matriarca (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="FILMES | 2022",Alice (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caça Implacável (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUQ898w7faH39KpMA64v59PKRoV.jpg" group-title="FILMES | 2022",Caça Implacável (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuN7KfZCnm9WmZNiPeg6HUBsANz.jpg" group-title="FILMES | 2022",Curtas dos Minions 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Futebol em Apuros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg" group-title="FILMES | 2022",Futebol em Apuros (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Insanidade (2019)" tvg-logo="https://imgur.com/GAVOttR.jpg" group-title="FILMES | 2022",Insanidade (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogada De Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anvor6NY8DlQjAmIe67VqLbTvcn.jpg" group-title="FILMES | 2022",Jogada De Amor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg" group-title="FILMES | 2022",Medieval (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Policial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" group-title="FILMES | 2022",Meu Policial (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nossa Mãe é Para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg" group-title="FILMES | 2022",Nossa Mãe é Para Sempre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AjIDqNC37ML6fPidheFBYG2xVF.jpg" group-title="FILMES | 2022",O Cavaleiro do Rei (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="FILMES | 2022",Overdose (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Passagem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg" group-title="FILMES | 2022",Passagem (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Predestinado: Arigó e o Espírito do Dr. Fritz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx8v1E6t0GvUAUFdXjyE1L5D6qW.jpg" group-title="FILMES | 2022",Predestinado: Arigó e o Espírito do Dr. Fritz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Território Hostil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg" group-title="FILMES | 2022",Território Hostil (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Pitada de Sorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg" group-title="FILMES | 2022",Uma Pitada de Sorte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/92897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg" group-title="FILMES | 2022",Bala Perdida 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5GZWM1NmXtESsXxtXxoK8Pjtx.jpg" group-title="FILMES | 2022",Beleza (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrective Measures – Fuga da Prisão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIus2B83moSdfIkD4wD7tOaG5Y1.jpg" group-title="FILMES | 2022",Corrective Measures – Fuga da Prisão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duetto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbzUiyexmnCaCpu3RKWVwUNXIJ.jpg" group-title="FILMES | 2022",Duetto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Suas Mãos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTd3gRGk8a0rtHOWemdvOakVakR.jpg" group-title="FILMES | 2022",Em Suas Mãos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mônica, O My Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg" group-title="FILMES | 2022",Mônica, O My Darling (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Vá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg" group-title="FILMES | 2022",Não Vá (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dragão do Meu Pai (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg" group-title="FILMES | 2022",O Dragão do Meu Pai (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Milagre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="FILMES | 2022",O Milagre (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Promoção do Século (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvCXkSo9yHPeN1N3CntYONjE1ez.jpg" group-title="FILMES | 2022",Promoção do Século (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Racionais: Das Ruas de São Paulo Pro Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="FILMES | 2022",Racionais: Das Ruas de São Paulo Pro Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sorria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDTXsc8uzJuvPLvfFBXTf9rYyTf.jpg" group-title="FILMES | 2022",Sorria (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: Terra do Boneco de Neve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDR6w0O7QcUeEjp4DxO6NweI3Ls.jpg" group-title="FILMES | 2022",Tom & Jerry: Terra do Boneco de Neve (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Quedinha de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg" group-title="FILMES | 2022",Uma Quedinha de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Não Estará Só! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg" group-title="FILMES | 2022",Você Não Estará Só! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X: A Marca da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg" group-title="FILMES | 2022",X: A Marca da Morte (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desencantada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg" group-title="FILMES | 2022",Desencantada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg" group-title="FILMES | 2022",Terra dos Sonhos (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: As Consequências do Caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rPYzUYdBOccDvIxASFZBVaWUj.jpg" group-title="FILMES | 2022",7 Denúncias: As Consequências do Caso COVID-19 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aventura de Blue na Cidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg" group-title="FILMES | 2022",A Grande Aventura de Blue na Cidade (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg" group-title="FILMES | 2022",Cisne Negro (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Confinamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV5vEMXsCKakk2usQ4QLhiJa00h.jpg" group-title="FILMES | 2022",Em Confinamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dahmer (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZPrXBXYf2s4VztHdQpd0441jF6.jpg" group-title="FILMES | 2022",Dahmer (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Bilhete Premiado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0FBgHdLW4PTEhybUTDrsWasahS.jpg" group-title="FILMES | 2022",Em Busca do Bilhete Premiado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frank & Penelope - Até que a Morte nos Separe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg" group-title="FILMES | 2022",Frank & Penelope - Até que a Morte nos Separe (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Maravilhoso Outono do Mickey Mouse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLVcwkgQ0nPLlE8lg0XbFxPdX5t.jpg" group-title="FILMES | 2022",O Maravilhoso Outono do Mickey Mouse (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Odiados do Casamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQZKw9jetOInPPdSZgbKFxJALHc.jpg" group-title="FILMES | 2022",Os Odiados do Casamento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roubo Entre Ladrões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg" group-title="FILMES | 2022",Roubo Entre Ladrões (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Save the Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="FILMES | 2022",Save the Cinema (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! Gostosuras ou Travessuras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkd1zT65LEFieZlIltNxcUnzGNr.jpg" group-title="FILMES | 2022",Scooby-Doo! Gostosuras ou Travessuras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg" group-title="FILMES | 2022",The Phantom of the Open (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Halloween Ends (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD2YiqLp5vXq7l2V3iYC7usWYXD.jpg" group-title="FILMES | 2022",Halloween Ends (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" group-title="FILMES | 2022",As Nadadoras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Gold Brick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="FILMES | 2022",Big Gold Brick (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Malcolm's List (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="FILMES | 2022",Mr. Malcolm's List (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Garoto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AwndqKMSVBmipyMu9qorzEVLMA.jpg" group-title="FILMES | 2022",O Bom Garoto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plano de Aula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QE0YczuK6RMTvRY6uBa2t65kY7.jpg" group-title="FILMES | 2022",Plano de Aula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Estranho em Nossa Cama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTw9NlecsL5LYM6JQLogjC1sypD.jpg" group-title="FILMES | 2022",Um Estranho em Nossa Cama (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/93604.mp4
 
 #EXTM3U url-tvg="http://grade-de-Ação Crime.xml"
 ############## Ação Crime ################# 
@@ -2976,8 +2360,6 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/45954.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/70330.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Ação/ Crime",A Suspeita (2022)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/86656.mp4
-EXTINF:-1 tvg-id="" tvg-name="Alexandre (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JTsbi6Tw9ieR4stSKNGXgwFJnN.jpg" group-title="Ação/ Crime",Alexandre (2004)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/8944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg" group-title="Ação/ Crime",Ajuste de Contas (2019)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/22904.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg" group-title="Ação/ Crime",Agentes Vanguard (2020)
@@ -4198,6 +3580,204 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES | AÇÃO CINEMA",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
+############## 24 Horas | Premium ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Premium" group-title="
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2023.xml"
+############## Filmes: Lancamentos 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/273711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Filmes: Lancamentos 2023",65: Ameaça Pré-Histórica (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/282986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Filmes: Lancamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/277217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg" group-title="Filmes: Lancamentos 2023",90 Minutos (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/271367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Academia do Diabo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCd9zcdjHcidTkGNgwRx4hhXkI5.jpg" group-title="Filmes: Lancamentos 2023",A Academia do Diabo (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="Filmes: Lancamentos 2023",A Arca das Girafas (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conferência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUdfyV5vGtrJ6C8zUttdyVq5KT.jpg" group-title="Filmes: Lancamentos 2023",A Conferência (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/274933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="Filmes: Lancamentos 2023",A Elefanta do Mágico (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/280688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Filmes: Lancamentos 2023",A Farsa (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Filmes: Lancamentos 2023",A Jogada de Chang (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/277219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Prince in Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TvadZkkskuOZHHoInE9wMXheh1.jpg" group-title="Filmes: Lancamentos 2023",A Prince in Paradise (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/282988.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Top.xml"
+############## Filmes: Top ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes: Top",A Família Buscapé - 1993
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/164775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/214692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om96D2NF9w4UyrprQ882DrTFBol.jpg" group-title="Filmes: Top",A Bela e a Fera (2014)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Filmes: Top",A Bela e a Fera (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="Filmes: Top",7 Prisioneiros (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/194690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top",13: O Musical (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/250720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="Filmes: Top",A Caminho da Fé - 2018
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/136896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/202491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/153946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top",14 Cartas de Amor (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/240301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top",A Filha do Rei (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/195630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top",A Floresta Do Escalpe (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/262535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Negro (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/246980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Verde (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/195567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História da Eternidade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcJscYse8IyzEMcmbQUWaexksWy.jpg" group-title="Filmes: Top",A História da Eternidade - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/170864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Esau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEEVoX2XekcCD4qqCPaAjo7FJ3F.jpg" group-title="Filmes: Top",A História de Esau (2019)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/166704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Ester (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="Filmes: Top",A História de Ester (2013)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/198451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lppFgN1ujhKlGgDahBhy7lOFHUs.jpg" group-title="Filmes: Top",A Família Addams (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/266744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top",A Estação da Alegria (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/257935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DfdAhXIzxgGEUnGiThqhqX7yGz.jpg" group-title="Filmes: Top",A Estrada 47 - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Eterna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csag6UMfxp0vjpYj5rhkzS8O8TO.jpg" group-title="Filmes: Top",A Estrada Eterna - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Interior - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKEXg34o3WssBG5Nveaj7nspsDh.jpg" group-title="Filmes: Top",A Estrada Interior - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estranha Perfeita - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E7ArYgYzjrzbU8A39Zb8V0PAvj.jpg" group-title="Filmes: Top,A Estranha Perfeita - 2011
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/136640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Filmes: Top",A Estrela de Belém (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/62661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Filmes: Top",A Escavação (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/148308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola da Vida - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifxPMxUcbPwQxyQdHGmdd5zUBdj.jpg" group-title="Filmes: Top",A Escola da Vida - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/176173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Top",A Colônia - 1997
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/1266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acc3skjs4TGxF6G7VxG3WvVvbRr.jpg" group-title="Filmes: Top",A Colônia - 2013
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top",A Colmeia (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/238189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top",13 Minutos de Tormenta (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/214680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Top",2019: O Ano da Extinção - 2009
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/173486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2025: Blood, White & Blue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S9pjiZejBiSVV88qU59ifZ7q0N.jpg" group-title="Filmes: Top",2025: Blood, White & Blue (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/286457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Top",211 - O Grande Assalto - 2018
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Top",22 Balas (2010)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Filmes: Top",22 de Julho (2018)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/194937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Top",22 Milhas (2018)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Top",22 Minutos - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTko6K3GUVtYvHGjd62MJ8hNy1K.jpg" group-title="Filmes: Top",3000 Milhas Para o Inferno - 2001
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/17700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Filmes: Top",300: A Ascensão do Império (2014)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/133225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Top",6 Balas - 2012
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Top",6 Dias - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24530.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
+############## 24 Horas | Premium ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Premium" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 02" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 03" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 04" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 04
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Investigação Criminal" tvg-logo="https://i.imgur.com/Zyxwj1j.jpg" group-title="24 Horas | Premium",[24H] YT-Investigação Criminal
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Policia Militar" tvg-logo="https://i.imgur.com/4w1cvok.png" group-title="24 Horas | Premium",[24H] YT-Policia Militar
+http://srv.cldplay.net:80/live/820584rohs/67864336899/152319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/123177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/123178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 03
+http://srv.cldplay.net:80/live/820584rohs/67864336899/87696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 04
+http://srv.cldplay.net:80/live/820584rohs/67864336899/89551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
+http://srv.cldplay.net:80/live/820584rohs/67864336899/123179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="24 Horas | Premium",John Wick - Trilogia
+http://srv.cldplay.net:80/live/820584rohs/67864336899/133418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="24 Horas | Premium",Maze Runner - Trilogia
+http://srv.cldplay.net:80/live/820584rohs/67864336899/123180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 01" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 01
+http://srv.cldplay.net:80/live/820584rohs/67864336899/133416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 02
+http://srv.cldplay.net:80/live/820584rohs/67864336899/133417.m3u8
+
 #EXTM3U url-tvg="http://grade-de-Faroeste.xml"
 ############## Faroeste ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFaroeste" group-title="
@@ -4607,133 +4187,6 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902462.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902463.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros: O Filme (2023) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg" group-title="Filmes da Semana",Super Mario Bros: O Filme (2023) (HDCAM)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902465.mp4
-
-
-
-#EXTM3U url-tvg="http://grade-de-FILMES Romance .xml"
-############## FILMES Romance ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES Romance " group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="Romance",A Garota Invisível (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Romance",A Fotografia (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33791.mp4
-#EXTINF:-1 tvg-id="A Escolha  " tvg-name="A Escolha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" group-title="Romance",A Escolha (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11973.mp4
-#EXTINF:-1 tvg-id="A Culpa Nao e do Carma  " tvg-name="A Culpa Não É do Carma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIoZVRHq45toPmrUqzJoBGw4gLB.jpg" group-title="Romance",A Culpa Não É do Carma (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11971.mp4
-#EXTINF:-1 tvg-id="A Culpa e das Estrelas  " tvg-name="A Culpa é das Estrelas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Romance",A Culpa é das Estrelas (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11970.mp4
-#EXTINF:-1 tvg-id="A Dama de Vermelho" tvg-name="A Dama de Vermelho (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Romance",A Dama de Vermelho (1984)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXgDAfHX4eBFUZnOG4C6cn0pbuT.jpg" group-title="Romance",A Dama e o Vagabundo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/21894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Romance",A Caminho do Verão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80495.mp4
-#EXTINF:-1 tvg-id="A Barraca do Beijo  " tvg-name="A Barraca do Beijo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Romance",A Barraca do Beijo (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Romance",A Barraca do Beijo 2 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXhx1IN1nSWpeHehunvW9j2BSU.jpg" group-title="Romance",A Barraca do Beijo 3 (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="Romance",365 Dias (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30524.mp4
-#EXTINF:-1 tvg-id="3 Coracoes  " tvg-name="3 Corações (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13vkyx0RU8Pikdaow8Yjsb8J9aL.jpg" group-title="Romance",3 Corações (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Histórias de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B33UMfA8Yr79qP7g90eMSLggXm.jpg" group-title="Romance",3 Histórias de Amor (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Romance",14 Cartas de Amor (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84282.mp4
-#EXTINF:-1 tvg-id="10 Coisas que Eu Odeio em Voce  " tvg-name="10 Coisas que Eu Odeio em Você (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsCDtBiviZnENBDBBsxMXV6g3EP.jpg" group-title="Romance",10 Coisas que Eu Odeio em Você (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11965.mp4
-#EXTINF:-1 tvg-id="500 Dias Com Ela  " tvg-name="(500) Dias com Ela (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5liQCSzRm7qg8B4JTLYVkkhI1h.jpg" group-title="Romance",(500) Dias com Ela (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Romance",365 Dias: Hoje (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Garantido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg" group-title="Romance",Amor Garantido (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor nas Alturas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg" group-title="Romance",Amor nas Alturas (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60627.mp4
-#EXTINF:-1 tvg-id="Amor no Safari  " tvg-name="Amor no Safari (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AHMvTsP9JDBAcKDLW7qL6hd5WL.jpg" group-title="Romance",Amor no Safari (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11991.mp4
-#EXTINF:-1 tvg-id="Amor Pleno  " tvg-name="Amor Pleno (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJErM8SjHD2tmDyLzfAEbWDBnaq.jpg" group-title="Romance",Amor Pleno (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11992.mp4
-#EXTINF:-1 tvg-id="Amor por Acidente  " tvg-name="Amor por Acidente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ufShjevEQZG5QMWLX2r8yTXYNW.jpg" group-title="Romance",Amor por Acidente (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11993.mp4
-#EXTINF:-1 tvg-id="Amor Sem Escalas  " tvg-name="Amor Sem Escalas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7t71j6kpe8Olbzh9VS4W9ZqGk8o.jpg" group-title="Romance",Amor Sem Escalas (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Medida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glFwaNYHhzUa1pao25O2o2aFkxj.jpg" group-title="Romance",Amor Sem Medida (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor, Sublime Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg" group-title="Romance",Amor, Sublime Amor (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71472.mp4
-#EXTINF:-1 tvg-id="Amor e Amizade  " tvg-name="Amor & Amizade (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35AS4tg7EONNj5vuw4pfZjtlXa6.jpg" group-title="Romance",Amor & Amizade (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor & Gelato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qXCNa3w1rOZ4w7VXivVxXK4s0l.jpg" group-title="Romance",Amor & Gelato (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além das Montanhas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N22lC5mofacGHCH13VinxyaQ38.jpg" group-title="Romance",Além das Montanhas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice Júnior (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eiFLJcDAgr1xp3eZuXJiBn1cvj.jpg" group-title="Romance",Alice Júnior (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Algo Sobre Harry (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLlvHqZucZZ6P7KkCcrywE16QMI.jpg" group-title="Romance",Algo Sobre Harry (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguém Avisa? (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neE6fqGiQcp6z4qNlFtlP0z76c0.jpg" group-title="Romance",Alguém Avisa? (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After - Depois da Verdade (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg" group-title="Romance",After - Depois da Verdade (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/46460.mp4
-#EXTINF:-1 tvg-id="Adam  " tvg-name="Adam (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSN5ec7llAzv0Up7wAQ9qeOM0lS.jpg" group-title="Romance",Adam (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Carta de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="Romance",A Última Carta de Amor (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Pode Mudar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" group-title="Romance",A Vida Pode Mudar (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Química que Há Entre Nós (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPoC069DhfbLHvjuSTLR60D0Sxq.jpg" group-title="Romance",A Química que Há Entre Nós (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34152.mp4
-#EXTINF:-1 tvg-id="A Princesa e a Plebeia  " tvg-name="A Princesa e a Plebeia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSDndWH1GeFkCl9UgDDSmd0nmM4.jpg" group-title="Romance",A Princesa e a Plebeia (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg" group-title="Romance",A Princesa e a Plebeia: As Vilãs Também Amam (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67284.mp4
-#EXTINF:-1 tvg-id="A Pequena Morte  " tvg-name="A Pequena Morte (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Shfx0SYjltoT6XuC2iNFLXbKcO.jpg" group-title="Romance",A Pequena Morte (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11980.mp4
-#EXTINF:-1 tvg-id="A Pequena Sereia  " tvg-name="A Pequena Sereia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rf3Oor7P1HyHYvce2OrMi19h1s.jpg" group-title="Romance",A Pequena Sereia (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Romance",A Megera Domada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/77547.mp4
-#EXTINF:-1 tvg-id="A Lagoa Azul" tvg-name="A Lagoa Azul (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3K7QnFEtu1s6HLXFuep2wvhWT.jpg" group-title="Romance",A Lagoa Azul (1980)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida é Agora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg" group-title="Romance",A Vida é Agora (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title="Romance",After: Depois do Desencontro (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor a Três (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE7AeMCVl7zZ4LjrKWhltjNgwBu.jpg" group-title="Romance",Amor a Três (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor com Data Marcada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg" group-title="Romance",Amor com Data Marcada (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Com Fetiche (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg" group-title="Romance",Amor Com Fetiche (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de Balada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZz1HP4Vo3yqYgOTLGxA4SLeX8I.jpg" group-title="Romance",Amor de Balada (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de Páscoa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmsFYY5tNzlUnbbPItmBG4o5HOJ.jpg" group-title="Romance",Amor de Páscoa (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batalhas: Freestyle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg" group-title="Romance",Batalhas: Freestyle (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até a Próxima Vez (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg" group-title="Romance",Até a Próxima Vez (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Através da Minha Janela (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQHfOaggM8xjvgGvZHpFPYXduRE.jpg" group-title="Romance",Através da Minha Janela (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Donas do Pedaço (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peYRpielBbRHMGNYJnWyCsG7apA.jpg" group-title="Romance",As Donas do Pedaço (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Cores do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKkfxvjnZstMmQCbolFDWREhxCX.jpg" group-title="Romance",As Cores do Amor (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas #Desafio Mundial (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghE18uV8scGieT028phiGF3pI6V.jpg" group-title="Romance",As Apimentadas #Desafio Mundial (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ANNE+: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scnpIV2OwtPA78wftPAAjVPhpuz.jpg" group-title="Romance",ANNE+: O Filme (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqX1O4PMi2UXuyNVfrps2kq8uFw.jpg" group-title="Romance",Amor² (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45135.mp4
-#EXTINF:-1 tvg-id="Beleza Oculta  " tvg-name="Beleza Oculta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg" group-title="Romance",Beleza Oculta (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11999.mp4
-#EXTINF:-1 tvg-id="Bem A Tempo Para O Natal  " tvg-name="Bem a Tempo para o Natal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rumDrsQEfv540oBZxDRYu3qIGft.jpg" group-title="Romance",Bem a Tempo para o Natal (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12000.mp4
 
 #EXTM3U url-tvg="http://grade-de-Comédia.xml"
 ############## Comédia ################# 
@@ -5257,45 +4710,6 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10125.mp4
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Oito Mulheres e um Segredo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mymTjvZeg9hkSSofg78nH0GOtLS.jpg" group-title="Comédia",Oito Mulheres e um Segredo (2018)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10124.mp4
-
-#EXTM3U url-tvg="http://grade-de-Ficção Científica.xml"
-############## Ficção Científica ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFicção Científica" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="No Limite do Amanhã (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg" group-title="Ficção Científica",No Limite do Amanhã (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Experiência Alpha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg" group-title="Ficção Científica",Experiência Alpha (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Refúgio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg" group-title="Ficção Científica",O Último Refúgio (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cubo: A Caixa do Medo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OSTg5V4GkzD0p14whcFRcH4Tes.jpg" group-title="Ficção Científica",Cubo: A Caixa do Medo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ruído Branco (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNPuuybpp52aABBy59V5Q78xkLh.jpg" group-title="Ficção Científica",Ruído Branco (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/895824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Controle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhDhGzwoDOLpZ73wv1TJ7BYI2IT.jpg" group-title="Ficção Científica",Sem Controle (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Programa DNA (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS4iDFNLxRJngyzS7n2JoPvfhDp.jpg" group-title="Ficção Científica",Programa DNA (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reação em Cadeia (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugdjCDRcM3ABif313FF0y14SXwR.jpg" group-title="Ficção Científica",Reação em Cadeia (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Exército do Amanhã (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg" group-title="Ficção Científica",Exército do Amanhã (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1GZVllOORTiN0XTPdumt9CSAcc.jpg" group-title="Ficção Científica",Prometheus (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/890031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Predadores (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg" group-title="Ficção Científica",Predadores (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/890029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não! Não Olhe! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg" group-title="Ficção Científica",Não! Não Olhe! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anjos das Trevas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49my4P9or2BZpbOT3ATSqCRomDy.jpg" group-title="Ficção Científica",Anjos das Trevas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Samaritano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg" group-title="Ficção Científica",Samaritano (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/88167.mp4
-#EXTINF:-1 tvg-id="Rec 3 Genesis   " tvg-name="[REC] 3: Gênesis (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2WKOO1Rt5TuBM0h9Jfpgy8crWP.jpg" group-title="Ficção Científica",[REC] 3: Gênesis (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zone 414 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg" group-title="Ficção Científica",Zone 414 (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY0JZLUiGEmuRLvXATisHM3tw1f.jpg" group-title="Ficção Científica",Warning (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70344.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filme Terror.xml"
 ############## Filme Terror ################# 
@@ -6060,6 +5474,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec
 #EXTM3U url-tvg="http://grade-de-Religioso.xml"
 ############## Religioso ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeReligioso" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Religioso",A Ressurreição de Jesus (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/221013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição do Anticristo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" group-title="Religioso",A Ressurreição do Anticristo - 2015
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/25130.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Corajosos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg" group-title="Religioso",Corajosos (2011)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10741.mp4
@@ -6887,517 +6306,6 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/12467
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso",[24h] Contos da Masha
 http://dns.acaidopara.net:8080/21964291463/1964291463a/12460
 
-#EXTM3U url-tvg="http://grade-de-Peppa | Pig.xml"
-############## Peppa | Pig ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePeppa | Pig" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qTetLcRIUcVUjeZTrIjUBdQGJLR.jpg" group-title="Peppa | Pig",Peppa Pig S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/r5gIBQldH1x9ner9xyTpCZlHFnL.jpg" group-title="Peppa | Pig",Peppa Pig S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5CBC0H9Ml9JcUDX8zJOQeVZwiLh.jpg" group-title="Peppa | Pig",Peppa Pig S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8zUeNoatpu5EM5rcsUwh9S8FSyf.jpg" group-title="Peppa | Pig",Peppa Pig S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qH57airEQY4UcRLModSqWwbIIGZ.jpg" group-title="Peppa | Pig",Peppa Pig S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/94t7Vbzo3pQ1Y1GLCYrqEYj8UlT.jpg" group-title="Peppa | Pig",Peppa Pig S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ibbMrOFhXqJhAVSjNM4Ug05l3BF.jpg" group-title="Peppa | Pig",Peppa Pig S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iR9bNDctFOmVx7rxmODD1qf6QUl.jpg" group-title="Peppa | Pig",Peppa Pig S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/51zGwslZjdQDvZnODJJMuJbHpyd.jpg" group-title="Peppa | Pig",Peppa Pig S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jNrm5f5lFLKBILvefufPLrFS7a0.jpg" group-title="Peppa | Pig",Peppa Pig S01 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/uJtpPIXjayfYUZ7opV1fpWyhW4F.jpg" group-title="Peppa | Pig",Peppa Pig S01 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/dAh84XNsCezE3kDci4FS1aimmMr.jpg" group-title="Peppa | Pig",Peppa Pig S01 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/eHMT8LPbMFUMl0ZrajvIitcJeE3.jpg" group-title="Peppa | Pig",Peppa Pig S01 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7ZZHyXyVtneKKmGZlin9C0XeqrC.jpg" group-title="Peppa | Pig",Peppa Pig S02 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/w0qtAl0oROG28qabV0w1fSktLaD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/l5w5hrje0xjdsPpAWnoWl9geXT0.jpg" group-title="Peppa | Pig",Peppa Pig S02 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cOK4QbVoRWdsKZkAX4VfPMziuYM.jpg" group-title="Peppa | Pig",Peppa Pig S02 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/d1zDqKFljURyauhhebh8md4PuEH.jpg" group-title="Peppa | Pig",Peppa Pig S02 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/v8b5slZLKmPgxpE0yLYv4BNk20K.jpg" group-title="Peppa | Pig",Peppa Pig S02 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/aaCHoZExKt8UF2MpIjkgEwVfeNu.jpg" group-title="Peppa | Pig",Peppa Pig S02 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/pQPk39GCWrqFPl4ZXKGCMIxKpF7.jpg" group-title="Peppa | Pig",Peppa Pig S02 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/h2dpwr4oJf9cmay7lJksZzKmqdD.jpg" group-title="Peppa | Pig",Peppa Pig S02 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/atebY6QSjmcCoz7AgxiNkk0Dn6l.jpg" group-title="Peppa | Pig",Peppa Pig S02 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jDp25PRgO6e1KCmglMOgGRgeMKN.jpg" group-title="Peppa | Pig",Peppa Pig S02 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/4OfFGBZiGRkkZAIj5ghmxXz30g5.jpg" group-title="Peppa | Pig",Peppa Pig S02 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9sQubP4AAUfbLvY69CicGG36DDA.jpg" group-title="Peppa | Pig",Peppa Pig S02 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gSXTtvlLuekCLe5iU1kSAeZB3AU.jpg" group-title="Peppa | Pig",Peppa Pig S03 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ogQ63KhD1CEdTOKIuFMHAOJgP8l.jpg" group-title="Peppa | Pig",Peppa Pig S03 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qm6Ut26KKg12PptzZ9ETwTOcuSa.jpg" group-title="Peppa | Pig",Peppa Pig S03 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dwYoqkHjmHO6gMDEeoK55oLtPR7.jpg" group-title="Peppa | Pig",Peppa Pig S03 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oAKfvXEP76x5DFpcjQqz3TTDNVB.jpg" group-title="Peppa | Pig",Peppa Pig S03 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/c1n5IkNBbPBj7EqCiPbz6Hk7SrK.jpg" group-title="Peppa | Pig",Peppa Pig S03 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3E4XGObv6vrK67BR52f4GRyaxUm.jpg" group-title="Peppa | Pig",Peppa Pig S04 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bYPNS8CKSbKhkdqFAfjhGMckS6Y.jpg" group-title="Peppa | Pig",Peppa Pig S04 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lnSPQxIM6q18DCoJGgnrmDmMGJa.jpg" group-title="Peppa | Pig",Peppa Pig S04 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5k1KlLmmFRbWpo0MofKIPWFR4o6.jpg" group-title="Peppa | Pig",Peppa Pig S04 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kQLM4nMopverB7J7hv81RWGWktC.jpg" group-title="Peppa | Pig",Peppa Pig S04 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mG2bFGBQOBAVX9sFukTh5dJF5y5.jpg" group-title="Peppa | Pig",Peppa Pig S04 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nW8jPEzx3Z6IwU4h0kTN8cs5arj.jpg" group-title="Peppa | Pig",Peppa Pig S04 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k2mfLJI2p3OBcnhGQkDC5YggXrv.jpg" group-title="Peppa | Pig",Peppa Pig S05 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/42qbkP93HJLopS9bEtvV9ghLGTs.jpg" group-title="Peppa | Pig",Peppa Pig S05 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pihXINeEJ1hdcVxwmPwsm5YuLuo.jpg" group-title="Peppa | Pig",Peppa Pig S05 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eA29TOsjpMdX6iTMyu3lyeWoXrM.jpg" group-title="Peppa | Pig",Peppa Pig S05 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/FZb96HzbVrHRedpqndrGplvI0.jpg" group-title="Peppa | Pig",Peppa Pig S05 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xPP8wRI4RW0ZeGZFAuVqX3Cm2Fi.jpg" group-title="Peppa | Pig",Peppa Pig S05 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ey540Va0Utk8Qk9ipQfiwAxamYx.jpg" group-title="Peppa | Pig",Peppa Pig S05 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/48089.mp4
-
-############## DESENHOS ################# 
-#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
-############## 24 Horas | Desenhos ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Tico e Teco e os Defensores da Lei" tvg-logo="https://imgur.com/iThMuhN.jpg" group-title="Desenhos 24hs",[24h] Tico e Teco e os Defensores da Lei
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12513
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball Saiyajins" tvg-logo="https://imgur.com/gmAS5En.jpg" group-title="Desenhos 24hs",[24h] Dragon Ball Saiyajins
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12815
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Super
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11526
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/62/d1/07/62d107a4857a8a1045fd91c4c0a6d3ed.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Z
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11525
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragões: Equipe de Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6M2LtECJgfLbJ5b4JTjSnBa794.jpg" group-title="Desenhos 24hs",[24h] Dragões: Equipe de Resgate
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/895257
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragões: Equipe de Resgate Heróis do Céu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4lfRiOgDHROOaKheKWpA0x41J.jpg" group-title="Desenhos 24hs",[24h] Dragões: Equipe de Resgate Heróis do Céu
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/895256
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://imgur.com/hvV48Io.jpg" group-title="Desenhos 24hs",[24H] Du, Dudu e Edu
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82906
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="Desenhos 24hs",[24h] Eu sou Groot
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/88397
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Familia Adams" tvg-logo="https://imgur.com/7jqIP0m.jpg" group-title="Desenhos 24hs",[24h] Familia Adams
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82907
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dora Aventureira" tvg-logo="https://imgur.com/748k0Mk.jpg" group-title="Desenhos 24hs",[24h] Dora Aventureira
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12559
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Doug Funnie" tvg-logo="https://imgur.com/bqOXETJ.jpg" group-title="Desenhos 24hs",[24h] Doug Funnie
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12506
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde" tvg-logo="https://media.fstatic.com/82nFeQAuHxVGLaFS6lnyCETWCfs=/fit-in/290x478/smart/media/movies/covers/2017/01/CourageTheCowardlyDog_S4.jpg" group-title="Desenhos 24hs",[24H] Coragem o Cão Covarde
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11523
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Clarencio: O Otimista" tvg-logo="https://imgur.com/i155zwM.jpg" group-title="Desenhos 24hs",[24h] Clarencio: O Otimista
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/86270
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos Assustadores da Masha" tvg-logo="https://imgur.com/UjWDGIK.jpg" group-title="Desenhos 24hs",[24h] Contos Assustadores da Masha
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12457
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Desenhos 24hs",[24h] Contos da Masha
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12460
-#EXTINF:-1 tvg-id="" tvg-name="[24H] De Volta pro Futuro" tvg-logo="https://imgur.com/Urghy0P.jpg" group-title="Desenhos 24hs",[24H] De Volta pro Futuro
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82905
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis O Pimentinha" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/935/3204935.jpg" group-title="Desenhos 24hs",[24H] Denis O Pimentinha
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11468
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81XWfzzdgkL._SY445_.jpg" group-title="Desenhos 24hs",[24H] Digimon
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11530
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Daniel o Tigre " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg" group-title="Desenhos 24hs",[24H] Daniel o Tigre 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84581
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Daniel, o Caçador de Magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="Desenhos 24hs",[24h] Daniel, o Caçador de Magia
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/892990
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="Desenhos 24hs",[24h] Dragon Age: Absolvição
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/894019
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball" tvg-logo="https://1.bp.blogspot.com/-bGtjCourogk/W7Zo2QMWFmI/AAAAAAAAdHw/cYwp6tMm26k-gKLh3IPWfzK9kqUYdfHXwCLcBGAs/s1600/Screenshot_3.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11464
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Cell" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_j4WiRbSAkte3bx_fBNEHOsg5BNlhqEwnf2TKQZb1_Fc2DkNI" group-title="Desenhos 24hs",[24h] Dragon Ball - Cell
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/13525
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dragon Ball - Majin Boo" tvg-logo="https://imgur.com/4hJqz71.jpg" group-title="Desenhos 24hs",[24h] Dragon Ball - Majin Boo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12776
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 1" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Clássico Parte 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11818
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Clássico Parte 2" tvg-logo="https://imgur.com/sBsCaiZ.jpg" group-title="Desenhos 24hs",[24H] Dragon Ball Clássico Parte 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11819
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja Kamp Koral" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="Desenhos 24hs",[24H] Bob Esponja Kamp Koral
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84580
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S01 E S02" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S01 E S02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12452
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S03 E S04" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S03 E S04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12453
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Esponja S05 E S06" tvg-logo="https://imgur.com/IZS6qZ0.jpg" group-title="Desenhos 24hs",[24h] Bob Esponja S05 E S06
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12454
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bob Zoom" tvg-logo="https://imgur.com/Pdw4KRS.jpg" group-title="Desenhos 24hs",[24h] Bob Zoom
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12455
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Jachie Chan" tvg-logo="https://imgur.com/5XAKMx5.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Jachie Chan
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12505
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="https://media.fstatic.com/XC0COApitHa1fRkhTnQlB9GCdVc=/fit-in/290x478/smart/media/movies/covers/2010/07/f1ab14b3c3125ccdd001bae4e3aedaa0.jpg" group-title="Desenhos 24hs",[24H] As Aventuras de Jackie Chan
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11509
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEmcwvz5Zgz3YQqcHY4nqQXtqiOdtAKowFw&usqp=CAU" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12355
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Aventuras de Tintim" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnd61YaafVOfP0iYg9tZj3gYcaB.jpg" group-title="Desenhos 24hs",[24h] As Aventuras de Tintim
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82744
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftFTY3EZTTAP5RKfRijD8Q8PNQX.jpg" group-title="Desenhos 24hs",[24H] As Meninas Super Poderosas
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897967
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Meninas Superpoderosas Geração Z" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyma9skDvtn6drk7sFtfmbTV3Vb.jpg" group-title="Desenhos 24hs",[24h] As Meninas Superpoderosas Geração Z
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60312
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Tartarugas Ninja" tvg-logo="https://media.fstatic.com/BjNcbc_mKW-CyX9aw_aaOZqwYgM=/fit-in/290x478/smart/media/movies/covers/2011/12/122154e9da4f8c31e5cc2ca9ec21f205.jpg" group-title="Desenhos 24hs",[24h] As Tartarugas Ninja
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/11828
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg" group-title="Desenhos 24hs",[24h] As Terríveis Aventuras de Billy e Mandy
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60310
-#EXTINF:-1 tvg-id="" tvg-name="[24h] As Trapalhadas de Flapjack" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2nywQCi0SxyBjlNrYHKkI9tgod.jpg" group-title="Desenhos 24hs",[24h] As Trapalhadas de Flapjack
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60311
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 " tvg-logo="https://imgur.com/PbAhK0I.jpg" group-title="Desenhos 24hs",[24h] Ben 10 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82783
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10 Reboot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="Desenhos 24hs",[24h] Ben 10 Reboot
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60315
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Força Alienígena " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Força Alienígena 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60313
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Omniverse" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Omniverse
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60314
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ben 10: Supremacia Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YgXSWdHpRU3KzlK47tD6a3E6nY.jpg" group-title="Desenhos 24hs",[24h] Ben 10: Supremacia Alienígena
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60316
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Beyblade Burst" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg" group-title="Desenhos 24hs",[24h] Beyblade Burst
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60368
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Billy Dilley" tvg-logo="https://imgur.com/rJ4mSII.jpg" group-title="Desenhos 24hs",[24h] Billy Dilley
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82968
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Vida e As Aventuras de Juniper Lee" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5oQ2VTHS46ykMfFH6DeIjrfHp.jpg" group-title="Desenhos 24hs",[24h] A Vida e As Aventuras de Juniper Lee
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60302
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Acampamento De Verão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63nHPbKbroWostjpq4WLjjmhma7.jpg" group-title="Desenhos 24hs",[24h] Acampamento De Verão
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60303
-#EXTINF:-1 tvg-id="" tvg-name="[24h] American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="Desenhos 24hs",[24h] American Dad!
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/898166
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Andy e seu Esquilo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xxRUjFtXxkeVFW66MOBDkBP56qP.jpg" group-title="Desenhos 24hs",[24h] Andy e seu Esquilo
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60309
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 1" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 1
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12556
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Animaniacs - Parte 2" tvg-logo="https://imgur.com/Qkumqas.jpg" group-title="Desenhos 24hs",[24h] Animaniacs - Parte 2
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12557
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S01" tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S01
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82742
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Apenas um Show S02 " tvg-logo="https://imgur.com/vG8SZv3.jpg" group-title="Desenhos 24hs",[24h] Apenas um Show S02 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82743
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Mansão Foster para Amigos Imaginários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerZJVODYwji4BnyWrHFmF3JxhX.jpg" group-title="Desenhos 24hs",[24h] A Mansão Foster para Amigos Imaginários
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/60294
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia" tvg-logo="https://imgur.com/BMqQwBQ.jpg" group-title="Desenhos 24hs",[24H] A Pequena Sereia
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82964
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Charlie Brown e Snopy" tvg-logo="https://imgur.com/YkKUgZW.jpg" group-title="Desenhos 24hs",[24h] A Turma do Charlie Brown e Snopy
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12501
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Turma do Manda Chuva" tvg-logo="https://imgur.com/rg88haZ.jpg" group-title="Desenhos 24hs",[24h] A Turma do Manda Chuva
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12464
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango  " tvg-logo="https://imgur.com/HaW86Y7.jpg" group-title="Desenhos 24hs",[24H] A Vaca e o Frango  
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82782
-#EXTINF:-1 tvg-id="" tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://imgur.com/8AHg0m5.jpg" group-title="Desenhos 24hs",[24h] 3 Palavrinhas
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/93444
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 44 Gatos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6UxiKbdcPJr15eTZWiEbldAzlS.jpg" group-title="Desenhos 24hs",[24H] 44 Gatos 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84502
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Formiga Atômica" tvg-logo="https://imgur.com/J7mfM5G.jpg" group-title="Desenhos 24hs",[24h] A Formiga Atômica
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12333
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bananas de Pijamas Desenho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAOv5rXl74n70BteqYDVHFhMfSc.jpg" group-title="Desenhos 24hs",[24H] Bananas de Pijamas Desenho
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84566
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Blaze e os Monster Machines" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDTuk6TxOzjzHzrcOw0w27nwHa6.jpg" group-title="Desenhos 24hs",[24H] Blaze e os Monster Machines
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84567
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bubbles Guppies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg" group-title="Desenhos 24hs",[24H] Bubbles Guppies
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84568
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Faisca e Fumaça " tvg-logo="http://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/faisca-500x5001-822a9d19b543653ccf15376338970104-640-0.jpg" group-title="Desenhos 24hs",[24H] Faisca e Fumaça 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84570
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Megaman Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lATtzpRx8MW1JisBb70s9N2y0wI.jpg" group-title="Desenhos 24hs",[24H] Megaman Clássico 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84582
-#EXTINF:-1 tvg-id="" tvg-name="[24h ]Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg" group-title="Desenhos 24hs",[24h ]Animaniacs
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/62798
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa do Mickey S01" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa do Mickey S01
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82739
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S02" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82740
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Casa Do Mickey S03 S04 S05" tvg-logo="https://imgur.com/Ar4RFD4.jpg" group-title="Desenhos 24hs",[24h] A Casa Do Mickey S03 S04 S05
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82741
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YU-YU-Hakusho" tvg-logo="https://i.imgur.com/31FLn06.png" group-title="24 Horas | Desenhos",[24H] YU-YU-Hakusho
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83750
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Zatch Bell" tvg-logo="https://i.imgur.com/2mdIzFg.png" group-title="24 Horas | Desenhos",[24H] Zatch Bell
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/279
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="24 Horas | Desenhos",[24H] Zé Buscapé
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/278
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="24 Horas | Desenhos",[24H] Wally Gator
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/276
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="24 Horas | Desenhos",[24H] Wolverine e os X-Men
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152887
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="24 Horas | Desenhos",[24H] Xena
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83748
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148202
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62953
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83746
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148274
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="24 Horas | Desenhos",[24H] Tartarugas Ninjas
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83738
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/266
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="24 Horas | Desenhos",[24H] Thiago Ventura
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/140704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83739
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/274
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83740
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="24 Horas | Desenhos",[24H] Tom & Jerry
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83742
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="24 Horas | Desenhos",[24H] Três Espiãs Demais
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83743
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="24 Horas | Desenhos",[24H] Turma da Mônica
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148201
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="24 Horas | Desenhos",[24H] Turma do Pateta
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62989
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83735
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152554
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152555
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="24 Horas | Desenhos",[24H] Speed-Racer
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/265
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="24 Horas | Desenhos",[24H] Steven Universe
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83736
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="24 Horas | Desenhos",[24H] Street Fighter 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162896
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83757
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156748
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162901
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/273
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83718
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83737
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152553
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="24 Horas | Desenhos",[24H] Princesa e o Dragão
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62982
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83731
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="24 Horas | Desenhos",[24H] Reino Gelado
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="24 Horas | Desenhos",[24H] Rimas de Berçário
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62966
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/280
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/269
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147951
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147991
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62976
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83732
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/270
-#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/281
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62957
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/271
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62980
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63000
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147949
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62990
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62979
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147947
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/264
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="24 Horas | Desenhos",[24H] Pato Donald
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62991
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169538
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 3
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169536
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 4
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169535
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 5
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83733
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 6
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83723
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83724
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147948
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146926
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/146927
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83727
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148200
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62973
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83728
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147945
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62963
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62958
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83722
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83729
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147950
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/141023
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154892
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162900
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83695
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62968
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143799
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143805
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/70685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83697
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156043
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83700
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/154003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83701
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142121
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142122
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62994
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/155389
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62984
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/122179
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156744
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62996
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83707
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62981
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62988
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83708
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62997
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62993
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83709
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83710
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147946
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/63005
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83713
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62955
-#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162898
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83720
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162897
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143800
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143801
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143802
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143803
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/143804
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/62992
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83721
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147155
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147156
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
-
-
 #EXTM3U url-tvg="http://grade-de-Desenhos 24hs.xml"
 ############## Desenhos 24hs ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeDesenhos 24hs" group-title="
@@ -8061,53 +6969,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
 http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
-
-#EXTM3U url-tvg=" http://grade-de-Toy Boy.xml "
- ############## Toy Boy ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeToy Boy " group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYwuoopSYaZUHRweTnuRExXynZE.jpg" group-title="[Netflix Séries]",Toy Boy S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scCxLKSXd1VrTQRd1wbJ8FiTjGD.jpg" group-title="[Netflix Séries]",Toy Boy S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99zxsDdotsXvgIMXKSxurA5kQIT.jpg" group-title="[Netflix Séries]",Toy Boy S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dikoxiewQ6rHP4RdfdQUWWqe979.jpg" group-title="[Netflix Séries]",Toy Boy S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xKSkyooYOmUOEjcYJUXDKkMYKs.jpg" group-title="[Netflix Séries]",Toy Boy S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WMGLdu4mNKSYehUPStJxaqvvGc.jpg" group-title="[Netflix Séries]",Toy Boy S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmYpceqNO9po0yEFol4dTR0hdWf.jpg" group-title="[Netflix Séries]",Toy Boy S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PUOAKtfbvEnus6NolijpCIzjOo.jpg" group-title="[Netflix Séries]",Toy Boy S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWXuq5yCo9ifd6dybf6jUvasi6f.jpg" group-title="[Netflix Séries]",Toy Boy S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzUDgwAhgNcU2Yqg0sv3tDCuLlu.jpg" group-title="[Netflix Séries]",Toy Boy S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apdAc11y07bkJ6T6ONUMOpUruTv.jpg" group-title="[Netflix Séries]",Toy Boy S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9IqbzZCIHpURpYKx4miHGRvY5y.jpg" group-title="[Netflix Séries]",Toy Boy S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SYXYQHyaS6gWdxPtGxrFWkEDVd.jpg" group-title="[Netflix Séries]",Toy Boy S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGLNfRLFZDwbIkQ7DU1eqIh1tJM.jpg" group-title="[Netflix Séries]",Toy Boy S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfdOP31roMz6Akoqdm1OcpLXAgI.jpg" group-title="[Netflix Séries]",Toy Boy S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WqnhlVFc9AkKgZQxtTumHg4fFn.jpg" group-title="[Netflix Séries]",Toy Boy S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJ773cS3f3Q4EH2WJz5e4jHZ5wy.jpg" group-title="[Netflix Séries]",Toy Boy S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koGikOhQKJPUcsyjPyEsovNJCJx.jpg" group-title="[Netflix Séries]",Toy Boy S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9yd7icwZNc0DvyokxrQdg2ycgc.jpg" group-title="[Netflix Séries]",Toy Boy S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwLL756yEHIm4mr7foXp2mnEbU1.jpg" group-title="[Netflix Séries]",Toy Boy S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FmOi2z34bWAPE8C9pJDq95eOc4.jpg" group-title="[Netflix Séries]",Toy Boy S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/79443.mp4
 
 #EXTM3U url-tvg="http://grade-de- Serie Mulher-Hulk: Defensora de Heróis.xml"
 ############## Serie Mulher-Hulk: Defensora de Heróis ################# 
@@ -8823,2419 +7684,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/77273.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/77274.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ER: Plantão Médico S15 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iTiZNSLY3Yghecg8ejqjbQ3LNoX.jpg" group-title="HBO MAX",ER: Plantão Médico S15 E23
 http://meuplay.shop:80/series/828474929852/34882748924/77275.mp4
-
-#EXTM3U url-tvg="http://grade-de-CIS: Investigação Criminal.xml"
-############## CIS: Investigação Criminal ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCIS: Investigação Criminal" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDK7uxKgkd0rahyrYS83e9iuaNw.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0YQBv0qU85kW525yqqZsn5nliH.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WSrmCbCTl3ND5usBP8Zfzd9cqm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsrtPReaRKdLyCY4eMy4MXIaBbL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ls1xSn9lnORrDG7uMdwVFACpkWu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqgscBQFC3bOeUmJK6QV0fcIb1o.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTeAxOa86uGLqhYkyG1sibkSkNr.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OmHsf2gwkMU3WWS9pox5gCiUxr.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iNu35INNnFn8chAoH5wRgjrq9F.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diWLarcaimfSuZF8rSlWvdRjVCJ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5znKdisB6OftMIhhAJEtm4yKpYs.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FqqKreWco4dZmSBkv0m2tORl8p.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihV7fyTqsBSeUjDPj2Qbbjgqt4w.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vDGBM1BFvCwMIkLYstQuJ6oKlg.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njCLvIJZ9nsOzDkOQtP3gatmuY4.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXtL8gxiT7CR0g6ojmrcYio6f3N.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8sPMJjXKqMwGV3lBAUcAD4elGu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1FF3Ov1J0WV9im7n7JXAv9PSso.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7fcAWFpvftz1KOCBt3zAPrCxe5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lenKVx7eimqt49Kod3QImc2Pr35.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7Qszhw7oG44sGFm9Ui5ZHdGtqs.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NdFZJIKu9z5cswyVCl13S5bCxy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAIWDM6pVfl7uJTrp6I0GCO7j0N.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S01 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2rNWVzw6lkVQJYcanyLp3PEWaV.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cup0DlhWqdczNMuGUCVDck6ml12.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPzXMzOuzTFtnWfhpmUrzfFxAob.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A39Ar3gBwu18D9hERMzOaGz5loK.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luOLXZPGCKkKuMWlPdOf9sf7uox.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7FfQ2rF1LLYYP9Z8cc94D4nEhg.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wXQSOkN2eEVWwEZERTMLnsKUCm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mUFCRSAVrE89iY0PWVkWeqs4xv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGgmMH9AMNGpLbUxiEobQASTZoj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UZHAm5bg5HQn8mdCzQZ7191wn9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkHWCbxDTyOa3Az5gKArq7Q0nbb.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D7rdG6495kj62BcOSQKobXyLkj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJwUX1dJE3ajDlmyuu9Yctmds0T.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVpL0yydXfuOXjU8ZFPSM21wmDC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f62y48jKcU3Yk1AkNRdN5tlV22Y.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY6Gm1jXXfNWCjfjg9NiF9eV97Z.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE8qNBtbVmJWlYBlwoYDkKyNYIT.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6w815FM2LYj0MmoClEWGWXxc8I.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlJbUGEVl6oxDPsVUJkflyxIjBG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBgExLEo5XWGYZJs6IVaaeUqT8M.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUGpHBZWxiAef2oEl3fGGTPZ6DL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb1rRns5DMmqYs1Y6OPWHcMGCj5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfwqMWaXwQclGePhtpQnZla9xOS.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S02 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFhAvi8vheCQTtLUnt3R8GurXL1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7w5S0bPUSO6fcZQXdVTBRpWmu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRyzWkfvvKXcTREsPjgXnaBis6c.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAeK0k4lkm7Z8NOC2eJVqnCxv7v.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0PK6rlfzTbTS7NsIkvM5twtd88.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2BYjWaJEFHUiM9IFfbEC9NY7AU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pi4TwZH3HSnxCjpYGkL10S1jL6.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJbG5wh7mYBWtAiZb8Uoyw1vpDE.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOL2lbzijdm7Jgw6EH4eohlQZRo.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ppYorsm3QjYAfgAFTKRkMt01bU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiG1MVtcQ30Z4gcg084koPG1BbB.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkfltpR3I8zLE4NmVRl4eqHThHQ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovA7Eeuac7J48yXHjsFnpQpbDUc.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aGLg5IK1EcbxthSgEbiodNrI7k.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pagTWndBsorrZpzDTBsv0nVlOqU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uUxPgd0aJTJJYc9Lp9jWsJKtNz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QdY4llcE1NOo30eT4ISX8Wbacl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryIrk4bbjpXsH2lInSRg5Y1WBMJ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRZ7BGW2yNUBRA7S1C2IYPiSfYZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scQVzsNKt8yYf60zPs7Usgk32u1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgBpRRHyo1xHA5RN4nsG5mPvxaT.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6itRq2Ga78HZgkhqhDryuj9ToG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S03 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubcOgyiEVhm0eBnc9qSCGXN7Wuj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7IMS8nL2tgtcLDY8845e1dBy5q.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0dwrP00KWBxFxqfmiuhowbncKZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3P1t5uIQJ2BjMzcf7iAOmcRBSd.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV9WOflzJ7YkjUxoVq2UmjgLkv7.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRT04UeCEaif5tDd4OeaXG4uDPh.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKEHcT8EAc2t20E8QnpTXk15OkJ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oEtCmvOzvOLEQHl7y2DmYvF1xy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgMXDGuMdG5OXYL4NlsqKWtyUEa.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22jn2gKfwALwofpBGOZvryYoQXl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ltJKhtnpJJIhp5mKeWjsVL3IsF.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qomcIi9qa1LQ3ZmyiZRUNTz5iqn.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zOucs8YMOfSUKuTNx1V3UQvWD.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaeQu6715PAdVpkgnmSxXEhqud4.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6snEDHSP2zJBRaWGocdoYluenUU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqfgZf9NIxO6oytNXlnQy08URJS.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdNCG4445tQrKakRyqF8fc9P141.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO5f8XIT2X8A7AHSbm9fNuBZTVO.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PLbAQtfVMhgRPQDlTaqOoMs1Bz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v2JOdpFZmIWC3ECn5Ucw4gWBy5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG8EvzujF3Azo6VIC3p19EvunD7.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CfaQM1Rv7YJLiM9iwjw7X8qaRw.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtzaXPtSvUC3lYQ9IVB52fxZUS5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S04 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lahACCy7sGosV9ZaIJzhFYPbkZY.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR5CAHendyv2QgjOlISDZBnQBnU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rzbek2yuMs9UZ7vuPfH4ln98Xr.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9Knf68X1PcfbkQfi9POadtijd2.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEJw1DQJRySKZ3yFlS7KFcD4vpi.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQPQeUR5duuwVjVFCNykHVftO45.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qATBcAmeP25qsGvIha3IwkXtoX.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7E54o07WoxXYgaOkAJerbgIMKoL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YEiBSnKI2EKT1tqLAEMVub3HGP.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brlqawTMp54eSQm5F6ILj43RwN9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g5dbw6DlHNJo3vvhqtlRmRMop7.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQZaLCdTtnzX6PNaFtlbFQeC8Am.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9oQWFq51UUYhTlOkBrrG7lsVpx.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mW565inLAZzWlVSyJpjJiOWZZWp.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcBqjtrSFfymSoJI8y3P9znATh7.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8EHVBEeqMUuVi1LGh7tldkICob.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJZXULO8AxBMlcL5hUlrfp6xAbj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGUR9m7w7vMPTPZDYTBFNG59YIB.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/no55PCeXj24fMez0kANtNoF8iM9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roEfDU4hNjdoKq3AZVFlOTpqWZz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziwXee6kTmqSSBYECsfeF2SFr0M.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tLm9W26pPaKYeoUCtiTfsZrICR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6rJxIaKgVQ4mPekfsKvCMIKQrR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUXkMpanPurmr3nN3EWRf1Eb4gH.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S05 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnI0mGJEyu35GFHXhl9A9t9YV2W.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lajxwQSjFqWKYdMEdYFZOdPitdG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYQCB5cV65KDPMQKSjq3EJcbuKv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOeaMSVbeyc4WWg6Qj3KQkJ5yRl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcC83W7QANANCPwZn7Q9PdFAaPN.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55ZxxB6PfVGWWFJqh7O7GfnWdSe.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3rSLiDsMDTeRSSX91vWbF561cl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZEPH6zKslKXOjEBlUp1oByX2GV.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xfoYYk9m7I0ADqEztiT0RQzOjB.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGzH3nLO2hghuI4903zfl1hPbMv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjeYjoCzfgNR8MFieSFtbQVfxn.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11fPrGIfhPPUSiY9uI3uEhttNm9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oacxhTlflDNbBxuAbkfMszGTsaD.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYkOxPg1y3w9O3oFP9qXoUWkWyD.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoEb8z7hGs1k0rCHMRgyNmTTogf.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24uNQ8z79ETMMBRiWE4iWWhhWt0.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hMBQZ5l42vHH2zCCfTHDHtUeAS.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17sfMi174CXR3BtK2Y3yYT1uKI3.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHuz4Pj074A7gKXTqa0VkshGTzv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teZ3LNBiBsg0QpbmfC6vqNibFxH.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okMRT8DkAr4BQvz7hXME5F9Gw4e.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPxCQeX0hQzClINHwQWdRVyds4x.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDgpXrfaAZxpDnuKwK8aImyzAtx.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S06 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Oh5W39tSYkJP1NrQR52xSo8d0T.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRMND28sWAeJj239S0hu2eJTzJz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciiXrH974Ita5DLFpjaZVYDGC3n.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqs9npfwkcX5NL9Y2enJHseskYs.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJxUiZjdhv2PwCiwV2K5W8azmIj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MXin4GsogKokKdaXLP7RTKTj4.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmItHQNR9c1MUPSpDcTqZqGZGAN.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxUFlBLLFNKGv3HiV9ijhMv8b7n.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxaXxt79ICdmz7ulk37QRHRfPHW.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtYzf9RlTRVMmBIX7R24NtBU1SA.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WGHGGboZZ4Ih8aKT06sDqYNHwh.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK2DyzIh2A0gWCfRMH6HrwbQQSu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCltXJlooVxPwdz6jHfAEVibeJA.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlfPvb88P2aRCgi5XTsAAix48M5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qts8Vw1GwWczkj89xtnv8UDeY54.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UxiDt31sK8Zur1n5JnVKmFKgrD.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYHI43JbXdECom2NTGFHHC7jdZd.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW6qSVYXA3glEBOKGAyjVxsi4Dx.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cfzOtzR1EFuVQFT1eiqNzYQ6ap.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe1R9A1RmgSxhGDvSFyDu2xLrbX.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7cLm7uDnqKX3ycBO3kw9PXKijm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR1IxVajlx6Pncgy9SThR3hvWnU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj7NGwSg7dyMRbC6kADjtSI6dFF.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S07 E24" tvg-logo="https://image.tmdb.org/t/p/w300/hvuvkNDZdTCIC1DP0j6h0xhb6xy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S07 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/45272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9L0bcNt8aCXi3KV7xgSzjnYTgZ1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPOZYf0NEvdmXnReVYzdOod3Qr4.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubksRVfYOCXXktYKkU4XKoHdo0H.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTe3meWvsqDLeBZVnGahC4AuxFV.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDFrecvPF5z2ELUw5gPxnWAwRFS.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJJBjw7eDEsQYmVeQax6B3nZcK8.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19K70MAsZ3Hrkb7Ancqzx8jmurZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5N62vHVMRNpMg6dkDKL42nxdl2.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swVkut6a26ux4oj36Y1mIxwPReW.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdnXtnDSTa7M5KLnRp3xoUhn2CV.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofxBGRszyQhiX5elTAld4UU5T3l.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxTnzrmZvyqseCOdnwefq9oMQYZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOUqrn464tfyDzWe2sbYguKL1ri.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mepw9Ssmms8wBRtrntooGdk0RmX.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejU2vwXkx1bwcaVpBNH7Fz8Zy4D.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAbgZWVN89XgS9cggtu1dNkFcze.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MM9GEqboH9osF50PHMYws7OoIt.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S08 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bSd16TdFRkDdoGkDPZFiQSiI5u.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sOw6DSQS2yheQhBr0gjJlVuCTA.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZWU1Egz7B4ZugkCzXJsxDN0VB2.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCUtCbau51DHNZ0USuLLpb5NyLc.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lv7uaXY1JoFWvLzlKIL7ruF4z4z.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM16ZRmfx0FucrxjkRUqYxeEEYR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYdK3K9utbxDrWMqRUheWwxkDFZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BT7cudWEZZZ7p88cuzKJM5t5T1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaB5GYV6XRwG1yX0kIcdukVDqlJ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qigBzYFoF0UHBoIeyiDBeOQwugu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj6r9Pchi3DEdksJ0BcFPITlJ8o.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhgNCwnqxAUM9XNC7W2lRte1EhQ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQFZIJNKxPJcNMgDSPFt7xI2LOC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rutKkQYQ6Tvq04BOabTPP1LMXbQ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aavVRMl7dW8xoMv6amSbfy7M1F.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGvCqzsqbhgJEMr6jH5AcRKV1FC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMUQnO52gI5lqgiyPwzzY8zLyOd.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSMh6vFSKdZEqwB60U64Q05rDL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgMUQuBmZmAZzxmkttVSICZ634e.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBnLpIHDPnrqBewVEi7BbrKAqgj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux5YDavffK8Ya7oyOPKlJyPCWS3.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaJ8gA0W5pspNw6Tzu8SMpNDjBI.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpPUSkIwhCVYpfU1Sim07DGsv8f.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OrzIvVOvSjryv02a6nuvwYUgDm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S09 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNqgoqu0918cP6qC3Nsu1dwDxms.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFXjrR7HddHHNcTdmb6qxPuecWI.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qcuBKFWCrGXyysu9TfY3RhCLaC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buLLCu6R9gPab6OlyvqDja6AwAy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD72As0GbgDUHTBnvlxcxImShKF.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3KXVQZWZOItQSYsWGMlJM8X3Q3.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6to0LB0j08U2WCMsuK8XQo5icOU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5IGavJBP0SulXvdmLV1qBEslaz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlGbT8RI3UpAZ7p8CFMXEPmus21.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4xrL4LtY14v1X9Hsxb5874E4vU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUBvhbLVs13rjMnOxn5zCCijm8k.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPL6G3hvqvsndUqYm3PDTzOBxYJ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJDi9qhnEKNQQPi69dGZmlox2Z.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8525CCPwacHb7Dm5yZLOxnAxUR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/garqyOsIsgQbcrk5QHh1qvPipf5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRaDHd4nKeqIBynDoc5sTUFI0I5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXPVLO6O2ISDwMdyVeR92lx3ZZy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhEBvf0puSB4JVKf0JS09dhMMwP.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAqVLaVEO0Gi71wO1s13tRtHXTF.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eiNvmPbtfxVubq7uSr9L5mHEMu.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCCpmfw8qpGUQphQCPiU717oLHP.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyetLu8YjxDqTgUxRvRtv9UGy3.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S10 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siEMkOke7FgF8DuweTux9GdxWrM.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S10 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7rdc8q3jK6Q2fDRU6jaAhknGP7.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMysv79UOtnvAOihoO5Bch7KCXK.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdqNwgaHhmdeNWJUkgk8knBwiP.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2JziLTXYtMTOT5jFScVgbUra5X.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWczhiykIHE5lDpq2hNT82Aatbz.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBqvVqfuXLPxRDUmLK1LFD0gwsR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d4xLTYW3g67LprqNduMSABZ08E.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zttSW9H3F3JeYTrYDYT9aNg4HfP.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/std9wLbtlHsqbkKJBXUr4QK09Mt.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olvcxRNFT9sedR27oyaLuNj3YLC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/row3h9APsB3bTy1eN328gr4J7Cn.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KSQhLaNEafxI6tTNENpwLhhIdQ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSdt59ldMV6gByKDYcxe0EmKyzv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqbTc3qErrGoi8E27WDCdbLeCTq.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9pq2pXc7EWwos28CPHRsfZs5uw.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mD0yjcrtcmkzFs44JwZfFbmjek.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzaNHDj2D8cfMYaWTfFyzelBVKp.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRfJbbSMZsf137b9VTCsSEHHRB.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PSvB5uCzIh1JkmQdy29O22O5pv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un4ftAs4RTgtXPcpXfMMYWiKkN2.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxScE2KJgz4GXjZIOMrLqDJmPdM.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ps82NJwuYawVBg5siDtAZ9UvPx.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S11 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXPMTCAvbJhrNVCslBxsyNBhLN9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycICsaI56o1DVucpcqDX32ASDl1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsyrtQ28yYlFIQSXJ3L6EQ0oyJj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHI0addiC0N33eOLLpdcHkNiEjC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKDnZ6G5O0a6BupNukwtp4arOmn.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eePWtBDKfEya4Q452GsBJlhn22q.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywvPtbRX7xbTUwzH9hJEOTQ6oXC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqcapg9mOp4zvVLTOYbYk0A8dqG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62XudcGuYSXC9vjfG64yW1TlA8X.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUlu1HA3vjycBJd2okxYZRuq2a.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaCdTOdj3pqJeXyXLRCxOtSDcyH.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nprkq9d0A3SzYZmVYlQ7WXCGqbc.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twLnoDLgGCcoeVX274holUceKvb.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jGobh9CI5gqTJnIJ1fH1X4X4Ep.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m5xUcVCzWF8P8pbMtvpWCNrFK9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoBO9LkVSXa26YsxjFttny9zh1e.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRQ9diQTUUvsNOpAYf7S3dAzB2s.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9QNKAgaSxYJrk8HID2R5a8ZzZ0.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jklPCwhx890JWptOb7jez2IEz8U.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGN5mtNd7S86LyfC4ueVK21VfsG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RH04w0ntrxo36PdhZIvJndEasT.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S12 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUqQMyGzA0k96pfxpgBLp0VvZks.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S12 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW5gyu7VO2PwZaIwICFv0v1JVo9.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xl0nCT1Hw3coNTqW6yH0dbyYEG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qOceCjTKazBRRDJnIZGEaKrZvZ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vMIBqnX1qbikrupoOmQLdUdZam.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGtES2zO7XRpbdCQFXpHZRkrna.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpv5s2VhIf4kGrjL71O9AjEJJbY.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yac71irtc7XUBLDHNBYTd6d7rm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lEPjyQaG3zA2wZf6scsTrltYpG.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1rw8cJQQBfqFoXAITPCO7fs4hl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQfmxIXe1HglY7YyyJmrRz300kf.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTO61i4KNYGtWnyBeDM0nddhkl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n54yKdKAx1b2AiFrAbke1N4LUgp.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iGbGKGnpPvKhRGVfwTaoj3fcZ5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZHHpukOFD8M63kvxOqFwH7H0Nq.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jRC8osZpv8KoPtqaF6AU2hXnCy.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7FPnXOx6NLqkhXRrULo1MiwFFo.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvmrTNyFIzH3zu0hT6qq7IMWcMM.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeRJqgB47yH5mIRkelgrRRiWPAL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRbhIzrf2uwgELd4YcGcQxeWOlm.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s1j0LFyDbX9u9Ba4df0t8PQoEW.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDYaO7Q4x2JQ978E9kTCuMCewrI.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S13 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNjQx0NWCK6WKYm5YBRdnSQa1Tv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S13 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNXLPdU4pAZh6x2hjSLuHGyF5kv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhfuhZHCREnZT6Gf9T7jF0lXdwc.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyRytnn4eg3nQdPsTpT1wT2mv9y.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toLigUhbpCdgIm3crofAmYttWsX.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBye4wUwTqhPcR57sY2xuCmeuIA.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uGfauTn1VaHM1mqqIiMXo4NNEf.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayRhOrpgPOsyYXGVAiMCemhHmEX.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b91DXeXypQI6Hx9nLr4LJjl1Hn5.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiiAY3I60NBaeFuM84fOBqMylFl.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6nZadbeINKFi5YrPrAe2jzOeQ.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S3akvY4WZiHVH1F9LrmoHNPyWL.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8foLBOAYjlbVz2WJtv3l9AB9M3A.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSsO7q2GW1l2wau4v0oWn9IMJGD.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Bu6T2GW7S5pe2KxTYnGK01eXx.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13pwWVstSA1ADg9BptVkJobWTJa.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X5AcIE8oNlGziQf5ETvp6buvgC.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVUAMinITQCAZxxbjcL3BPnVzS1.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAWH0ysUAAacY5TesdMYJ7ps7Sv.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKHkpgXBSD004g3HnaWop3Y8Nkd.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfFVNuLzbxOASP9YGZW5UlRm1H.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbNAD2rdZL3lXPwwn8B4YneJI0k.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S14 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5yKUR3Xt8abrxzIf662a6KV2EU.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S14 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXkELiQIrvzJlqvz71YEGCLCJ8S.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EYkplDTpjdtkOWSyfsc6cwZBRs.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sONRFs1kfEOY8g6g577Jfbve6W.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/are5gFsOW5Kv69Jaodwtl0wOqbd.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgeOLhbalGqpcttPyPaLGXxYVa.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYjhg2YtisoRctfNNZLS5suPfCc.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSJgAQnFTZ6erFmFiIfYlVAVHEb.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4o052eduK3UW8DmpEVhKbSV860.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPpLrbYggGJpqCPPFzgCBOSa6M.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9c3nXa89zMm72syais1u410SxUV.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVNhOH9REQF6O4e3gI0A5F8PbzR.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfGankRtQZ0j4XeAIisimx0cils.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy30HrX6xTk2yyo1wtNH2vxEEap.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwKBvfHyCbzONjLKl94GyA8zRLN.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbhma4SXybDjFRlDFx1zEfpJ5hj.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJnWS2MxlIFsDIsAdFzjtyICORO.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSvmtR1wfyO9yFayOSpTlvYAxMS.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S15 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqwhOYpGyppa7yqQXdb1tTFpcin.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S15 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S16 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S16 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal S16 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg" group-title="[Prime Vídeo]",CSI: Investigação Criminal S16 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25887.mp4
-
-#EXTM3U url-tvg="http://grade-de-CIS: Investigação Naval.xml"
-############## CIS: Investigação Naval ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCIS: Investigação Naval" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaGJzbTLnsWx72maxb1rwOcm0p4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vezn6ZXas1IcxeG9wCcoHkTZy8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNggdTnFL9GTMwXgo2jyo6JWC3E.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM6V4uDQAiROr5xRot6S5N2DLrX.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5Nn9AZJcypY5rtu17tcm6qM787.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki7xqZTkdC2zlzzomq97ur46xBn.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAJhjll19qVLP9uTejZ4lUPCX8H.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2zfehFrjJjXpp36W4njJ7GhBOT.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEnwTMaERa7BgUlr3ZoDUp0O3re.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMWYMCkGdE3aUTg0UAYkLwv5V27.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLW719NfwlM8RA11X14P2bSlEBS.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yqXFjMAO2i1zG1iIeNPETrbACI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdysX1ucDlu7tjbbXBazVZW2hDo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZKlRpQ5IeZK7HxeR9HDMwvvPe.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s13tfepNcoy6c72nE79xjbuntiW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l17opF8lneVr5hpya6guw69cFka.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3fYfkx4sJbjB5rnu8uAC2Oqxhd.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzHBb9TUZrcBmelZ7uAWstWbEgz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Pki0ftndfhsPnIyQSPAGIQ7kD.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YaHqerTeq7yuXm1zVJQFpdMUVT.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf2vzsDsvzQET6CvoUvHFqaOZV6.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCkNJV9B1BWHWbYQ34u2ao6I1sZ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S01 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qhGI8evtiv70178g0FZALmyCij.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CyBcg8FCg5shib7KHSthWqUBkw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aIO0PH5z2XBf6eotaQvcK7y7cf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so10ph6K6aRJUthkfkbXe45pcwT.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C7cRkddKHH09KTL2laSWMkyOSz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIPwElKKSUweoyBuM3uJqbGndW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbfB1vwVUieWwjdQhkRfGUtdlJX.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZewCCBAfmkT2j5m1LI1VkRUEZK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqGuvrr9wybB7drNyScSxqUcOzQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUbSj4HxGZF0KptgrvJ6jBYphOa.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hSf8FGTPthQvzQMg3Y6eimhP4s.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65f50UXgdNgVVB66qvveqMztJq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zliz7GH1nRyHlZCUrHP9fBHPvo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNt3dUzNfeFtBdr0tDDtwKs71By.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsTeNrXxzFMcBL3xMEtx13BaS0F.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S02 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxQUJtawHa8WJxX7IWGaDtfULh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmQ9SQpqMxlgypHh42lcc0kOunY.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWC7L0IFbsjw4GCBFtGlr5bGzTq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOiGUS1uvUeFg9q4TLrvGZhqFvq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGF8BqNWamAl0GIORxSBm1J9wi0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/160NliksaHZCz1uZTQo7J8tz6kM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFlwrCzXqwmhoW03RCoXZr6zxyX.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjhTLx9wreWUiSRgujMJFgCEg6M.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMaUBZBeaheJJZfy1XB65VAYtad.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA98ImwEsAkjCHJWjyGVhWajDfJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6STMw50xyG9h5OpXonqzEVADMLW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rcW3QUyoA0KsajwD8WETegHXfA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrhhfxkEX47ejuWZWyLRPg6qsJA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czbVM8BATl6nU6HpsvblBYJTAlN.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1wtZkik3iWHGmwlPg0uJWcDe3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr0oD7OqDSaInR7wt6idXobf876.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy9bP3jiCnxxDpE6dn8ILQ1LU19.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6llFhg9oPNLGSks57Ujst0LWd87.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDF4r4GB51XouXX7hEyhEW35jfB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0XHty0dfXdBLUyJPstjCICaNom.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1seDDmIvaeGxg7WUVCv5j4MPtU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzttHEfyPHD3TIfMB1vWK9dOPHb.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iZHPoLecbCkX6NRHRW5II9Ht76.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbz5kEkw5oss4ytKyikqptW3WXn.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S03 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MzU7xJSLHy2IKRKbyFO32ug5RG.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4vwHj73oPHeXHLmwJeYdbE0AnS.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkxIbvgEtBbPg3fzl8UgRxWbrZ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zEi3zTX9EnkMHKg5gyO1GBIQjr.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gB4ZwrwepRlQS7Tnns6DppWcrib.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huUoQySbeFvK9ZRtYW2FbTydTIp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwAlDnIm65svM5fFOpaa9cxTbxF.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSIg9F42dFhBiD3OddS0PWK4Gov.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9z4acuW9FCu9kO9eliCu30Cj87.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqh3BWQIvIjkm0QzUantWfs2Cbk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOA6vcfO9Zvd478qiLWyFofGHWg.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKbrpTJDz53PX5xfoTAHI2PLVku.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j2XsLLR0YfYYjaTVdj6RAOxCcM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncmRylsi5slQ7qkHnYGfOJA0j63.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S4PMQypZ2BZTCb2XqvnrwxPjO7.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fre2wSDXFNJOG9Z35IsSqpXbFtY.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IhG6DYmdkqZqtw0pFgSsyejp4E.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqXs8wzpNUxlH6QvjJIVuBhX1s.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V24QIA2MNpWHyVVYNGHSwPtiVC.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuqxmu1pnU4odoNdvAwBx2BoaxJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l7slBoiWvgVUAdq56ojISVRxf1.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zro9zT4i7LaThs70MWBgYbjaolC.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTifhtpNkjO9JNeosqLFQBtJRfI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ7FducqFKH3nyMhTJ2jG0vy5vW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S04 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHOXj5Vf7FaoY513Xbv5RP0YFMF.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5z4UxWXEQ4QpiJwFlkRG2Oc6Ei.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBndQ4rZDsNOncvsi7LEnfgrdYE.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ATviYwpvJW0WlGGLzx83at0CIw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgoFpQJOZQfr7Sab2F0i8gbvNMQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU9gTllkeTkMCecvCnbGmby7ETV.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n22NEJYtgQXNchUzXx1XUDNC1sj.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ia4Sqc0pkpgwGl4BZmUDWipXvU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h6iw4cVDXgpGYTwP4DyaYkf5C7.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3REjlteHws47MrvcPycN8zrGFGH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udyWKBAoOJutoSCtgJf4d8jMAks.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmjh6TeRaClY3L22qosbOgl3AcP.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFfxjyHRofvVww3Q59K14xzJCHU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IZkGimRgu5YtoGogSciEwQNxvv.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA4TXlrYFwJl3wIjBP3RXfw9nvJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D1CNFql44wZUfzVeeXF9gl7zNk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gupmG0quLGqOjwh5CPkckh9Qhcd.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSgrTYTBnrBGlpPg2QbcpKwJRS.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S05 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV3b2kR6Qu77FqerItgP9kbzeAQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9X7kvMzP43607TTPiuF9I1browe.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1M3VrDnANjWPDnyFS57keGms5a.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmBnfIbWxe4GbqRvDeRs8kp6UCk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXtUKv4d917jZ4AZVxeRaRxXcYK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7Rl5JYgcXbZTHcTLCPnGrLIjUt.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNZttdr51VwuN265OLrGuWeDNQK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6PR2yGkv63vKCqAjMvem5SHZu.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwY1Pl57O9T3zeuctHbMJcisxJK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpIA06jD1PjM4OYl4bux1fW4YJo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXm0ktXApf2nR3z3FKjlx0MXHAh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbDrSWn59SjLbm33S2CoMLjMslr.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdQokfLusnanSReExBcELkR3mi.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtpi5ak86PD3V6ARsHHXzdTOSak.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tJFgS3XPU4BBCohdqWsUwhziAE.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lprn5kr9cGZkSr7kNwBEOXwl4Mz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TiQ9k3I6IjQ9eTzi5JByT7OJfg.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEBzdURgex2xDg5DhcZiCSoS7n.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLNWOe6hHWuaErjIOEaOZ1Gz7u.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxkWIvOAC27iRLqlzJnboJzEBB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNI6lCaR0g5CKkzFfLoJhkgpTbf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z93AL1CX2rdzQ06PEiq0uTtfmCp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYrN9bgfkhAZBu0cObmH3b6MYSA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AhPbuiZaYFURz7ocXhCSG3Z9GX.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTZgYUM8IZTPB0UHGaVnMCNpWdh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S06 E25
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WZJspVtIThloQd8KTjVsvDIul9.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8afO82loxMoYu51MoNBY20gTgQw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRdBMFpbCgtFmMAGuOGt2pej0c.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QxPAtz8WJGyV1Ak1vkI5g6Jlj.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9r88mESch8ibUWyaicZRI8foHM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trYIp0yUP31z19jFCMXDDmke0aB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cR5pvpqOcOJREHydOVEtbAfeP3O.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8UM0Yf4ShobrevsOAWuOn4RAL.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3NdmtDzL0TjeXxLuwD87GdaoON.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqQ9gCMDJZPUVao85NN5CWVjFMW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/S4tG6C3tSkMA3dljzBewREDzFs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NQZ26i6fmBfniQTMBTyhPcKrJA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4bLrOXIEj4clnfv5iVC6rxGKKA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viPSI8JNhLXF7Iupd9rBeAHpnyR.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjxUf4xfgqZ7zVGYSwbEyaNJfb.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqtP2cH7vk6MoINpWl3OjAcnhM3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6SwbahtxYR38mXgBWR1aJCAvgI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbAsYOp6A12Ua32z0kmbKR3zwUe.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbjizs6j6HhZ1sPrZnGNrQXJagk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEiBwYQ6HQ6PBsNzuJLyzoRC2a4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBu5JbYfgaPnK7oRvNpCYRIr9QM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b48DJjmAXk9cCtfWY0hBY71dgeH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpZHtMYvau4lyNhaxmgHItiM3RI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIiOsgfTxNJlIX9k0Z581rj2AY3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S07 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ckLLxdamwtkp9ggTmdAcLlbARQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHvXbFNabshFMrS0m3QN89K7Aix.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TifyFpmzT4SqhshClgrr2Q9K2X.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JX1A4GVZoOI7XeAXTcPyUxk2RB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8ro1El3nFRx47uQQ6tsbSvrGUU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfzVSeOaz7fUhfaEEsmSZCi6fwP.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDOvGBdLr1FykOziZoy4gQcy9dP.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74EXpaqz5422T8px4eUv3O5zzyQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCMJJNP6qTDnEyWs5IcCHEDJQDQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBXh9L2w1k50TI4G63xcOEl6yUf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGxSer0Jq46GA0RJIDGVlTMiGX9.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxlSmTqNAZC8xNsKJZ94MTt45f.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEj0yfPv9wVggeNrh9T6fvDdt71.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIF4HN4vm4sWvGy967lAnoylM9x.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG9Q998DfAxGNFIAvd0XcqERPR4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu8Thaiq9brcBI5huDa4SAIsdbY.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDDuA6XyxjXqXEWhm7vcbyk5Lvw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1eSO7O20io3h5izo2Niv2gyc9N.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pxBBRSEw933vxAlzPja2a8Q6Nt.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcuGJ5erwSL9uM5KGfMs8bj3jLi.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMBtb820wTu2CaWmZfiVZAl3TjH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6a0dv2Sl8sCAHcFMtNg8d4vW48.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWx3QYAgEQ00uk2MKybUYXbVdMT.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E6IVfcI6V8qV0Kj0PdV7hzri07.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S08 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOPESjPvnYHkOzoKjEErbCauzh9.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktoyOYttg9zxcO2mbiEq70lZjCt.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLaWFgFO2pnC37x75CQm2dSn9XB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZZMVAFT2qJBaVbqCwEtKLXiv1q.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VPG9bvbHZraTVIfZlFPZSBSETm.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZgEVKTMfYz0GY8GYBrQEaA8f5D.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdeV9fcs7LYR9KKh0q1Mcw94dxH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/humv4bBKDeIOLCdJr9d3SGdHHnc.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmgRidyEchxUjOmspZqxSa12NFa.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXeRT9nXR9uLxJSElEmW4GuHSti.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO2Rl15jWlSx3XgXCdDP0xc2DLH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flExMGv2puo9JiJTXeIMmYRJwJ3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7NY9Dg8LtQswpBwGV3rkmYz5LG.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lopn9ZzbybIiWVP1Ywaj4wSNbhA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVcJ0g65EuaSqV9bz149M5409ef.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7o41cdjDLX46xTTmIbENg2n6VI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnnPfnnP5SSqAlHWJnVTzf2rS34.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giTwxDmGpgMk5WhBA5WyFHxIF8P.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rokecYkFQbFYGjLiuUupdjJXbVO.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiEYDOYubej8zMKOYIpfCBTolIU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN5AMKvfF9dGmYt94PD2LR88DPn.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMltrptEhkPeCdPnn5Ns4iHCeVU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atDGA2RXvJoVhFGFmzgvqVOb2Pj.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB1mmYSsC8LTgqr8bc8RCFNI0dQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S09 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEEgjx7KjUdSxkhZaKxhRdzY4dU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcbp5hovpNYOgQrumnJ9tKoWZT4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz3HXs5RVEtrJxwhv56NnZSXIRP.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5a6cd4keKDgH4bdEWkDCaCI0Sm.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtxXoFfyAlKPIHxnPB0U7306Uf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5BZ19aCtw4DbqWmLJnv9VY166O.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3MFQzfJsJJcc3hXm5sELaOM0xa.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/916Izq6EWwutv7MnlWwE0uVbt1K.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85aoWkhHIPbxAWxKQpAeszRzjWc.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k45fqbcEUoC0UI4qgG8QHllJxAZ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfCI0h7LUnvF6tdC9KWu62kXbJU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQeT9AKjDg5v2CzFLyC2gwb6lEq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y58thwXnoILwZ9ZiX4yaL4rhG0M.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1wfLrY8QxShMNwBomXm1QUOoYd.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlOvAnewXAzH9PfliQhAHWrCAzG.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpiqGhU4TMkLijvWy8vcwD4yYc.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRMX614zn7XsykScu1uvAEbVwq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEwZQAPRUKxCedTDp3qBUqwv5e3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp2p1U3IHzKomh6lrzG3XjVBn0m.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG9XKVQBDRKxKiWhuIwa7IMhfGi.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzNh9zbotIbWfpMYXe2Zfzijf2W.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv73xAQYPglppEhlkWrvnrdwTvL.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovc29iwtyDIaqRD8BjMyyZkYsWi.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GtMVVeyVO8ZjCKZYfSc31AmYhM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S10 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf6PZi2Dw2mg00IL2h6RRJWwrjf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF3krw93K6bGBdUItaswyJ5Zzcq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3OLrztIaROc5V76PIOfk86ZqBQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao6rVlJMj5ulGRs0sNmVWoWZnQr.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDEyHlmtGBLqoFZ8fTPtaJaNnQ5.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2x3RqvfbwOIUc6k1v9RrP8eZR0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1juXf3G4McWFu6IcZO08w8evoQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsGVI4pzGGGuV9LkhrWQLgpIYHy.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRsDQKUvcGSfKbDD69K0cREAXJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fCWXuPqjaVu2Ibx6jgB3K3j3Iz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEtW0jhfFhUM3YSrn08G6g3xpUQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TsNTxp2fjLQRq32byij95uZV7n.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znlpwqpBQ43cbgMKum7jBrIbFrg.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo2vxWekJw6D4WfJbdODGUYEL1D.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS7xo3KK8FUSowiZnUJIrF5yg4O.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIreXXp6nXyJ9oulJvxqijhmYHV.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/48999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PebjhgYFCSvhXH5OUnjUiYMXR0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR8ICZIblwclrvhcVhIgWj0pHHF.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLSG2Pc7w9v1PfXuiZzQGrmysiH.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjc1hV9ZVQa4dEom9CWljKDUne8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omKJvTt3HtqFBsMsnJ9dJhdYPHp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLZkbKv65HkAeGnuUzNWafwR3t.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acUQyYHUaPrTArhYfd3UijUwrcf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joYidiWSbnMPuNGRVixmTYUdDP0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S11 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNtjnHjCwjboO9DWTFles6DYGqf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Zb1Xe5MlZVRLqKjgUKV15NP4W.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AggE7BOM2SyNT7S6lhdWtkoWS7F.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIDH0vkKUvbzCUGPBgGVIm9tbdD.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSo19k3PTe9bxL5dqkYEcn8NPuh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahX80hVP5Bc1sy6CZrxLvbbLp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFTHZUiC4fkWxR9tQlVl81LbJg8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWXQcDqzR2tybkgbWiF66FFBNf5.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GtDAggAxzHRT1cxDdJct6PFrVQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jy0XidJKXxy2L9e4KOvDE9JnIwA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixsKT6h1FiQdhBlySoFcRxGcuE.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noSj19STW6UxCxsiYhiTw3zXBwo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFQAAcloVkwr8rF1YjRHl58NHl2.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhSBhCBHwnMRrlb3RqRQ1hSC99i.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUrKguPPmFlbTU26hPHm369Is2W.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWePFlGzN7FwDWVOcpVpJUFJ29h.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G89i1SPe29wXIkgS2YI32QC7IY.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dVXUjILRiz68Y87MwZNCnSq4j3.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDNKlIu7KQ0pGczd0ZDQv7eTw4i.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEIMiEP34bMC86dkn6xnHdbA5gx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZdJNLwsbS30HJcfVJDr1y4ThGx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXOL9ghruQBjT1SG5NgzPm56uig.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TNTmApZT4Pr9FyT5rhKRQittwC.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4EQ4UwbTSb3x0O5wsQ5QXPsCsz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S12 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nskddxxMoIE55RDAJk5zTcTDzs0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQkfVOuHhdXkJB1g0RuAYGvTCA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9iZl0BvOJoO1iMsLU4Mm7639KF.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CGCdVrr0noWHMzsErgxYVcRAmv.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo0PS1f4DpjgTVCF9873TIResbR.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN3qdZ6nGeVPCxvoJ92IbAWp8Cf.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZRHn7ldlnp0GD1uBWsIdk5GEwZ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNOS9Er9RrBhP85RzCcNtxDMegJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3teMktg1TjAgVztsxNw9vlM0TRJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHN2mRym1pL56h1KnbrSvx8vsER.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6rEHwZVVum8l7G3jeKeB0UxR8n.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAphMArj4OdVKQyr2MFQC8pjTkR.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIZAp08RaZTA23Zla9cIqFjDQt8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajc7O9K4yTJ0cepxJnKM7lN6lMw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNIo1JfupDc032tGLTjhN8MFwZS.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EQk4vDcGVkwrrkATVGcRg2R1cl.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1rDtum2F6JzZaYGfSeiCY4I7oM.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVAJzB87Jul5YZcyq1qeDV7viYI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOqtslt9LkKA0iLjcOUdCAziZ7X.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o1N2wJYv89YSYtnzVOjJ0fZahs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kWYd2QChCT5pjNIJRpW38DLKWk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waYRubfNb8BUlziEcQ3rE4baFQ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3x8eTGNbqqxyWGzs1mnFL0NXJOx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S13 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6oHXYIJWyGbTq2mjcTdnmNOcxo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gsssI6cxfbLxCIUKUtBSqSUrlW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P5vGXq7ON0nJyzi1XsvOna9HIu.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1E1LcadNZ3j2qDVa3J8Zjwf0g5.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqryu7kHVw6XdDVzx5d7t261Csp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCW5LAcuTRlhazDazfdoydsvvPZ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztqEgEHHQCv1zS6zj7nqjJ9M83g.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7RxGdvYkoF7t772qH1GlF9NQW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lekPqr9BPGcBYhQ5G8EBPkxDhWJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4cR0tB3U9kTY0Xz8u1G00XqQH5.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMsfwiS38OoGaG9lskyVbeBFurz.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aNhqb92Jhi8edichieJaiusluC.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UZUre18T94XJUr4GgzO17dNID.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9O7OGFKv1cgdT1o1sf3ygTlEB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXkn2Zdo8hsHEBpNEEacybvckL.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sppsgPa5jHFoqvYFK8Lhdk4a1HE.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmK5YuTEaCnpfNkqIGuq2q49BvC.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXe4jQdzCIcHDKLfhzW3utNDrc.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLR8LPI09gVLMiEncH8WZ4oZMxW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vS0NYHpekPLvcoTzHaOjZhGGnt.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm1xeEtd9KVpF2JQpQKQlZi7kwP.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUeTz15Y6FbEUaBLBTb1R6thDbI.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S14 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/910LwyOMd7sfnEkMHwlVYyqGpN0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI0OZ1mCtzz94Dk70L2ffzpufZU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jQipW2Rgg3xjkMe5X9UQa6JqPN.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQcEq63U8qm21dLybSGm5HBdFuW.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lZzAOj1vomEhMlbHoNoNopZZfh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80S9iXwK8F53LdkGpbMD10klze.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk02unpodzNaUjWWnk5M7pH8ChB.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Dd7iuesmYj1xJEb84ph8MFWP47.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeRulwIhlijg1TlsspeqvuNCu69.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2fRYlz4Ttsf4vb8rHGsikffliA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOHgKH1GuLGOeWEF03NZlPllok.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkNP105pRXrjJnBKVXS0cdUt1KE.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z9cOOuJvxVEs1E9eu4rT2wHEsV.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzyCE0EMorZ2WmVtvCXGgRTrlOJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSe8pVZjiq3cVxQs7fX5GUDov0S.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XvpdgFIgXWpdrBEZwWCDw8SQ1o.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VV9diNZ0eaoAe0Jgzoab0HcNG4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uENMgscW87NejwZ9xMk9eUseCNJ.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8whkVGxLQsjY8ky5OqtHPPauSUi.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhbDQIg9y2DKWd11YmDF682wqSj.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwpxCBIF4b8Sx8iM4mH1RazNxO.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ5BSNQj0VX2BGWK0DiGvjJWn9B.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id1OXfnmUjifcgX1CFpynbSKSBs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvPY2q1LttmbuuVfHtio8h7G4d2.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S15 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OfDpRIiBnfdw1di5HU6Oj1hZMb.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4MTZ2trgLw5bsMMX41kyfNrbld.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AUppQ0BulJHDskuLmoTAmuto2.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuRr5jZNnceoXihlYGFAZCFq9l4.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7T9wOJCRb04tiw25CKLc7Y0NK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSCLTMw6D3Uz6miEkrmDEAySOkA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKCd4Ln79jIRHFgFjf1isDM2aqk.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZjPCMqaXqvh9zWWbqZzULsXc1p.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR0wVb6s5Umy1ivoWcimEye3fMx.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1zCUimRihp6k6eqwazwwKReuQg.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srgdNBJQ6zi81FWHQGNbf1y7KiU.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6gj6BLyX3XFsxFWHc2ntOHmFXc.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ti2pUacaNKaIAh8elHGQbhOg6Q.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL2lFCkXkZOhYfzXb2bdXHWKeVN.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRFyeJgk3Z2PuShwYAzOBPjSoYu.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUFa9SjeOz7L0Z0Hq7yRfZYZvC0.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8p3S87V7sU52UzNAmZHfvLfZdh.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyGzAfiKnfdfjwx9xP9RUh3uK4s.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCbR6obSUtXAED7w26wEInkrATs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoRKUGGs9LSxPHQdpgg2xJoOUGg.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG8wUFXSJE19JY4rUE5g79trl7b.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPaZncGpJ1DaI6sYILLitpEiMUy.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T5uKguGiPf93SgldUTMT6IHJs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQte0P7YJSOVo6ZV0npCifbrZeN.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S16 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6r2mDLxEcViD5PhraGMrqudmJ8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJWVRdYlBR36W2LGzqTxFuSbGAp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9DIjmfR5KTYlNXa43TcIJ2HpmX.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QBC9gxrNJ8QxgK9UAb3nJXjvF5.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73AKlsPjjVSFvHoJG5rpXzesVQD.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pybLwxo415qDekVrSNHwM64uI3N.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IZFtkyaHHDbAfGpbRttrmzSDeo.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAXhMr6dfQziJpyde8tt5UO4jEd.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8TDOJirnaq2eARSTnZ164s7AT.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYUhjpSN2VVPdwhQWJ2QgKktffA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPxECULZUpCFS32zHlMzSO6vYjp.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLJZFGqfoM80T5R17L6f9qazgZq.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeCA8AW3ACjev9TrYwzptpQNV0r.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw6fHV6IN4fdFp0CizDbWcpK0E.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUHEvFDuVDN2r5tM3j2Ij4FYIl2.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z64FVrRzCEcu9ricK9d6In5InWA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqdche2k66WdXb7pBUyXMqjXYLL.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSpsEE6vzUtIiC0itvSVGjmeeJ8.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqSlOm6hNOnm88dinpRCynL1c5Z.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX56I2MOYijRIwhfMB4glPqcfoK.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S17 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tThwJrv5oQ5Q4Qbj9WPV9EtR59C.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orcQqdzFWQw6Nfdros7TsX44ojA.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QgIXFRmE7LW997e0YY2LXWn4Ez.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGGvSEAzPa6IlsM6YtC8wteZ6zw.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66GOcYH3vUputP9ZqkeugALgpN6.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0Rjvp7BSanT7hx1yh1Urgs9lAs.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9152E8tNMon55urTDpTPm8NuAJ2.jpg" group-title="[Paramount+]",NCIS: Investigação Naval S18 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/49151.mp4
-
-#EXTM3U url-tvg="http://grade-de-CSI: Miami.xml"
-############## CSI: Miami ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCSI: Miami" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwtQnXcDOvOhX1hjB3GLIrZkwyV.jpg" group-title="[Paramount+]",CSI: Miami S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2Hr9SDEYzDvRj5Nw7zVGo3b1K0.jpg" group-title="[Paramount+]",CSI: Miami S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wImOhPesNv2L2PkMKKxzrghj1Wz.jpg" group-title="[Paramount+]",CSI: Miami S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7klpFA6hCyO5ti0khR3458lZUN3.jpg" group-title="[Paramount+]",CSI: Miami S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1frKaU5AiSYebaeEgKYWD6FP2dN.jpg" group-title="[Paramount+]",CSI: Miami S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyOb93pxFo6r5QaP9eYR2ZTygeB.jpg" group-title="[Paramount+]",CSI: Miami S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RHC3KjdH80PvHHi0hptTxMwij3.jpg" group-title="[Paramount+]",CSI: Miami S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWSlFMA0F2YyISRXxXGgcWWzbJ0.jpg" group-title="[Paramount+]",CSI: Miami S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFBZY6mFDfbi5maex1MW3ze5ccA.jpg" group-title="[Paramount+]",CSI: Miami S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kj8NZ3IO4RYerl0icy6rgON5hzC.jpg" group-title="[Paramount+]",CSI: Miami S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvf7jCWHL59kZYh8eZFfTCsUMfe.jpg" group-title="[Paramount+]",CSI: Miami S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Vo7kJYNVnQOhIY8WdPzKzxYvuC.jpg" group-title="[Paramount+]",CSI: Miami S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79D4wMAHMxl5BFp8MbjFkIqJXMn.jpg" group-title="[Paramount+]",CSI: Miami S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCbF74Lfw6092p8TY8YBZ0LwkrL.jpg" group-title="[Paramount+]",CSI: Miami S01 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNvY4eyRqUewOc5M079oFxNGTBJ.jpg" group-title="[Paramount+]",CSI: Miami S01 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so3aL4MqKPT7YKzeckkJOlLu7J5.jpg" group-title="[Paramount+]",CSI: Miami S01 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H48fJlwvBhbxkFt1Xnp3hCW4xT.jpg" group-title="[Paramount+]",CSI: Miami S01 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvTCAcY8GBYOxNOUBR9PTV4Beqk.jpg" group-title="[Paramount+]",CSI: Miami S01 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b47gIX8a6wtssGvRXd21q9m9MPt.jpg" group-title="[Paramount+]",CSI: Miami S01 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgTyUVRsye020hisbkNqHLC4gCJ.jpg" group-title="[Paramount+]",CSI: Miami S01 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50E3MQ2RdgX1fr7f0TrKr2ZPVJ5.jpg" group-title="[Paramount+]",CSI: Miami S01 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdpMPeyaNXQI61P0uaXi3Xko76c.jpg" group-title="[Paramount+]",CSI: Miami S01 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PGJ2u51dUnvkeLTUW7SzYfr80E.jpg" group-title="[Paramount+]",CSI: Miami S01 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auU9NXumaYZnDcM6Mq2XD8KzGFi.jpg" group-title="[Paramount+]",CSI: Miami S01 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PULoWQIZBXzwE4bj2r9LgAU8ay.jpg" group-title="[Paramount+]",CSI: Miami S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ7bMaopN4CzTDJyTDcLbRVoU7U.jpg" group-title="[Paramount+]",CSI: Miami S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xURBw3dteqEaHRI3fqHnpHFF2b9.jpg" group-title="[Paramount+]",CSI: Miami S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUjz6s3Gx9cx2zEgdpEq5rWObY1.jpg" group-title="[Paramount+]",CSI: Miami S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxIHA4KZa7Cqc9ljSJD0ANrWd48.jpg" group-title="[Paramount+]",CSI: Miami S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGkGEeu91MZVbyYUlAt8aYeuWZ.jpg" group-title="[Paramount+]",CSI: Miami S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD0BpDunARIcQyClrhzmbT596d9.jpg" group-title="[Paramount+]",CSI: Miami S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuWvA22XSPIO0oxwPTLflsqMy2c.jpg" group-title="[Paramount+]",CSI: Miami S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJir6JxAk34mR4D2r2mlHvu3vUr.jpg" group-title="[Paramount+]",CSI: Miami S02 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYrTkQ6QYV4ZSHzLl1S5Bp2O5JO.jpg" group-title="[Paramount+]",CSI: Miami S02 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yL8wlq8WR1Nofy19DApwx4dWhN.jpg" group-title="[Paramount+]",CSI: Miami S02 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYJHkrjAWOJjvM0eAhhe8HkcQMg.jpg" group-title="[Paramount+]",CSI: Miami S02 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFIGdxbBIx6dYM98rkkzVkbMDIt.jpg" group-title="[Paramount+]",CSI: Miami S02 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljGATK4HBQN25wJ305FRSokT3eF.jpg" group-title="[Paramount+]",CSI: Miami S02 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v29XELIoiHgJdbfixepUGgzjLh.jpg" group-title="[Paramount+]",CSI: Miami S02 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPt5V6VBsZZbv9b1jsGjnTXykOP.jpg" group-title="[Paramount+]",CSI: Miami S02 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqmTPzvl9HuAUag4PWgPRZ2uzgg.jpg" group-title="[Paramount+]",CSI: Miami S02 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1lMNiYfXxyFhoiNW8fUbEG6dhd.jpg" group-title="[Paramount+]",CSI: Miami S02 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32UA2vSMR66sTZugXlyBfbCHYVS.jpg" group-title="[Paramount+]",CSI: Miami S02 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97fn6Cy37AYVX939H87xDpzb9Bx.jpg" group-title="[Paramount+]",CSI: Miami S02 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pZHVVBDMxdEZaJzGR0MlRWw32c.jpg" group-title="[Paramount+]",CSI: Miami S02 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44l2nJxcdIQoFmyEWUe2aHgAsXF.jpg" group-title="[Paramount+]",CSI: Miami S02 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w28kKYa8rZZW942FApHTZMuVjC7.jpg" group-title="[Paramount+]",CSI: Miami S02 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivhfiJVfmOBv8PY6TEo8rpwB9Ra.jpg" group-title="[Paramount+]",CSI: Miami S02 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IEd48fesmne6GZKim7zrlIGehu.jpg" group-title="[Paramount+]",CSI: Miami S03 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lloXL9JWjKPcbxUiWSmXONe3Z8E.jpg" group-title="[Paramount+]",CSI: Miami S03 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awhVaijY5hsnz9iRpdJIyHb8tYQ.jpg" group-title="[Paramount+]",CSI: Miami S03 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NrFrHv2nAsIcEa0YADFs2gjJZo.jpg" group-title="[Paramount+]",CSI: Miami S03 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqizUnJFvnG3VOclonBe5huHF3Y.jpg" group-title="[Paramount+]",CSI: Miami S03 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHUzoNWGnMuLtAZvLJP4y08njNr.jpg" group-title="[Paramount+]",CSI: Miami S03 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RyHXgNzsmpqitmMXZX3MvFvauv.jpg" group-title="[Paramount+]",CSI: Miami S03 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3mLg4hfztQyhkD4pM7igpcVSTu.jpg" group-title="[Paramount+]",CSI: Miami S03 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qg690BwXkfnlgTWucfUpd5QWGvN.jpg" group-title="[Paramount+]",CSI: Miami S03 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fWniBOpPrQUqJNCzwsDW9oK9zm.jpg" group-title="[Paramount+]",CSI: Miami S03 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcmm9SiJGpYQbpnaRaGIMeSn8tn.jpg" group-title="[Paramount+]",CSI: Miami S03 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkHvTM0kkVIL1iDB671uxMs6WdB.jpg" group-title="[Paramount+]",CSI: Miami S03 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx8A42kqvm27pkoXPBo88GNSBmH.jpg" group-title="[Paramount+]",CSI: Miami S03 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3Zyj2dBVN5ruLaXkX4shsM5lE4.jpg" group-title="[Paramount+]",CSI: Miami S03 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42iKz5K35cBP7Cx6BePPH1pvv09.jpg" group-title="[Paramount+]",CSI: Miami S03 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE07fBtngAaJPafTLgUx6QSZcoY.jpg" group-title="[Paramount+]",CSI: Miami S03 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBDXMJCeqea6pQixdwHE2yvogH2.jpg" group-title="[Paramount+]",CSI: Miami S03 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUNlPQ7LgzJR7ZYMJ61JeqTwvb1.jpg" group-title="[Paramount+]",CSI: Miami S03 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq9xT3jgUGlLVZkF5W162qKIQr9.jpg" group-title="[Paramount+]",CSI: Miami S03 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm1UTcoXndobKpMUhGB6B9qEdRy.jpg" group-title="[Paramount+]",CSI: Miami S03 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivrkv3XsVSJEh0youlH3zsDh7zk.jpg" group-title="[Paramount+]",CSI: Miami S03 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QVLZzSbMDlhxoRPIREgOUQARfq.jpg" group-title="[Paramount+]",CSI: Miami S03 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2ofgcmA3eks3KEocv4wOtRWioi.jpg" group-title="[Paramount+]",CSI: Miami S03 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w2XUrHMMJxNOQDMyiRFraZm6vl.jpg" group-title="[Paramount+]",CSI: Miami S03 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxap5ttEjUElOaXMR5Z0IQ5wUU7.jpg" group-title="[Paramount+]",CSI: Miami S04 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVwXgsJGRGEw7pMhm74D5N2KP9u.jpg" group-title="[Paramount+]",CSI: Miami S04 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EFdjKFIAWc8vyCrHaMwDOuBAiK.jpg" group-title="[Paramount+]",CSI: Miami S04 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqZYjARcZYc0zrr7jJ7oTe77f6F.jpg" group-title="[Paramount+]",CSI: Miami S04 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zFOkjyIvjLofgW2NCE53DafReK.jpg" group-title="[Paramount+]",CSI: Miami S04 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7FqNpVJPGJrlxgdmxrLGINhhND.jpg" group-title="[Paramount+]",CSI: Miami S04 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vt1jQd4nRdhhWkg1A8R5RBaKqv.jpg" group-title="[Paramount+]",CSI: Miami S04 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ktc9JMTDk7yIUEYdFbX9lBGO9V.jpg" group-title="[Paramount+]",CSI: Miami S04 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IT5dmYUeKnZa5xpdSChkRhwMUW.jpg" group-title="[Paramount+]",CSI: Miami S04 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbiiMfayfB6BJJIcD5S8II5Yevl.jpg" group-title="[Paramount+]",CSI: Miami S04 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XQXT6fOHmc3xR3FFlDAxSR32X4.jpg" group-title="[Paramount+]",CSI: Miami S04 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9OCCIthDMlOSisYSmyAf4klfcz.jpg" group-title="[Paramount+]",CSI: Miami S04 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/717btzAQ2mP9CPQcp4GsplSSm4Y.jpg" group-title="[Paramount+]",CSI: Miami S04 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esOHKy7MxjtMDthGvxtf8MLT1AT.jpg" group-title="[Paramount+]",CSI: Miami S04 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YCVfRxrlPyX4MYz9EQSKdXnInF.jpg" group-title="[Paramount+]",CSI: Miami S04 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2gV8HO3J6M5YTTZEDN38kRIbEP.jpg" group-title="[Paramount+]",CSI: Miami S04 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ol06rHkIpWQrGLlkUzlwzNo3uE2.jpg" group-title="[Paramount+]",CSI: Miami S04 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQdjjXhln5IGeZs24i62wvvwSl8.jpg" group-title="[Paramount+]",CSI: Miami S04 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT60Yw7aGEK6TOE3ZrhKyqFiwun.jpg" group-title="[Paramount+]",CSI: Miami S04 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c19XVelTw8RB8hMItQWIfb1bas2.jpg" group-title="[Paramount+]",CSI: Miami S04 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYuHCYww287iZtQzJAy2aGr3Wp5.jpg" group-title="[Paramount+]",CSI: Miami S04 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngb10qk0uNQVV5e2XEy91WZ8iR1.jpg" group-title="[Paramount+]",CSI: Miami S04 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uq60WSCokUEsomjjXXkT8zQocg.jpg" group-title="[Paramount+]",CSI: Miami S04 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRMNozNv1VOMCzGkRlP2djdjVd1.jpg" group-title="[Paramount+]",CSI: Miami S04 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cykb8LgtmphrU6FbFTOCehmuguX.jpg" group-title="[Paramount+]",CSI: Miami S04 E25
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0IVEwPrJskj6jj1LfALmKVTkde.jpg" group-title="[Paramount+]",CSI: Miami S05 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAJes33t9IzhLfxb5wjMcy1WKsY.jpg" group-title="[Paramount+]",CSI: Miami S05 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eD9b0WXg87UaWUeUloME2XVMRQs.jpg" group-title="[Paramount+]",CSI: Miami S05 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHfYe9DNRzeP6VFSySAp9KbNWZ7.jpg" group-title="[Paramount+]",CSI: Miami S05 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/25999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFVbYfWSbtCfUwjpbUY3qa9Nuzt.jpg" group-title="[Paramount+]",CSI: Miami S05 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQGYEaMBewUL23R2kq6BqDAnSQ.jpg" group-title="[Paramount+]",CSI: Miami S05 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVAiNVoAw6wOyP9FMDFRZZBaEIl.jpg" group-title="[Paramount+]",CSI: Miami S05 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqLCV7mdzeI4kdaF3Fh8wJvGRP.jpg" group-title="[Paramount+]",CSI: Miami S05 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQsCz4tYQ3uXb2UtzN1NGA8RB2w.jpg" group-title="[Paramount+]",CSI: Miami S05 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjDw7JFfkXB7e1B0ilJkfVi3eGE.jpg" group-title="[Paramount+]",CSI: Miami S05 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdjLkOJbudi2rzWd8b7Yeu8w20.jpg" group-title="[Paramount+]",CSI: Miami S05 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QdmNCT8uejs7XMbA2gBEJ2H5AT.jpg" group-title="[Paramount+]",CSI: Miami S05 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9OHKSoDBk2Qpg4azJrzIozundp.jpg" group-title="[Paramount+]",CSI: Miami S05 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MTVo6c3QKzdqJvkdjQXe7Q907s.jpg" group-title="[Paramount+]",CSI: Miami S05 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJMoCYXOwiOPxfdnzcCMUOmSu51.jpg" group-title="[Paramount+]",CSI: Miami S05 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTicmHdlLlnECgsSEgUz9xxTLlG.jpg" group-title="[Paramount+]",CSI: Miami S05 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4jQIJt7PKTqqjcgIMC7d2Z7vI0.jpg" group-title="[Paramount+]",CSI: Miami S05 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nGUypAG3ffPwqziJp182FcHuWV.jpg" group-title="[Paramount+]",CSI: Miami S05 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YlWWs4hj30Pi5jFbzYy9BMXHef.jpg" group-title="[Paramount+]",CSI: Miami S05 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWeoiIewo1p6F779StxXEmylDHM.jpg" group-title="[Paramount+]",CSI: Miami S05 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhGOuvd9DweEmE8XF1suIItJNxf.jpg" group-title="[Paramount+]",CSI: Miami S05 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztHTiEuD1y1oRCvh5KNyybOLEwk.jpg" group-title="[Paramount+]",CSI: Miami S05 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz0d6yYCKyBTMaUeEDDe3lYpdKb.jpg" group-title="[Paramount+]",CSI: Miami S05 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVyRDpe7FrKY3in9ihnCQfPrW4C.jpg" group-title="[Paramount+]",CSI: Miami S05 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5FeX58LX58tyP1LC6ZMALGUhRu.jpg" group-title="[Paramount+]",CSI: Miami S06 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS89ps7QNCpL883jqqmL2k5Faol.jpg" group-title="[Paramount+]",CSI: Miami S06 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WFFfehbkacMQG1gAirjvVV7I9b.jpg" group-title="[Paramount+]",CSI: Miami S06 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc4uzNCdHHnNQ3JjKhGp5pGDiGr.jpg" group-title="[Paramount+]",CSI: Miami S06 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFSn3TFGckBwoJ0Y5BXyi9U84dm.jpg" group-title="[Paramount+]",CSI: Miami S06 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDuUIPqzfdDLZAsMxMoGwlOYatq.jpg" group-title="[Paramount+]",CSI: Miami S06 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqXvUQyLs6QyGsP8xRdFINBMZRd.jpg" group-title="[Paramount+]",CSI: Miami S06 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj3mjlVcjrSrncEzWQfQCqJUmFd.jpg" group-title="[Paramount+]",CSI: Miami S06 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFMEyy9CCNL1qpDxfuKnjfhHr6b.jpg" group-title="[Paramount+]",CSI: Miami S06 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jahANlsiYQGtKUMdhv9uGUSchA.jpg" group-title="[Paramount+]",CSI: Miami S06 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTsnt52NI0jgZPCMaa8gTVyvyJW.jpg" group-title="[Paramount+]",CSI: Miami S06 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awtMfQNactaDwXQNmid3Oc9VycS.jpg" group-title="[Paramount+]",CSI: Miami S06 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuCHOSyZv9r0PzNPFObXx7Ouh6H.jpg" group-title="[Paramount+]",CSI: Miami S06 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Gk70UUVsgOsGaSOqUPrz68Vu5b.jpg" group-title="[Paramount+]",CSI: Miami S06 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaVv3szpaUXVYwHbEByhttenB9e.jpg" group-title="[Paramount+]",CSI: Miami S06 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlvWOU3iUNS1hb8HXvtFUMvbuOO.jpg" group-title="[Paramount+]",CSI: Miami S06 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmVACogILFaBS15WhhJ5tshNPC.jpg" group-title="[Paramount+]",CSI: Miami S06 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6436eWXcGJDq1sAa152doQOlYc.jpg" group-title="[Paramount+]",CSI: Miami S06 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aykgS9lO0LBCgX4PLo56773Q1ML.jpg" group-title="[Paramount+]",CSI: Miami S06 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOy1tKb118X5Y3QuEqj6IRmG3KC.jpg" group-title="[Paramount+]",CSI: Miami S06 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKimbDBRULRuqVxoiPKPMrPLImy.jpg" group-title="[Paramount+]",CSI: Miami S06 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2ebBX1y7fKANFkBTT2Wz4YmPrA.jpg" group-title="[Paramount+]",CSI: Miami S07 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R5rBeIx2nnImO2hv71aEViqwSt.jpg" group-title="[Paramount+]",CSI: Miami S07 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CDLZicuF9jtcuipSll1PfQCFxC.jpg" group-title="[Paramount+]",CSI: Miami S07 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcJaoqk4bkLjLUSlpDhHaItO7Kb.jpg" group-title="[Paramount+]",CSI: Miami S07 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXqMUDARgJuVsGTEWiQOnkMzJK1.jpg" group-title="[Paramount+]",CSI: Miami S07 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5EZd0tv2JQqeUSjF9tqXNuMnh.jpg" group-title="[Paramount+]",CSI: Miami S07 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggmunQc4RjnDy15HX0c2y2NZAag.jpg" group-title="[Paramount+]",CSI: Miami S07 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7JngxQZCn9Nk88rYtzxqrpY4pg.jpg" group-title="[Paramount+]",CSI: Miami S07 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPb48ERLMhgK8JuUFIon3Ljxb2l.jpg" group-title="[Paramount+]",CSI: Miami S07 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGjbxgDB9ttPioS8YOlaZuEX1Fm.jpg" group-title="[Paramount+]",CSI: Miami S07 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9wOlWvRM1nIQwrhUTJJM412l1f.jpg" group-title="[Paramount+]",CSI: Miami S07 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIpRgVfmoqnTZi3Q4b7YXwYXMl3.jpg" group-title="[Paramount+]",CSI: Miami S07 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAFMZlOgNlEDvzG4UtOhaU6Jyuw.jpg" group-title="[Paramount+]",CSI: Miami S07 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htbfjBwDwJn7RKG7ZxwMTr7csad.jpg" group-title="[Paramount+]",CSI: Miami S07 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEZnAOYCXqcSnwbxzpcklX6uCez.jpg" group-title="[Paramount+]",CSI: Miami S07 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3dMSkAkZvsMSFrgolvnYdfE4di.jpg" group-title="[Paramount+]",CSI: Miami S07 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXxnyCoJxUpZoR2SPGCOvUHLlr2.jpg" group-title="[Paramount+]",CSI: Miami S07 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f7yhkhyenlAVYZ6WGp4fM7zCyF.jpg" group-title="[Paramount+]",CSI: Miami S07 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDze9CNalCDMHrhK65qDLMjGdRZ.jpg" group-title="[Paramount+]",CSI: Miami S07 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTth4HVIQzVr8izbGCtgW7BBQSE.jpg" group-title="[Paramount+]",CSI: Miami S07 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBjcdsJdxWP4XQcOROTmho7kB73.jpg" group-title="[Paramount+]",CSI: Miami S07 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sl3p5Bqsug8Q22v8YmU2DmbM4i.jpg" group-title="[Paramount+]",CSI: Miami S07 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTI7ecCNtW7X1hI9DA3CXOBWeas.jpg" group-title="[Paramount+]",CSI: Miami S07 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kScGNjSLLUfihdgKmgY3d7bHhr6.jpg" group-title="[Paramount+]",CSI: Miami S07 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S07 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9YpwFAoEBTsk3C17LcoiMQxCgE.jpg" group-title="[Paramount+]",CSI: Miami S07 E25
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aq7Mazn8ubXK8wCsAahMwoK054.jpg" group-title="[Paramount+]",CSI: Miami S08 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iepyRzY8WxQUHdkCFN0SElLFqn.jpg" group-title="[Paramount+]",CSI: Miami S08 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAofRAAnbsY1DrOJuXbhWuMPTqq.jpg" group-title="[Paramount+]",CSI: Miami S08 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTwpOgstETBMlVqaFZhtrJ6j4Qe.jpg" group-title="[Paramount+]",CSI: Miami S08 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6R6QQoZzEA313wjRVa4hkpwVZK.jpg" group-title="[Paramount+]",CSI: Miami S08 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m04SL6LEvPDvqxBBfq9QrrDIHzJ.jpg" group-title="[Paramount+]",CSI: Miami S08 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDgcDfUH6xhwuYeC1cCZ2Rjovqx.jpg" group-title="[Paramount+]",CSI: Miami S08 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrSThJjxV31RbtgVY4Ym3oPHbKt.jpg" group-title="[Paramount+]",CSI: Miami S08 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llIcMOm9khcUu9Zh89sbL7QYUEi.jpg" group-title="[Paramount+]",CSI: Miami S08 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsPgiTeDYGcsWMynDZHfMixNPMm.jpg" group-title="[Paramount+]",CSI: Miami S08 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DA3UokcK50EPYN17V9yRghsB0y.jpg" group-title="[Paramount+]",CSI: Miami S08 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aaN8WpG2UdbFe0FGOUcp7GMbWc.jpg" group-title="[Paramount+]",CSI: Miami S08 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tptK8UhzRGGzXCu0Bh4JSBcUCtI.jpg" group-title="[Paramount+]",CSI: Miami S08 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1OgfjuxO4XXdidX7Xhz1QVlf5w.jpg" group-title="[Paramount+]",CSI: Miami S08 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWChGsupyEKf3DhxTTHkV9VCmxl.jpg" group-title="[Paramount+]",CSI: Miami S08 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMBqE71HguHUzHfkTVQdPiqenwL.jpg" group-title="[Paramount+]",CSI: Miami S08 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSV9mTqwUqwVKKlooGnUKJN7I7P.jpg" group-title="[Paramount+]",CSI: Miami S08 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV1kosaUGLPU0SsVlqx5K4ZJRXW.jpg" group-title="[Paramount+]",CSI: Miami S08 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0m1BAj8RZy4Y1Yo3WjrxctroQG.jpg" group-title="[Paramount+]",CSI: Miami S08 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SAhx3a5JdWtbBqENL55yYFnpki.jpg" group-title="[Paramount+]",CSI: Miami S08 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne9OtK7aBwiBKWk7TL685yu9dM4.jpg" group-title="[Paramount+]",CSI: Miami S08 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6cuaV6asMKbjnwSxhrfpr7AuPV.jpg" group-title="[Paramount+]",CSI: Miami S08 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peZAoKk3CrJW0qzXr7wBCVGua1j.jpg" group-title="[Paramount+]",CSI: Miami S08 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S08 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQDFV2gNd62Ekhatnnc9oO3etXG.jpg" group-title="[Paramount+]",CSI: Miami S08 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhEpUR2qcverYytI9GUSV4ADTc6.jpg" group-title="[Paramount+]",CSI: Miami S09 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEsxVGUlf2zYPwKCFoawGJQYGzK.jpg" group-title="[Paramount+]",CSI: Miami S09 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ygTlK1Ch7nZFTntxiGo894E7aS.jpg" group-title="[Paramount+]",CSI: Miami S09 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLU8GAos2qONKB6jN0KKpbw7RKg.jpg" group-title="[Paramount+]",CSI: Miami S09 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JHOfdBYOcQYzwhRoqE8eXHyD8T.jpg" group-title="[Paramount+]",CSI: Miami S09 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCQsd3oOy3R5NUsINYrFWMf88O1.jpg" group-title="[Paramount+]",CSI: Miami S09 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgARraArxaLwSKhNlQHrOQF87oN.jpg" group-title="[Paramount+]",CSI: Miami S09 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lPq3fqa4oMOgeNC4dfXK7eGb6T.jpg" group-title="[Paramount+]",CSI: Miami S09 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFWAeN1nUcC6ZSHcKAENp8dy0EM.jpg" group-title="[Paramount+]",CSI: Miami S09 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bK8tSULHdHlnCyQdw40rElTzEkL.jpg" group-title="[Paramount+]",CSI: Miami S09 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwhleHQr0DgA8EZpnTtsuCDjbau.jpg" group-title="[Paramount+]",CSI: Miami S09 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT0j23dnRxp9VeKaB1TsHew9Jkz.jpg" group-title="[Paramount+]",CSI: Miami S09 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pq1kHQQXxtbviZLwOWV2HwOusmw.jpg" group-title="[Paramount+]",CSI: Miami S09 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZzYpp6A1M0nBHutAMzVFlr5wLV.jpg" group-title="[Paramount+]",CSI: Miami S09 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lwGm6EScwb56KzeabDSRFOV23B.jpg" group-title="[Paramount+]",CSI: Miami S09 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v82HG7X5XZwluCMaJvV6qnbkTps.jpg" group-title="[Paramount+]",CSI: Miami S09 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHfnDlWzsLvMpS0ZS4rukFaN2ZY.jpg" group-title="[Paramount+]",CSI: Miami S09 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfvlR2TaTJPDVTNs4veawqxWbJZ.jpg" group-title="[Paramount+]",CSI: Miami S09 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltX5okpfukADhF1lQVYd39OPkf7.jpg" group-title="[Paramount+]",CSI: Miami S09 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18aHDTUDipKufELvLmXd975rm9g.jpg" group-title="[Paramount+]",CSI: Miami S09 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAwNwCwHFzGm8uDH7DNW2pXVERQ.jpg" group-title="[Paramount+]",CSI: Miami S09 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0bPTSsBrEBQ3Pgt8kRtXas5CM.jpg" group-title="[Paramount+]",CSI: Miami S09 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caZGW31yzuFegNPk8463erYUvpE.jpg" group-title="[Paramount+]",CSI: Miami S10 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75KeVvaP6wpe9Q3E7XmovGTE8i6.jpg" group-title="[Paramount+]",CSI: Miami S10 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncRHX1Cv3cpwqxNOlG1uAvXnRKs.jpg" group-title="[Paramount+]",CSI: Miami S10 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYsV7VkjVtS9irQe0FezGVivus6.jpg" group-title="[Paramount+]",CSI: Miami S10 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCEoJ1vSxS1oLvNti75Q7RtjKvJ.jpg" group-title="[Paramount+]",CSI: Miami S10 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyM73t9Zn3DVUx0dcRtl8QTUyc.jpg" group-title="[Paramount+]",CSI: Miami S10 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quVz2QlywPbShzQFJrnLd50nfyQ.jpg" group-title="[Paramount+]",CSI: Miami S10 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPQGVNsdaVlM0YP0ILTPg75Z7hS.jpg" group-title="[Paramount+]",CSI: Miami S10 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjFQHFREmxPBRd0AtWo2pdbvdxB.jpg" group-title="[Paramount+]",CSI: Miami S10 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbKXsCb2e1UEoAIlSSYnTANNdUl.jpg" group-title="[Paramount+]",CSI: Miami S10 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuysTddYyfAo3GaZ1GeFPpdcpiy.jpg" group-title="[Paramount+]",CSI: Miami S10 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqPIhWt8YpRnxZnWOToua8PIh9c.jpg" group-title="[Paramount+]",CSI: Miami S10 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZStDgUysnMHLuLztt522MW6ny1.jpg" group-title="[Paramount+]",CSI: Miami S10 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fxC6C9HEbRo6wgVbNVj4PIU3n9.jpg" group-title="[Paramount+]",CSI: Miami S10 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3PrYzMcbgKrRKkm7J0LGnmBkfV.jpg" group-title="[Paramount+]",CSI: Miami S10 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cmSAW617qX2hzQ5j5dcZ40szn8.jpg" group-title="[Paramount+]",CSI: Miami S10 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N3rlxsRXh1ItCWqGprDNTx0X2p.jpg" group-title="[Paramount+]",CSI: Miami S10 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55163ZIH8PqqXUqWXiTRiINZSea.jpg" group-title="[Paramount+]",CSI: Miami S10 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bx84fpDsemS7qgS2QKDjQfKB0f.jpg" group-title="[Paramount+]",CSI: Miami S10 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26131.mp4
-
-#EXTM3U url-tvg="http://grade-de-CSI Nova York.xml"
-############## CSI Nova York ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCSI Nova York" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge2i1hVz6uKHC7JcZFCSnY1da2d.jpg" group-title="CSI Nova York",Nova York S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9HzgINgXnByMlNxhqAeGoOjC7p.jpg" group-title="CSI Nova York",Nova York S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOVIgc38EwoZglfkrGNJrgIvV7B.jpg" group-title="CSI Nova York",Nova York S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73FIZ4rna7yoRsr9nAb3Ylt530n.jpg" group-title="CSI Nova York",Nova York S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwYdjKO8OXpg3LaUZ7WERI1LeaJ.jpg" group-title="CSI Nova York",Nova York S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxizFbYEN7rfDMiAYfr667VmR0e.jpg" group-title="CSI Nova York",Nova York  S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwjSGiECaAkRHS4u2fN1m1S998I.jpg" group-title="CSI Nova York",Nova York S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/F9Kr30PkOCMnyFHwhJ4IwR1M39.jpg" group-title="CSI Nova York",Nova York S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3VWOj9UG8RVF2Cd5KNKzYLS5w7.jpg" group-title="CSI Nova York",Nova York S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ac6XxFqJkFlIZX4FDnawMtI5jC.jpg" group-title="CSI Nova York",Nova York S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x7bBZqTdKA9ofOEud2H4y8rvCB.jpg" group-title="CSI Nova York",Nova Yorkk S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlOMnbmnBkXcBjyonJpZZ40vbZ0.jpg" group-title="CSI Nova York",Nova York S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJZyFiQdyaTbS5dErVNko0P7Qm6.jpg" group-title="CSI Nova York",Nova York S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNHf58i2KaOFidP4pDim5gG9Prz.jpg" group-title="CSI Nova York",Nova York S01 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3UzKLNpxTyVdA1ogGbbF03h14n.jpg" group-title="CSI Nova York",Nova York S01 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PmRFOH3Lfm7lVNQ2ZQyOp5PHCf.jpg" group-title="CSI Nova York",Nova York S01 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za1PMMCZnPXhZQoMNEPsYyTXYIT.jpg" group-title="CSI Nova York",Nova York S01 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7HjMYP8NUVj2oFNkTrHvYrTzr7.jpg" group-title="CSI Nova York",Nova York S01 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Xd1Quwb2mfyvXRQ6WGcA71wgFs.jpg" group-title="CSI Nova York",Nova York S01 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kJyoIw33emHZCRuAlISSpKcd6D.jpg" group-title="CSI Nova York",Nova Yorkk S01 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V3lNGFKwARfEDp1Xxz6FqcFYEW.jpg" group-title="CSI Nova York",Nova York S01 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMb5Gb9qqOxHDos3gOOq1nxumiK.jpg" group-title="CSI Nova York",Nova York S01 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9GOPoDuojzihQJvoiszEZQPfKn.jpg" group-title="CSI Nova York",Nova York S01 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j70CAkNEpBMLGlAtTLxNbdjcQzY.jpg" group-title="CSI Nova York",Nova York S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx4GN0L1BpnYRAQt26wd2n3tkrY.jpg" group-title="CSI Nova York",Nova York S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va6utKBjbiv8lamn60cy2hgpN8F.jpg" group-title="CSI Nova York",Nova York S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NTu3ztatzzUo4xAbirz4cAJvaE.jpg" group-title="CSI Nova York",Nova York S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwyzgiTBzE9EZLOo8KqvXiJTDZf.jpg" group-title="CSI Nova York",Nova York S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsSfVI7mndPJYpKe7FCR2YBEw2l.jpg" group-title="CSI Nova York",Nova York S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lASKlouDmcxQl8X3il60MGgV2LA.jpg" group-title="CSI Nova York",Nova York S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjMZhHFtF3y01zWbjV9lggGOM9.jpg" group-title="CSI Nova York",Nova York S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCqZ7BWYuv3CUk4V5aSXYQOfv40.jpg" group-title="CSI Nova York",Nova York S02 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3icZCgjAH4OcpLA0RPrd9dBHYYz.jpg" group-title="CSI Nova York",Nova York S02 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH0erxFyicS3xwUQCjM6GUSp5kZ.jpg" group-title="CSI Nova York",Nova York S02 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMqz4Za5ENU7a5K0htZn6LPvJC5.jpg" group-title="CSI Nova York",Nova York S02 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQJcIuB73BvczICiOPWsdM9R0wD.jpg" group-title="CSI Nova York",Nova York S02 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6RTA8fHZnS8dC8tjPwfZMZO7V.jpg" group-title="CSI Nova York",Nova York S02 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e31mDvSUdW1qN4JdyetGSWDlXtB.jpg" group-title="CSI Nova York",Nova York S02 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPTAW5Oh2Jm3hy5o7N30chgDoQ8.jpg" group-title="CSI Nova York",Nova York S02 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EKZNTEQiPxsRWQjhJflfV3xlGQ.jpg" group-title="CSI Nova York",Nova York S02 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOwlOGzPjnVebw9qHdpYwrvOVl6.jpg" group-title="CSI Nova York",Nova York S02 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCJK9eVpdoDXnw0AUw1ymlxTUkf.jpg" group-title="CSI Nova York",Nova York S02 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnJ6t1DbdQws6aT5EJyqqeVadqO.jpg" group-title="CSI Nova York",Nova York S02 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly8FzeNxV4hG6VGOHi5LkvNr4Pj.jpg" group-title="CSI Nova York",Nova York S02 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/st8S1alXVTzDmjazH55DASY8QF6.jpg" group-title="CSI Nova York",Nova York S02 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muyUHhIf2iYCxRIVSSXBUUSSghb.jpg" group-title="CSI Nova York",Nova York S02 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3N9faDeZLvUxUM1Xnq9TsFoaAe.jpg" group-title="CSI Nova York",Nova York S02 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llTr1m4zjWMPt77MX2he8OpoU72.jpg" group-title="CSI Nova York",Nova Yorkk S03 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxRLLLBfEK2SocplAtnqv0tg8Yq.jpg" group-title="CSI Nova York",Nova York S03 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdarZ9c73D4lwzS5qwAnj0JESfB.jpg" group-title="CSI Nova York",Nova York S03 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj0gGABclgHHsd9H6lRmi5t7LtK.jpg" group-title="CSI Nova York",Nova York S03 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faLdrcBJUhdxfLMkAqUQFue3QAQ.jpg" group-title="CSI Nova York",Nova York S03 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxkZOv0fwdANzIQm66C9WrlD7jC.jpg" group-title="CSI Nova York",Nova YorkS03 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emywnBBMWu2IUDq08GkdzlBdfga.jpg" group-title="CSI Nova York",Nova York S03 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0lt9LCUTgGKjynzTYAo5DM2sBn.jpg" group-title="CSI Nova York",Nova York S03 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12X6t9ACSgHtTuA8AYLZRbhPk7F.jpg" group-title="CSI Nova York",Nova York S03 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa2DmhwU2xezPyRR03k61wvivPS.jpg" group-title="CSI Nova York",Nova York S03 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG1zX1lOiEPFNcsAv2DJwkbQmy.jpg" group-title="CSI Nova York",Nova York S03 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEsCwOv7V3Q9TBC4g7QGxYblDIa.jpg" group-title="CSI Nova York",Nova York S03 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijSzRCeDSPWEuuEKwlZPAwPTn8V.jpg" group-title="CSI Nova York",Nova York S03 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkOYPmCPYHPQySxsnULM3IwBQIj.jpg" group-title="CSI Nova York",Nova Yorkk S03 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syEjzhBA4BqtJckyL1aQQJa22w9.jpg" group-title="CSI Nova York",Nova York S03 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dULxTfTlBKJhguQjigSoDAWBq1m.jpg" group-title="CSI Nova York",Nova York S03 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zozCxdGOkGClKtcdoaHmbnIDeCv.jpg" group-title="CSI Nova York",Nova York S03 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XFFhxhl6rzgOkth7xIusdMYdK9.jpg" group-title="CSI Nova York",Nova York S03 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpVsVfRyYAQD8iYOSz9XZj7lU2.jpg" group-title="CSI Nova York",Nova York S03 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdy1732NU2ie6tiAmgDUPF2btTh.jpg" group-title="CSI Nova York",Nova York S03 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyGi8jGMmukYLP94Fp9CqWauy6g.jpg" group-title="CSI Nova York",Nova York S03 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCsdO6PUXTQ0MF1fhj4q9LrTEsG.jpg" group-title="CSI Nova York",Nova YorkS03 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r4N90Uoc1q7wJoj4zd50EbUqCO.jpg" group-title="CSI Nova York",Nova York S03 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzrqrPcsYiHRanRRLNmZmLym04t.jpg" group-title="CSI Nova York",Nova York S03 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TOF2DgY3PXmp6TzVHq6jCWUyLD.jpg" group-title="CSI Nova York",Nova York S04 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IsAssfgFO7oMU55pCuS3mS6e3A.jpg" group-title="CSI Nova York",Nova York S04 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aIjETh9xXGoa9bhXoQwXDghAij.jpg" group-title="CSI Nova York",Nova York S04 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4XCdJTfkmKCo7pTOydJerh8NO4.jpg" group-title="CSI Nova York",Nova York S04 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RrqITCDwGPWUmSIqerxviXcfAx.jpg" group-title="CSI Nova York",Nova York S04 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNxgNBDwykgGNGylaOalt7gEyV7.jpg" group-title="CSI Nova York",Nova York S04 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aGQj3CIdYeqLbi0D4ifP6x77u6.jpg" group-title="CSI Nova York",Nova York S04 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mb2RSAq9aFcdAtTwFWTDN7pw9bz.jpg" group-title="CSI Nova York",Nova York S04 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aD1SGPAZ8ik1BxrJgwVrl72AAU.jpg" group-title="CSI Nova York",Nova York S04 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWGZQOGSRYVJyM2U5RdEYAEqaUl.jpg" group-title="CSI Nova York",Nova York S04 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NqEO0DLbFl3iDaKjeyeWh7pLks.jpg" group-title="CSI Nova York",Nova York S04 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNomat0gEk7VvHCQ3FWLN3jUl1e.jpg" group-title="CSI Nova York",Nova York S04 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7UEcZhXnhqqu52nFkkqFnEdh7.jpg" group-title="CSI Nova York",Nova York S04 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ObyhUVFOXQF4kFKQBeJTYOXuNk.jpg" group-title="CSI Nova York",Nova York S04 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcqW40m8RRl47A9rDKZBNLhqKH1.jpg" group-title="CSI Nova York",Nova York S04 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dElnTr62ixS0ApHY960UU4pv5RM.jpg" group-title="CSI Nova York",Nova York S04 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsrrYbkyHHgKvTF5e1afeYCDinY.jpg" group-title="CSI Nova York",Nova York S04 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfVMLpU0X3yiMNXZqZN48TONqj7.jpg" group-title="CSI Nova York",Nova York S04 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5trvalrJOPGeQqPWXXFp6qoWQof.jpg" group-title="CSI Nova York",Nova York S04 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63khjMWXSAg7HENz58If4RBupwv.jpg" group-title="CSI Nova York",Nova York S04 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25IVLN3vGEhugOpHkkgvdRTmOpJ.jpg" group-title="CSI Nova York",Nova York S04 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p6K77MDDO2wE8LvZ8cNBpHhp34.jpg" group-title="CSI Nova York",Nova York S05 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLxRAN6o8gNVT9qLrpwCL9cKAuP.jpg" group-title="CSI Nova York",Nova York S05 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwf6tgNovny4psr5naQHVBug1qT.jpg" group-title="CSI Nova York",Nova York S05 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPHv4u8sH3zy44g1bpOA0nkkSqp.jpg" group-title="CSI Nova York",Nova York S05 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVUGwBGrpJAy9GS6r3kh6tbUdzW.jpg" group-title="CSI Nova York",Nova York S05 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzM4LH9QKxYVv5IPXJIuYCi4t0h.jpg" group-title="CSI Nova York",Nova York S05 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRuicPsWKKaJYK5rcM4zxsLcMZ2.jpg" group-title="CSI Nova York",Nova York S05 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olO5yknRXwV6yqzPTgMOEpxtb72.jpg" group-title="CSI Nova York",Nova York S05 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxlRSJgfRkfhSK7yWLNBgGum4ex.jpg" group-title="CSI Nova York",Nova York S05 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRYDcipgW1vfaew43Ln1nNrCMSC.jpg" group-title="CSI Nova York",Nova York S05 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7Mvp58ihSAj2gPKTaM2hCn96fS.jpg" group-title="CSI Nova York",Nova York S05 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrRCY91OHKsp4MWu3aXmwYjtfcY.jpg" group-title="CSI Nova York",Nova York S05 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKyKmVkBPgGB8qR6tzeJs6sZ1Cf.jpg" group-title="CSI Nova York",Nova York S05 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rY79dNourhxOBMizp0Yt00AvUC.jpg" group-title="CSI Nova York",Nova York S05 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDEFP12LzdFSYgUK47AvmHjchbF.jpg" group-title="CSI Nova York",Nova York S05 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fM2liiWSFIbpFQJcxwPvzlPs2CV.jpg" group-title="CSI Nova York",Nova York S05 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/do8u59AJAtC7yR8Muer6lxeAb3b.jpg" group-title="CSI Nova York",Nova York S05 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xauxYusDl3BuUi9iAHjRn8H1bH.jpg" group-title="CSI Nova York",Nova York S05 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twDwTl18kcWHlCeUSvarDOICdxC.jpg" group-title="CSI Nova York",Nova York S05 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5TrmsXEtXyaFKzmI1azamlQmWW.jpg" group-title="CSI Nova York",Nova York S05 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDfY8mAS7ulo4G0uBjyUJzj3PAD.jpg" group-title="CSI Nova York",Nova York S05 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ffmcrQVDGhcsq4GFldgXAAFzL.jpg" group-title="CSI Nova York",Nova York S05 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzreefs2BWbpMjqHWYsmmveKftI.jpg" group-title="CSI Nova York",Nova York S05 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZJ7DOfPQHBPPLud2vXwNnSqYZw.jpg" group-title="CSI Nova York",Nova York S05 E24
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S05 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7EtNaT6i3KCrfYhxQlrcnbDUi3.jpg" group-title="CSI Nova York",Nova York S05 E25
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1yh8GemMPsx1lBvkYICJRb4xt7.jpg" group-title="CSI Nova York",Nova York S06 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8raZkrbwaCsPsKkGZCilRzB9WGb.jpg" group-title="CSI Nova York",Nova York S06 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhlHy3tT0n3kZmq2eD6gTF4SAkx.jpg" group-title="CSI Nova York",Nova York S06 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4rsJTuXOIK8VbeVvxbPjQcNRDH.jpg" group-title="CSI Nova York",Nova York S06 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dt2SojOI8CoQIt1UuYOuAYWmLM.jpg" group-title="CSI Nova York",Nova York S06 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PMzPjPnHYJH9X9UQCueqnzyZna.jpg" group-title="CSI Nova York",Nova York S06 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtNUSN5adK9lVm3mQ3oVP1MOe9U.jpg" group-title="CSI Nova York",Nova York S06 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oJvxtaX0ZKGuwthURK0eZ3ptgm.jpg" group-title="CSI Nova York",Nova York S06 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzWR81DpXlhMVRyw5duTB0vxR6.jpg" group-title="CSI Nova York",Nova York S06 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbpazJuP1pTv0kx7PqajAEWDRHy.jpg" group-title="CSI Nova York",Nova York S06 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj3UxbBCWcRJhjxJICSwBLM1Ikq.jpg" group-title="CSI Nova York",Nova York S06 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uufwcAawYYJ37qit3qJj790KTQt.jpg" group-title="CSI Nova York",Nova York S06 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwpjtEt8BJOg2ku5Y0reo6jCBMH.jpg" group-title="CSI Nova York",Nova York S06 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozac4JsmbQOflYMK6jXxqPe5NJk.jpg" group-title="CSI Nova York",Nova York S06 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7To281lvc1MD2VZTl97WoyOZ6Iu.jpg" group-title="CSI Nova York",Nova York S06 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ypy40vZrXpLK5o2kaWyzDFsrpG.jpg" group-title="CSI Nova York",Nova York S06 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Svec4bNE9pdhWBHhNtd0LzUDXV.jpg" group-title="CSI Nova York",Nova York S06 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1YepXmGGcUZDz16bQngjs31ZL.jpg" group-title="CSI Nova York",Nova York S06 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs3Eemdl3PH8evxK4PTJlXGQ03P.jpg" group-title="CSI Nova York",Nova York S06 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lmkgiG8jsnsnrDhey4fZMKg06.jpg" group-title="CSI Nova York",Nova York S06 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVgr3xrB2rkczD5rv0xRF2oySmL.jpg" group-title="CSI Nova York",Nova York S06 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shGR8I1dN2R0rG9ETscz8A3NLYr.jpg" group-title="CSI Nova York",Nova York S06 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7QIcZx6l7fD7qjbEOpZcReZKpf.jpg" group-title="CSI Nova York",Nova York S06 E23
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C73Kp6OqpZcbx7iTFM53tZBV4L.jpg" group-title="CSI Nova York",Nova York S07 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysljy0PmsvyBBcv7PUfrvoZ3Rcv.jpg" group-title="CSI Nova York",Nova York S07 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWPoWWXpA1cqMPfF9QLxZe0qike.jpg" group-title="CSI Nova York",Nova York S07 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndCcQIROj3mJHmCRwKYFYjbXldi.jpg" group-title="CSI Nova York",Nova York S07 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j98dvsuusMr0FrI1CIBZerP5QH6.jpg" group-title="CSI Nova York",Nova York S07 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMfnkn2AoSm58ghFF3CtB92WVob.jpg" group-title="CSI Nova York",Nova York S07 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAkRUMhAqZfVbTrayVpHCjhYvGs.jpg" group-title="CSI Nova York",Nova York S07 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHbAIRH9Gj6XClw8ooWJD0NpACH.jpg" group-title="CSI Nova York",Nova York S07 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z0Eryi0EvmxF1tZORFPBpN2Kfj.jpg" group-title="CSI Nova York",Nova York S07 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyW9SWu0GYHf8Tvbgxkp8DSfj8P.jpg" group-title="CSI Nova York",Nova York S07 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVoE1qBaD1hupN2GO8cVSoMrIvw.jpg" group-title="CSI Nova York",Nova York S07 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KixvU3Pnvho4vfArkxpNpevlud.jpg" group-title="CSI Nova York",Nova York S07 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bQK8ybBljz30Olj0Kc7dHL2e4F.jpg" group-title="CSI Nova York",Nova York S07 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ea3CWzotHGh4MVD1rNJl6dyenb.jpg" group-title="CSI Nova York",Nova York S07 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVnouU7FiX2XjBvMqFiRyngCzW5.jpg" group-title="CSI Nova York",Nova York S07 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBNII3lra8xNp80BwvPPZK7MCj2.jpg" group-title="CSI Nova York",Nova York S07 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87byoMTEwGzVedn0y9JDQEutYEi.jpg" group-title="CSI Nova York",Nova York S07 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqXTRWMQP7rXSVKHr33B6MwlBTx.jpg" group-title="CSI Nova York",Nova York S07 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rw7gQTGYpnp24izrb6lbCtLK062.jpg" group-title="CSI Nova York",Nova York S07 E19
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/earzuEMdI6BgFqk9VxtJQn2VqGv.jpg" group-title="CSI Nova York",Nova York S07 E20
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTKwlWgYHsze0TZXgX6rl0RM4Ux.jpg" group-title="CSI Nova York",Nova York S07 E21
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0wdsupCeTL6lZSEUgT09ta8QqX.jpg" group-title="CSI Nova York",Nova York S07 E22
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZuE2IIAdzz58pG1KBz2rozJkPS.jpg" group-title="CSI Nova York",Nova Yorkk S08 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgptxmF4AhECq6RM4aS2yQCcyat.jpg" group-title="CSI Nova York",Nova York S08 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq5xzthbwutGD6mpcFNCALicuo8.jpg" group-title="CSI Nova York",Nova York S08 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zW83m4X7at0C2abOB9WOQY3n9dP.jpg" group-title="CSI Nova York",Nova York S08 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCa9G1CJEH2cO7eM1AyZLVnW796.jpg" group-title="CSI Nova York",Nova York S08 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbb4AYdc6UtrWprHZuCBOwkUDOn.jpg" group-title="CSI Nova York",Nova York S08 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u77bfcHQ9GhbINGy5txeaIeYZMp.jpg" group-title="CSI Nova York",Nova York S08 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99LAuiTyiIrnddfvQTwWkbn6JbF.jpg" group-title="CSI Nova York",Nova York S08 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY8Wp8K9gBsAJc35SaKKC49EvyM.jpg" group-title="CSI Nova York",Nova York S08 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Xw2hnnbp5GPTpTJLb6l39JMeg.jpg" group-title="CSI Nova York",Nova York S08 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uvkrHTSnpZHoEQnZUIBNNkpXld.jpg" group-title="CSI Nova York",Nova York S08 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgnZuHcnF4P7AIiekl7W3TKUAix.jpg" group-title="CSI Nova York",Nova York S08 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXvxYfReLsJ5Ud6wywZUw1ZUCx.jpg" group-title="CSI Nova York",Nova York S08 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biC6h8aSekOZHy0QFgkVp87rBxc.jpg" group-title="CSI Nova York",Nova York S08 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXaDqSt39iBLO9GBFAJmlnsb6ul.jpg" group-title="CSI Nova York",Nova York S08 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5WVpxh7Sm4OSFB2eaTGwzzWhuT.jpg" group-title="CSI Nova York",Nova York S08 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBlHy9jnkOhdnacTfhleeMDKK1i.jpg" group-title="CSI Nova York",Nova York  S08 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tci3P0kV7RJYKBhf7qUmAjVukC5.jpg" group-title="CSI Nova York",Nova York S08 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/McwMIOVFoG6lLXkmwg4yJOgM8p.jpg" group-title="CSI Nova York",Nova York  S09 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF7i6PKPTPTuTLF4FwXlH0CnMx0.jpg" group-title="CSI Nova York",Nova York  S09 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7PRCc730CAnA05PRGI8VKtjUM9.jpg" group-title="CSI Nova York",Nova York  S09 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBbceNT4HKyJutrcbBVQhCsr5Oj.jpg" group-title="CSI Nova York",Nova York  S09 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkyXo4x5cE6l8TgK98Cp9A7Eysv.jpg" group-title="CSI Nova York",Nova York S09 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apS2ZFxz0lxi5Fv0HJK1xO42u3A.jpg" group-title="CSI Nova York",Nova York S09 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whgm4IC23vFRztn5fkP3hS1HFpZ.jpg" group-title="CSI Nova York",Nova York S09 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ucQwoFXQtAUKFS0nj6zZ49sQvI.jpg" group-title="CSI Nova York",Nova York  S09 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqWnqzeAVAb6cnKXhzFOLmMdIdO.jpg" group-title="CSI Nova York",Nova York  S09 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oncTsRVwGbILbsLYD2AkFinjdag.jpg" group-title="CSI Nova York",Nova York S09 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aS7nu8NNAcKaWUeZI1tolYuvFj.jpg" group-title="CSI Nova York",Nova York  S09 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eF7RdWvx4sMuL7fvRWe6mydXF2.jpg" group-title="CSI Nova York",Nova York  S09 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s0bPwatahlkDGy0EekVhCP5vSJ.jpg" group-title="CSI Nova York",Nova York S09 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimJjHH7fDMIS9RmhPOlCsIccji.jpg" group-title="CSI Nova York",Nova York  S09 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12nbmKh5kolAtgQ4KnR09UMXPrU.jpg" group-title="CSI Nova York",Nova York S09 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWdgN6RPTu5lAfENhhd3CCCHS6.jpg" group-title="CSI Nova York",Nova York S09 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r6awnM4qLH38sbFix4jMlSOfhC.jpg" group-title="CSI Nova York",Nova York  S09 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26339.mp4
-
-#EXTM3U url-tvg="http://grade-de-CSI Cyber.xml"
-############## CSI Cyber ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCSI Cyber" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDf8OyQZwwYBxX7NHjJAtMX2Fd1.jpg" group-title="CSI Cyber",Cyber S01 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylruQg4UVGd1UXBfCXB7KnTZ99S.jpg" group-title="CSI Cyber",Cyber S01 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyIsfHw7ppPvxKE7FLpPWq2NPPv.jpg" group-title="CSI Cyber",Cyber S01 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fon5FjLKfouSfudZ2acXqh6cvcO.jpg" group-title="CSI Cyber",Cyber S01 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CbMZ8tEiO3MMybSeSJDEEiDVr4.jpg" group-title="CSI Cyber",Cyber S01 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpf2j1KSbl3WoBQtI156QlMiZCD.jpg" group-title="CSI Cyber",Cyber S01 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg9WaHMtyDH1i5SB6ZUZqcNDqRc.jpg" group-title="CSI Cyber",Cyber S01 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIP1l1VZMxpjlkgMWByCzwoBWhX.jpg" group-title="CSI Cyber",Cyber S01 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsMHmc5qrKEk9NQ6RjRIud4Dhvu.jpg" group-title="CSI Cyber",Cyber S01 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkvxalxs2mkgT7HdCEeQNoVkhAH.jpg" group-title="CSI Cyber",Cyber S01 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6BBMWO81JZiClDwKPnfrNAWRbe.jpg" group-title="CSI Cyber",Cyber S01 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SSD98bFqgCmObve9S2DDYtlRb1.jpg" group-title="CSI Cyber",Cyber S01 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QeUNg61QBT7CTFmmmmOQMDAUTU.jpg" group-title="CSI Cyber",Cyber S01 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSHqquHAit1aMp7ez03XbjmsLse.jpg" group-title="CSI Cyber",Cyber S02 E01
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38y9NIjf3rmrXrBm9MqGzDjnVb3.jpg" group-title="CSI Cyber",Cyber S02 E02
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TQmMSRs43deTR2wlsEOaxLcSh.jpg" group-title="CSI Cyber",Cyber S02 E03
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Xupja6XppMhAHRiDKUzofZnH1t.jpg" group-title="CSI Cyber",Cyber S02 E04
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bzmTuwAeUY7TwxL9CQxulBt7My.jpg" group-title="CSI Cyber",Cyber S02 E05
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enQrs65dWEUUzdTcQTYyQR3HzwE.jpg" group-title="CSI Cyber",Cyber S02 E06
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNFAUC2DEJrAEGW3DeEKMRggoGI.jpg" group-title="CSI Cyber",Cyber S02 E07
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK62T1JyVmPfVeHdDewepT5LvrI.jpg" group-title="CSI Cyber",Cyber S02 E08
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrvGTNbJqQGlmudypgLeig1s5p5.jpg" group-title="CSI Cyber",Cyber S02 E09
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRkXfPavDlzTfzqL50tlzboPpB.jpg" group-title="CSI Cyber",Cyber S02 E10
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5g8Ftq8EGkeWzeLpbQ0vj1q8BUZ.jpg" group-title="CSI Cyber",Cyber S02 E11
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3D0gWGVTMOLPQBxyNzTTcudAAU.jpg" group-title="CSI Cyber",Cyber S02 E12
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndb9F17X1jqJ8YkwDJ9i6pOuBE3.jpg" group-title="CSI Cyber",Cyber S02 E13
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0UVZ1bmRt2JrAWe40cJhBQg47B.jpg" group-title="CSI Cyber",CyberS02 E14
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94LnvYIs8772vWCLVip2vr4hAdd.jpg" group-title="CSI Cyber",CyberS02 E15
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7jecOgvCTGnZfD8PIcMYL637mC.jpg" group-title="CSI Cyber",Cyber S02 E16
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS9JIItjIlJQz7sosHbnhxKkeWZ.jpg" group-title="CSI Cyber",Cyber S02 E17
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ2gcZ1AGykd0PoMiBB3zq1CWCg.jpg" group-title="CSI Cyber",Cyber S02 E18
-http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26370.mp4
 
 
 #EXTM3U url-tvg=" http://grade-de-STAR+ Arquivo.xml "
@@ -12115,65 +8563,6 @@ http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82760
 http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82761
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S09 e S10" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S09 e S10
 http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82769
-
-
-
-https://play.prod.gcp.vix.services/pat-coletanea-bom_pt/pat-coletanea-bom_pt_1-1/play_v1_hls_1080p.m3u8
-
-############## SÉRIES ################# 
-
-#EXTM3U url-tvg="http://grade-de-ÉRIES | Reality LARGADOS E PELADOS.xml"
-############## SÉRIES | Reality LARGADOS E PELADOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeÉRIES | Reality LARGADOS E PELADOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S01 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: França S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/edTLKYPctuHfzuecRjkZtph0jJg.jpg" group-title="SÉRIES | Reality",Largados e Pelados: França S02 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/272227.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Reality",90 Dias para Casar.xml"
 ############## SÉRIES | Reality",90 Dias para Casar ################# 
@@ -13538,496 +9927,6 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149242.mp4
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149243.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5mdvoz1lF0FWBgDykU9PpzhWaa.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149244.mp4
-
-#EXTM3U url-tvg="http://grade-de-[Reality]",Largados e Pelados.xml"
-############## [Reality]",Largados e Pelados ################# 
-#EXTINF:-1 tvg-id=" iddocanalde[Reality]",Largados e Pelados" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e87kOWVI7XvkOYHIA3HzqomOvbc.jpg" group-title="[Reality]",Largados e Pelados S01 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPMjSnuOA5z9wEgFZsujZQlr7f4.jpg" group-title="[Reality]",Largados e Pelados S01 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqa7WzThaBdKbkuGrRGmfFsFK5U.jpg" group-title="[Reality]",Largados e Pelados S01 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ymm57jOMa522An8xzN2EoIPn1Q.jpg" group-title="[Reality]",Largados e Pelados S01 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxw4ZPSWrgx7zrZtfyuDY18USFs.jpg" group-title="[Reality]",Largados e Pelados S01 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Z1hTbLWFkLIQnuJe6ZSNjl2nV1.jpg" group-title="[Reality]",Largados e Pelados S01 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E16
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E17
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E18
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E19
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E20
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E21
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E22
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E23
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E24
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E25
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S01 E26
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E16
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E17
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E18
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E19
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E20
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E21
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E22
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E23
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E24
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E25
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E26
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E27
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E28
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E29
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E30
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S02 E31
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S03 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzxxsMTpI7qfxjMNzNAzJ3FxPL.jpg" group-title="[Reality]",Largados e Pelados S04 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oQSsFqvVQwT0Cf1or8wPrNnVQg.jpg" group-title="[Reality]",Largados e Pelados S04 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DC7EQah9EGMTQp3IvGspK3wdZl.jpg" group-title="[Reality]",Largados e Pelados S04 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2ivUi3VvqlSRr4WywQpY7bsBi0.jpg" group-title="[Reality]",Largados e Pelados S04 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQtfsst4xBAtzozwrKqetSzW9w6.jpg" group-title="[Reality]",Largados e Pelados S04 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S04 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnrvHf7Ba8dgyprYcdKZsWdCcR.jpg" group-title="[Reality]",Largados e Pelados S04 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/69973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S05 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S06 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S07 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S08 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naAcXIPOYgidgoup7uKI61Sw5oB.jpg" group-title="[Reality]",Largados e Pelados S09 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VMq8pIuDeFe8mTHYwdARpHszRd.jpg" group-title="[Reality]",Largados e Pelados S09 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aOwNhYjoAOwDISNHPUQ53IQvcw.jpg" group-title="[Reality]",Largados e Pelados S09 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT95ISPAuKtRS7q68jiQ6uGGNM4.jpg" group-title="[Reality]",Largados e Pelados S09 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS2xWyc7dtGWVc3fD0cM1oHnaAH.jpg" group-title="[Reality]",Largados e Pelados S09 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WaVApbVAAXTqxz3UFp1borzuO5.jpg" group-title="[Reality]",Largados e Pelados S09 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2boSATNSuCcsrTmfofNLaidduWx.jpg" group-title="[Reality]",Largados e Pelados S09 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S09 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E16
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E17
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E18
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E19
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S10 E20
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E16
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E17
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E18
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E19
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E20
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E21
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E22
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E23
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E24
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados S11 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[Reality]",Largados e Pelados S11 E25
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/70135.mp4
-
-#EXTM3U url-tvg="http://grade-de-Reality Largados e Pelados A Tribo.xml"
-############## Reality Largados e Pelados A Tribo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeReality Largados e Pelados A Tribo" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPROVBi59tgdfpfsvzCMYj6GppO.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S01 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S02 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM1viDggOXQgL63ibdpDt7FeTN2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTAhUSrPiZJuTyNNb4gpq4SLGp.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S03 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S04 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S05 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S06 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="[Reality]",Largados e Pelados: A Tribo S07 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/78066.mp4
 
 #EXTM3U url-tvg="http://grade-de-Chiquititas.xml"
 ############## Chiquititas ################# 
