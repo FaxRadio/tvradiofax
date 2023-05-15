@@ -88,8 +88,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv cinec" tvg-logo="https://media.licdn.com/dms/image/C5603AQHrXzAGIf7laQ/profile-displayphoto-shrink_800_800/0/1517363339472?e=2147483647&v=beta&t=w5uTvLkHqL3mJssiVTogj98xpf4uyVHdGD5CJzW89Ig" group-title="CANAIS | ABERTOS",tv cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sambatech "tvg-logo="https://www.edools.com/wp-content/uploads/2015/08/sambatech-720x340.png" group-title="CANAIS | ABERTOS",sambatech
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mundial"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="CANAIS | ABERTOS",TV Mundial 
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro"tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-cachoeiro.jpeg" group-title="CANAIS | ABERTOS",TV Sim Cachoeiro 
@@ -1333,8 +1331,6 @@ http://meuplay.shop:80/828474929852/34882748924/550
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | ESPORTES",TNT Sports 5 WEW Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD¹"tvg-logo="hhttps://static.wixstatic.com/media/a0fdd5_be27bf58658c47feab11d85c957679c1~mv2.gif" group-title="CANAIS | ESPORTES",STAR+ 2 HD¹
-http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1145716.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_icsbqY9JDUiP6uSUMESL9nJutw-58_L5Rw5ASb5zriXE56zLDRooWmtlFShabHnIXo&usqp=CAU" group-title="CANAIS | ESPORTES", SPACE
 http://51.159.54.153:14408/space
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTE EXTVLCOPT"tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="CANAIS | ESPORTES",ESPORTE EXTVLCOPT
@@ -1597,7 +1593,7 @@ http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/54497
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83809.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [Alt]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 FHD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147541.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [H265]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | 4K - H265",ESPN 1 FHD [H265]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [H265]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83385.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 HD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83208.m3u8
@@ -1609,7 +1605,7 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/162796.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83807.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 FHD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147545.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | 4K - H265",ESPN 2 FHD [H265]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83383.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN/Fox Sports",ESPN 2 HD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83209.m3u8
@@ -1647,7 +1643,7 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83210.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147544.m3u8
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN/Fox Sports",ESPN Extra SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/162802.m3u8
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | 4K - H265",FOX Sports 2 4K
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/151046.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83812.m3u8
@@ -1659,7 +1655,7 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83216.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147567.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | 4K - H265",FOX Sports 2 FHD [H265]
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Canais | ESPN - H265.xml "
@@ -2292,6 +2288,1234 @@ http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
 
+#EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2023.xml"
+############## Filmes: Lancamentos 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água (2022) (HdRip)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Lançamentos 2023",Avatar: O Caminho da Água (2022) (HdRip)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="Lançamentos 2023",Magic Mike: A Última Dança (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="Lançamentos 2023",Em Uma Ilha Bem Distante (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="Lançamentos 2023",Escola de Quebrada (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Lançamentos 2023",10 Dias de um Homem Bom (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023) (Cinema)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Lançamentos 2023",65: Ameaça Pré-Histórica (2023) (Cinema)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Lançamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Lançamentos 2023",Sayen (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewS8BeUqoNmzF7JQm07CiukwONb.jpg" group-title="Lançamentos 2023",Mais Cedo Morto do que Casado (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Lançamentos 2023",Homem-Formiga e a Vespa: Quantumania (2023)  (HDCAM)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Lançamentos 2023",Amor² Outra Vez (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3HkD0GxSuOZehm370aSAdgpGet.jpg" group-title="Lançamentos 2023",Querido David (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="Lançamentos 2023",Na Sua Casa ou na Minha? (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="Lançamentos 2023",Nicarágua: Liberdade Exilada (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/898946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She Came From The Woods (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg" group-title="Lançamentos 2023",She Came From The Woods (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="Lançamentos 2023",Volte Sempre! (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Lançamentos 2023",Luther: O Cair da Noite (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="Lançamentos 2023",Legião dos Super-Heróis (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="Lançamentos 2023",Fantasma e CIA (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="Lançamentos 2023",Era Uma Vez Carnaval (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Lançamentos 2023",Esta Noite, Você Dorme Comigo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Lançamentos 2023",Alerta Máximo (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/900786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="Lançamentos 2023",Um Amor para Duas (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="Lançamentos 2023",Whindersson Nunes: Isso não é um culto (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Lançamentos 2023",Sharper: Uma Vida de Trapaças (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="Lançamentos 2023",Na Palma da Mão (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="Lançamentos 2023",Em Todas as Partes (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/899585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="Lançamentos 2023",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/901502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/273711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Filmes: Lancamentos 2023",65: Ameaça Pré-Histórica (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/282986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Filmes: Lancamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/277217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg" group-title="Filmes: Lancamentos 2023",90 Minutos (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/271367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Academia do Diabo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCd9zcdjHcidTkGNgwRx4hhXkI5.jpg" group-title="Filmes: Lancamentos 2023",A Academia do Diabo (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="Filmes: Lancamentos 2023",A Arca das Girafas (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conferência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUdfyV5vGtrJ6C8zUttdyVq5KT.jpg" group-title="Filmes: Lancamentos 2023",A Conferência (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/274933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="Filmes: Lancamentos 2023",A Elefanta do Mágico (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/280688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Filmes: Lancamentos 2023",A Farsa (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Filmes: Lancamentos 2023",A Jogada de Chang (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/277219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Prince in Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TvadZkkskuOZHHoInE9wMXheh1.jpg" group-title="Filmes: Lancamentos 2023",A Prince in Paradise (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/282988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="Filmes: Lancamentos 2023",Alerta Máximo (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="Filmes: Lancamentos 2023",Alguém Que Eu Costumava Conhecer (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/274949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Além do Tempo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb2esYfCjkz2RhXDQCPz1evsQfY.jpg" group-title="Filmes: Lancamentos 2023",Amor Além do Tempo (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/272667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Filmes: Lancamentos 2023",Amor ao Primeiro Beijo (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="Filmes: Lancamentos 2023",Amor Entre Amigos: O Casamento (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/272668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="Filmes: Lancamentos 2023",Amor² Outra Vez (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/275332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Almas Perdidas do Voo 401 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eZmNQpFNf7KSoMVLi13di00ZQv.jpg" group-title="Filmes: Lancamentos 2023",As Almas Perdidas do Voo 401 (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/276466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Almas que Dançam no Escuro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4lIqS2Nr0L47ZhvOrefy5sICZR.jpg" group-title="Filmes: Lancamentos 2023",As Almas que Dançam no Escuro (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/272450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmfGIGm5SzcBynum9roCNSAzoyD.jpg" group-title="Filmes: Lancamentos 2023",As Múmias e o Anel Perdido (2023)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284469.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA (2023).xml"
+############## FILMES | LANÇAMENTOS CINEMA (2023) ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS CINEMA (2023)" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? 4K [Hybrid] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Na Sua Casa ou na Minha? 4K [Hybrid] (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roubo pelos Ares  4K [Hybrid](2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Roubo pelos Ares  4K [Hybrid](2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Seus Sonhos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9Yel6jjlNe1O3xBnrndZDL3nC.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Em Seus Sonhos (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Encontro Mais Longo de Todos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzusJE1LqhG06S92IdPYlTu8N1p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Encontro Mais Longo de Todos (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers: Agora e Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Power Rangers: Agora e Sempre (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Ondas da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fddUEnP5pII7U1f09pQVjw9Gv4v.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Nas Ondas da Fé (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Rainhas em Fuga (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Reino: Sete Reis Devem Morrer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWOYqidDzKrObSPOarcfWHNle3G.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Último Reino: Sete Reis Devem Morrer (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assombrosas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Etd8hNlq0VhnrIxPpDmwPGGQrU.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Assombrosas (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vício Perfeito (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Vício Perfeito (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olT9HuXfnMVFqDGjLhllKe5EuQP.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",As Múmias e o Anel Perdido (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminoso ou Inocente: O Caso Big Mäck (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5qs9mKMMA0gBIdJnYOxSwgWc6u.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Criminoso ou Inocente: O Caso Big Mäck (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eRQ55y4OWXZjmdwfBmyMEPTdyy.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Kill Boksoon (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinnitus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tinnitus (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guia de Viagem para o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Guia de Viagem para o Amor (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Ghosted: Sem Resposta (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encurralados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnSqnhE3DwfvgxaGeqp3QC4VjoE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Encurralados (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Demônio: A Ascensão (2023) [CAM]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Morte do Demônio: A Ascensão (2023) [CAM]
+http://conexaoonline.top:80/movie/1938979949/7742153/315848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo de Novo, Mais Uma Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo de Novo, Mais Uma Vez (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quasimodo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Quasimodo (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm0pfF0HSLsSpFlhGCmR6Bhl8EE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Os Três Mosqueteiros: D’Artagnan (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Duas Bruxas: A Herança Diabólica (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/numZOhSuBd3qzJyjQ49wlBNOqce.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Raquel 1:1 (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo pela Noiva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo pela Noiva (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tic-Tac: A Maternidade do Mal (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin Club (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Assassin Club (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Agente Infiltrado (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/315825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Luther: O Cair da Noite (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Volte Sempre! (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Em Uma Ilha Bem Distante (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oscar 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Oscars_2023.png/200px-Oscars_2023.png" group-title="FILMES | LANÇAMENTOS CINEMA",Oscar 2023
+http://conexaoonline.top:80/movie/1938979949/7742153/309420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regra 34 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhfHqvpIzxQoXhmpUhn03g8EzFS.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Regra 34 (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Pacto de Amizade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Um Pacto de Amizade (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rye Lane: Um Amor Inesperado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Rye Lane: Um Amor Inesperado (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Meu Amigo Lutcha (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/314101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023) [WEB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Homem-Formiga e a Vespa: Quantumania (2023) [WEB]
+http://conexaoonline.top:80/movie/1938979949/7742153/313136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",65: Ameaça Pré-Histórica (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/313216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Shazam! Fúria dos Deuses (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/313217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros.: O Filme (2023) [WEB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Super Mario Bros.: O Filme (2023) [WEB]
+http://conexaoonline.top:80/movie/1938979949/7742153/313224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mistério em Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Mistério em Paris (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/313626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honra Entre Rebeldes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Dungeons & Dragons: Honra Entre Rebeldes (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/311444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Roubo pelos Ares (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/311435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tetris (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/311797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Elefanta do Mágico (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Cedo Morto do que Casado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NwGv3IvOypQt3sQGFFlffcg1zC.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Mais Cedo Morto do que Casado (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Em Todas as Partes (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Um Amor para Duas (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sharper: Uma Vida de Trapaças (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Na Palma da Mão (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasma e CIA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Fantasma e CIA (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Whindersson Nunes: Isso não é um culto (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Alerta Máximo (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Magic Mike: A Última Dança (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",10 Dias de um Homem Bom (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor ao Primeiro Beijo (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Escola de Quebrada (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Creed III (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sayen (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Esta Noite, Você Dorme Comigo (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/304638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Meu Nome é Chihiro (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/302587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjo da Guerra (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pSSCaDHJzNUoFnZ0Gk4079mOiV.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Anjo da Guerra (2003)
+http://conexaoonline.top:80/movie/1938979949/7742153/302432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yka6u5dbx1vWoMrNIHHutluaepp.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Som do Caos (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Rei das Sombras (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Estrangulador de Boston (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub: Sexo Bilionário (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Pornhub: Sexo Bilionário (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/309438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Era Uma Vez Carnaval (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/302434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Atuar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Duro de Atuar (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor Entre Amigos: O Casamento (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/292687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor Entre Amigos: O Casamento (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/292799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procura-se Gonker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziAL5224J9QHA0S0exarpkz4eUN.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Procura-se Gonker (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/292805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Novo... de Novo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ECITzA9sQVbTjbcaFcYINN9Nkr.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Feliz Ano Novo... de Novo (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/293310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Na Sua Casa ou na Minha? (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pamela Anderson - Uma História de Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyBM5BKBt8D7rdjzd65UXIMf9BO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Pamela Anderson - Uma História de Amor (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LUPIN III vs. CAT’S EYE (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b85EjAMa40gkSs9wOR9P6nuRZhi.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",LUPIN III vs. CAT’S EYE (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Independência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Detetive Knight: Independência (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: O Filme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Teen Wolf: O Filme (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Certas Pessoas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Km62y53mW1eOWSVzmPnWN01vY.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Certas Pessoas (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² Outra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor² Outra Vez (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/301699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",At Midnight (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Alguém Que Eu Costumava Conhecer (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Nicarágua: Liberdade Exilada (2023)
+http://conexaoonline.top:80/movie/1938979949/7742153/299911.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA (2022).xml"
+############## FILMES | LANÇAMENTOS CINEMA (2022) ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS CINEMA (2022)" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Bandido (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúrias Femininas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRJIqsE3JnP92HOXpmch1EJQ0xq.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Fúrias Femininas (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Misteriosa Tumba de Tutancâmon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx3UBNjbmxCrHZWve7Jz3sEnggB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Misteriosa Tumba de Tutancâmon (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente 70 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",De Repente 70 (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invisíveis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0nV5qELvg4tmwiq6DbajlBjrmP.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Invisíveis (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Arca das Girafas (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Acampamento de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MaMhd0PNKmKnwSVOyuaBMuP76e.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Acampamento de Natal (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisão de Partir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Decisão de Partir (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gemini: O Planeta Sombrio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Gemini: O Planeta Sombrio (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Ninjas da Rua de Baixo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot1VMbD7ACFh47LP8G2f67GejV5.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Os Ninjas da Rua de Baixo (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hGzrqIe24f7DyD3YD5U9qUdLHX.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Querida Alice (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin Club (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Assassin Club (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Inesperado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq3bh4aq5c3U0xAqMWXeDRnypCE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor Inesperado (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Madrasta (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Vai Lembrar Meu Nome (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjZ8fmIRR4RDHSRsvobspaY1mi9.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Você Vai Lembrar Meu Nome (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Encontro Mais Longo de Todos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzusJE1LqhG06S92IdPYlTu8N1p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Encontro Mais Longo de Todos (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oferenda ao Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Oferenda ao Demônio (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Filho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diSCVAovDgGGk5QJzmU0rPXoPRB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Um Filho (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",TÁR (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxZg6CWOmMXXGOhlkEHj10kAdPO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Minha Família Perfeita (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YLv9S84WyPZ5uxty989Duhzi5u.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Code Name Banshee (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor dá Voltas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fynvbvRZzkIWa2Q8h9Gg5w6FgzD.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Amor dá Voltas (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrosão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Corrosão (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime Imperfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdaGFN94V9VSfmP0AzFcRN1Sqly.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Crime Imperfeito (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Tempos de Polarização (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KL3ewJAgjoXrThUBJfQadGq6B.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor em Tempos de Polarização (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/314683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Duas Bruxas: A Herança Diabólica (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dias de Desejo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihkJjmIPwno6uDF6njWcCwbL8a6.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Dias de Desejo (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm0pfF0HSLsSpFlhGCmR6Bhl8EE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Os Três Mosqueteiros: D’Artagnan (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serial Kelly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHmlTaUrrMdh0m9vG5ApNwIWIPd.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Serial Kelly (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Piu-Piu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Rei Piu-Piu (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Demônio: A Ascensão (2023) [CAM]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Morte do Demônio: A Ascensão (2023) [CAM]
+http://conexaoonline.top:80/movie/5763777789/0312304566/315848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo de Novo, Mais Uma Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo de Novo, Mais Uma Vez (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quasimodo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Quasimodo (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso: Vítimas da Herança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWFcCb6UEnToFC7p2PnoNZhF7Fv.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Jogo Perigoso: Vítimas da Herança (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guia de Viagem para o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Guia de Viagem para o Amor (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Ghosted: Sem Resposta (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encurralados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnSqnhE3DwfvgxaGeqp3QC4VjoE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Encurralados (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigi & Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Gigi & Nate (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Luther: O Cair da Noite (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo pela Noiva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo pela Noiva (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drácula – Ele Ainda Está Vivo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nbw6eAYOhYEjI1wODekAG6svZF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Drácula – Ele Ainda Está Vivo (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/numZOhSuBd3qzJyjQ49wlBNOqce.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Raquel 1:1 (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Os Anos Me Deixaram (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3njsXDhwRJOjvl461mhMxQoru9j.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Como Os Anos Me Deixaram (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9thnvpkf6HCx2lJZlY5YaLQ7s.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mauricinho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Grande Mauricinho (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas Numa Fria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QDkxzuZ1klmF3OYYM10xaMFIfu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Quatro Amigas Numa Fria (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Rastro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sem Rastro (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfoBxeLIgLIGN0YFwnny34ZE1K.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sick (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/315830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maior que o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Maior que o Mundo (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Volte Sempre! (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Em Uma Ilha Bem Distante (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Tigre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Menino e o Tigre (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",80 For Brady: Quatro Amigas e Uma Paixão (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Mistério de Ozarks (2022)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
+http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | 4K.xml"
+############## FILMES | 4K ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | 4K" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Lost Girls: Os Crimes de Long Island  4K [Hybrid](2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg" group-title="FILMES | 4K",Lost Girls: Os Crimes de Long Island  4K [Hybrid](2020)
+http://conexaoonline.top:80/movie/1938979949/7742153/314709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água 4k(2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="FILMES | 4K",Avatar: O Caminho da Água 4k(2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benedetta 4K [Hybrid](2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg" group-title="FILMES | 4K",Benedetta 4K [Hybrid](2021)
+http://conexaoonline.top:80/movie/1938979949/7742153/314687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÁR  4K [HDR] (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="FILMES | 4K",TÁR  4K [HDR] (2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandido 4K(2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg" group-title="FILMES | 4K",Bandido 4K(2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval 4K (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="FILMES | 4K",Carnaval 4K (2021)
+http://conexaoonline.top:80/movie/1938979949/7742153/314707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Honra 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="FILMES | 4K",Irmãos de Honra 4K [Hybrid]
+http://conexaoonline.top:80/movie/1938979949/7742153/292780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaiola Mental 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPYts32AbIpSnjWPxrKLTSzkIM9.jpg" group-title="FILMES | 4K",Gaiola Mental 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/292802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="FILMES | 4K",O Assassino Perfeito 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/292820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozceAmPJHgK9AqTkHYyksmMofdR.jpg" group-title="FILMES | 4K",Vingança 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/299205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transfusão 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N9ErU8bpfRRuJQFzDc4FRgdOD4.jpg" group-title="FILMES | 4K",Transfusão 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/299156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: O Filme 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg" group-title="FILMES | 4K",Teen Wolf: O Filme 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/299143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Armado 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="FILMES | 4K",Casamento Armado 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/299137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interceptor 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" group-title="FILMES | 4K",Interceptor 4K [Hybrid]
+http://conexaoonline.top:80/movie/1938979949/7742153/301700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Observador 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="FILMES | 4K",Observador 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/301689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fabelmans 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BWHoAAcKnGtowRXju2c2RBrT0m.jpg" group-title="FILMES | 4K",Os Fabelmans 4K [Hybrid]
+http://conexaoonline.top:80/movie/1938979949/7742153/301678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre em Paris 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" group-title="FILMES | 4K",Notre-Dame: Desastre em Paris 4K [Hybrid]
+http://conexaoonline.top:80/movie/1938979949/7742153/301664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="FILMES | 4K",Legião dos Super-Heróis 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/301615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sistema 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="FILMES | 4K",O Sistema 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/301605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triângulo da Tristeza 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" group-title="FILMES | 4K",Triângulo da Tristeza 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/304669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="FILMES | 4K",7 Prisioneiros 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/304652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Território 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSpcwqg93u1D55P4wsQSh1hdjdh.jpg" group-title="FILMES | 4K",O Território 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/304650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="FILMES | 4K",O Pior Vizinho do Mundo 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/304648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Disse 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" group-title="FILMES | 4K",Ela Disse 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/304642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="FILMES | 4K",Terrifier 2 4K (2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/309435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente 70 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg" group-title="FILMES | 4K",De Repente 70 4K (2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcel, a Concha de Sapatos 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg" group-title="FILMES | 4K",Marcel, a Concha de Sapatos 4K (2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caixa de Pássaros 4K [Hybrid](2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" group-title="FILMES | 4K",Caixa de Pássaros 4K [Hybrid](2018)
+http://conexaoonline.top:80/movie/1938979949/7742153/314712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: O Incrível Resgate 4K [Hybrid] (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="FILMES | 4K",Bob Esponja: O Incrível Resgate 4K [Hybrid] (2020)
+http://conexaoonline.top:80/movie/1938979949/7742153/314765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conselheira do Amor 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530T0cQHqqBHL2Tp9gOrlJ8wmJo.jpg" group-title="FILMES | 4K",Conselheira do Amor 4K (2022)
+http://conexaoonline.top:80/movie/1938979949/7742153/314766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Infeliz 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg" group-title="FILMES | 4K",Noite Infeliz 4K [HDR]
+http://conexaoonline.top:80/movie/1938979949/7742153/304637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babilônia 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="FILMES | 4K",Babilônia 4K
+http://conexaoonline.top:80/movie/1938979949/7742153/304675.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Top 2022.xml"
+############## Filmes: Top 2022 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top 2022" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Sol de Amalfi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg" group-title="Filmes: Top 2022",O Sol de Amalfi (2022)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/86235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate de Ruby (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg" group-title="Filmes: Top 2022",O Resgate de Ruby (2022)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/73716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg" group-title="Filmes: Top 2022",O Projeto Adam (2022)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/72359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peso do Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KahLgGArTECtUJWN9ACGR6l1S.jpg" group-title="Filmes: Top 2022",O Peso do Talento (2022)
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/83637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Top 2022",A Lenda de Lantern’s Lane (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/260827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/241816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão - Ocupação Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="Filmes: Top 2022",A Invasão - Ocupação Alienígena (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/237616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Top 2022",A Hora do Desespero (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/240022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Top 2022",A Gestora (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/252176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Top 2022",A Garota da Foto (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/245448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Top 2022",A Fera do Mar (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/245485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Top 2022",A Fera (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/259113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Top 2022",A Família Noel 2 (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/261628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Top 2022",A Família Perfeita (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/231581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/230973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/260596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Top 2022",A Espera de Liz (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/261473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Top 2022",A Escola do Bem e do Mal (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/260105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Top 2022",A Era do Gelo: As Aventuras de Buck (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/201946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Top 2022",A Dupla Explosiva (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/251436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes: Top 2022",A Cozinheira Curiosa: Receita Assassina (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/262534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Top 2022",A Civil (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/258718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Top 2022",A Caminho do Verão (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/230568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Top 2022",A Camisa Mais Pesada do Mundo (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/262865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Top 2022",A Bravura de Molly (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/261382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Top 2022",A Bolha (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/218995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Baleia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="Filmes: Top 2022",A Baleia (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/285965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Top 2022",9 Dias Acordado (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/222039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/262450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Top 2022",365 Dias: Hoje (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/222484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Top 2022",365 Dias Finais (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/251198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/269542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Top 2022",100 Medos (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top 2022",13 Minutos de Tormenta (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top 2022",13: O Musical (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top 2022",14 Cartas de Amor (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Top 2022",365 Dias Finais (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Top 2022",365 Dias: Hoje (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Avó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg" group-title="Filmes: Top 2022",A Avó (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá: O Chamado das Sombras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg" group-title="Filmes: Top 2022",A Babá: O Chamado das Sombras (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Top 2022",A Caminho do Verão (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Top 2022",A Camisa Mais Pesada do Mundo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="Filmes: Top 2022",A Casa da Morte (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa no Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="Filmes: Top 2022",A Casa no Bayou (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/216809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Top 2022",A Civil (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conspiração Antivacina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jioI4Sybfg0mkotOrisxnjLd6HT.jpg" group-title="Filmes: Top 2022",A Conspiração Antivacina (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é do Cabral - 5 Anos de Zoeira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAO7vCKIPbnb8al23Gr1rhNaedN.jpg" group-title="Filmes: Top 2022",A Culpa é do Cabral - 5 Anos de Zoeira
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Top 2022",A Dupla Explosiva (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Top 2022",A Era do Gelo: As Aventuras de Buck (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Top 2022",A Escola do Bem e do Mal (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Top 2022",A Espera de Liz (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top 2022",A Estação da Alegria (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Top 2022",A Família Noel 2 (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Felicidade é de Matar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKNOa8a6MEbo2sQoTQFBVJYi0zd.jpg" group-title="Filmes: Top 2022",A Felicidade é de Matar (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Top 2022",A Fera (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Top 2022",A Família Perfeita (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/231581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Top 2022",A Fera do Mar (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top 2022",A Filha do Rei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top 2022",A Floresta Do Escalpe (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Top 2022",A Gestora (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/252176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Top 2022",A Hora do Desespero (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Top 2022",A Lenda de Lantern’s Lane (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Negro (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Verde (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Assassinatos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AXzOkcdlAgVqtA7wUyxm4dwxGq.jpg" group-title="Filmes: Top 2022",A Lista de Assassinatos (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga de Monstros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg" group-title="Filmes: Top 2022",A Liga de Monstros (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/203818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Loteria: O Sonho Mexicano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR45LDhpjaBdk1JgRnuRXficWnC.jpg" group-title="Filmes: Top 2022",A Loteria: O Sonho Mexicano (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/267798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes: Top 2022",A Luz do Demônio (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="Filmes: Top 2022",A Madrasta (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Filmes: Top 2022",A Maldição (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="Filmes: Top 2022",A Mulher Rei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="Filmes: Top 2022",A Máquina Infernal (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Novata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg" group-title="Filmes: Top 2022",A Novata (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/265196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Cláusula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="Filmes: Top 2022",A Oitava Cláusula (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/229533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Top 2022",A Princesa da Yakuza (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Filmes: Top 2022",A Ressurreição de Jesus (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Filmes: Top 2022",A Suspeita (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda (2022)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhjAv6Y9BKKrJyczESuQQwW7MSBJbWuWtUiN3e5MgEv5op-ZF" group-title="Filmes: Top 2022",A Queda (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Filmes: Top 2022",A Profissional (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes: Top 2022",A Princesa (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira-Dama do Estado Islâmico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg" group-title="Filmes: Top 2022",A Primeira-Dama do Estado Islâmico (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porta ao Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Afw9DcdGLNsMHal2GkvJviLjdm.jpg" group-title="Filmes: Top 2022",A Porta ao Lado (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="Filmes: Top 2022",A Matriarca (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matéria Noturna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg" group-title="Filmes: Top 2022",A Matéria Noturna (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/237617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Filmes: Top 2022",A Megera Domada (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="Filmes: Top 2022",A Maldição de Rose (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="Filmes: Top 2022",A Luta de uma Vida (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes: Top 2022",A Lei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana: O Início (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg" group-title="Filmes: Top 2022",A Lenda da Befana: O Início (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="Filmes: Top 2022",A Jaula (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Top 2022",A Garota da Foto (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top 2022",A Colmeia (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Top 2022",A Bolha (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Top 2022",A Bravura de Molly (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Top 2022",9 Dias Acordado (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262450.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Top.xml"
+############## Filmes: Top ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes: Top",A Família Buscapé - 1993
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/164775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/214692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om96D2NF9w4UyrprQ882DrTFBol.jpg" group-title="Filmes: Top",A Bela e a Fera (2014)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Filmes: Top",A Bela e a Fera (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/284496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="Filmes: Top",7 Prisioneiros (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/194690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top",13: O Musical (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/250720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="Filmes: Top",A Caminho da Fé - 2018
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/136896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/202491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/153946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top",14 Cartas de Amor (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/240301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top",A Filha do Rei (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/195630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top",A Floresta Do Escalpe (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/262535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Negro (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/246980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Verde (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/195567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História da Eternidade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcJscYse8IyzEMcmbQUWaexksWy.jpg" group-title="Filmes: Top",A História da Eternidade - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/170864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Esau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEEVoX2XekcCD4qqCPaAjo7FJ3F.jpg" group-title="Filmes: Top",A História de Esau (2019)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/166704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Ester (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="Filmes: Top",A História de Ester (2013)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/198451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lppFgN1ujhKlGgDahBhy7lOFHUs.jpg" group-title="Filmes: Top",A Família Addams (1991)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/266744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top",A Estação da Alegria (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/257935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DfdAhXIzxgGEUnGiThqhqX7yGz.jpg" group-title="Filmes: Top",A Estrada 47 - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Eterna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csag6UMfxp0vjpYj5rhkzS8O8TO.jpg" group-title="Filmes: Top",A Estrada Eterna - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Interior - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKEXg34o3WssBG5Nveaj7nspsDh.jpg" group-title="Filmes: Top",A Estrada Interior - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estranha Perfeita - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E7ArYgYzjrzbU8A39Zb8V0PAvj.jpg" group-title="Filmes: Top",A Estranha Perfeita - 2011
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/136640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Filmes: Top",A Estrela de Belém (2017)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/62661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Filmes: Top",A Escavação (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/148308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola da Vida - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifxPMxUcbPwQxyQdHGmdd5zUBdj.jpg" group-title="Filmes: Top",A Escola da Vida - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/176173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Top",A Colônia - 1997
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/1266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acc3skjs4TGxF6G7VxG3WvVvbRr.jpg" group-title="Filmes: Top",A Colônia - 2013
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top",A Colmeia (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/238189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top",13 Minutos de Tormenta (2021)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/214680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Top",2019: O Ano da Extinção - 2009
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/173486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2025: Blood, White & Blue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S9pjiZejBiSVV88qU59ifZ7q0N.jpg" group-title="Filmes: Top",2025: Blood, White & Blue (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/286457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Top",211 - O Grande Assalto - 2018
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Top",22 Balas (2010)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Filmes: Top",22 de Julho (2018)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/194937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Top",22 Milhas (2018)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Top",22 Minutos - 2014
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTko6K3GUVtYvHGjd62MJ8hNy1K.jpg" group-title="Filmes: Top",3000 Milhas Para o Inferno - 2001
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/17700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Filmes: Top",300: A Ascensão do Império (2014)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/133225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Top",6 Balas - 2012
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Top",6 Dias - 2017
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/24530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Viagem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXmlOQI92d8vfFl4ua9jTsSyOT6.jpg" group-title="Filmes: Top",A Última Viagem (2019)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/195490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Filmes: Top",A Última Vítima (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/249423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Filmes: Top",A Última Vítima (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/250383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo o Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j96pQXRWtfaP6EfGZw600f8Ofxm.jpg" group-title="Filmes: Top",Abaixo o Rei (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/265197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNZ6aNoYWJcpt5xsVzy36lFHL6.jpg" group-title="Filmes: Top",Abandonada (2022)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/269545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aguas Negras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgdmVCaMUAF97wN1oS1qgMQf8GM.jpg" group-title="Filmes: Top",Aguas Negras (2020)
+http://srv.cldplay.net:80/movie/820584rohs/67864336899/178443.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Suspense.xml"
+############## Filmes: Suspense ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Suspense" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Autópsia - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Filmes: Suspense",A Autópsia - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá Tem Que Morrer - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmDrfr7RN786XOFMP00ZDxFyUAI.jpg" group-title="Filmes: Suspense",A Babá Tem Que Morrer - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYxZL1q8lZDXfrW84KCrMlVwWTj.jpg" group-title="Filmes: Suspense",A Casa da Colina - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cisterna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLkySPFIHVIeM0PKFcIc6zBpAJH.jpg" group-title="Filmes: Suspense",A Cisterna (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criada - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB1Y9NmR9hAVRTAUqstpTrMvKuU.jpg" group-title="Filmes: Suspense",A Criada - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEuhU1Ty1glOGLxj7uUgbm2n0Ym.jpg" group-title="Filmes: Suspense",A Cura - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/64009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufIV7job8TNhl5pcX8D8wAwEXb8.jpg" group-title="Filmes: Suspense",A Espiã (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/126229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Filmes: Suspense",A Espiã Vermelha - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lySW4nkzn7durlfx47yFHxJ6921.jpg" group-title="Filmes: Suspense",A Fera (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Filmes: Suspense",A Fera (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gêmea do Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVraarjuYRDdLczaPKtIWbwpfjy.jpg" group-title="Filmes: Suspense",A Gêmea do Mal (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Suspense",A Hora do Desespero (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Inquilina - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngoNJf7cfOq4bxSlVEjaKfdfCyd.jpg" group-title="Filmes: Suspense",A Inquilina - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Intérprete (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw2F5SmPQHE6Myqc03ezlQDDnwR.jpg" group-title="Filmes: Suspense",A Intérprete (2005)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/208927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Janela Secreta - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg" group-title="Filmes: Suspense",A Janela Secreta - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ligação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg" group-title="Filmes: Suspense",A Ligação (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lição de Moremi - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ItXRjWFsx2HU1LyRu8FROCcxQS.jpg" group-title="Filmes: Suspense",A Lição de Moremi - 2021
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/157277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lua dos Amantes - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWoDwThERPEN47XXbB4zkgnjH1.jpg" group-title="Filmes: Suspense",A Lua dos Amantes - 1994
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa Winchester - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg" group-title="Filmes: Suspense",A Maldição da Casa Winchester - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Chorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYNaKWraoWvAwLWukxQksz2NlFa.jpg" group-title="Filmes: Suspense",A Maldição da Chorona (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mmd9L8hWbnYQlRbxmnmNswEVYW.jpg" group-title="Filmes: Suspense",A Marca Negra - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Mais Assassinada do Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZDuCGdw4Nq059aXHpovA6ZdjUo.jpg" group-title="Filmes: Suspense",A Mulher Mais Assassinada do Mundo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mãe Errada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp95wf7lL8j7kIrHkJW6SrtAD9p.jpg" group-title="Filmes: Suspense",A Mãe Errada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nona Vida de Louis Drax - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34UHgM8LPxdTi28RP95zELPD24z.jpg" group-title="Filmes: Suspense",A Nona Vida de Louis Drax - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Filha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/namdEEjsOYc3L3YkGpVo4UfNpIA.jpg" group-title="Filmes: Suspense",A Outra Filha - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Mãe - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euFKwcZBWOjXRfyT6cvxtBzTEpv.jpg" group-title="Filmes: Suspense",A Outra Mãe - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/6135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Professora do Jardim de Infância - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewxLFRI40ysuWxdyLlKUhgtcRqb.jpg" group-title="Filmes: Suspense",A Professora do Jardim de Infância - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rosa Venenosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="Filmes: Suspense",A Rosa Venenosa (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rota de Colisão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajmid0QIZ38ZDcsZEe2VqVUonsn.jpg" group-title="Filmes: Suspense",A Rota de Colisão - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sentinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="Filmes: Suspense",A Sentinela (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra de Stalin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzri2oD8C5h36nBvOJN9SAXqlA.jpg" group-title="Filmes: Suspense",A Sombra de Stalin (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Noite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a11TdGOWqASvbeMs7q0a1YLa5K.jpg" group-title="Filmes: Suspense",A Oitava Noite (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Página (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF4qGhBGn8ECgsrWnBKqawuLpOG.jpg" group-title="Filmes: Suspense",A Oitava Página (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão de Cristo - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg" group-title=" Filmes: Religiosos",A Paixão de Cristo - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="Filmes: Animacao / Infantil",A Pequena Sereia (1989)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="Filmes: Suspense",A Morte Salvou Minha Vida (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldWIvavK0LA15aC2vAcqj4c7FPX.jpg" group-title="Filmes: Suspense",A Hora do Lobo (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama na  Água - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAVhbyJYiJbMZe4UVuBEf93GXyi.jpg" group-title="Filmes: Suspense",A Dama na  Água - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Sonhos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu6xrFYr6hFGhbF2PMkrSmiTt5o.jpg" group-title="Filmes: Suspense",A Casa dos Sonhos - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="96 minutos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39FwN8IVp8y46KJ6VjA8oFY8e1o.jpg" group-title="Filmes: Suspense",96 minutos - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="55 Passos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmfC0cY5qHEExkFGHJCqnzppulQ.jpg" group-title="Filmes: Suspense",55 Passos (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Suspense",22 Minutos - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg" group-title="Filmes: Suspense",3 Pedidos - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Feet Deep (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg" group-title="Filmes: Suspense",12 Feet Deep (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10x10: O Cativeiro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Filmes: Suspense",10x10: O Cativeiro - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173979.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Aventura.xml"
+############## Filmes: Aventura ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Aventura" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg" group-title="Filmes: Aventura",A Bússola de Ouro (2007)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO2DM1VhAnCwkf9C7R0aBCQUXLH.jpg" group-title="Filmes: Aventura",A Caverna - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Garganta Cortada - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqKXHCPrqq1RqVtSaGnHwDYXjPd.jpg" group-title="Filmes: Aventura",A Ilha da Garganta Cortada - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha do Mal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGC0yHG8HRBeMikVA6GQBs1ry6y.jpg" group-title="Filmes: Aventura",A Ilha do Mal - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Beowulf (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg" group-title="Filmes: Aventura",A Lenda de Beowulf (2007)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Filmes: Aventura",A Lenda de Tarzan - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A lenda do diamante - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyxUcPJzV4wqiTNhKrZzs9F1C8o.jpg" group-title="Filmes: Aventura",A lenda do diamante - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edGjzfMPCD6A7PBR8PyREZSU7r0.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco 3: Reino das Mulheres - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h83KpNYgbTmRMTfUqO0LUi3n8BD.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco 3: Reino das Mulheres - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Leão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="Filmes: Aventura",A Menina e o Leão - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcL5wrC07KdaUlkLJisaRAJ4J0M.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2021
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A odisséia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzi6oNfHtkmXIsFrHFTp7zwOork.jpg" group-title="Filmes: Aventura",A odisséia (1997)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rf3Oor7P1HyHYvce2OrMi19h1s.jpg" group-title="Filmes: Aventura",A Pequena Sereia - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Praia - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U86SSZ8Txnr4NtzJSXxoVj01dR.jpg" group-title="Filmes: Aventura",A Praia - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra e a Escuridão - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg" group-title="Filmes: Aventura",A Sombra e a Escuridão - 1996
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sociedade Secreta de Souptown - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvdgCz74A8rqOYk6TU6JrXR38RO.jpg" group-title="Filmes: Aventura",A Sociedade Secreta de Souptown - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda dos Sonhos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaYfzQWvrJ89ji1j47p2WlvxhxX.jpg" group-title="Filmes: Aventura",A Onda dos Sonhos (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia (1999)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Aventura",A Múmia - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Incrível Hulk - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ1OQMuVbmpqqFHTRbFENdkbj1n.jpg" group-title="Filmes: Aventura",A Morte do Incrível Hulk - 1991
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TAQBqvokRt2qHEgi7ipeX1Bif9.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido (2004)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido: Livro dos Segredos - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido: Livro dos Segredos - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Zorro - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg" group-title="Filmes: Aventura",A Lenda do Zorro - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJaIMHO88X5BWWnnirejsHtgQvF.jpg" group-title="Filmes: Aventura",A Invenção de Hugo Cabret - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="Filmes: Aventura",A Família Noel (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna: Perigo Subterrâneo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg" group-title="Filmes: Aventura",A Caverna: Perigo Subterrâneo - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg" group-title="Filmes: Aventura",127 Horas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Filmes: Aventura",10.000 A.C. - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162914.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Terror.xml"
+############## Filmes: Terror ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Terror" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sereia - Lago Dos Mortos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes: Terror",A Sereia - Lago Dos Mortos - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição do Anticristo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" group-title="Filmes: Terror",A Ressurreição do Anticristo - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Deborah Logan (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg" group-title="Filmes: Terror",A Possessão de Deborah Logan (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Mary - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg" group-title="Filmes: Terror",A Possessão de Mary - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/54068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g167H1JgOLAVx7YgHctBIq5kHeI.jpg" group-title="Filmes: Terror",A Mulher de Preto - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto 2: Anjo da Morte - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGIZGAwgpMcYXrAZfX8QCfcFMiv.jpg" group-title="Filmes: Terror",A Mulher de Preto 2: Anjo da Morte - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Chucky - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLHcsBemdliseJUteA6IuX24op0.jpg" group-title="Filmes: Terror",A Maldição de Chucky - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Isabelle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j45giQ0qy2rnzPuVDfP13QYIydg.jpg" group-title="Filmes: Terror",A Maldição de Isabelle (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZprxLjhvt58FcEPNMA3Ef0XuG2.jpg" group-title="Filmes: Terror",A Maldição da Freira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Sereia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg" group-title="Filmes: Terror",A Maldição da Sereia - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Bela Adormecida - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="Filmes: Terror",A Maldição da Bela Adormecida - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa do Lago - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paYn2J2lcrMwkYK6Uqq7KHTUxc2.jpg" group-title="Filmes: Terror",A Maldição da Casa do Lago - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Morte - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzCSLlvbvVXG1HzQEPYitHHNmnw.jpg" group-title="Filmes: Terror",A Ilha da Morte - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora Da Sua Morte - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qukqQBC1N2KTakalFPxoKf2SycP.jpg" group-title="Filmes: Terror",A Hora Da Sua Morte - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg" group-title="Filmes: Terror",A Ilha da Fantasia (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força Sinistra (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlqgqF7ftahZV1XZXAipXrAnjbt.jpg" group-title="Filmes: Terror",A Força Sinistra (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="Filmes: Terror",A Freira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forca 2 - Segundo Ato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Se1buPgxxMF5iZ4tIK8AzT5td.jpg" group-title="Filmes: Terror",A Forca 2 - Segundo Ato - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera Assassina (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5avBNbdYltaspuTXR5DRlg5gib.jpg" group-title="Filmes: Terror",A Fera Assassina (2006)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espinha do Diabo - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKHHsu1awdIUHq6OlkMoxEPNylB.jpg" group-title="Filmes: Terror",A Espinha do Diabo - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Entidade - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTaCFSTQ29LKqLXJU75owdir04h.jpg" group-title="Filmes: Terror",A Entidade - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Entidade 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="Filmes: Terror",A Entidade 2 - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Epidemia Zumbi - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dW0V1HIqruwJGo91dRqqAODZK1.jpg" group-title="Filmes: Terror",A Epidemia Zumbi - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cela (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVBaXlJRv41Hkpsn3kAUXuT2aFK.jpg" group-title="Filmes: Terror",A Cela (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chave Mestra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ6mSV8onpQqYhP77Mszk2UIKhZ.jpg" group-title="Filmes: Terror",A Chave Mestra - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Maligna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLt3TCcobHAcbdQ75hUm14W1HFb.jpg" group-title="Filmes: Terror",A Casa Maligna - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Amaldiçoada - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8EHNzMUO2mqNTM0h95YfTzGhDW.jpg" group-title="Filmes: Terror",A Casa Amaldiçoada - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Assombrada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l44fEd2NBJGhTTxZXv6ssVtQHqz.jpg" group-title="Filmes: Terror",A Casa Assombrada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CQ4OToNez8rhbyccpKNcaehEnk.jpg" group-title="Filmes: Terror",A Casa da Colina (1960)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana da Morte - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piSpzW9vjUejGDnLDkuhu8F0ate.jpg" group-title="Filmes: Terror",A Cabana da Morte - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KBX0IW5l3TJqPm63xL9EtnR8m.jpg" group-title="Filmes: Terror",A Bruxa - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg" group-title="Filmes: Terror",A Bruxa da Casa ao Lado (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg" group-title="Filmes: Terror",A Bruxa de Blair - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair 2: O Livro das Sombras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg" group-title="Filmes: Terror",A Bruxa de Blair 2: O Livro das Sombras (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5pJ8IoOanVAPBzKi3GiVnGlOld.jpg" group-title="Filmes: Terror",60 Minutos para Morrer - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4/20 Massacre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oxNw7rDbvQOdhT17dCWWsgLtOu.jpg" group-title="Filmes: Terror",4/20 Massacre - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbG7VEn5dZZQAjSNCPMAHzpf4GQ.jpg" group-title="Filmes: Terror",30 Dias de Noite - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2035: Dimensão Proibida - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azN9cVZVAxDpNQFExcP7imLdXdr.jpg" group-title="Filmes: Terror",2035: Dimensão Proibida - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1303 - Apartamento do Mal - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTANZaCUwG6prdRygximOdWKV6U.jpg" group-title="Filmes: Terror",1303 - Apartamento do Mal - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Câmeras - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm3VUPEducGgHg18wxYgj4R7OOh.jpg" group-title="Filmes: Terror",13 Câmeras - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVcigGnXNtYQoBAhTWGAS9o03jc.jpg" group-title="Filmes: Terror",13 Fantasmas (2001)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Desejos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg" group-title="Filmes: Terror",7 Desejos - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Minutos na Escuridão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKky6k7xs1JZfeS2AtbBUhHkRze.jpg" group-title="Filmes: Terror",7 Minutos na Escuridão - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Cera - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrqBT8jsr7TiePFLRU0F8e9fcrC.jpg" group-title="Filmes: Terror",A Casa de Cera - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Filmes: Terror",A Casa do Medo: Incidente em Ghostland - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Filmes: Terror",A Casa do Terror - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/109681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa dos 1000 Corpos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg" group-title="Filmes: Terror",A Casa dos 1000 Corpos - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa que Jack Construiu - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKG4YJJCoXJSZ89J52CNJwmVKS0.jpg" group-title="Filmes: Terror",A Casa que Jack Construiu - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Silenciosa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrjjNKUQikiPoS8tK0vSTtruig.jpg" group-title="Filmes: Terror",A Casa Silenciosa (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Sombria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg" group-title="Filmes: Terror",A Casa Sombria (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwQ9XAjHzRqjVtFI98XAsHwBNx3.jpg" group-title="Filmes: Terror",A Caverna - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade dos Amaldiçoados - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8lcLtm2kws6wfCI72FP4n3K3bz.jpg" group-title="Filmes: Terror",A Cidade dos Amaldiçoados - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colheita do Mal - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7QvpkDYGnHyiWrJjGIxfYoa5FV.jpg" group-title="Filmes: Terror",A Colheita do Mal - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Filmes: Terror",A Colina Escarlate - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coisa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg" group-title="Filmes: Terror",A Coisa (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="Filmes: Terror",A Cor Que Caiu do Espaço - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/142367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Espelho: O Ritual das Trevas - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9kTsSbkBBFYMFuqZZux70fyzne.jpg" group-title="Filmes: Terror",A Dama do Espelho: O Ritual das Trevas - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Praga - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNCuIN7hF5LCNUcf30ZRyBe8cZ.jpg" group-title="Filmes: Terror",A Grande Praga - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gruta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" group-title="Filmes: Terror",A Gruta (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/133445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria de Simuroc - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHzPPG1GGpl1HVXoNnZO2L9u6tl.jpg" group-title="Filmes: Terror",A Fúria de Simuroc - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Descarrego (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg" group-title="Filmes: Terror",A Hora do Descarrego (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNYnZDZoqsJCUvxpd0H9fx5RESt.jpg" group-title="Filmes: Terror",A Hora do Espanto 2 (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobisomem / Bala de Prata - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWF1TvbVzvKDSWee3AvYmXFWmu8.jpg" group-title="Filmes: Terror",A Hora do Lobisomem / Bala de Prata - 1985
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGtWD2V7xqRtrA2ImKmcHXJvq56.jpg" group-title="Filmes: Terror",A Hora do Pesadelo (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg" group-title="Filmes: Terror",A Hora do Pesadelo - 1984
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn0vsuhElx5Q3QZ8qlGkJ0aqKlJ.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4luZCBZ5qOWiwSPGkEdXCDoVvI.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anDq8ufiodjnNEZ0q5X3XCuCD1N.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfRrbvlfMyDANSWaSG7KGiM9zr.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwpg0lkkzGKGxD1EqSCGUOpJVQh.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmã Perturbada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnz42GhrSfXRl8SpyS5Vrnii4SV.jpg" group-title="Filmes: Terror",A Irmã Perturbada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/13767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg" group-title="Filmes: Terror",A Lenda de Candyman (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Golem - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiclBTEH86P3IoURr9En7vdv2M.jpg" group-title="Filmes: Terror",A Lenda de Golem - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Sharon Tate - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6HBnMsznUcAZuGIdAAwlGxfdZF.jpg" group-title="Filmes: Terror",A Maldição de Sharon Tate - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Valburga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBPCankcTQci3ZYxnuzkfPtZ2Qr.jpg" group-title="Filmes: Terror",A Maldição de Valburga (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Boneco Robert - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA435Cf8C3Mu9Gjqfs4IZPnSNQ.jpg" group-title="Filmes: Terror",A Maldição do Boneco Robert - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Espelho - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ws3ZQ8hCTUwFf6FtSUcksIoo69.jpg" group-title="Filmes: Terror",A Maldição do Espelho - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Poço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOBYC7p4SDGpoF8ENsM8VYX2NOu.jpg" group-title="Filmes: Terror",A Maldição do Poço (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte te dá Parabéns - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="Filmes: Terror",A Morte te dá Parabéns - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Moça da Limpeza - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44afwxQiJb2qwy0EHE8dVyif3dL.jpg" group-title="Filmes: Terror",A Moça da Limpeza - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição dos Esquecidos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LSwj9bxaNCPVIBShpgwzTZNalt.jpg" group-title="Filmes: Terror",A Maldição dos Esquecidos - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca do Demônio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysxJaqSEdWXNBYYvIcE5uLFGkDI.jpg" group-title="Filmes: Terror",A Marca do Demônio (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mata Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26JmomubdEYyNMqtZ5jz67lcPyW.jpg" group-title="Filmes: Terror",A Mata Negra - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mansão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Nva627Xd5KDwUbeX4ilfzFWit.jpg" group-title="Filmes: Terror",A Mansão (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/247192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sedução do Mal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xquTtgZo5SkF63GI2XWuHuK6u78.jpg" group-title="Filmes: Terror",A Sedução do Mal - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176131.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Acao.xml"
+############## Filmes: Acao ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Acao" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NpTxlHcMz5dV9LEBrCcDTegruq.jpg" group-title="Filmes: Acao",15 Minutos - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="16 Quadras - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbWd6N4ORhDJxlMVO4vxRNEZtib.jpg" group-title="Filmes: Acao",16 Quadras - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Acao",2019: O Ano da Extinção - 2009
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Acao",211 - O Grande Assalto - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Acao",22 Balas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Acao",22 Milhas (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="Filmes: Acao",47 Ronins (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="48 Horas - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgW4inpyJKv9KkUYEaaA6MFk0eY.jpg" group-title="Filmes: Acao",48 Horas - 1982
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="48 Horas, Parte 2 - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO4DyHX0vYkeUTuZpFStMTFbaI4.jpg" group-title="Filmes: Acao",48 Horas, Parte 2 - 1990
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Acao",6 Balas - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Acao",6 Dias - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYT218ykdkD1XHtcbMNBnOnTb1X.jpg" group-title="Filmes: Acao",72 Horas Depois (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HvX8tXLu58y0qrfzVdFI3lryTe.jpg" group-title="Filmes: Acao",A Arma Perfeita - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arqueira - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="Filmes: Acao",A Arqueira - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Filmes: Acao",A Batalha de Riddick - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="Filmes: Acao",A Cartada Final - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Filmes: Acao",A Caçada (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caçada - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlAWHVFbb0cxOxG4LsNWWa6tLR2.jpg" group-title="Filmes: Acao",A Caçada - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cilada - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4UenMPPa05COVGaOW5J7wfUUfS.jpg" group-title="Filmes: Acao",A Cilada - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Acao",A Colônia - 1997
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/1266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Filmes: Acao",A Divisão (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espada do Imortal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjFObrOXLc4kOMktboywpsJZFTp.jpg" group-title="Filmes: Acao",A Espada do Imortal - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDUXu0cO2u4ZhNvk6MZtbK5lkTx.jpg" group-title="Filmes: Acao",A Fortaleza (1992)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eByIA9G8dinaMJRexKbjmqJF8nF.jpg" group-title="Filmes: Acao",A Fuga (1994)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gripe - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5RJvivnXItnJOFP3fJfuu8wt8M.jpg" group-title="Filmes: Acao",A Gripe - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha" tvg-logo="https://www.californiafilmes.com.br/wp-content/uploads/2020/08/poster-vertical_a-ilha.jpg" group-title="Filmes: Acao",A Ilha
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Justiceira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg" group-title="Filmes: Acao",A Justiceira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/177379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7taNfesbTgQ7lQmz1MVJ096dTWb.jpg" group-title="Filmes: Acao",A Lenda do Mestre Chinês (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda dos 108 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swhS5FSx24h8YWYH4hoOUlj70Dk.jpg" group-title="Filmes: Acao",A Lenda dos 108 - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Superman - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes: Acao",A Morte do Superman - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Acao",A Múmia - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg" group-title="Filmes: Acao",A Outra Face - 1997
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porteira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg" group-title="Filmes: Acao",A Porteira (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A queda da Terra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg" group-title="Filmes: Acao",A queda da Terra - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rocha - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFPh6GQMQROAe6y1KQuL9f0TFRX.jpg" group-title="Filmes: Acao",A Rocha - 1996
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="Filmes: Acao",A Saga de um Herói (1993)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senha: Swordfish (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFgB7Zi6la12z8bjgdlqOe6kdAC.jpg" group-title="Filmes: Acao",A Senha: Swordfish (2001)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Soma de Todos os Medos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34u0sGVtrhxmAGR8j32xFrxwlNX.jpg" group-title="Filmes: Acao",A Soma de Todos os Medos (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/53515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4IeczvPNloj3IrDm2NjALKMV01.jpg" group-title="Filmes: Acao",A Torre Negra (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="Filmes: Acao",A Terra e o Sangue - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3AKdgueYypcflGdFvo0XyoZvIK.jpg" group-title="Filmes: Acao",A Proposta - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Acao",A Princesa da Yakuza (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Filmes: Acao",A Noite nos Persegue - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga Extraordinária - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="Filmes: Acao",A Liga Extraordinária - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Filmes: Acao",A Hora do Rush - 1998
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="Filmes: Acao",A Hora do Rush 2 - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="Filmes: Acao",A Hora do Rush 3 - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Balada do Pistoleiro - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnnbMcHuytlxlof4nIjcCQ9UuUX.jpg" group-title="Filmes: Acao",A Balada do Pistoleiro - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Super Máquina 2000 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fneLowMD1mTRT6JhIPPJbxSlSW.jpg" group-title="Filmes: Acao",A Super Máquina 2000 (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Filmes: Acao",A Supremacia Bourne - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25165.mp4
+
 #EXTM3U url-tvg="http://grade-de-Ação Crime.xml"
 ############## Ação Crime ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeAção Crime" group-title="
@@ -2310,12 +3534,8 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/8929.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/8930.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Cor de um Crime (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKZRDO5rhE5EQNw2JopZtsiEtAh.jpg" group-title="Ação/ Crime",A Cor de um Crime (2006)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/65828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Ação/ Crime",A Divisão (2020)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/34314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg" group-title="Ação/ Crime",A Fortaleza (2021)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/68426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" group-title="Ação/ Crime",A Gangue (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/65134.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Ilha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJAQdWFNs59q5aikAaVJyKsoKw.jpg" group-title="Ação/ Crime",A Ilha (2019)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/34315.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Ação/ Crime",A Hora do Rush (1998)
@@ -2518,962 +3738,10 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89020.mp4
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/894199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como Virei Gângster (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soBP2LIL5JPL2tIAFYrhQAau23Q.jpg" group-title="Ação/ Crime",Como Virei Gângster (2019)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/896830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Face (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loR8prjWhkOdufD1rfREpXQsrNJ.jpg" group-title="Ação/ Crime",A Outra Face (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg" group-title="Ação/ Crime",Chamas da Vingança (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dia de Treinamento (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUB6z0Wbvbvd9wwoG54qcGNCrzl.jpg" group-title="Ação/ Crime",Dia de Treinamento (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cena do Crime (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDj3CQnDCxNOSVFgbMgydz1AtRw.jpg" group-title="Ação/ Crime",Cena do Crime (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="V de Vingança (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg" group-title="Ação/ Crime",V de Vingança (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="REV: Adrenalina Total (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biZyn1Hwg8O6dSrukPhxNi6EFJG.jpg" group-title="Ação/ Crime",REV: Adrenalina Total (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Calibre 9 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUaoRndWmWuaV900ec4MK8I0Mms.jpg" group-title="Ação/ Crime",Calibre 9 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Águas Agitadas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PpCag294nEPeX9JQSiJCQO4kV5.jpg" group-title="Ação/ Crime",Em Águas Agitadas (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Herói (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/942A3wIwBXuegIaVUnclyhLqSaC.jpg" group-title="Ação/ Crime",O Último Herói (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abismos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjsvStrb4nN0e1pQHXIl8qm3aar.jpg" group-title="Ação/ Crime",Abismos (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/899580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assalto Aéreo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRvWo6hPCElFBkZwhHPrHLzFTgH.jpg" group-title="Ação/ Crime",Assalto Aéreo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fim da Linha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8KyDJrt1XSjAz4rWSNyZLSGuyL.jpg" group-title="Ação/ Crime",Fim da Linha (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/898252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg" group-title="Ação/ Crime",Meu Nome é Vingança (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confesse, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbi7lQ7tABBZb1z0TzpBEdEjUmn.jpg" group-title="Ação/ Crime",Confesse, Fletch (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="Ação/ Crime",Amsterdam (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" group-title="Ação/ Crime",Emily the Criminal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/890022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ligação Explosiva (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tvZdU8QleViosTImC9cdODuBPU.jpg" group-title="Ação/ Crime",Ligação Explosiva (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/890025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Voto de Coragem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1WvNhoackad1QiAGRgjJCQ1Trj.jpg" group-title="Ação/ Crime",Voto de Coragem (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xtremo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="Ação/ Crime",Xtremo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="xXx: Reativado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OVKCxeBt3B84yMjvZ4iQ1tB2BP.jpg" group-title="Ação/ Crime",xXx: Reativado (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yara (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRllCnVXSfOH665gWxOL4V6cj8b.jpg" group-title="Ação/ Crime",Yara (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Prova de Balas 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXCOELIgsRrHa3nMY69tN6XrEv6.jpg" group-title="Ação/ Crime",À Prova de Balas 2 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Ação/ Crime",A Última Vítima (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acima da Lei (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d1pvFqLEBpqz83eyzBeDno6YZc.jpg" group-title="Ação/ Crime",Acima da Lei (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Vigilantes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3SwOruZGIr3AhTzbHPf6sBdo4Y.jpg" group-title="Ação/ Crime",As Vigilantes (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dupla Jornada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg" group-title="Ação/ Crime",Dupla Jornada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Voo do Falcão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rewaDG5F3oGdAY2AEV6IgXKWfL6.jpg" group-title="Ação/ Crime",O Voo do Falcão (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sequestro: Inocência Roubada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" group-title="Ação/ Crime",Sequestro: Inocência Roubada (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçando Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg" group-title="Ação/ Crime",Caçando Ava Bravo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Atirador: Missão Secreta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMAiOH7akPTEqa8X5cqXzIGIHpc.jpg" group-title="Ação/ Crime",O Atirador: Missão Secreta (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fim da Estrada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="Ação/ Crime",Fim da Estrada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Ação/ Crime",A Dupla Explosiva (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/88154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIegCsrsGmxOV7tSFAQOdru9EuD.jpg" group-title="Ação/ Crime",Carter (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Queima-Roupa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFN9c739JHBoLXr3MBjGwrsR7ys.jpg" group-title="Ação/ Crime",À Queima-Roupa (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zona de Combate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" group-title="Ação/ Crime",Zona de Combate (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zona de Perigo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfK8v9R0EuyqNUWsH6WZCmElStK.jpg" group-title="Ação/ Crime",Zona de Perigo (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zona Fria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg" group-title="Ação/ Crime",Zona Fria (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Z: A Cidade Perdida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms4UmEmc0cyK5AN2EGPfadkbXae.jpg" group-title="Ação/ Crime",Z: A Cidade Perdida (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun - Ases Indomáveis (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg" group-title="Ação/ Crime",Top Gun - Ases Indomáveis (1986)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Triplo X (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pidUN1PgLjSld1OX22j6RycK7qd.jpg" group-title="Ação/ Crime",Triplo X (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tubarão Assassino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHAY4kvhzsU3Cn85uaIgpe7ch5M.jpg" group-title="Ação/ Crime",Tubarão Assassino (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Caso de Detetive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7I9AKqdnW0nVxUNisL3s7jSiet.jpg" group-title="Ação/ Crime",Um Caso de Detetive (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/43954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Crime para Dois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywTSQfjmRe9DXLAgxXbFpjZJ2Yo.jpg" group-title="Ação/ Crime",Um Crime para Dois (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Criminoso em Fuga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSeL2lJTuVoqy7fJNNwkJhRV1h0.jpg" group-title="Ação/ Crime",Um Criminoso em Fuga (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Caos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg" group-title="Ação/ Crime",Um Dia de Caos (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Dia Difícil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bktIW44oeurTptHLdkj7ayc4zbH.jpg" group-title="Ação/ Crime",Um Dia Difícil (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Dia para Morrer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzDEob3PyiGY25TxmeDx1yfifEP.jpg" group-title="Ação/ Crime",Um Dia para Morrer (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Dia para Viver (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyr8u7wQU2k7HpJvBeGmZsJkZTR.jpg" group-title="Ação/ Crime",Um Dia para Viver (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Prece Antes do Amanhecer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS7MWnE9jzKytQ101KbddnahRRZ.jpg" group-title="Ação/ Crime",Uma Prece Antes do Amanhecer (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Noite em Bangkok (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQSI9tjOYr272EcjRjFjCMDcGyJ.jpg" group-title="Ação/ Crime",Uma Noite em Bangkok (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Sombra na Nuvem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq4EJDVqAQzyQcugSDDy34iKrw6.jpg" group-title="Ação/ Crime",Uma Sombra na Nuvem (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Unabomber: Terrorista (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg" group-title="Ação/ Crime",Unabomber: Terrorista (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vai Dar Nada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg" group-title="Ação/ Crime",Vai Dar Nada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vanquish (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoWY1gkcNzabh229Icboa1Ff0BM.jpg" group-title="Ação/ Crime",Vanquish (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velocidade Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yVfmdpHElEePos52Z25ePHGsmw.jpg" group-title="Ação/ Crime",Velocidade Mortal (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title="Ação/ Crime",Vencer ou Morrer (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Veículo 19 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRZobS1s3ojOpLFUbFVb2k1qDQI.jpg" group-title="Ação/ Crime",Veículo 19 (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança a Sangue Frio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3dO43VmKK2k3UTJeKOnHrmT4fq.jpg" group-title="Ação/ Crime",Vingança a Sangue Frio (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança Solitária (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg" group-title="Ação/ Crime",Vingança Solitária (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança à Sangue Frio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOCg1AURsjnZWlUBm282y3zvjzn.jpg" group-title="Ação/ Crime",Vingança à Sangue Frio (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/18631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troco em Dobro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg" group-title="Ação/ Crime",Troco em Dobro (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/21397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Silverton: Cerco Fechado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp2GAIoW9czkSlyZHlqii9Bc6i6.jpg" group-title="Ação/ Crime",Silverton: Cerco Fechado (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sobreviva ou Morra Tentando (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raSRcE1lVtwQValPmAmNv46PPei.jpg" group-title="Ação/ Crime",Sobreviva ou Morra Tentando (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sooryavanshi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vuix8r1CJ2M6IldR27Z95hWm7e.jpg" group-title="Ação/ Crime",Sooryavanshi (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sorte de Quem? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg" group-title="Ação/ Crime",Sorte de Quem? (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spree (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m59Getcl7B2N9Na0XHHxpRza1go.jpg" group-title="Ação/ Crime",Spree (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sr. & Sra. Smith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zRxBuJ8SjqgMeQdmfXIQPDdz6b.jpg" group-title="Ação/ Crime",Sr. & Sra. Smith (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Steel Rain (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xyBc50Fuys6NaqGlEzyKrtr4D7.jpg" group-title="Ação/ Crime",Steel Rain (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Submundo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpPFbfBaiFTqNh0jTJkIcAaWyE9.jpg" group-title="Ação/ Crime",Submundo (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superfly: Crime e Poder (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gooCZPkWvosSIlLJSSiJSzS5jL.jpg" group-title="Ação/ Crime",Superfly: Crime e Poder (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman: Entre a Foice e o Martelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/attHlVU6J8vO5QqSAqDmmF6Kt2A.jpg" group-title="Ação/ Crime",Superman: Entre a Foice e o Martelo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Só Deus Perdoa (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZbXB8yl4kz54dbeQsEhHdyZGuK.jpg" group-title="Ação/ Crime",Só Deus Perdoa (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Teia de Corrupção (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jg1w7AVT0RtsGWn9uvETVefy50H.jpg" group-title="Ação/ Crime",Teia de Corrupção (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tempo de Matar (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhHAoH0QakR5aZK7L8h7TTKQsgu.jpg" group-title="Ação/ Crime",Tempo de Matar (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/54056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Território Restrito (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvfhfNq21WSqdwVQwSxWdxEJ9k6.jpg" group-title="Ação/ Crime",Território Restrito (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knfExByNW2jCwtmIuwYYxzPKpkm.jpg" group-title="Ação/ Crime",The Old Guard (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/27757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiro Certo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LSwzrdj7ljnFhiqIgfp9rd46fU.jpg" group-title="Ação/ Crime",Tiro Certo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiro às Cegas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7DubA0XNioTnfw3AedrCTxDMPN.jpg" group-title="Ação/ Crime",Tiro às Cegas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider: A Origem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JTe4APybNY7mwgylREe1KjIbB6.jpg" group-title="Ação/ Crime",Tomb Raider: A Origem (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Testemunhas Silenciosas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o31Mwup2EQAygdjCez21hOXN0ZG.jpg" group-title="Ação/ Crime",Testemunhas Silenciosas (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sobreviva a Noite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gm5L27IrhUNcObLMnnVZHlHmqX.jpg" group-title="Ação/ Crime",Sobreviva a Noite (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/17786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg" group-title="Ação/ Crime",Os Mercenários (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="Ação/ Crime",Os Mercenários 2 (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="Ação/ Crime",Os Mercenários 3 (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Muitos Santos de Newark (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEoIg56PIePxwEoxYHppEquTqHv.jpg" group-title="Ação/ Crime",Os Muitos Santos de Newark (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Vestígios (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98UFAKFPUOIzF91Q0j0W7vR4ikV.jpg" group-title="Ação/ Crime",Os Pequenos Vestígios (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Renegados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg" group-title="Ação/ Crime",Os Renegados (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pandemia: A Guerra Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg" group-title="Ação/ Crime",Pandemia: A Guerra Final (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paradise Beach (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFidx1CYA0mHERbnY26B8l42aBa.jpg" group-title="Ação/ Crime",Paradise Beach (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Passado Violento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cxFO7AlQOotgA45nuuej2DMyiw.jpg" group-title="Ação/ Crime",Passado Violento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perigo na Montanha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8CJj6zMwi53yxojscnVmhMKYKb.jpg" group-title="Ação/ Crime",Perigo na Montanha (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perseguição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEmwNY1s9BUJ2KguAkMuAhlq3cE.jpg" group-title="Ação/ Crime",Perseguição (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perseguição Explosiva (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxo1Jc4iBQAsWmOI8K01YCdR2XN.jpg" group-title="Ação/ Crime",Perseguição Explosiva (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Polar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2btxGF270fxOeNJInRNnFtZGkAA.jpg" group-title="Ação/ Crime",Polar (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Preso no Tempo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3gtmladqzynRyyDIHtEaSNPoz4.jpg" group-title="Ação/ Crime",Preso no Tempo (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="Ação/ Crime",Projeto Gemini (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/18580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Punhos da Vingança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vRdCB9nzZaYqh6nZ9HUFFSxKIW.jpg" group-title="Ação/ Crime",Punhos da Vingança (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando as Regras 4 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg" group-title="Ação/ Crime",Quebrando as Regras 4 (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xKCipkzg3xnGbkOUxU3xByRZAv.jpg" group-title="Ação/ Crime",Quebrando Regras (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCTsgWyQKmrMopvtMHtnGA2tghW.jpg" group-title="Ação/ Crime",Quebrando Regras 2 (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Queremos Matar Gunther (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XDIAYXiN5WDIM5TElF6a5ejU93.jpg" group-title="Ação/ Crime",Queremos Matar Gunther (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeRW8JhHqQznEdOUe97dLWnyeEq.jpg" group-title="Ação/ Crime",Rampage: Destruição Total (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rastros de um Crime (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT90ikAfeBHDkijtNbtLA7vq6st.jpg" group-title="Ação/ Crime",Rastros de um Crime (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RED - Aposentados e Perigosos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h7plY619HEiGCdufCCZIIb9tUe.jpg" group-title="Ação/ Crime",RED - Aposentados e Perigosos (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reação em Cadeia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWIaFxHV8Y6xtLYCcMotDKYnE0B.jpg" group-title="Ação/ Crime",Reação em Cadeia (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Psych 2: Lassie está de Volta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0wb4v02VrqWICwmHhk7yrn7T4B.jpg" group-title="Ação/ Crime",Psych 2: Lassie está de Volta (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Psych 3: Este é o Gus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWhKl8QmctB86pKwDUvhsySITBg.jpg" group-title="Ação/ Crime",Psych 3: Este é o Gus (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" group-title="Ação/ Crime",Planeta dos Macacos: A Guerra (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Origem (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg" group-title="Ação/ Crime",Planeta dos Macacos: A Origem (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="Ação/ Crime",Planeta dos Macacos: O Confronto (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Redenção (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aadbHbqLnPtYNbjoenbk6Oq9jK.jpg" group-title="Ação/ Crime",Redenção (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Refém do Jogo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32hjhlZf8rR9ahxOS26xeIGf95m.jpg" group-title="Ação/ Crime",Refém do Jogo (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Refém Rebelde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61hoGhY0khqOolZyfxqv4zrde8M.jpg" group-title="Ação/ Crime",Refém Rebelde (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rei Arthur: A Lenda da Espada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI8OOeEIN8k9HD2HaBM8jOHm2LF.jpg" group-title="Ação/ Crime",Rei Arthur: A Lenda da Espada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rei dos Ladrões (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg" group-title="Ação/ Crime",Rei dos Ladrões (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="Ação/ Crime",Robin Hood: A Origem (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resposta Armada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GNP6bduEXgh5bcHhon6Xp3X5O2.jpg" group-title="Ação/ Crime",Resposta Armada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Riddick 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnHiwSracywrCVrUZmr1wArGUiV.jpg" group-title="Ação/ Crime",Riddick 3 (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robin Hood (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg" group-title="Ação/ Crime",Robin Hood (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vFsWZGc2ciJVt888FbeKBKWv16.jpg" group-title="Ação/ Crime",RoboCop (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjjnSLigATq9NOEcMybQHnQhZ9p.jpg" group-title="Ação/ Crime",Rota de Fuga (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2: Hades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg" group-title="Ação/ Crime",Rota de Fuga 2: Hades (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 3: O Resgate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTqlEF01SGo4QONor55zUPxHZGP.jpg" group-title="Ação/ Crime",Rota de Fuga 3: O Resgate (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S.W.A.T: Forca Letal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjZPOxpBRRxV3HCWjMwbfUciyPt.jpg" group-title="Ação/ Crime",S.W.A.T: Forca Letal (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salt (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tmhUKYklYebFdF4tEUs4f9Om43.jpg" group-title="Ação/ Crime",Salt (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Samurai X: O Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKKUblhyvv7nWyfJCLT69GijOA.jpg" group-title="Ação/ Crime",Samurai X: O Final (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Santuário (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lt8nRn5GGYfcMccmy0HjSbwj7U9.jpg" group-title="Ação/ Crime",Santuário (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Segredos do Passado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qW2JhqwNA6wkRNiUwSc17eLs7u.jpg" group-title="Ação/ Crime",Segredos do Passado (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Culpa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPrMoy75cIBQSnIX947CakeZ6Nx.jpg" group-title="Ação/ Crime",Sem Culpa (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Misericórdia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dORQdVCIZMcCUVkQalzmo8nTGp.jpg" group-title="Ação/ Crime",Sem Misericórdia (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Perdão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xnj3lzoESup4WhheKVd2gIbzjQ.jpg" group-title="Ação/ Crime",Sem Perdão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sicario: Perigo no Abrigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg" group-title="Ação/ Crime",Sicario: Perigo no Abrigo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/77556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sicário: Dia do Soldado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg" group-title="Ação/ Crime",Sicário: Dia do Soldado (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sicário: Terra de Ninguém (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG4nBHtz2M0zhHPxUW1VuwilixD.jpg" group-title="Ação/ Crime",Sicário: Terra de Ninguém (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei das Fugas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QpoARuHNYZdpUUd0YUIHCaOi9P.jpg" group-title="Ação/ Crime",O Rei das Fugas (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Guerreiro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg" group-title="Ação/ Crime",O Rei Guerreiro (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Resgate (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fehsmTbt7KUjZtTQn1xhcUIRkXa.jpg" group-title="Ação/ Crime",O Resgate (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Retorno da Múmia (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trLVOBJxgq4K4Ei2OJFZgIeaPzB.jpg" group-title="Ação/ Crime",O Retorno da Múmia (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ritmo da Vingança (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZXUktfFwCT6zrz830SmupHClsV.jpg" group-title="Ação/ Crime",O Ritmo da Vingança (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sequestro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf9dcjz6cyJJEKzSQG1wiFD61dh.jpg" group-title="Ação/ Crime",O Sequestro (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Silêncio da Chuva (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg" group-title="Ação/ Crime",O Silêncio da Chuva (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Turista (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3VomS6Rj0J1S1xBdQy92LQ8b7k.jpg" group-title="Ação/ Crime",O Turista (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ultimato Bourne (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaP62NeQIkKk6vS6g6bG4rMvqre.jpg" group-title="Ação/ Crime",O Ultimato Bourne (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vendedor Chinês (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLQ9Ugvc3DjkZrLFojpgY6OZowr.jpg" group-title="Ação/ Crime",O Vendedor Chinês (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Suspeito (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhaZPQx6hyk1rPKCsu8q4awq4Hp.jpg" group-title="Ação/ Crime",O Último Suspeito (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Desafio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg" group-title="Ação/ Crime",O Último Desafio (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Duelo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg" group-title="Ação/ Crime",O Último Duelo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Mercenário (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYogPkQAp9FPd2laT9Cy1qB5VSL.jpg" group-title="Ação/ Crime",O Último Mercenário (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oblivion (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffqOCQoDv21UVD6deMIqxi7nAeR.jpg" group-title="Ação/ Crime",Oblivion (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onda de choque 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMtnpQWp8yVZMxbntdEBGFYf4SK.jpg" group-title="Ação/ Crime",Onda de choque 2 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ong-Bak 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE0ouuxZ5NaM5nbL9xgJC1Hq1lf.jpg" group-title="Ação/ Crime",Ong-Bak 3 (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Narco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1f0vkdP48E8MybhglZsEWho7DR.jpg" group-title="Ação/ Crime",Operação Narco (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsB9sROlrUAuFPVjiiw4dDVmuOG.jpg" group-title="Ação/ Crime",Os Bad Boys - 1995
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys II (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg" group-title="Ação/ Crime",Os Bad Boys II (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Condenados (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti2s7DhiurLvONSygW97AzzsGHR.jpg" group-title="Ação/ Crime",Os Condenados (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Condenados 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeSqpHnvqOQACOodVI8O8MvLgkg.jpg" group-title="Ação/ Crime",Os Condenados 2 (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Especialistas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg" group-title="Ação/ Crime",Os Especialistas (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Fora da Lei (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArxgEEEPapabVJ4Faw1nq5zP4Jm.jpg" group-title="Ação/ Crime",Os Fora da Lei (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Fora Da Lei (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbeS6PkCsi6UbRYzHBOauzqKXjO.jpg" group-title="Ação/ Crime",Os Fora Da Lei (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sequestro de Eden (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2BurR1duynNPt3Dt7KUgQvhEHW.jpg" group-title="Ação/ Crime",O Sequestro de Eden (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dia do Atentado (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uW5oEAg79lUMPrA4PKkdfT3fhNr.jpg" group-title="Ação/ Crime",O Dia do Atentado (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Duelista (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgVcvfqhoulYlS47AsZdntvomCx.jpg" group-title="Ação/ Crime",O Duelista (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Especialista (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdbxjEDKeAVSdlcLsFcdGSSO0Yc.jpg" group-title="Ação/ Crime",O Especialista (1994)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Fim do Dia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iOkmTgzB64yBKnEjCnwylYBmNF.jpg" group-title="Ação/ Crime",O Fim do Dia (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Forasteiro (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esfi6vzwvq5M6H5OisFvG58mSvt.jpg" group-title="Ação/ Crime",O Forasteiro (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Golpe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOIWNpTDUfIqBJI87vCDqGkCY0h.jpg" group-title="Ação/ Crime",O Golpe (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v06xJfco8hMDaMYOdUaxquh7hx.jpg" group-title="Ação/ Crime",O Grande Mestre (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="Ação/ Crime",O Grande Mestre 2 (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24E7IAfZsmQIBVydzw994navV5b.jpg" group-title="Ação/ Crime",O Grande Mestre 3 (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 4: A Batalha Final (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" group-title="Ação/ Crime",O Grande Mestre 4: A Batalha Final (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Guardião Invisível (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVCfUZKJaCDOOLegcrCIqVxzhH4.jpg" group-title="Ação/ Crime",O Guardião Invisível (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem de Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg" group-title="Ação/ Crime",O Homem de Toronto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Informante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="Ação/ Crime",O Informante (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Legado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhU40W8ryuDAPKTbUgxIwOCKJbZ.jpg" group-title="Ação/ Crime",O Legado (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Legado Bourne (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIXzjirvmasyho2jTzD2FzT1vJn.jpg" group-title="Ação/ Crime",O Legado Bourne (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Lobo de Wall Street (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="Ação/ Crime",O Lobo de Wall Street (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre das Armas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJqsKqmQoDJKUEQoHq6I0cj9hJy.jpg" group-title="Ação/ Crime",O Mestre das Armas (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Peso do Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KahLgGArTECtUJWN9ACGR6l1S.jpg" group-title="Ação/ Crime",O Peso do Talento (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Plano Perfeito (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76z8q24vMul7IPguc0QUODF3THk.jpg" group-title="Ação/ Crime",O Plano Perfeito (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Plano Perfeito 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhil4YZedFIT151N6BRkgKZebcI.jpg" group-title="Ação/ Crime",O Plano Perfeito 2 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Quebra Gelo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEQQ1VsN1upQhxbm8r1xPFBGt6y.jpg" group-title="Ação/ Crime",O Quebra Gelo (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Livro de Eli (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg" group-title="Ação/ Crime",O Livro de Eli (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Mira do Perigo (2021) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAJniojhHa4oVKa9AxdNwvpmS74.jpg" group-title="Ação/ Crime",Na Mira do Perigo (2021) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Corda Bamba (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB6fEpUHm5W16u3b31lDxZ4Ta5Q.jpg" group-title="Ação/ Crime",Na Corda Bamba (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Ponta da Bala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPL0QsYAa00BzeNkJz2TGwElEug.jpg" group-title="Ação/ Crime",Na Ponta da Bala (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4i3j5sX9RDj9AywcAEk7SHQPkuO.jpg" group-title="Ação/ Crime",Nascido para Vencer (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nem um Passo em Falso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg" group-title="Ação/ Crime",Nem um Passo em Falso (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite no Paraíso (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIv5gxbSnNt9VfXy58APhUukp6E.jpg" group-title="Ação/ Crime",Noite no Paraíso (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite Sem Fim (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpLkJee1J9fwK767mO9W8gkAxY8.jpg" group-title="Ação/ Crime",Noite Sem Fim (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Alvo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title="Ação/ Crime",O Alvo (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Besouro Verde (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE7ENs4fm3Hx7npHUhwBbKGKig8.jpg" group-title="Ação/ Crime",O Besouro Verde (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cara" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EaSwcTF4b7ano51FhwiPOKl1kh.jpg" group-title="Ação/ Crime",O Cara
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Caçador e a Rainha do Gelo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dn8K4JP2cHvT6xzUvLP6uBPeRh9.jpg" group-title="Ação/ Crime",O Caçador e a Rainha do Gelo (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cobrador de Dívidas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ucfWMr5WfgpzW4umBZWTpynqDe.jpg" group-title="Ação/ Crime",O Cobrador de Dívidas (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Comando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZuWBZVRJFvczvLUtdh9auGV1Nb.jpg" group-title="Ação/ Crime",O Comando (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Contador de Cartas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZzWINLDNkhYn6B3IW8jZuqNllG.jpg" group-title="Ação/ Crime",O Contador de Cartas (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Conde de Monte Cristo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjoMyKnMh0EY6o2IxT1aiM1xqpk.jpg" group-title="Ação/ Crime",O Conde de Monte Cristo (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Corruptor (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab5XxKzpBkpGkEFJq6t0SiQUWgw.jpg" group-title="Ação/ Crime",O Corruptor (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Declínio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg" group-title="Ação/ Crime",O Declínio (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Código (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg" group-title="Ação/ Crime",O Código (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Crime de Georgetown (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOWbf5oPwCpUznpXJD2snOODprk.jpg" group-title="Ação/ Crime",O Crime de Georgetown (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Culpado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JmNl927pzilMKGLs8u4wv7wGEJ.jpg" group-title="Ação/ Crime",O Culpado (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cobrador de Impostos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuoarGHnpcFVg3DMxTp7e5ASnaK.jpg" group-title="Ação/ Crime",O Cobrador de Impostos (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máfia Digital (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgjNKd3LueeMyMBci7WwzuyKIfV.jpg" group-title="Ação/ Crime",Máfia Digital (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máfia S.A (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQOs0FbJFvh4AgNmzzEkv6GXrfk.jpg" group-title="Ação/ Crime",Máfia S.A (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina da Vingança (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqhHSSndJwdk0Pzv7CFs5wHnqXV.jpg" group-title="Ação/ Crime",Máquina da Vingança (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meia-Noite no Switchgrass (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg" group-title="Ação/ Crime",Meia-Noite no Switchgrass (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mente Criminosa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60QTTSHQubpl4C78N6UWmb4TgQP.jpg" group-title="Ação/ Crime",Mente Criminosa (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Jeeg Robot (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OLzqmGmbX0Wp5pHv8UyGHAEhJu.jpg" group-title="Ação/ Crime",Meu Nome é Jeeg Robot (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Vingança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTpCXudkD7CFKmysgB4fIW4b9b5.jpg" group-title="Ação/ Crime",Minha Vingança (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miss Bala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cuPEQLmAT4RRyN2QCUTgYIkrY2.jpg" group-title="Ação/ Crime",Miss Bala (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Babilônia (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8j9InRihOmAcvrJPIq3LzCFTiM.jpg" group-title="Ação/ Crime",Missão Babilônia (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Final (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrpqPNp0kIelMYCVOdVAWPUfGD.jpg" group-title="Ação/ Crime",Missão Final (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Pijamas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg" group-title="Ação/ Crime",Missão Pijamas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Resgate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LHON8XgAfMSVG2Vv54caU6D1r5.jpg" group-title="Ação/ Crime",Missão Resgate (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg" group-title="Ação/ Crime",Mortal (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/46677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morte no Nilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg" group-title="Ação/ Crime",Morte no Nilo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morte às Seis da Tarde (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3VDEpSWjVv3Z02BKgpKSOmvQ9r.jpg" group-title="Ação/ Crime",Morte às Seis da Tarde (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moscou Contra 007 (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Lrg5TCM3zJuZm9d97PJe74yEc.jpg" group-title="Ação/ Crime",Moscou Contra 007 (1963)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg" group-title="Ação/ Crime",Missão: Impossível (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Efeito Fallout (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg" group-title="Ação/ Crime",Missão: Impossível - Efeito Fallout (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Nação Secreta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg" group-title="Ação/ Crime",Missão: Impossível - Nação Secreta (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível 2 (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg" group-title="Ação/ Crime",Missão: Impossível 2 (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível 3 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg" group-title="Ação/ Crime",Missão: Impossível 3 (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível 4 - Protocolo Fantasma (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg" group-title="Ação/ Crime",Missão: Impossível 4 - Protocolo Fantasma (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistério das Palavras Cruzadas: Enigma Mortal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg" group-title="Ação/ Crime",Mistério das Palavras Cruzadas: Enigma Mortal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch18ICcbiA5z089LrJH5Hed7ZJl.jpg" group-title="Ação/ Crime",Kick-Ass 2 (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass: Quebrando Tudo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pighy9ELPiNhZXQKh3X5r2mNr69.jpg" group-title="Ação/ Crime",Kick-Ass: Quebrando Tudo (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer - A Retaliação (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUteP76nVPVqtbxPzW5qDsNoJOI.jpg" group-title="Ação/ Crime",Kickboxer - A Retaliação (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kill Bill: Volume 1 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0ibkqKGJ3CvSTb3Pkx299P0SK.jpg" group-title="Ação/ Crime",Kill Bill: Volume 1 (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kill Bill: Volume 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4niMDDzBOR1jf4jRshLRaG0Cuaz.jpg" group-title="Ação/ Crime",Kill Bill: Volume 2 (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="King's Man: A Origem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg" group-title="Ação/ Crime",King's Man: A Origem (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kingsman: O Círculo Dourado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMCsn4a8wEHw2eco4pulugd7N6i.jpg" group-title="Ação/ Crime",Kingsman: O Círculo Dourado (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kingsman: Serviço Secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDhy1Ga9BoLwkHOI0jJISQem28v.jpg" group-title="Ação/ Crime",Kingsman: Serviço Secreto (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Vingança (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4aNLsRTlTGgp8q6zQzWx0s04T1.jpg" group-title="Ação/ Crime",La Vingança (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lansky (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weNMzi7WXuzoml2Wvm1VMEE7Ipq.jpg" group-title="Ação/ Crime",Lansky (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lealdade à Prova (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84QRdfUoxOiJ07n7tv0eU7vcjrj.jpg" group-title="Ação/ Crime",Lealdade à Prova (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legado de Violência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzkmHg8rBSdRuXDPSHhHvkEvKCD.jpg" group-title="Ação/ Crime",Legado de Violência (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/43946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legado Explosivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twYROzuKox3JfvB9JagOXCr8UIQ.jpg" group-title="Ação/ Crime",Legado Explosivo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legado nos Ossos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtldsr6Soiu1RzIG15Or4HiUnxv.jpg" group-title="Ação/ Crime",Legado nos Ossos (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/23369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legítimo Rei (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FySPP9h7h8FofAUUOPUFhRODdH.jpg" group-title="Ação/ Crime",Legítimo Rei (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucos e Perigosos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQw4fSps9BJbr5bneQGrv36ADrX.jpg" group-title="Ação/ Crime",Loucos e Perigosos (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucos por Justiça (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS.jpg" group-title="Ação/ Crime",Loucos por Justiça (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="Ação/ Crime",Lucy (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ludo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frB57nMDmu4NnSzjmrq0lEx5iod.jpg" group-title="Ação/ Crime",Ludo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="Ação/ Crime",Lukas (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lupin III: O Primeiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUO8dHslRQJ105yNnIxkPBjBkKw.jpg" group-title="Ação/ Crime",Lupin III: O Primeiro (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutador de Rua (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK81yIbCqcLrcnMRspIsuZ0vcv7.jpg" group-title="Ação/ Crime",Lutador de Rua (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mandando Bala (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBxF52lkCwVGNPBXmqnrdllW483.jpg" group-title="Ação/ Crime",Mandando Bala (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marcas da Violência (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VCbr01tHRvEtS5sdhS2HWd1Av1.jpg" group-title="Ação/ Crime",Marcas da Violência (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matador de Aluguel (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtJZMlYUI57bURTPxooABpYSksc.jpg" group-title="Ação/ Crime",Matador de Aluguel (1989)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Impasse (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lYAj14i5SDY0HvZ21EhXVi8A4E.jpg" group-title="Ação/ Crime",Impasse (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e a Última Cruzada (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg" group-title="Ação/ Crime",Indiana Jones e a Última Cruzada (1989)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e o Reino da Caveira de Cristal (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg" group-title="Ação/ Crime",Indiana Jones e o Reino da Caveira de Cristal (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e o Templo da Perdição (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg" group-title="Ação/ Crime",Indiana Jones e o Templo da Perdição (1984)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e os Caçadores da Arca Perdida (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg" group-title="Ação/ Crime",Indiana Jones e os Caçadores da Arca Perdida (1981)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inferno (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg" group-title="Ação/ Crime",Inferno (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Instinto Assassino (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg" group-title="Ação/ Crime",Instinto Assassino (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interrogatório (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xhgHRPRQkGP9wJPSxonevFaYOG.jpg" group-title="Ação/ Crime",Interrogatório (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intervenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti3j7htTkhvUyNqmxbTFUTEVgxU.jpg" group-title="Ação/ Crime",Intervenção (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invasão ao Serviço Secreto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg" group-title="Ação/ Crime",Invasão ao Serviço Secreto (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Entre Ladrões (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3js5mLX02ZcJNv9J8VaKUNiLq.jpg" group-title="Ação/ Crime",Jogo Entre Ladrões (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/28097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jolt: Fúria Fatal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="Ação/ Crime",Jolt: Fúria Fatal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Junglee - Protegendo a Selva (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SX0Yd6D6YFR3EyXlJmDoaKRwbL.jpg" group-title="Ação/ Crime",Junglee - Protegendo a Selva (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justiça Brutal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg" group-title="Ação/ Crime",Justiça Brutal (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg" group-title="Ação/ Crime",Kate (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justiça em Família (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrwhbYVJK3O85tRLrkVjCXZniIJ.jpg" group-title="Ação/ Crime",Justiça em Família (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso - O Filme (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toj0WLSUQ8L0GeGfYivMpIBiSEg.jpg" group-title="Ação/ Crime",Jogo Perigoso - O Filme (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: A Batalha Final (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jbYud3egdO8NzoKBNFBOookYgd.jpg" group-title="Ação/ Crime",Ip Man: A Batalha Final (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: Nasce uma Lenda (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZh3zKTC0HHboIRqCQus7OFlgA.jpg" group-title="Ação/ Crime",Ip Man: Nasce uma Lenda (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: O Mestre do Kung Fu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7goDYupzMM5KZH6bMndsxOat9Xq.jpg" group-title="Ação/ Crime",Ip Man: O Mestre do Kung Fu (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Instinto Predador (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awFeMJIo2KibIBCrzcsgmcZnMHf.jpg" group-title="Ação/ Crime",Instinto Predador (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Implacável (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgbDomQPeLpgl6vB6Ehi8dYhQGQ.jpg" group-title="Ação/ Crime",Implacável (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg" group-title="Ação/ Crime",Fúria em Alto Mar (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria Incontrolável (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg" group-title="Ação/ Crime",Fúria Incontrolável (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/47180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: A Origem de Cobra (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtjttcZdqHsaaRXyrpS7qa74wbo.jpg" group-title="Ação/ Crime",G.I. Joe: A Origem de Cobra (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: Retaliação (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMDcTdeuAtCPJKee8YdOP7Y8ElT.jpg" group-title="Ação/ Crime",G.I. Joe: Retaliação (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Garantia de Morte (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" group-title="Ação/ Crime",Garantia de Morte (1990)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghostland: Terra Sem Lei (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBNVjog86fRYEnjwl4yRbIoXUxC.jpg" group-title="Ação/ Crime",Ghostland: Terra Sem Lei (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Golpe de Risco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75Yq6zNSwqhvT4vsiHApgpwHl1x.jpg" group-title="Ação/ Crime",Golpe de Risco (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra Mundial Z (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg" group-title="Ação/ Crime",Guerra Mundial Z (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra Sem Fim: A Espada é a Lei (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXpm14VfoKnwaWKbBQi3hpc4TGQ.jpg" group-title="Ação/ Crime",Guerra Sem Fim: A Espada é a Lei (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerreira De Sangue (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YOAAlynH3jg7mDRhLe1PgJV2lc.jpg" group-title="Ação/ Crime",Guerreira De Sangue (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerreiro da Escuridão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYYmrNoy0BkgcYUoEHgg75BwtHU.jpg" group-title="Ação/ Crime",Guerreiro da Escuridão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hackers: Piratas de Computador (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAhuKTpG7lulJoJIpxQ7Xg26DRh.jpg" group-title="Ação/ Crime",Hackers: Piratas de Computador (1995)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hitman: Agente 47 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg" group-title="Ação/ Crime",Hitman: Agente 47 (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hitman: Assassino 47 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LsQzd1CAHuZIYbePt1k84w2mE7.jpg" group-title="Ação/ Crime",Hitman: Assassino 47 (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hooligans (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZdIE73N4R0OHwcZ2nvsuOsj8PU.jpg" group-title="Ação/ Crime",Hooligans (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ida Red (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etMxKseW67499tUJonLNHXTF538.jpg" group-title="Ação/ Crime",Ida Red (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/72464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hércules (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZ4onew5xcg4JRMZb5luYWyP2y8.jpg" group-title="Ação/ Crime",Hércules (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca de Vingança (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5LzVphdEIZV5Ckwcsjve1QFbUi.jpg" group-title="Ação/ Crime",Em Busca de Vingança (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Fuga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkZAsGX4xXsy6rhTnvi5EdbB0Qx.jpg" group-title="Ação/ Crime",Em Fuga (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Embattled (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Foi2Via2fIACRJMB4934D5MP3j.jpg" group-title="Ação/ Crime",Embattled (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/62073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emboscada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYduknwFBYYChOCyWZLhAMhagr6.jpg" group-title="Ação/ Crime",Emboscada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entre Armas e Brinquedos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg" group-title="Ação/ Crime",Entre Armas e Brinquedos (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espécies em Perigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg" group-title="Ação/ Crime",Espécies em Perigo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esporte Sangrento (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szV6XpbpY14AgnCfupB2gzR1dr3.jpg" group-title="Ação/ Crime",Esporte Sangrento (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão 6 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f35zQlRTkEO9LBWDWaikiXzQrmD.jpg" group-title="Ação/ Crime",Esquadrão 6 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/17783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estado de Calamidade (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rOs4ljOxJSi5QkQZNl2hJtqWw4.jpg" group-title="Ação/ Crime",Estado de Calamidade (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estocolmo (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2tS650uecSIBBn1JN7IuPaFgHW.jpg" group-title="Ação/ Crime",Estocolmo (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Me Importo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejMx7Hzh6FkG6BVWRpGYUMONlO2.jpg" group-title="Ação/ Crime",Eu Me Importo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fatal (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cv6q00v5WQSzh3nEEh853dVBg1d.jpg" group-title="Ação/ Crime",Fatal (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Faça Sua Jogada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZXpPPlLy1K5GAoPry0YBoC4tFu.jpg" group-title="Ação/ Crime",Faça Sua Jogada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg" group-title="Ação/ Crime",Ferry (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Forever Rich (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVxRPDUkHdDXDDMCpBqaWEdxhkz.jpg" group-title="Ação/ Crime",Forever Rich (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força da Natureza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCbYUY1xuyaxbp5F1KuyH7AIvHg.jpg" group-title="Ação/ Crime",Força da Natureza (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/48129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fração de Segundos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYjx4zBS5uKC5u6pIObkawyv0QZ.jpg" group-title="Ação/ Crime",Fração de Segundos (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fuga da Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOC9vx5PHc9ibRAG96rDQwr1TBW.jpg" group-title="Ação/ Crime",Fuga da Morte (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Furioza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFURJnWv5qW58x4OOrXt1GQEyr1.jpg" group-title="Ação/ Crime",Furioza (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/77552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dificil de Matar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aohWBXqvFv69yhtASWQxncn7auU.jpg" group-title="Ação/ Crime",Dificil de Matar (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/48110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Fundo do Mar 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK3Nqzqbp0HL7Mbnm3hKOsldxjn.jpg" group-title="Ação/ Crime",Do Fundo do Mar 3 (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Tell a Soul (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h88AJEkEr9jghJPEZWxz0bvJxX3.jpg" group-title="Ação/ Crime",Don't Tell a Soul (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doom: A Porta do Inferno (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEF6MnsJyoVB6dgtNCGJLv6Ed2T.jpg" group-title="Ação/ Crime",Doom: A Porta do Inferno (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dupla Explosiva (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogzn0EmTSkR2x3Khw7Muswwcpk.jpg" group-title="Ação/ Crime",Dupla Explosiva (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GScRLhDfCYaC6RJCmyzPb3m5ne.jpg" group-title="Ação/ Crime",Dupla Explosiva 2 - E a Primeira-Dama do Crime (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duplo Impacto (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fDJ3qa1yv3Sfo9IvIQddCvO8QM.jpg" group-title="Ação/ Crime",Duplo Impacto (1991)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63631.mp4
-#EXTINF:-1 tvg-id="Durante a Tormenta  " tvg-name="Durante a Tormenta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9budLmEhV6mw4ewT56JVL2sAIe7.jpg" group-title="Ficção Científica",Durante a Tormenta (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg" group-title="Ação/ Crime",Duro de Matar (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg" group-title="Ação/ Crime",Duro de Matar 2 (1990)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 3: A Vingança (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg" group-title="Ação/ Crime",Duro de Matar 3: A Vingança (1995)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 4.0 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luHBapG0NGPc9VQacoG9kfFTLh.jpg" group-title="Ação/ Crime",Duro de Matar 4.0 (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar 5: Um Bom Dia para Morrer (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dTmzg6TNkVF3QfQ2THpIWzjb0l.jpg" group-title="Ação/ Crime",Duro de Matar 5: Um Bom Dia para Morrer (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duro na Queda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvzcwPg6ukHugArAp9XeBvaz58.jpg" group-title="Ação/ Crime",Duro na Queda (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Covil de Lutadores (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXCNxTJbvryGAUdR0cuEvGhiphS.jpg" group-title="Ação/ Crime",Covil de Lutadores (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/78558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crimes na Madrugada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slwKFpQPCnBpq1gMAyp2LC1VpNb.jpg" group-title="Ação/ Crime",Crimes na Madrugada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruzada (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utqr2zoLzU8O89pxmIBVMvKqkc3.jpg" group-title="Ação/ Crime",Cruzada (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cyborg - O Dragão do Futuro (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xzjJo6aYnFand1WJTAhkj4j4GU.jpg" group-title="Ação/ Crime",Cyborg - O Dragão do Futuro (1989)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cyborg X (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83hXrNOZTnEEhDnHorjDBowWvxd.jpg" group-title="Ação/ Crime",Cyborg X (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dano Colateral (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSqtHT2DWbWBZ4dUvvMs6z1OfFK.jpg" group-title="Ação/ Crime",Dano Colateral (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Danos Colaterais (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg" group-title="Ação/ Crime",Danos Colaterais (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixe-o Partir (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD9u0OugjglYODCYIkHyXU6R9ue.jpg" group-title="Ação/ Crime",Deixe-o Partir (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/48119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destruição: Los Angeles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNiNVc56JuJMQogg4KUucHqkIso.jpg" group-title="Ação/ Crime",Destruição: Los Angeles (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deus da Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj24DqgxSksdfpCZECOXRRcODnb.jpg" group-title="Ação/ Crime",Deus da Guerra (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diablo: A Última Corrida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iBoP7ftfTJsvK0FtxiuRIFdPan.jpg" group-title="Ação/ Crime",Diablo: A Última Corrida (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cão de Briga (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg" group-title="Ação/ Crime",Cão de Briga (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Céu em Chamas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i8NsvKi4azatHd7s8f42qsAb86.jpg" group-title="Ação/ Crime",Céu em Chamas (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Céu Vermelho-Sangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky8Fua6PD7FyyOA7JACh3GDETli.jpg" group-title="Ação/ Crime",Céu Vermelho-Sangue (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkeKhseRUJd4SavrCu5BtD5DgcB.jpg" group-title="Ação/ Crime",Círculo de Fogo (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo: A Revolta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg" group-title="Ação/ Crime",Círculo de Fogo: A Revolta (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Código de Conduta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pW2PKCDKZ0ocEamVAEDDR3Buup2.jpg" group-title="Ação/ Crime",Código de Conduta (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Código de Honra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywpS1KbYOlgFIQ39M9Co3cepPNt.jpg" group-title="Ação/ Crime",Código de Honra (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crises (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg" group-title="Ação/ Crime",Crises (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime Sem Saída (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4AWAMPxqNpYTvp0RXL4JSKg7hh.jpg" group-title="Ação/ Crime",Crime Sem Saída (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cortina de Fogo 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf3GHorBRTCLie2umkAtVkPKlkJ.jpg" group-title="Ação/ Crime",Cortina de Fogo 2 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Correr Atirando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j252tH00eMyANiqhaLkemlkO16v.jpg" group-title="Ação/ Crime",Correr Atirando (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/77551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg" group-title="Ação/ Crime",Corrida Mortal (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9m6x9613wnpeC1DiNg1RUji0U50.jpg" group-title="Ação/ Crime",Corrida Mortal 2 (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 2050 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg" group-title="Ação/ Crime",Corrida Mortal 2050 (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 3 - Inferno (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egDHHUofifBhvjqmCxIe4RueE3a.jpg" group-title="Ação/ Crime",Corrida Mortal 3 - Inferno (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atomica: Ameaça Oculta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Alii4LGgsgu6fA8S8PrBh7Pv04u.jpg" group-title="Ação/ Crime",Atomica: Ameaça Oculta (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atos de Violência (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg" group-title="Ação/ Crime",Atos de Violência (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atração de Risco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJdAfGYCPLhxYRLWHmG51uV9aYR.jpg" group-title="Ação/ Crime",Atração de Risco (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até o Céu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imo9QdjIb3y5tJ7DICdVKHRkYXV.jpg" group-title="Ação/ Crime",Até o Céu (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até o Fim! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmTwhD0N2IA5SzN1xxVK70UYiy2.jpg" group-title="Ação/ Crime",Até o Fim! (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até o Limite da Honra (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8u0gaNBI7TTkxKkqjUTSpAtE5F.jpg" group-title="Ação/ Crime",Até o Limite da Honra (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Awake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg" group-title="Ação/ Crime",Awake (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BAC Nord: Sob Pressão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="Ação/ Crime",BAC Nord: Sob Pressão (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bela Vingança (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjO6iJTW6McMLrbt6Xz6lDZu7bF.jpg" group-title="Ação/ Crime",Bela Vingança (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bem-Vindo à Morte Súbita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg" group-title="Ação/ Crime",Bem-Vindo à Morte Súbita (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Billy Bathgate, o Mundo a seus Pés (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyWL2Hb9dr0Ir2pDAYCV9dGblCy.jpg" group-title="Ação/ Crime",Billy Bathgate, o Mundo a seus Pés (1991)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Ops - Operação Secreta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXaSLb7reKixWqujYqV8R4XybGo.jpg" group-title="Ação/ Crime",Black Ops - Operação Secreta (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Water: Perigo no Oceano (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zQqUoQPauW5iOgX0CkDvDWDc9W.jpg" group-title="Ação/ Crime",Black Water: Perigo no Oceano (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blade - O Caçador de Vampiros (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyivyoXd6zP09tS1PP7b35sB84h.jpg" group-title="Ação/ Crime",Blade - O Caçador de Vampiros (1998)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bleach (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnQAvKiGcFzcDKb2WYnYimSXPDH.jpg" group-title="Ação/ Crime",Bleach (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bodyguard – Resgate de Risco (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePY8FEgfQD02vnjtf0Fex5qqAdk.jpg" group-title="Ação/ Crime",Bodyguard – Resgate de Risco (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boone: O Caçador de Recompensas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edwjpVNweid5OLUXDLa8X9o0Z5X.jpg" group-title="Ação/ Crime",Boone: O Caçador de Recompensas (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brothers by Blood (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RKGUCbo2R6IDsufxApL6nRFL4j.jpg" group-title="Ação/ Crime",Brothers by Blood (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 6: Sem Saída (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CvMJ9pTQmFzz1ep1seuqKkqbLT.jpg" group-title="Ação/ Crime",Busca Explosiva 6: Sem Saída (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg" group-title="Ação/ Crime",Bloodshot (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg" group-title="Ação/ Crime",Assassino a Preço Fixo (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo 2 - A Ressurreição (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdYyWMMpEHWsMALjko1QCpAZVM.jpg" group-title="Ação/ Crime",Assassino a Preço Fixo 2 - A Ressurreição (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="Ação/ Crime",Assassino Sem Rastro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassinos Anônimos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVSKn1zByPWTzKSXnFFW8c1WoDP.jpg" group-title="Ação/ Crime",Assassinos Anônimos (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassinos Múltiplos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvcsAfWEbtO85YvzJ7N2c9ghuOn.jpg" group-title="Ação/ Crime",Assassinos Múltiplos (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assento Quente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtT84i2E1URJCyAkaoPxl6Ttke.jpg" group-title="Ação/ Crime",Assento Quente (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFvOcOhVFlcP4INNfVzQEXUET1s.jpg" group-title="Ação/ Crime",Busca Implacável (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AePtWcNgawXIGOnB24fDPC1M6Rc.jpg" group-title="Ação/ Crime",Busca Implacável 2 (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lAnC2BU7VhUG9wxHSOai67Tiqg.jpg" group-title="Ação/ Crime",Busca Implacável 3 (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capital Humano (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7357OJlUUKs936Ur6HfQ4vvMMJ.jpg" group-title="Ação/ Crime",Capital Humano (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capturado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2jxIxIwvYCAgye13xD6tGNOzCq.jpg" group-title="Ação/ Crime",Capturado (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caranguejo Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw644BbNIxSGRqjwAC50uskDBHg.jpg" group-title="Ação/ Crime",Caranguejo Negro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carga Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjxMMKnuULfVyQ5EE0PbBYiMtuB.jpg" group-title="Ação/ Crime",Carga Mortal (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casa Gucci (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxrVdr5x5FxOtbqS14UovcswFby.jpg" group-title="Ação/ Crime",Casa Gucci (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castle Falls (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcmtEns8LZdkztVz5kX3cirugaa.jpg" group-title="Ação/ Crime",Castle Falls (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Centauro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOx97MJOxEoR38aoya3lopyrlYC.jpg" group-title="Ação/ Crime",Centauro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3ZluYmNgfow3HokBDmIp9GLFE2.jpg" group-title="Ação/ Crime",Chicago (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cidade de Mentiras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJhDFypLs0d17RYljNtKl8qougv.jpg" group-title="Ação/ Crime",Cidade de Mentiras (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cidade Sob Ameaça (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sebTZMngFdZQJB1Sk7F19RxLlDZ.jpg" group-title="Ação/ Crime",Cidade Sob Ameaça (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Close (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezHANaEtKOdwoY0NnDtxAwJQx6d.jpg" group-title="Ação/ Crime",Close (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colisão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we29hZxAupvAOkmceHTUkos8RmS.jpg" group-title="Ação/ Crime",Colisão (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com 007 Só Se Vive Duas Vezes (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M3ZfAuMLcmkz2ItcIL9PcQIRMB.jpg" group-title="Ação/ Crime",Com 007 Só Se Vive Duas Vezes (1967)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com 007 Viva e Deixe Morrer (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz2oenTkYwKuaXgHkdb15UT7c3o.jpg" group-title="Ação/ Crime",Com 007 Viva e Deixe Morrer (1973)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comando Justiceiro (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg" group-title="Ação/ Crime",Comando Justiceiro (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comando para Matar (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c02d619U138A3eBt3ZhMPrlwiaM.jpg" group-title="Ação/ Crime",Comando para Matar (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conexão Jamaica (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYTJI6uGhCg6mDTHNOdHkKVr7At.jpg" group-title="Ação/ Crime",Conexão Jamaica (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confinamento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQFj3thRxlA8LE7QlaaJ1utjh5K.jpg" group-title="Ação/ Crime",Confinamento (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Implacável (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg" group-title="Ação/ Crime",Conspiração Implacável (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Terrorista (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUaWqigoY9atp0X4ENBBTvpdpmy.jpg" group-title="Ação/ Crime",Conspiração Terrorista (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6dEu7YpcRNZBA0XLZKwWDDdYmu.jpg" group-title="Ação/ Crime",Contos do Caçador de Sombras (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contrato Perigoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg" group-title="Ação/ Crime",Contrato Perigoso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coquetel Explosivo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOo0jPG6FICGA7mzoKgYNCFzNaU.jpg" group-title="Ação/ Crime",Coquetel Explosivo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cores da Justiça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O76234aBjceZCEOWmpnj7hnhtv.jpg" group-title="Ação/ Crime",Cores da Justiça (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comboio Furioso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEUqdc7NtZaxo8MiMBp85ViL31L.jpg" group-title="Ação/ Crime",Comboio Furioso (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçada Selvagem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paclnjtBlAcEh1ddUbCbT1azPIc.jpg" group-title="Ação/ Crime",Caçada Selvagem (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alexandre (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JTsbi6Tw9ieR4stSKNGXgwFJnN.jpg" group-title="Ação/ Crime",Alexandre (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aliados (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57FDGagZiTxJdj56605UJM9cY4D.jpg" group-title="Ação/ Crime",Aliados (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Vermelho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg" group-title="Ação/ Crime",Alerta Vermelho (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g20Xg263ckStqtHwvoQHfxb5UUt.jpg" group-title="Ação/ Crime",Alma de Guerreiro (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altitude (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88174XWBUb6gAg72WR300BJnsAc.jpg" group-title="Ação/ Crime",Altitude (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alvo Número Um (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg" group-title="Ação/ Crime",Alvo Número Um (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg" group-title="Ação/ Crime",American Sicario (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anna - O Perigo Tem Nome (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" group-title="Ação/ Crime",Anna - O Perigo Tem Nome (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arkansas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieNGttYsxunAANK9LRZa4LdkEqi.jpg" group-title="Ação/ Crime",Arkansas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead: Invasão em Las Vegas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vARBnfGEcsb83gdtK0JHb8QaLio.jpg" group-title="Ação/ Crime",Army of the Dead: Invasão em Las Vegas (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/53002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arranha-Céu: Coragem Sem Limite (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg" group-title="Ação/ Crime",Arranha-Céu: Coragem Sem Limite (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrebentando em Nova York (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eBsdeUZTGFYlvhJ38znAgS6UJJ.jpg" group-title="Ação/ Crime",Arrebentando em Nova York (1995)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/48106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg" group-title="Ação/ Crime",Arsenal (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Agentes 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg" group-title="Ação/ Crime",As Agentes 355 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Duas Mortes de Henry Baker (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rFxEx60Ns0pBZtDnrNSOhkpHxz.jpg" group-title="Ação/ Crime",As Duas Mortes de Henry Baker (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Leis da Fronteira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMfjAg9ia8RIdlTvzit4R3ayajG.jpg" group-title="Ação/ Crime",As Leis da Fronteira (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tsl98OKwckXZzCvfOiTMAXZIEz.jpg" group-title="Ação/ Crime",As Panteras (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="Ação/ Crime",As Panteras (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras 2 - Detonando (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQod9Q0EI2S63zefzlmyujFH2zH.jpg" group-title="Ação/ Crime",As Panteras 2 - Detonando (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ascensão do Cisne Negro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" group-title="Ação/ Crime",Ascensão do Cisne Negro (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asfalto de Sangue (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7kel1zs55kLfSmwPGiSlNW5aAG.jpg" group-title="Ação/ Crime",Asfalto de Sangue (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassin's Creed (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cxn5MxH3dDBXauIq6XusR1ZUKJ.jpg" group-title="Ação/ Crime",Assassin's Creed (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco da Espanha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhRSv4npEaE8ZvuJh4CmQpsXDZg.jpg" group-title="Ação/ Crime",Assalto ao Banco da Espanha (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anônimo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woPYFGKwVULILbO7q44HmsNY0kO.jpg" group-title="Ação/ Crime",Anônimo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ameaça Profunda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k56yNPnwRj2vLGV9os3h26Gii8P.jpg" group-title="Ação/ Crime",Ameaça Profunda (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="America: The Motion Picture (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg" group-title="Ação/ Crime",America: The Motion Picture (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja 5: O Pequeno Ninja (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rpgZLSclQYO2CacduMlYajmbCg.jpg" group-title="Ação/ Crime",American Ninja 5: O Pequeno Ninja (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ambulância: Um Dia de Crime (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg" group-title="Ação/ Crime",Ambulância: Um Dia de Crime (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Ação/ Crime",A Hora do Rush (1998)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Edv9ROuDKByN08R0JsbQ63p068.jpg" group-title="Ação/ Crime",A Hora do Rush 2 (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="Ação/ Crime",A Hora do Rush 3 (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Identidade Bourne (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avo7RiDxp9mBPJAwQ8YOFVSIZEO.jpg" group-title="Ação/ Crime",A Identidade Bourne (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJAQdWFNs59q5aikAaVJyKsoKw.jpg" group-title="Ação/ Crime",A Ilha (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Justiceira (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg" group-title="Ação/ Crime",A Justiceira (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Ação/ Crime",A Lenda de Tarzan (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Ação/ Crime",A Múmia (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Ação/ Crime",A Múmia (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg" group-title="Ação/ Crime",A Múmia - Tumba do Imperador Dragão (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Ação/ Crime",A Noite nos Persegue (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Origem do Dragão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="Ação/ Crime",A Origem do Dragão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Porteira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg" group-title="Ação/ Crime",A Porteira (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Ação/ Crime",A Princesa da Yakuza (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/78080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Ação/ Crime",A Profissional (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sentinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="Ação/ Crime",A Sentinela (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Toda Prova (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg" group-title="Ação/ Crime",A Toda Prova (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vilã (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek2oijLRkvQUHaG8BVjzbdx8RHG.jpg" group-title="Ação/ Crime",A Vilã (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Viúva Negra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGkpjxJ96EV0T7HiFkEt7C5h3ds.jpg" group-title="Ação/ Crime",A Viúva Negra (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Fortaleza (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHx7GUXpycO2sBuG8rjXRpmz9Zy.jpg" group-title="Ação/ Crime",A Última Fortaleza (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/61692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Asher (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lLGIi5aAwT3Pdp4m2YUARBkdG7.jpg" group-title="Ação/ Crime",Agente Asher (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Oculto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Ação/ Crime",Agente Oculto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg" group-title="Ação/ Crime",Agentes Vanguard (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg" group-title="Ação/ Crime",Ajuste de Contas (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente das Sombras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgW5iIe6QUn170omG6tdGS4BB9U.jpg" group-title="Ação/ Crime",Agente das Sombras (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Ação/ Crime",A Supremacia Bourne (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Ação/ Crime",A Suspeita (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher na Janela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BasMP1hUZtDx0khdbHBkVZhKjJ.jpg" group-title="Ação/ Crime",A Mulher na Janela (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21JmPfjewhTLESYz8EOVVehdNrM.jpg" group-title="Ação/ Crime",A Máquina (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Ação/ Crime",A Caçada (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor de um Crime (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKZRDO5rhE5EQNw2JopZtsiEtAh.jpg" group-title="Ação/ Crime",A Cor de um Crime (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Ação/ Crime",A Divisão (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg" group-title="Ação/ Crime",A Fortaleza (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Akilla (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg" group-title="Ação/ Crime",A Fuga de Akilla (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/85766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" group-title="Ação/ Crime",A Gangue (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="Ação/ Crime",A Cartada Final (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Ação/ Crime",A Batalha de Riddick (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Dias (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Ação/ Crime",6 Dias (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg" group-title="Ação/ Crime",300 (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Ação/ Crime",22 Milhas (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Ação/ Crime",211 - O Grande Assalto (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3: Caçada Mortal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnM1lUghCDqAFZRCxpLxhCyNq55.jpg" group-title="Ação/ Crime",12 Rounds 3: Caçada Mortal (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="Ação/ Crime",Alive (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Ação/ Crime",300: A Ascensão do Império (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/8927.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES  AÇÃO CINEMA.xml"
-############## FILMES  AÇÃO CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  AÇÃO CINEMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | AÇÃO CINEMAxml"
+############## FILMES | AÇÃO CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | AÇÃO CINEMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
 https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
@@ -3601,9 +3869,6 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m
 
 
 
-#EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
-############## 24 Horas | Premium ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Premium" group-title="
 
 
 
@@ -3620,123 +3885,620 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m
 
 
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2023.xml"
-############## Filmes: Lancamentos 2023 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2023" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/273711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="Filmes: Lancamentos 2023",65: Ameaça Pré-Histórica (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/282986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Filmes: Lancamentos 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/277217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg" group-title="Filmes: Lancamentos 2023",90 Minutos (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/271367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Academia do Diabo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCd9zcdjHcidTkGNgwRx4hhXkI5.jpg" group-title="Filmes: Lancamentos 2023",A Academia do Diabo (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/276653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="Filmes: Lancamentos 2023",A Arca das Girafas (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/284204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conferência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUdfyV5vGtrJ6C8zUttdyVq5KT.jpg" group-title="Filmes: Lancamentos 2023",A Conferência (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/274933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="Filmes: Lancamentos 2023",A Elefanta do Mágico (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/280688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Farsa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg" group-title="Filmes: Lancamentos 2023",A Farsa (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/276998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="Filmes: Lancamentos 2023",A Jogada de Chang (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/277219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Prince in Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TvadZkkskuOZHHoInE9wMXheh1.jpg" group-title="Filmes: Lancamentos 2023",A Prince in Paradise (2023)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/282988.mp4
-
-#EXTM3U url-tvg="http://grade-de-Filmes: Top.xml"
-############## Filmes: Top ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top" group-title="
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes: Top",A Família Buscapé - 1993
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/164775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/214692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om96D2NF9w4UyrprQ882DrTFBol.jpg" group-title="Filmes: Top",A Bela e a Fera (2014)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/284495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Filmes: Top",A Bela e a Fera (2017)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/284496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="Filmes: Top",7 Prisioneiros (2021)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/194690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top",13: O Musical (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/250720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title="Filmes: Top",A Caminho da Fé - 2018
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/136896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana (2017)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/202491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Top",A Cabana - 2017
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/153946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top",14 Cartas de Amor (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/240301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top",A Filha do Rei (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/195630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top",A Floresta Do Escalpe (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/262535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Negro (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/246980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top",A Lenda do Cavaleiro Verde (2021)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/195567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História da Eternidade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcJscYse8IyzEMcmbQUWaexksWy.jpg" group-title="Filmes: Top",A História da Eternidade - 2014
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/170864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História de Esau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEEVoX2XekcCD4qqCPaAjo7FJ3F.jpg" group-title="Filmes: Top",A História de Esau (2019)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/166704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História de Ester (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="Filmes: Top",A História de Ester (2013)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/198451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lppFgN1ujhKlGgDahBhy7lOFHUs.jpg" group-title="Filmes: Top",A Família Addams (1991)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/266744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top",A Estação da Alegria (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/257935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DfdAhXIzxgGEUnGiThqhqX7yGz.jpg" group-title="Filmes: Top",A Estrada 47 - 2014
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrada Eterna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csag6UMfxp0vjpYj5rhkzS8O8TO.jpg" group-title="Filmes: Top",A Estrada Eterna - 2017
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrada Interior - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKEXg34o3WssBG5Nveaj7nspsDh.jpg" group-title="Filmes: Top",A Estrada Interior - 2014
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estranha Perfeita - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E7ArYgYzjrzbU8A39Zb8V0PAvj.jpg" group-title="Filmes: Top,A Estranha Perfeita - 2011
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/136640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Filmes: Top",A Estrela de Belém (2017)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/62661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Filmes: Top",A Escavação (2021)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/148308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escola da Vida - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifxPMxUcbPwQxyQdHGmdd5zUBdj.jpg" group-title="Filmes: Top",A Escola da Vida - 2017
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/176173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Top",A Colônia - 1997
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/1266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acc3skjs4TGxF6G7VxG3WvVvbRr.jpg" group-title="Filmes: Top",A Colônia - 2013
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top",A Colmeia (2021)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/238189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top",13 Minutos de Tormenta (2021)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/214680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Top",2019: O Ano da Extinção - 2009
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/173486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2025: Blood, White & Blue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S9pjiZejBiSVV88qU59ifZ7q0N.jpg" group-title="Filmes: Top",2025: Blood, White & Blue (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/286457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Top",211 - O Grande Assalto - 2018
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Top",22 Balas (2010)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Filmes: Top",22 de Julho (2018)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/194937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Top",22 Milhas (2018)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Top",22 Minutos - 2014
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/178198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTko6K3GUVtYvHGjd62MJ8hNy1K.jpg" group-title="Filmes: Top",3000 Milhas Para o Inferno - 2001
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/17700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Filmes: Top",300: A Ascensão do Império (2014)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/133225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Top",6 Balas - 2012
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Top",6 Dias - 2017
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/24530.mp4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Ficcao Cientifica.xml"
+############## Filmes: Ficcao Cientifica ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Ficcao Cientifica" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="Filmes: Ficcao Cientifica",A Batalha do Planeta dos Macacos (1973)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewZDnY33pLLsVJOsEQHYyibzc9H.jpg" group-title="Filmes: Ficcao Cientifica",A Fera (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente Se Vê Ontem - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes: Ficcao Cientifica",A Gente Se Vê Ontem - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmYwqH7avrYZ3AwAODtw5ZAyavW.jpg" group-title="Filmes: Ficcao Cientifica",A Ilha - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMebkU27UYVoPg1FA12uHp6ilkM.jpg" group-title="Filmes: Ficcao Cientifica",A Nuvem Rosa (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Odisseia dos Tontos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd27JV1FJ7bHX5kStuw0JISMShQ.jpg" group-title="Filmes: Aventura",A Odisseia dos Tontos - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="Filmes: Ficcao Cientifica",A Origem - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Noite de Crime - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" group-title="Filmes: Ficcao Cientifica",A Primeira Noite de Crime - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Convergente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYhVm44sofmqaEGuQl4j5RL62S.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Convergente (2016)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0i7VfG5HAQT49ZKZNcef2booIq.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Insurgente (2015)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rebelião - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="Filmes: Ficcao Cientifica",A Rebelião - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Filmes: Ficcao Cientifica",A Máquina De Lembranças - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada Mágica de Emily (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="Filmes: Ficcao Cientifica",A Jornada Mágica de Emily (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Câmara do Medo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trtIbNNY72gR1S8Ds2pPppdQ92y.jpg" group-title="Filmes: Ficcao Cientifica",A Câmara do Medo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/74793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="400 Dias - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGH9FWmvUZsbVi3qqxXsI4v6NRw.jpg" group-title="Filmes: Ficcao Cientifica",400 Dias - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="Filmes: Ficcao Cientifica",2067 (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2101 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9lJNUWNvoInWAxs8KPnY5dyh0k.jpg" group-title="Filmes: Ficcao Cientifica",2101 - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66cLRuqg7dLXRgvgk427leeZhjd.jpg" group-title="Filmes: Ficcao Cientifica",2001: Uma Odisséia no Espaço - 1968
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153909.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Romance.xml"
+############## Filmes: Romance ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Romance" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Titia Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jx2QfSofvhmzQKC8kai14hINc.jpg" group-title="Filmes: Romance",A Titia Noel (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSDndWH1GeFkCl9UgDDSmd0nmM4.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/9061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia: Nova Aventura (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda Perfeita - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIX6tXNPftlOGPQswq5Gge5Gv1f.jpg" group-title="Filmes: Romance",A Onda Perfeita - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Superstar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMsDcIk6UOOi2cwW17SrbKUuURb.jpg" group-title="Filmes: Romance",A Nova Cinderela: Superstar (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva Cadáver - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg" group-title="Filmes: Romance",A Noiva Cadáver - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Minha Garota para Sempre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg" group-title="Filmes: Romance",A Minha Garota para Sempre - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta pela Esperança - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bpr1OSSUkBhpMxuI9isDpYuetz.jpg" group-title="Filmes: Romance",A Luta pela Esperança - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="Filmes: Romance",A Garota Invisível (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Filmes: Romance",A Fotografia (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Chefe - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ZwrTG9U0mjxFTh1cBFTuKCo74.jpg" group-title="Filmes: Romance",A Filha do Chefe - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família da Noiva - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvIgkHV0PC7Dcdyiy3zfRunxz5E.jpg" group-title="Filmes: Romance",A Família da Noiva - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg" group-title="Filmes: Romance",A Dama e o Vagabundo - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Filmes: Romance",A Culpa é das Estrelas - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnBPFZ9DJO20ZbvNq0VavgskHA.jpg" group-title="Filmes: Romance",A Corrente do Bem - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niavrwLXMY09O5x3mrlE4OrMN6O.jpg" group-title="Filmes: Romance",A Casa do Lago - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" group-title="Filmes: Romance",A Batida Perfeita (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="40 Dias e 40 Noites (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0EdiB7bnGswLrHpeyLHAZkhONx.jpg" group-title="Filmes: Romance",40 Dias e 40 Noites (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/219426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Corações - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13vkyx0RU8Pikdaow8Yjsb8J9aL.jpg" group-title="Filmes: Romance",3 Corações - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg" group-title="Filmes: Romance",100 Dias para o Natal (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="Filmes: Romance",10 Coisas Que Eu Odeio em Você - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="Filmes: Romance",72 Horas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 ½ Semanas de Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGD5GE2dmhZ13aZsj5oxCj5WKOL.jpg" group-title="Filmes: Romance",9 ½ Semanas de Amor (1986)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bota de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx6OHPTnO5yQNdmgn7BDHDDBGSy.jpg" group-title="Filmes: Romance",A Bota de Natal (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Romance",A Bela e a Fera (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Meu Melhor Amigo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg" group-title="Filmes: Romance",A Filha do Meu Melhor Amigo - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz Entre Oceanos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V2Kkmt75V8U4KsWTBmSc5z63yS.jpg" group-title="Filmes: Romance",A Luz Entre Oceanos - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mala e os Errantes - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg" group-title="Filmes: Romance",A Mala e os Errantes - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Paixão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kPtzxEyikQEE2wuA1klSsJdLV9.jpg" group-title="Filmes: Romance",A Arte da Paixão - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Filmes: Romance",A Barraca do Beijo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Filmes: Romance",A Barraca do Beijo 2 - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="Filmes: Romance",A Barraca do Beijo 3 (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg" group-title="Filmes: Romance",A Acompanhante - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24553.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Comedia.xml"
+############## Filmes: Comedia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Comedia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Toda Velocidade - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mlZcYl8w8bkBeWz1dlltYzNXUI.jpg" group-title="Filmes: Comedia",A Toda Velocidade - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31Mad8qY3gsWYd7OeOgDXqqsUlt.jpg" group-title="Filmes: Comedia",A Sogra Perfeita (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Salinha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdJsCAUZ9Pce7ZTW5le775ZNUle.jpg" group-title="Filmes: Comedia",A Salinha (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressaca - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Pp76a6I5nBFB5pnNlGS2ljsf86.jpg" group-title="Filmes: Comedia",A Ressaca - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressaca 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skFHKtpPVapqLuNK94YIn1PdjKv.jpg" group-title="Filmes: Comedia",A Ressaca 2 - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Gavin Stone - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmIt36wzFBZkTCFqgBNoiKHGafQ.jpg" group-title="Filmes: Comedia",A Ressurreição de Gavin Stone - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg" group-title="Filmes: Comedia",A Princesa e a Plebeia: As Vilãs Também Amam (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor-de-Rosa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK5NHMoFVpmGoNCx2ghPVCWdT0Y.jpg" group-title="Filmes: Comedia",A Pantera Cor-de-Rosa (2006)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Mulher - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70b4559iwOnsf6Ovs5DAQWXiXYF.jpg" group-title="Filmes: Comedia",A Outra Mulher - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Milagre de Natal - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg" group-title="Filmes: Comedia",A Nova Cinderela: Milagre de Natal - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Se O Sapato Encaixar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta6OU7MVKaEExDHL1dRVg9mS0hH.jpg" group-title="Filmes: Comedia",A Nova Cinderela: Se O Sapato Encaixar (2016)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite do Jogo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWbGZt8URdS8N4AVpTRupdBXClz.jpg" group-title="Filmes: Comedia",A Noite do Jogo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite das Brincadeiras Mortais (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GTnEEzoz8nfzkrohMmNPTpIMZk.jpg" group-title="Filmes: Comedia",A Noite das Brincadeiras Mortais (1986)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite da Virada - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9R0a85in6KPsNVRt7qcmhXwrzBY.jpg" group-title="Filmes: Comedia",A Noite da Virada - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="Filmes: Comedia",A Morte Te Dá Parabéns 2 - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte de Stalin - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cFqFJEG60iKX1Z9f5GD1bboHac.jpg" group-title="Filmes: Comedia",A Morte de Stalin - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher do Meu Marido - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXINvoevUcoQwD69CwI1aAzibCs.jpg" group-title="Filmes: Comedia",A Mulher do Meu Marido - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Música da Minha Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV0Mt7mkmt6uujYMqNdL6ceXPjz.jpg" group-title="Filmes: Comedia",A Música da Minha Vida (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Namorada do Meu Irmão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEZhXtc7Ni05kMIs4wrQKrE0xYH.jpg" group-title="Filmes: Comedia",A Namorada do Meu Irmão - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Partida Final - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k58OkwuRjQRnjeKtNySAsSY8o3Y.jpg" group-title="Documentários",A Partida Final - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedra da Serpente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c8pMd6M6zBsOqF82lG7niLB9xt.jpg" group-title="Filmes: Ficcao Cientifica",A Pedra da Serpente (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedra Mágica (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u3mGapOO35dW3M8vRgQ4dOL0TD.jpg" group-title="Filmes: Comedia",A Pedra Mágica (2009)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedreira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg" group-title="Filmes: Crimes",A Pedreira (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pele Fria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSVXKem6hkiWn1D5yVK2e19I6SI.jpg" group-title="Filmes: Terror",A Pele Fria - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Suíça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHb8aBC93OD8ZklARiiLlFl7dp1.jpg" group-title="Filmes: Comedia",A Pequena Suíça (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/213901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BkfGYq0IQF9NnNmNbdxeshhn1t.jpg" group-title="Filmes: Comedia",A Proposta - 2009
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Química do Amor - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prryQfaBh5rlSjMaOmokpK428YA.jpg" group-title="Filmes: Comedia",A Química do Amor - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senhora da Van - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJWz15cZjixiIs05o8CiVLdGbgE.jpg" group-title="Filmes: Comedia",A Senhora da Van - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senhora do Casarão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w59ifg4dVE9lXy4Fw9o1aVltSw.jpg" group-title="Filmes: Comedia",A Senhora do Casarão (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Melhor Escolha - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM39QLCMDqcdxg4LsPvalv9s2dO.jpg" group-title="Filmes: Comedia",A Melhor Escolha - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mala e os Errantes - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg" group-title="Filmes: Comedia",A Mala e os Errantes - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Barney Thomson - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwdg1M9L1tPJoJ6qtCXpNgNG64H.jpg" group-title="Filmes: Comedia",A Lenda de Barney Thomson - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg" group-title="Filmes: Comedia",A Lenda da Befana - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Isca Perfeita - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLPeFoXzyGaqymE2cXrgp2aEsGl.jpg" group-title="Filmes: Comedia",A Isca Perfeita - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História da Ilha das Rosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nQkSXRwun0dLk4EKvU2LfpgZhG.jpg" group-title="Filmes: Comedia",A Incrível História da Ilha das Rosas (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História Real de um Assassino Falso - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muJ9FvDSTm4txkATsKWPADb1zTI.jpg" group-title="Filmes: Comedia",A História Real de um Assassino Falso - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hambúrguer - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN9oq1yncj60kWK3bsSwkETslUG.jpg" group-title="Filmes: Comedia",A Guerra do Hambúrguer - 1997
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra Interior - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17VcSb17AHEjfu5m5YPucqEhr0U.jpg" group-title="Filmes: Comedia",A Guerra Interior - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota das Nove Perucas - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cVZAL8mL3fi7nbE2zZRKg2KogM.jpg" group-title="Filmes: Comedia",A Garota das Nove Perucas - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Corações Partidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXnl0kl2rZZv0sBDd1NIw2Abu4d.jpg" group-title="Filmes: Comedia",A Galeria dos Corações Partidos (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fraternidade - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huR1w4yQe3FPfXNVttpaHdGDEfH.jpg" group-title="Filmes: Comedia",A Fraternidade - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fortuna - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9cJhUJHNj3g07lJiR6vzsIooPm.jpg" group-title="Filmes: Comedia",A Fortuna - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fogueira das Vaidades - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A4Lxpd0KogiuAQWjpIUZErFbyQ.jpg" group-title="Filmes: Comedia",A Fogueira das Vaidades - 1990
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fita Cassete (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" group-title="Filmes: Comedia",A Fita Cassete (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Presidente - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mezMS6yAEDuTbyh4GwozEU2kft2.jpg" group-title="Filmes: Comedia",A Filha do Presidente - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Festa de Formatura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg" group-title="Filmes: Comedia",A Festa de Formatura (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lppFgN1ujhKlGgDahBhy7lOFHUs.jpg" group-title="Filmes: Comedia",A Família Addams (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/266744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes: Comedia",A Família Buscapé - 1993
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg" group-title="Filmes: Comedia",A Escolha Perfeita - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v0xwwRBk44q2BGPTwiX6BtmURr.jpg" group-title="Filmes: Comedia",A Escolha Perfeita - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="Filmes: Comedia",A Escolha Perfeita 3 - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Discussão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BOFJrBQ5YjYFCBG3wbRjNlme3o.jpg" group-title="Filmes: Comedia",A Discussão (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/219427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Creche do Papai - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgSNkLkvJnqAN9XM9RZlQjNMeEf.jpg" group-title="Filmes: Comedia",A Creche do Papai - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Creche do Papai 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pJZpezKjGq0F9fhZn6CSO344Y0.jpg" group-title="Filmes: Comedia",A Creche do Papai 3 (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Agenda Secreta do Meu Namorado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wPc8GqgPyG0I9o1V6W0Kh22LhY.jpg" group-title="Filmes: Comedia",A Agenda Secreta do Meu Namorado (2004)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Jornada do Faquir (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM4utNdhTMEOxrosXDNjo3wjy4v.jpg" group-title="Filmes: Comedia",A Extraordinária Jornada do Faquir (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fabulosa Gilly Hopkins - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76T9xMGbXOu3Nb3BMUMmhOmFqFC.jpg" group-title="Filmes: Comedia",A Fabulosa Gilly Hopkins - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsShGq2gzkPRqYSb5cu7s8i9Q1y.jpg" group-title="Filmes: Comedia",A Grande Aposta - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Luta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b43BGGWKiPzkAnqyz3mVV0YzZzq.jpg" group-title="Filmes: Comedia",A Grande Luta (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Porquinho (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c8JKbiVLWLKMCNior7bfijRYry.jpg" group-title="Filmes: Comedia",A Menina e o Porquinho (2006)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Minha Casa Caiu - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboN1WdG2O7ZvZul6RHMwRvkiAr.jpg" group-title="Filmes: Comedia",A Minha Casa Caiu - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Missy Errada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvPMOqOQqYiJhwll5TZV0OTDOcv.jpg" group-title="Filmes: Comedia",A Missy Errada (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/54053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Interior - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKEXg34o3WssBG5Nveaj7nspsDh.jpg" group-title="Filmes: Comedia",A Estrada Interior - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ditadura Perfeita - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjNWekSbafFIPLBNZQ9gUaX3tkV.jpg" group-title="Filmes: Comedia",A Ditadura Perfeita - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Carol Goes Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf8kL1UNl347dviVUEeNwfLny20.jpg" group-title="Filmes: Comedia",A Christmas Carol Goes Wrong (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Carol Goes Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf8kL1UNl347dviVUEeNwfLny20.jpg" group-title="Filmes: Comedia",A Christmas Carol Goes Wrong (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Maluca - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZKCe3e7zlOWY3XdA4cSg2yWigR.jpg" group-title="Filmes: Comedia",A Casa Maluca - 1990
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Boneca que Virou Gente 2 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwzaIz7MvzPs5fA4NddlFD27M5.jpg" group-title="Filmes: Comedia",A Boneca que Virou Gente 2 - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Boa Esposa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7gOQmD98OIszcW5PmWkN9w1Nqz.jpg" group-title="Filmes: Comedia",A Boa Esposa (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/229407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg" group-title="Filmes: Comedia",A Babá - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Autodefesa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO0odDuMjyoovWfmCumkvPHJKsj.jpg" group-title="Filmes: Comedia",A Arte da Autodefesa - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 Latas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Filmes: Comedia",4 Latas - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6u1Q1Y3yNGDBCkD8UQ5yVp6KYx9.jpg" group-title="Filmes: Comedia",30 Minutos ou Menos - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas em Apuros (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qs5nH5peP1dimF8vYwJoKnnvt1.jpg" group-title="Filmes: Comedia",3 Ninjas em Apuros (1995)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="220 Volts: Especial de Fim de Ano (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC3EJ5CiLtNa8NH3Ti21hzH5Zd2.jpg" group-title="Filmes: Comedia",220 Volts: Especial de Fim de Ano (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Dias em Nova York (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK6G639JfQV36WRr9wTu1D9iZRg.jpg" group-title="Filmes: Comedia",2 Dias em Nova York (2012)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1941 - Uma Guerra Muito Louca (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGu5DZnrDkvaEsEnmGpU8SvtbZe.jpg" group-title="Filmes: Comedia",1941 - Uma Guerra Muito Louca (1979)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Garotas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOR20bEMA1BCc9Sg2NgKcSrO1wo.jpg" group-title="Filmes: Comedia",100 Garotas (2006)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Anos de Pura Amizade (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAVXW93b6BXkmfXHJHYUoFehjb0.jpg" group-title="Filmes: Comedia",10 Anos de Pura Amizade (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Horas Para o Natal - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg" group-title="Filmes: Comedia",10 Horas Para o Natal - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Regras Para Um Relacionamento Aberto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16D3osX3Hwpa0DrmNTfxSmWYUOg.jpg" group-title="Filmes: Comedia",10 Regras Para Um Relacionamento Aberto (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="Filmes: Comedia",17 Outra Vez (2009)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/219425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Mais 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxgabcAaSJfTrZodVDBPDKmU3Ei.jpg" group-title="Filmes: Comedia",2 Mais 2 (2012)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/187711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz8JL8RF7DPmwSwMWs4Pw0taaDu.jpg" group-title="Filmes: Comedia",2 Minutos de Fama (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20 Anos + Jovem (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsGdeuI0KrCqZd768FMIQHNySdn.jpg" group-title="Filmes: Comedia",20 Anos + Jovem (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg" group-title="Filmes: Comedia",A Arte de Ser Adulto (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá: Rainha da Morte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg" group-title="Filmes: Comedia",A Babá: Rainha da Morte (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/83851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb4crpD43qLIlNj3k5mqC0izPCk.jpg" group-title="Filmes: Comedia",A Balada de Buster Scruggs (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocCDBApzrbHmt78mlWWikM1OhoQ.jpg" group-title="Filmes: Comedia",A Casa de Hóspedes (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chefa - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvHDsvKcNxvmtRigFC3rJXSlnjs.jpg" group-title="Filmes: Comedia",A Chefa - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Copa do Peru - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M2pAXfFeCiC30fWZefER28ppXe.jpg" group-title="Filmes: Comedia",A Copa do Peru - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/3906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB4jiGyDuMsq38sXbTCB1nsAWEE.jpg" group-title="Filmes: Comedia",A Estrela de Belém (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estudante E O Senhor Henri - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JUuHvbwsX93b9h8SJjFDY73EsI.jpg" group-title="Filmes: Comedia",A Estudante E O Senhor Henri - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24733.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Drama.xml"
+############## Filmes: Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="12 Homens e Uma Sentença - 1957" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg" group-title="Filmes: Drama",12 Homens e Uma Sentença - 1957
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Anos de Escravidão (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg" group-title="Filmes: Drama",12 Anos de Escravidão (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/216154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Filmes: Drama",12 Heróis - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Órfãos Poderosos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="Filmes: Drama",12 Órfãos Poderosos (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 - O Jogador - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sn3dMJYxhxCJ6cMCXAtBUjAeg1.jpg" group-title="Filmes: Drama",13 - O Jogador - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQqjEmJEgetLMBLArWPVvyFBbZ4.jpg" group-title="Filmes: Drama",13 Minutos (2015)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15h17 - Trem Para Paris - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg" group-title="Filmes: Drama",15h17 - Trem Para Paris - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="18 Presentes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvXSGXTN18Lvp3sGoFpzLgwyoOV.jpg" group-title="Filmes: Drama",18 Presentes (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/216155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="21 Gramas - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqzkBeOyhbsGSRP939Twu9r9XhL.jpg" group-title="Filmes: Drama",21 Gramas - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Filmes: Drama",22 de Julho (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Dias para Matar - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW6zkRGYiwHViMRUy0wJkbXIFBv.jpg" group-title="Filmes: Drama",3 Dias para Matar - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/137710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Histórias de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B33UMfA8Yr79qP7g90eMSLggXm.jpg" group-title="Filmes: Drama",3 Histórias de Amor (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg" group-title="Filmes: Drama",3 Pedidos - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAt3FTG7rIaUbc4zkGZtrqRuoqw.jpg" group-title="Filmes: Drama",3096 Dias de Cativeiro - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="Filmes: Drama",365 Dias (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/87697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruta Flor do Querer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwlPHiWsO32kJUFOg36cSRpqN9e.jpg" group-title="Filmes: Drama",A Bruta Flor do Querer (2016)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Filmes: Comedia",A Dama de Vermelho - 1984
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gaivota - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZSfnuFf7Td0WJShqaQyKcwLRU.jpg" group-title="Filmes: Drama",A Gaivota - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Infância de um Líder - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf1MGzVzEpoWrE5ztcBf7Mhu0Sz.jpg" group-title="Filmes: Drama",A Infância de um Líder - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada de Hank Williams (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9PTnD6TdryWJAU7WjcqoN1kLdw.jpg" group-title="Filmes: Drama",A Jornada de Hank Williams (2016)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lavanderia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxEmaUYeO43LlWDRzuykVtrqzhC.jpg" group-title="Filmes: Drama",A Lavanderia - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Leoa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybmi1B1Pr1mjMtEpIBKiSRutCTU.jpg" group-title="Filmes: Drama",A Leoa (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Honra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOcHj9cGqyMeljVWBlWRLaQO9Dw.jpg" group-title="Filmes: Drama",A Lista de Honra - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Livraria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK37ddPLauT0pg3maDYt7DQL0eb.jpg" group-title="Filmes: Drama",A Livraria - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHEOX7ohRs4yCEh4KJy0eKqO3qi.jpg" group-title="Filmes: Drama",A Jornada  (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos no Paraíso - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3GnROQ75ll9riwhTbhWH3qytoi.jpg" group-title="Filmes: Drama",90 Minutos no Paraíso - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="99 Casas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHKquMw8tT7eOjWb1ecR41soLzD.jpg" group-title="Filmes: Drama",99 Casas - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Aparição (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD3l7PncV3lav8YzVMak1kOambH.jpg" group-title="Filmes: Drama",A Aparição (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/271370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36R8qqx51WE7IkHcn4BohLzLqGY.jpg" group-title="Filmes: Drama",A Assistente (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Correntes - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXJRUdM785ogYuaOo0lXWjOCda.jpg" group-title="Filmes: Drama",A Batalha das Correntes - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="Filmes: Drama",A Batalha do Ano (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Boa Mentira - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/askWAWASRPuy3qPAbklWY7GA5hz.jpg" group-title="Filmes: Drama",A Boa Mentira - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes: Drama",A Cabana - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l69vmy7RaPMRKOHTE5U40unE8j.jpg" group-title="Filmes: Drama",A Carga (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Torta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHTRHZCjQdynFcFBidLwdhorTLV.jpg" group-title="Filmes: Drama",A Casa Torta (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caça (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jksxm18n70boh0LSlXibjimGr9g.jpg" group-title="Filmes: Drama",A Caça (2012)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chantagem - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyiTphn50zx5aYzHonaiuSgjTx.jpg" group-title="Filmes: Drama",A Chantagem - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cinco Quadras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQPkKGOVpSTkBJsPeD5NQkoTtAO.jpg" group-title="Filmes: Drama",A Cinco Quadras (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Púrpura (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg" group-title="Filmes: Drama",A Cor Púrpura (1985)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama Dourada - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg" group-title="Filmes: Drama",A Dama Dourada - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Deusa dos Vagalumes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWiOWC7bg50ik1FPpcY2XuGLoQx.jpg" group-title="Filmes: Drama",A Deusa dos Vagalumes (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Disputa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" group-title="Filmes: Drama",A Disputa (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Entrega - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ne8Kjt2UGJkOABhs1LopDVAAju.jpg" group-title="Filmes: Drama",A Entrega - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Filmes: Drama",A Escavação (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola da Vida - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifxPMxUcbPwQxyQdHGmdd5zUBdj.jpg" group-title="Filmes: Drama",A Escola da Vida - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Despedida - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oenx30V5wzfMjxzTOOM1CD9YSq4.jpg" group-title="Filmes: Drama",A Despedida - 2021
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chegada - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4av3oWqgZ8QOl96xitvEovcu8jm.jpg" group-title="Filmes: Drama",A Chegada - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Vidro - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpyIEd02R0UmxImwdFwDKaqa8ZZ.jpg" group-title="Filmes: Drama",A Casa de Vidro - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Fim dos Tempos - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FH2kqhUVSJcQOiILOVbe2t6eSc.jpg" group-title="Filmes: Drama",A Casa do Fim dos Tempos - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabeça de Gumercindo Saraiva - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nrfMcUHswJN6kRdXBulQI8FDZx.jpg" group-title="Filmes: Drama",A Cabeça de Gumercindo Saraiva - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ascensão da Rainha Guerreira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDxD2XrDmoFBtNiq69ko12O5Z98.jpg" group-title="Filmes: Drama",A Ascensão da Rainha Guerreira (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7500 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="Filmes: Drama",7500 - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7th & Union (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14AKMCxtF11UlYXLyjmTP22vDtl.jpg" group-title="Filmes: Drama",7th & Union (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusões - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="Filmes: Drama",8 Mile: Rua das Ilusões - 2002
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esposa - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cGJlTPOICAi4KfMmAVe6r7Oh1s.jpg" group-title="Filmes: Drama",A Esposa - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espuma dos Dias - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwSBXt6j5ZwaD1dAMJ0SJCL7EQH.jpg" group-title="Filmes: Drama",A Espuma dos Dias - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Eterna Namorada - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlmVnq87c3xZxz9NAsS5cDaPMES.jpg" group-title="Filmes: Drama",A Eterna Namorada - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="Filmes: Drama",A Extraordinária Garota Chamada Estrela - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/157162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Jornada do Faquir (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM4utNdhTMEOxrosXDNjo3wjy4v.jpg" group-title="Filmes: Drama",A Extraordinária Jornada do Faquir (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="Filmes: Drama",A Face da Verdade - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Favorita - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Filmes: Drama",A Favorita - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Feral World (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUiHLQrIeEjExIqhn4sFNxDvY6b.jpg" group-title="Filmes: Drama",A Feral World (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha da Luz - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rtEVT94DbRVTBfBAogbdT55O1f.jpg" group-title="Filmes: Drama",A Filha da Luz - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg" group-title="Filmes: Drama",A Filha Perdida (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Firma - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc9Y9TPiHJRJsPHNVmHQcHjAjTc.jpg" group-title="Filmes: Drama",A Firma - 1993
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Filmes: Drama",A Forma da Água - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Filmes: Drama",A Fotografia (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/74776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Akilla (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg" group-title="Filmes: Drama",A Fuga de Akilla (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota do Abrigo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OKtXyFe0BwIlZ0BKXxFbez67sy.jpg" group-title="Filmes: Drama",A Garota do Abrigo (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota do Livro - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liRzUzDxYvKbSRGiDFsqDm9D462.jpg" group-title="Filmes: Drama",A Garota do Livro - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Beleza - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6AfFUHuWHQaw8uzOnBhb0I5hcb.jpg" group-title="Filmes: Drama",A Grande Beleza - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Escolha - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuo46ONWRe5Sy3QSHmBGtXwmkmw.jpg" group-title="Filmes: Drama",A Grande Escolha - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Luta De Muhammad Ali - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbAWQ41NPaWbN0deyMuxF1ustmj.jpg" group-title="Filmes: Drama",A Grande Luta De Muhammad Ali - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Mentira - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GCNkBJYUEngIR9nkS2f34er4A6.jpg" group-title="Filmes: Drama",A Grande Mentira - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História Pessoal de David Copperfield - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sabtafLSADdx3Gpj2V1HRXbndpU.jpg" group-title="Filmes: Drama",A História Pessoal de David Copperfield - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora Mais Escura - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg" group-title="Filmes: Drama",A Hora Mais Escura - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ideia Mais Magnífica do Mundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6U4TVaLkQKcOlZD9FMFzlv520n.jpg" group-title="Filmes: Drama",A Ideia Mais Magnífica do Mundo (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História da Eternidade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcJscYse8IyzEMcmbQUWaexksWy.jpg" group-title="Filmes: Drama",A História da Eternidade - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/170864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Esau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEEVoX2XekcCD4qqCPaAjo7FJ3F.jpg" group-title="Filmes: Drama",A História de Esau (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/166704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Ester (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TV76zCTNfEFnOPpWFFopMrmDq7.jpg" group-title="Filmes: Drama",A História de Ester (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/198451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Gabby Douglas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8U2OGqSSrI1AmIEjHkksgEhRvW.jpg" group-title="Filmes: Drama",A História de Gabby Douglas - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg" group-title="Filmes: Drama",A Garota no Trem (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AktZTeympJEIK2QgyB29IiWfCI8.jpg" group-title="Filmes: Drama",A Garota no Trem - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangue da Pesada - 1979" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oedFtX9hZZWpD7L5wkD0WxSteY2.jpg" group-title="Filmes: Drama",A Gangue da Pesada - 1979
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Magia de um Sonho (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0KI51qCECD2hEdB35FhPsGGInj.jpg" group-title="Filmes: Drama",A Magia de um Sonho (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maratona de Brittany - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1GuMAd5l6IJXfUrovDnjAQPRj9.jpg" group-title="Filmes: Drama",A Maratona de Brittany - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/13799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mula - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="Filmes: Drama",A Mula - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Milagrosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9GLXm38EiB9GRUyit9CRFsR1T.jpg" group-title="Filmes: Drama",A Mulher Milagrosa (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Negociação - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNNUgIbduDcdRTZkIOcETuozvaZ.jpg" group-title="Filmes: Drama",A Negociação - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite do Fogo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIzHQXSxD8u0iCnIxwhDHDxvWo.jpg" group-title="Filmes: Drama",A Noite do Fogo (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva do Diabo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW9EIz6usa57AVP5OmzToJewre.jpg" group-title="Filmes: Drama",A Noiva do Diabo - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y2F6xuKuSpXd7OaMa6K4vetzGb.jpg" group-title="Filmes: Drama",A Onda - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra História Americana - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awlLBINV2ptoHkzeG20mIanlWqh.jpg" group-title="Filmes: Drama",A Outra História Americana - 1998
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ovelha Negra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0t3oXbcRnRSSI73RVGIZ4iD5xD.jpg" group-title="Filmes: Drama",A Ovelha Negra - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Palavra de Pablo - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fSD3wa1FNDIwBwAXjlUImjk7dq.jpg" group-title="Filmes: Drama",A Palavra de Pablo - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pele Que Habito - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGiaUmq2O3lkPlNxJ468Raz7Xek.jpg" group-title="Filmes: Drama",A Pele Que Habito - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Morte - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Shfx0SYjltoT6XuC2iNFLXbKcO.jpg" group-title="Filmes: Drama",A Pequena Morte - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Permissão - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJsNJfL3CKiRRf39rE0KyI2Wux.jpg" group-title="Filmes: Drama",A Permissão - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Perseguição - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg" group-title="Filmes: Drama",A Perseguição - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/177578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Portuguesa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXdxSzLx7sHMOSOLgpBiAIlREk2.jpg" group-title="Filmes: Drama",A Portuguesa - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/74765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia do Presidente - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLKIxvY3UkgcQic1LW7AvGO9E2G.jpg" group-title="Filmes: Drama",A Profecia do Presidente - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Química que Há Entre Nós (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPoC069DhfbLHvjuSTLR60D0Sxq.jpg" group-title="Filmes: Drama",A Química que Há Entre Nós (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rainha da Espanha - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M9kpamndhe6WiUU2RAtd13tZub.jpg" group-title="Filmes: Drama",A Rainha da Espanha - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rainha dos Condenados (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GmuAm6DFu6PasmEiUKmtC1Wdd2.jpg" group-title="Filmes: Drama",A Rainha dos Condenados (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte e a Vida de Bobby Z (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GqsvLvhaTJYIsiF2Qw5CvCqV7a.jpg" group-title="Filmes: Drama",A Morte e a Vida de Bobby Z (2007)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/274238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte e Vida de Charlie (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvdcrtVBHaaYchjdGzVyDdiLRnh.jpg" group-title="Filmes: Drama",A Morte e Vida de Charlie (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte lhe Cai Bem - O Filme (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar7uTVlawrZRmLad0TrgkhxsTGP.jpg" group-title="Filmes: Drama",A Morte lhe Cai Bem - O Filme (2009)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte lhe Cai Bem - O Filme (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar7uTVlawrZRmLad0TrgkhxsTGP.jpg" group-title="Filmes: Drama",A Morte lhe Cai Bem - O Filme (2009)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/203446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luneta do Tempo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl1Dw9IHNotcblyraZSoecn7kGu.jpg" group-title="Filmes: Drama",A Luneta do Tempo (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta de um Campeão (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ssjFw6CcCQT57VIo44myVhOi7.jpg" group-title="Filmes: Drama",A Luta de um Campeão (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Promessa - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPMwAgYd1cZo3DtdEZuqwiBHybu.jpg" group-title="Filmes: Drama",A Promessa - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pura Verdade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FGJSYbldFT2vPhVf14UqBtVBim.jpg" group-title="Filmes: Drama",A Pura Verdade (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/17406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Reviravolta - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eF7UhLR1buTUTOfbIKsVT6kX4xc.jpg" group-title="Filmes: Drama",A Reviravolta - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg" group-title="Filmes: Drama",A Semana da Minha Vida (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senhora que Morreu no Trailer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLgo06w3geHPARJ6GqPyO91Tdc.jpg" group-title="Filmes: Drama",A Senhora que Morreu no Trailer (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/177579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra de Summer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL3f3PCmLzeeTDNVBRb3iSDCT2A.jpg" group-title="Filmes: Drama",A Sombra de Summer (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra do Pai (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA7fBuVMDiLGsjGkoPIQxRmSXke.jpg" group-title="Filmes: Drama",A Sombra do Pai (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tabacaria (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4h717rbBuy78KgxtMKCZThWjF2.jpg" group-title="Filmes: Drama",A Tabacaria (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tentação (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaDS6CTIfZ5MH189ub6oE1FATk.jpg" group-title="Filmes: Drama",A Tentação (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Teoria de Tudo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg" group-title="Filmes: Drama",A Teoria de Tudo (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ternura - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNODwniLY1Qibh05KBg92nL3rFS.jpg" group-title="Filmes: Drama",A Ternura - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Superação de Amber: Uma Chance para Ser Feliz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oHxWo1VkKy0Ict83XRzKDJDXN4.jpg" group-title="Filmes: Drama",A Superação de Amber: Uma Chance para Ser Feliz (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Amanhecer - Parte 1 - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlpb8Xm7VBDNxZGeIIAgtqhURuT.jpg" group-title="Filmes: Drama",A Saga Crepúsculo: Amanhecer - Parte 1 - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Amanhecer - Parte 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNobbWwSM2xpv2rRejxwnHf4xH.jpg" group-title="Filmes: Drama",A Saga Crepúsculo: Amanhecer - Parte 2 - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Eclipse (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAQsjxYdfkzhrDZwVDDtMksS34u.jpg" group-title="Filmes: Drama",A Saga Crepúsculo: Eclipse (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Lua Nova - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl49JRhLi2mBhe1HcQcby205QN.jpg" group-title="Filmes: Drama",A Saga Crepúsculo: Lua Nova - 2009
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rota Selvagem - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oYMHuigQdSlSoacAJpV55be3cZ.jpg" group-title="Filmes: Drama",A Rota Selvagem - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rede Social - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg" group-title="Filmes: Drama",A Rede Social - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Redenção - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epbyGz8drJMTL2f8absrO1RHH6G.jpg" group-title="Filmes: Drama",A Redenção - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/133317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Razão do Amor - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEg4vyUNjc2oCPy3tSNjzTS1rB4.jpg" group-title="Filmes: Drama",A Razão do Amor - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171407.mp4
 
 #EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
 ############## 24 Horas | Premium ################# 
@@ -3782,6 +4544,16 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/133417.m3u8
 ############## Faroeste ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFaroeste" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Faroeste",A Difícil Vingança - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Faroeste",A Morte anda a Cavalo - 1967
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Salvação - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="Faroeste",A Salvação - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/14306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Faroeste",A Lenda de Wild Bill Hickok - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Faroeste",A Face Oculta - 1961
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Faroeste",Django (1966)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/52665.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Django Livre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg" group-title="Faroeste",Django Livre (2012)
@@ -3840,210 +4612,12 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/67032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contrato Obsessivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g27AMMhkMpzOdil8CLo6j4lLMkK.jpg" group-title="Suspense/ Mistério",Contrato Obsessivo (2020)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/61708.mp4
 
-#EXTM3U url-tvg="http://grade-de-Drama/ História.xml"
-############## Drama/ História ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeDrama/ História" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Drama/ História",A Escavação (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/44675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Despedida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oenx30V5wzfMjxzTOOM1CD9YSq4.jpg" group-title="Drama/ História",A Despedida (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Deusa dos Vagalumes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWiOWC7bg50ik1FPpcY2XuGLoQx.jpg" group-title="Drama/ História",A Deusa dos Vagalumes (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Drama/ História",A Colina Escarlate (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Condenação (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEgU4Hw5VwUYTNF6182oKjpowgn.jpg" group-title="Drama/ História",A Condenação (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7500 (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="Drama/ História",7500 (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV5BPqLxe1BynyexKZar3KOnYV.jpg" group-title="Drama/ História",3096 Dias de Cativeiro (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Órfãos Poderosos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="Drama/ História",12 Órfãos Poderosos (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJazel1knaYGfJ2m6CcnDOLHrLg.jpg" group-title="Drama/ História",127 Horas (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Anos de Escravidão (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg" group-title="Drama/ História",12 Anos de Escravidão (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Drama/ História",13 Minutos de Tormenta (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/72461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1922 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="Drama/ História",1922 (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Drama/ História",22 de Julho (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="40 Dias - O Milagre da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg" group-title="Drama/ História",40 Dias - O Milagre da Vida (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 - A História de Uma Lenda (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToC9fhyGkEdDgJBwJbWPMrt8vc.jpg" group-title="Drama/ História",42 - A História de Uma Lenda (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="Drama/ História",6 Balões (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdFkZyfMpj1AItzsiW5kML9oFbY.jpg" group-title="Drama/ História",A Carga (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="Drama/ História",A Face da Verdade (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Depois (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg" group-title="Drama/ História",A Vida Depois (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Eletrizante de Louis Wain (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg" group-title="Drama/ História",A Vida Eletrizante de Louis Wain (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Em Espera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrrhS0VLaSmOfPmi2UPOQMcO58h.jpg" group-title="Drama/ História",A Vida Em Espera (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida em Mim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv4a1MntQA8pydnTTf3iICEFcHB.jpg" group-title="Drama/ História",A Vida em Mim (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida em Si (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3btqYtTmY2GLrMmLcNFVpPxLD4.jpg" group-title="Drama/ História",A Vida em Si (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Troca (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBoFTZmPAYjnNgKB68DbTI0tDMq.jpg" group-title="Drama/ História",A Troca (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rede Social (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg" group-title="Drama/ História",A Rede Social (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Redenção (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epbyGz8drJMTL2f8absrO1RHH6G.jpg" group-title="Drama/ História",A Redenção (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Drama/ História",A Máquina De Lembranças (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mula (2018)" tvg-logo="http://dns.clientetv.xyz:8000/images/CFKZACq4xOyGp4jdzxB5RiAuvrEdnZCL.jpg" group-title="Drama/ História",A Mula (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10255.mp4
-XTINF:-1 tvg-id="" tvg-name="A Menina que Roubava Livros (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyG9CkuEfGXxygOUagnWPCQQnL.jpg" group-title="Drama/ História",A Menina que Roubava Livros (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Missão (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irAuhrymA7aVa1S3Skf0e0uDTsY.jpg" group-title="Drama/ História",A Missão (1986)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Melhor Escolha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM39QLCMDqcdxg4LsPvalv9s2dO.jpg" group-title="Drama/ História",A Melhor Escolha (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Juventude (2015)" tvg-logo="http://dns.clientetv.xyz:8000/images/dxD5rBFHQjzfqMcSYAnvqFqiahMeLnJ5.jpg" group-title="Drama/ História",A Juventude (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jornada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHEOX7ohRs4yCEh4KJy0eKqO3qi.jpg" group-title="Drama/ História",A Jornada (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Incrível História da Ilha das Rosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nQkSXRwun0dLk4EKvU2LfpgZhG.jpg" group-title="Drama/ História",A Incrível História da Ilha das Rosas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Drama/ História",A Forma da Água (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Drama/ História",A Favorita (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Drama/ História",A Fera (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg" group-title="Drama/ História",A Filha Perdida (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Força do Destino (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56OYnI0FKeaNbwBQy1ypzIxqMzn.jpg" group-title="Drama/ História",A Força do Destino (1982)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsShGq2gzkPRqYSb5cu7s8i9Q1y.jpg" group-title="Drama/ História",A Grande Aposta (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6M8pond5C5nJ2z4qWgRANa6Pb.jpg" group-title="Drama/ História",A Grande Jogada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Mentira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GCNkBJYUEngIR9nkS2f34er4A6.jpg" group-title="Drama/ História",A Grande Mentira (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Virada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sElsIOipaH6G3RwxLFCM3xd4Yhd.jpg" group-title="Drama/ História",A Grande Virada (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lavanderia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxEmaUYeO43LlWDRzuykVtrqzhC.jpg" group-title="Drama/ História",A Lavanderia (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lei da Noite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AW7HboE5heyyHuxaUzlHldEp6w.jpg" group-title="Drama/ História",A Lei da Noite (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pior Pessoa do Mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="Drama/ História",A Pior Pessoa do Mundo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Procura da Felicidade (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKIzxWRb391Tu7uXIwYkINs8FQ9.jpg" group-title="Drama/ História",A Procura da Felicidade (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Professora do Jardim de Infância (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewxLFRI40ysuWxdyLlKUhgtcRqb.jpg" group-title="Drama/ História",A Professora do Jardim de Infância (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Revolução em Paris (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg" group-title="Drama/ História",A Revolução em Paris (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Tabacaria (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4h717rbBuy78KgxtMKCZThWjF2.jpg" group-title="Drama/ História",A Tabacaria (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Teoria de Tudo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg" group-title="Drama/ História",A Teoria de Tudo (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agora e para Sempre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxF6rnGn2n78117xtItLzhlj7BB.jpg" group-title="Drama/ História",Agora e para Sempre (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adam (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAv4u8E6DN5Jc7qjQT3WLQBO4C3.jpg" group-title="Drama/ História",Adam (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim: A História de Lisa Mcvey (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5osEwU9NdsmgPIMbD5Mq3KU4PHR.jpg" group-title="Drama/ História",Acredite em Mim: A História de Lisa Mcvey (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Canção (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHINfhbI9iWHd8dnlDZtwvdOwMW.jpg" group-title="Drama/ História",A Última Canção (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vingança Está na Moda (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXNobPTdS2sDUTFGd6j4A7bluog.jpg" group-title="Drama/ História",A Vingança Está na Moda (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Cartada (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ojzfj02r27uwqN6HAZpq69amzy.jpg" group-title="Drama/ História",A Última Cartada (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adoráveis Mulheres (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXRJlVPJO8GqPPpJwbomQEpAi3N.jpg" group-title="Drama/ História",Adoráveis Mulheres (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Afunde o Navio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWym6hb3avqbIGbAgd2UfT52BUf.jpg" group-title="Drama/ História",Afunde o Navio (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Curiosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyJgh0oh73YZ63nJHOJxHkLatgb.jpg" group-title="Drama/ História",Curiosa (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/27618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Curral (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xMDCOwl6qE4Ypcy0HsMwalnEXU.jpg" group-title="Drama/ História",Curral (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/83175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed: Nascido para Lutar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="Drama/ História",Creed: Nascido para Lutar (2015)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed II (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPQFWrLoQYyGxmeBgmpX901Q0mF.jpg" group-title="Drama/ História",Creed II (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Selvagem (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKamnwAPJ4ANFI6UtfyPpYnZxpB.jpg" group-title="Drama/ História",Corrida Selvagem (2017)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coração Valente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg" group-title="Drama/ História",Coração Valente (1995)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corpus Christi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYn9h8jXcFjgpVTskz2HUOfEMsr.jpg" group-title="Drama/ História",Corpus Christi (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/29434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCH1BFZ98GzYBm3tJb23ELpHGLm.jpg" group-title="Drama/ História",Correndo Contra o Vento (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/66901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Correndo Por Um Sonho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L31gDii1TybJKveiaMhnnVaXZG.jpg" group-title="Drama/ História",Correndo Por Um Sonho (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/22884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coração de Campeão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTayZvZzIqHPihU86ei7XhJ8JkD.jpg" group-title="Drama/ História",Coração de Campeão (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/78083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Copperman - Um Herói Especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg" group-title="Drama/ História",Copperman - Um Herói Especial (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/40398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coquetéis e Adolescentes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24Hbcq4KnvvWPPz8WYZuAIG5S6K.jpg" group-title="Drama/ História",Coquetéis e Adolescentes (2016)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coragem em Campo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb5T3HvsoXu7ACtz3PEsj1er3Z2.jpg" group-title="Drama/ História",Coragem em Campo (2015)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV5BPqLxe1BynyexKZar3KOnYV.jpg" group-title="Drama/ História",3096 Dias de Cativeiro (2013)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/84552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1922 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="Drama/ História",1922 (2017)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Drama/ História",13 Minutos de Tormenta (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/72461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJazel1knaYGfJ2m6CcnDOLHrLg.jpg" group-title="Drama/ História",127 Horas (2010)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Órfãos Poderosos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg" group-title="Drama/ História",12 Órfãos Poderosos (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/63796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Drama/ História",22 de Julho (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="Drama/ História",6 Balões (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="Drama/ História",A Face da Verdade (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/42328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Esposa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cGJlTPOICAi4KfMmAVe6r7Oh1s.jpg" group-title="Drama/ História",A Esposa (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Drama/ História",A Escavação (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/44675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Despedida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oenx30V5wzfMjxzTOOM1CD9YSq4.jpg" group-title="Drama/ História",A Despedida (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/51908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Deusa dos Vagalumes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWiOWC7bg50ik1FPpcY2XuGLoQx.jpg" group-title="Drama/ História",A Deusa dos Vagalumes (2020)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/86220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Drama/ História",A Colina Escarlate (2015)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Condenação (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEgU4Hw5VwUYTNF6182oKjpowgn.jpg" group-title="Drama/ História",A Condenação (2010)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36R8qqx51WE7IkHcn4BohLzLqGY.jpg" group-title="Drama/ História",A Assistente (2020)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/42592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="40 Dias - O Milagre da Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg" group-title="Drama/ História",40 Dias - O Milagre da Vida (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/41396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 - A História de Uma Lenda (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToC9fhyGkEdDgJBwJbWPMrt8vc.jpg" group-title="Drama/ História",42 - A História de Uma Lenda (2013)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdFkZyfMpj1AItzsiW5kML9oFbY.jpg" group-title="Drama/ História",A Carga (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Virada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sElsIOipaH6G3RwxLFCM3xd4Yhd.jpg" group-title="Drama/ História",A Grande Virada (2010)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/66203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsShGq2gzkPRqYSb5cu7s8i9Q1y.jpg" group-title="Drama/ História",A Grande Aposta (2015)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6M8pond5C5nJ2z4qWgRANa6Pb.jpg" group-title="Drama/ História",A Grande Jogada (2017)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Mentira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GCNkBJYUEngIR9nkS2f34er4A6.jpg" group-title="Drama/ História",A Grande Mentira (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/19964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg" group-title="Drama/ História",A Filha Perdida (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/69038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Drama/ História",A Fera (2020)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/41269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Drama/ História",A Favorita (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10242.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes da Semana.xml"
 ############## Filmes da Semana ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes da Semana" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=" Shazam! Fúria dos Deuses (2023) (1080p HDcam) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCM2gGB0mGunbssHX7okAoEeUv.jpg" group-title="Filmes da Semana", Shazam! Fúria dos Deuses (2023) (1080p HDcam) 
+#EXTINF:-1 tvg-id="" tvg-name=" Shazam! Fúria dos Deuses (2023) (1080p HDcam) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCM2gGB0mGunbssHX7okAoEeUv.jpg" group-title="Filmes da Semana", Shazam Fúria dos Deuses (2023) (1080p HDcam) 
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901666.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes da Semana",Shazam! Fúria dos Deuses (2023)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902464.mp4
@@ -4187,985 +4761,6 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902462.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902463.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros: O Filme (2023) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg" group-title="Filmes da Semana",Super Mario Bros: O Filme (2023) (HDCAM)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/902465.mp4
-
-#EXTM3U url-tvg="http://grade-de-Comédia.xml"
-############## Comédia ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeComédia" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="#ComVocê: Volume: 1 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEgBV4Tuo9jFZh7rFiQEbiY91sT.jpg" group-title="Comédia",ComVocê: Volume: 1 (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Coisas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tJQB1c9AzsQoOy3WW5NQcJCQ9X.jpg" group-title="Comédia",100 Coisas (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xONHMx9skbDotapUuRMOj9huXTq.jpg" group-title="Comédia",100 Metros (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fortuna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9cJhUJHNj3g07lJiR6vzsIooPm.jpg" group-title="Comédia",A Fortuna (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fogueira das Vaidades (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A4Lxpd0KogiuAQWjpIUZErFbyQ.jpg" group-title="Comédia",A Fogueira das Vaidades (1990)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg" group-title="Comédia",A Família (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escalada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg" group-title="Comédia",A Escalada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Discussão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BOFJrBQ5YjYFCBG3wbRjNlme3o.jpg" group-title="Comédia",A Discussão (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/54457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chefinha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxHtZ3HNvpbHw1cBqG48VavhEk1.jpg" group-title="Comédia",A Chefinha (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8t4etF8y0S9TeJE0UdEowBUr0.jpg" group-title="Comédia",A Casa de Hóspedes (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caixa de Pandora (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg" group-title="Comédia",A Caixa de Pandora (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Comédia",A Bolha (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg" group-title="Comédia",A Arte de Ser Adulto (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/46999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="Comédia",17 Outra Vez (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Creche do Papai 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pJZpezKjGq0F9fhZn6CSO344Y0.jpg" group-title="Comédia",A Creche do Papai 3 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/21065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: A Primeira Vez é Inesquecível (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GxuPJxUcArRpfBGJL6BG3B4Cb9.jpg" group-title="Comédia",American Pie: A Primeira Vez é Inesquecível (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie 2: A Segunda Vez é Ainda Melhor (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjeavq1VD0ZRBmt2QVFfZlS6ZaG.jpg" group-title="Comédia",American Pie 2: A Segunda Vez é Ainda Melhor (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: O Casamento (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uG1eEKdLIq8Lxlq9AQMtdYQ4rk0.jpg" group-title="Comédia",American Pie: O Casamento (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie Apresenta: Meninas ao Ataque (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crsZiahK0iAUvofxdN3yvHAULtS.jpg" group-title="Comédia",American Pie Apresenta: Meninas ao Ataque (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: Caindo em Tentação (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQpOVHQbsme8c72pAgHzW0rxjpT.jpg" group-title="Comédia",American Pie: Caindo em Tentação (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: O Livro do Amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buYt2qVn4oDczxtqS6HLQYrbHOY.jpg" group-title="Comédia",American Pie: O Livro do Amor (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: O Reencontro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mxG1SPWilznur6Q4vKjHG7boyG.jpg" group-title="Comédia",American Pie: O Reencontro (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: O Último Stifler Virgem (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW8I7JqwDIACpS3Wo7aJnYnyFup.jpg" group-title="Comédia",American Pie: O Último Stifler Virgem (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: Tocando a Maior Zona (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA9zdEix39fnKdoYBVhW54T1bhE.jpg" group-title="Comédia",American Pie: Tocando a Maior Zona (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altos Negócios (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ngM2zOxhJsYA7g15L3WFRTOgjZ.jpg" group-title="Comédia",Altos Negócios (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/23372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Álibi.com (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN6pPLlCDDXYhRhLm9KPPJKdOAh.jpg" group-title="Comédia",Álibi.com (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adeus, Idiotas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCd2QrRblOqAynklIjKskDenv8J.jpg" group-title="Comédia",Adeus, Idiotas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adeus, Professor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFVXQYZRu7qTSLWkzxhvEXp4U2s.jpg" group-title="Comédia",Adeus, Professor (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcxU6P1Yts1cugEKZg67IBtoh5J.jpg" group-title="Comédia",Ace Ventura: Um Detetive Diferente (1994)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na África (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai9kRyLHUIdmvWKHTl4NSi0Ghsw.jpg" group-title="Comédia",Ace Ventura 2: Um Maluco na África (1995)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: O Detetive Mirim (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj8a9BMuIUgeKhKZRWJVeKE5jXl.jpg" group-title="Comédia",Ace Ventura Jr.: O Detetive Mirim (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acertando o Passo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpfRGpgUsHlYX0QgJE1kUShorIH.jpg" group-title="Comédia",Acertando o Passo (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acho Que Matei Minha Chefe (2019)" tvg-logo="https://imgur.com/EQmUnHC.jpg" group-title="Comédia",Acho Que Matei Minha Chefe (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/17731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Ressaca do Ano (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NtNAHIF3VCFKWG66JHzq7WQyMK.jpg" group-title="Comédia",A Última Ressaca do Ano (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida é Bela (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg" group-title="Comédia",A Vida é Bela (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Senhora do Casarão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w59ifg4dVE9lXy4Fw9o1aVltSw.jpg" group-title="Comédia",A Senhora do Casarão (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="Comédia",A Princesa e a Plebeia: Nova Aventura (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Prima Sofia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umOllMBRB1zMFMJFRnTlQorApSM.jpg" group-title="Comédia",A Prima Sofia (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor-de-Rosa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK5NHMoFVpmGoNCx2ghPVCWdT0Y.jpg" group-title="Comédia",A Pantera Cor-de-Rosa (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQEbYyiva8gYMHoXewtUd8rb51I.jpg" group-title="Comédia",A Nova Cinderela (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Era uma Vez uma Canção (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1e1Aa1To6ZKbzyCelv35M2UzLFS.jpg" group-title="Comédia",A Nova Cinderela: Era uma Vez uma Canção (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Se O Sapato Encaixar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta6OU7MVKaEExDHL1dRVg9mS0hH.jpg" group-title="Comédia",A Nova Cinderela: Se O Sapato Encaixar (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Namorada do Meu Irmão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEZhXtc7Ni05kMIs4wrQKrE0xYH.jpg" group-title="Comédia",A Namorada do Meu Irmão (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte lhe Cai Bem (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwddyy3atKuOlVPEgzSSiBH2q6S.jpg" group-title="Comédia",A Morte lhe Cai Bem (1992)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Perfeita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f11LLHcIgmejyLtLFJFORKpzkoS.jpg" group-title="Comédia",A Garota Perfeita (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hambúrguer (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN9oq1yncj60kWK3bsSwkETslUG.jpg" group-title="Comédia",A Guerra do Hambúrguer (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Herança de Mr. Deeds (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee4Hrz3EfX8lKWk6Y7TBJiM4Aks.jpg" group-title="Comédia",A Herança de Mr. Deeds (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sua Parte Frágil (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBDKj7DkGyw3r4A7CWHcle6nTjz.jpg" group-title="Comédia",A Sua Parte Frágil (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Branquelas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW3ovNQsn5jPDB5E9B4KeCNA6kU.jpg" group-title="Comédia",As Branquelas (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Calouras (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmW9vbHrNEWNdqLoyImeJ7wuVWD.jpg" group-title="Comédia",As Calouras (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM59YdxIn03HvnCeuJtNfeWqPxT.jpg" group-title="Comédia",As Apimentadas (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Brigsby Bear (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIPgbuGcorPbOs2l3dVyaQbDboW.jpg" group-title="Comédia",As Aventuras de Brigsby Bear (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armas em Jogo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSypWMagzI7jJ7cq2TStGnYyyfL.jpg" group-title="Comédia",Armas em Jogo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apostando Tudo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDnLDYBjaO8qEqMZ4130bqH6EOP.jpg" group-title="Comédia",Apostando Tudo (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apenas Amigos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WaVwmwdRFvvaMpLN0oOrwx1Jyc.jpg" group-title="Comédia",Apenas Amigos (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apenas o Começo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB9KcpaKbICpiShLLSt0MaF5eRX.jpg" group-title="Comédia",Apenas o Começo (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anna e o Apocalipse - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcIsTzSjWKvn9se2gcSOupzWeW.jpg" group-title="Comédia",Anna e o Apocalipse - 2019
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/18591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IBghsc7sRo1DteneBvvfnBEnzx.jpg" group-title="Comédia",Animal (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor a Toda Prova (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YzXVfBvFv9WdR0EChMacCr4Qwu.jpg" group-title="Comédia",Amor a Toda Prova (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amigos Para Sempre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYv3Mwm3t7FWEMli8ASMIhZBUBC.jpg" group-title="Comédia",Amigos Para Sempre (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amigas de Sorte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HyS7NOxkJKX9vSmp7wHjBX9EFw.jpg" group-title="Comédia",Amigas de Sorte (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amigos, Amigos, Mulheres à Parte (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTKt9mhLyJiUqd58YXlOXk5LPkO.jpg" group-title="Comédia",Amigos, Amigos, Mulheres à Parte (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antes Só do que Mal Casado (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLgIwVfF7C7QU7e3JzKY25RrbOE.jpg" group-title="Comédia",Antes Só do que Mal Casado (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arremessando Alto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg" group-title="Comédia",Arremessando Alto (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrume um Emprego (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egWlhG7CNBJ2KD8KAGpbahlWqS.jpg" group-title="Comédia",Arrume um Emprego (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cães de Guerra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv9g0yF3z10tWWq24OQewQf6r5e.jpg" group-title="Comédia",Cães de Guerra (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruzeiro das Loucas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB4yaFVSWUQSFp78XgzV6DWxTSu.jpg" group-title="Comédia",Cruzeiro das Loucas (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Correndo Atrás de um Pai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q67ptsqjWgY3bbKVljvCOkcp6tJ.jpg" group-title="Comédia",Correndo Atrás de um Pai (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coração Selvagem (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evUjCnPx7Cm2V1ztSyOFz783gyy.jpg" group-title="Comédia",Coração Selvagem (1990)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conflitos Em Família (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J8VR4OecoqdCqjT3A9f01h6fZZ.jpg" group-title="Comédia",Conflitos Em Família (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Concorrência Oficial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fey5dXqHTc4SUJs96Hv1Li9ezpD.jpg" group-title="Comédia",Concorrência Oficial (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Construir uma Garota (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svEKCyQmJs3ZRu4YC6rQl248AAs.jpg" group-title="Comédia",Como Construir uma Garota (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Cães e Gatos 3: Peludos Unidos! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hP2DzWseqPihdxOFjrbGhVrSvhG.jpg" group-title="Comédia",Como Cães e Gatos 3: Peludos Unidos! (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg" group-title="Comédia",Click (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cidade Perdida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsX9gj7t56ZlMYKNYccskeW5adT.jpg" group-title="Comédia",Cidade Perdida (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CHiPs: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tffkH2F6DmAhud4g4rZqrQ1K48v.jpg" group-title="Comédia",CHiPs: O Filme (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçador de Recompensas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyIANaZeJC1PXaSe9DrT3C0Hv8H.jpg" group-title="Comédia",Caçador de Recompensas (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Causando no Brasil (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhhofkVgjeOhqs8oTA7FRbA1ek1.jpg" group-title="Comédia",Causando no Brasil (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casal de Fachada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg" group-title="Comédia",Casal de Fachada (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cara, Cadê Meu Carro? (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1YxKBtIpPRS1kCX46mnKtwFkuE.jpg" group-title="Comédia",Cara, Cadê Meu Carro? (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caindo em Pé (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dElx7G7dUsFQaIL5CWE1ASVVrS.jpg" group-title="Comédia",Caindo em Pé (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caindo na Estrada (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iMiXw4hUL0UqvfXLxPPLptz94X.jpg" group-title="Comédia",Caindo na Estrada (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caindo na Estrada 2: O Jogo da Cerveja (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxFuJKUWpZlfDauSPjrDwxHleOB.jpg" group-title="Comédia",Caindo na Estrada 2: O Jogo da Cerveja (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bons Meninos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo9hEe3yBjJYOxL3suygTuVxWmn.jpg" group-title="Comédia",Bons Meninos (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg" group-title="Comédia",Big Time Adolescence (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bem Vindo à Selva (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFeoEQrLfTj0gUEv9SDopLfEuNH.jpg" group-title="Comédia",Bem Vindo à Selva (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Belas e Perseguidas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXvfvw7tdnEyFLkyKlBz3OIqDqa.jpg" group-title="Comédia",Belas e Perseguidas (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assim é a Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJZpwgtQpy86s6TnUd6rGTDNUbU.jpg" group-title="Comédia",Assim é a Vida (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Viagens de Gulliver (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVuMRrE6zFvivQPifg7CQnV1b5j.jpg" group-title="Comédia",As Viagens de Gulliver (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Trambiqueiras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldo9MFJ2bmA5qKd4sbjUUzJUUa8.jpg" group-title="Comédia",As Trambiqueiras (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/72462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Trapaceiras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6AuIno1eZoDMQhFGKGAte6Syd7.jpg" group-title="Comédia",As Trapaceiras (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Mil Palavras (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGDovB6FPGN9xPA2oA28OGkNto.jpg" group-title="Comédia",As Mil Palavras (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Loucas Aventuras de Elvira (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joSoITQgLRbs0RoU0uywy7JTSZs.jpg" group-title="Comédia",As Loucas Aventuras de Elvira (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Garotas Da Tragédia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nAhVGPiCTwUGdNV6vy8sUh6VMu.jpg" group-title="Comédia",As Garotas Da Tragédia (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boo 2! O Halloween de Madea (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18JeOCuDpVbocIbioIrGrO2A5aq.jpg" group-title="Comédia",Boo 2! O Halloween de Madea (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desculpe Te Incomodar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/765hS3KlZDDUiRmIbcH4Jp0V0s4.jpg" group-title="Comédia",Desculpe Te Incomodar (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Delivery Macabro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nEE8KLQGVim5hiTvVotOeGzME7.jpg" group-title="Comédia",Delivery Macabro (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/56741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixe Que Todos Falem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg" group-title="Comédia",Deixe Que Todos Falem (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Debi & Lóide 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvEzon664YC1ygTE56rVJ4IkaEI.jpg" group-title="Comédia",Debi & Lóide 2 (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Repente uma Família (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMh9FdmUHTpwYfv3NGN1h2HhMQi.jpg" group-title="Comédia",De Repente uma Família (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Baile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg" group-title="Comédia",De Volta ao Baile (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta para Casa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYtSGwqq5fbfYckCqYplchg3MCo.jpg" group-title="Comédia",De Volta para Casa (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daphne e Velma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="Comédia",Daphne e Velma (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deu a Louca em Hollywood (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZuxR8SUCjizOhynUtBhmZBSaLU.jpg" group-title="Comédia",Deu a Louca em Hollywood (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Madeinusa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57zz2DffLRTAwbIxomUkJnmXgxU.jpg" group-title="Comédia",Detetive Madeinusa (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destemida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgDGOp8uAwKLy3tBGG50JS4ELVc.jpg" group-title="Comédia",Destemida (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desperados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg" group-title="Comédia",Desperados (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/27738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escola de Solteiras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xAcWQhSd5ANs9ipsXoac8yeW2p.jpg" group-title="Comédia",Escola de Solteiras (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Endgame: Roubo de Identidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euoonsQCowBYYqI1ztvonNjxibM.jpg" group-title="Comédia",Endgame: Roubo de Identidade (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enquanto Somos Jovens (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yl5tGndrZAC3KiKwjUfPWeyQQwH.jpg" group-title="Comédia",Enquanto Somos Jovens (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encolhi a Professora (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKMOSVrgpTbEfa0E27EdQmSkyxD.jpg" group-title="Comédia",Encolhi a Professora (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg" group-title="Comédia",Emma (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas por Uma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7u85jbkrHGV6sPrV6Y6A3wez90.jpg" group-title="Comédia",Duas por Uma (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Tias Loucas de Férias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z1a6RUMWGRHoecMPrV2VTAZNOL.jpg" group-title="Comédia",Duas Tias Loucas de Férias (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dude - A Vida É Assim (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac2bAPqL1RI8BMUnjYbxILlgnmR.jpg" group-title="Comédia",Dude - A Vida É Assim (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downhill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruLqLb2bfWKykckxVlVZayuBOgW.jpg" group-title="Comédia",Downhill (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6cA486hZEEyqmy12D0YmOlJyqp.jpg" group-title="Comédia",Doula (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Doidões em Harvard 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9NjhugUtE0Fm2TCEU6wk1rjYqu.jpg" group-title="Comédia",Dois Doidões em Harvard 2 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doces ou Travessuras (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV58h19dy7Swa3oU5eY8AQCznsJ.jpg" group-title="Comédia",Doces ou Travessuras (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Que os Homens Gostam (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg" group-title="Comédia",Do Que os Homens Gostam (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doce Argumento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg" group-title="Comédia",Doce Argumento (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana 2: Rodrick é o Cara (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oG3apBrzi3Q5C3Z2jNM61tyCW6.jpg" group-title="Comédia",Diário de um Banana 2: Rodrick é o Cara (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana 3: Dias de Cão (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfPfaQLIE1qBHfOa16YLRf0lkme.jpg" group-title="Comédia",Diário de um Banana 3: Dias de Cão (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana: Caindo na Estrada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="Comédia",Diário de um Banana: Caindo na Estrada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsttUEB2VzsaJPDwdxvtauEO8s8.jpg" group-title="Comédia",Diário de um Banana (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flops: Agentes Nada Secretos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8o3JbCpf0yJqVCZtR7ghBhtRxO.jpg" group-title="Comédia",Flops: Agentes Nada Secretos (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flor da Juventude (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVLwsGjTyq0PUwnjZTKmgFmsgol.jpg" group-title="Comédia",Flor da Juventude (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Festival Sangrento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oglP0iKN7PXXzPny7jEuPqHIczg.jpg" group-title="Comédia",Festival Sangrento (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feliz Aniversário de Casamento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGdGmY8BbvvbQ0PrfvxDM5fMEGW.jpg" group-title="Comédia",Feliz Aniversário de Casamento (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feito Cães e Gatos (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Rm3onL8f4yyyN75Fe17t9DXRo.jpg" group-title="Comédia",Feito Cães e Gatos (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/55659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feel the Beat (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBxd34dFEx6Wruf5Ch5jKLBxDi.jpg" group-title="Comédia",Feel the Beat (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/33773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família do Bagulho (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3JidSElLNqkJdddZmGdwPr9DCg.jpg" group-title="Comédia",Família do Bagulho (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/20732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Hollar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZFMWwnvtmdBMuZeCrKWt53d0Wu.jpg" group-title="Comédia",Família Hollar (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falsos Milionários (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su2h6EVRM2IlWTpiuBBWfEycFBD.jpg" group-title="Comédia",Falsos Milionários (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Explota Explota (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg" group-title="Comédia",Explota Explota (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Gosto, Só Que Não (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMjjyNwG77oAYLaglnKxBFRVYtS.jpg" group-title="Comédia",Eu Gosto, Só Que Não (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espontânea (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZffUR7JjVosp72AQOl8R3o1fB.jpg" group-title="Comédia",Espontânea (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gênios do Crime (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeGZwp0XPmtM08gA4ObdUT9OrGq.jpg" group-title="Comédia",Gênios do Crime (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra de Likes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyM7XVFFaS4808sUa0f7ANCsIAk.jpg" group-title="Comédia",Guerra de Likes (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guerra dos Monstros (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg" group-title="Comédia",Guerra dos Monstros (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Grace (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Ya0EXzfzsUk50hKnpn2q0xFdg.jpg" group-title="Comédia",Grace (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gigolô Europeu por Acidente (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csRax2B6ICUz0YfRrWyhfZtDqXm.jpg" group-title="Comédia",Gigolô Europeu por Acidente (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gigolô por Acidente (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iankBqCLmrQkU1UVNBG52kvFFns.jpg" group-title="Comédia",Gigolô por Acidente (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gente de Bem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQmaplNLuaW96TK334QkKKSGBQB.jpg" group-title="Comédia",Gente de Bem (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gente Grande (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg" group-title="Comédia",Gente Grande (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gente Grande 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaXiEVLD0fGSMU801Zftw1csPPm.jpg" group-title="Comédia",Gente Grande 2 (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Get Duked! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg" group-title="Comédia",Get Duked! (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gatos Numa Roubada (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6drA5CdkXuVhN2B9bZfpXXvE6Kf.jpg" group-title="Comédia",Gatos Numa Roubada (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gabriel e a Montanha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS4CN3Yc5tVLikxJFZHd988SH40.jpg" group-title="Comédia",Gabriel e a Montanha (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnt6zhUzarBNgO49KJDodbeSkhl.jpg" group-title="Comédia",Férias Frustradas (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7xFM5zm3UUnntNGg1TCqydjN02.jpg" group-title="Comédia",Férias Frustradas (1983)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas na Europa (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onxtn748GAnn1BiopOajbsgazU5.jpg" group-title="Comédia",Férias Frustradas na Europa (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas de Verão (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3N1tfzMOoGK8KIFT2OAOb9oUoh.jpg" group-title="Comédia",Férias Frustradas de Verão (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas em Las Vegas (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Fccsfb8kbheOeiEq4mWHiluIp1.jpg" group-title="Comédia",Férias Frustradas em Las Vegas (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Freaky: No Corpo de um Assassino (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhfZOx56e44QAKvPqqhj6REk8nH.jpg" group-title="Comédia",Freaky: No Corpo de um Assassino (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frank (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etqPktnnXLBtFIkKZ3XezrlZqSQ.jpg" group-title="Comédia",Frank (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fora de Série (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfIAkRcPUbbfSGR2JOuUppAAMLV.jpg" group-title="Comédia",Fora de Série (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Guy: Assumindo o Controle (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg" group-title="Comédia",Free Guy: Assumindo o Controle (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg" group-title="Comédia",Kung Fu Yoga (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Júpiter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg" group-title="Comédia",Júpiter (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Juntas no Crime (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnAS1vJ6evDuUpD0eRq0b0Cxynr.jpg" group-title="Comédia",Juntas no Crime (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Joe e as Baratas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PiDjrkhFP7tnnX1iATEgpDqySO.jpg" group-title="Comédia",Joe e as Baratas (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jexi -  Um Celular Sem Filtro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmsKVJbOuSFYzBazWm8djmiCcNg.jpg" group-title="Comédia",Jexi -  Um Celular Sem Filtro (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jerry & Marge Tiram a Sorte Grande (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg" group-title="Comédia",Jerry & Marge Tiram a Sorte Grande (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irresistível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv258c25YeGVLFC3cFH5kVYJGMa.jpg" group-title="Comédia",Irresistível (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/47001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Influencer de Mentira (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJKVZFS61uqFrTdyu0bo57ExX3Y.jpg" group-title="Comédia",Influencer de Mentira (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ingrid Vai para o Oeste (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juuLmXwMDunmlLxjyTvnddrN78g.jpg" group-title="Comédia",Ingrid Vai para o Oeste (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ibiza: Tudo Pelo DJ (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f6b7XrqjvedzsFkneVBWhcpIuI.jpg" group-title="Comédia",Ibiza: Tudo Pelo DJ (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hora de Brilhar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2pBQidMHRu4xP6Jafd8PBDqy05.jpg" group-title="Comédia",Hora de Brilhar (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hoje Consertamos o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FLyXyQJzT6J5R9YbEhaDsp4gEH.jpg" group-title="Comédia",Hoje Consertamos o Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Primo Vinny (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJpUigBrUUFcIAVQCEFq6rxYVgR.jpg" group-title="Comédia",Meu Primo Vinny (1992)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu (Querido) Primo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9ujj6U1E7uotn75TKtILAAysv2.jpg" group-title="Comédia",Meu (Querido) Primo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Enzo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26lLdJ8IG5EfzJwusx2DpfsuwLf.jpg" group-title="Comédia",Meu Amigo Enzo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/17596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megarromântico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0w61UOMCrTIFdKvXjWgn17UXjQ.jpg" group-title="Comédia",Megarromântico (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marido e Mulher (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atfIvKtOW2NtI5n383x0Vps1wTP.jpg" group-title="Comédia",Marido e Mulher (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamãe É Uma Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfAr4WwsDUrNunENXRBqf4op6IK.jpg" group-title="Comédia",Mamãe É Uma Espiã (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/18600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Outro Filho (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwjYbCvYPbDzkcv1SLGcqGGSsF.jpg" group-title="Comédia",Mais Outro Filho (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais que Amigos: Vizinhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FkdO8T5sob67WEiYi6cqcHUAv7.jpg" group-title="Comédia",Mais que Amigos: Vizinhos (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mainstream (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npepKBvIfyO16Kj5mrgjAixpPZf.jpg" group-title="Comédia",Mainstream (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Madea: O Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38QFDeoEk2s0tyZIhrydAS9Mvib.jpg" group-title="Comédia",Madea: O Retorno (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lá Vem os Pais (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUWXKRKsbInckc8h5k6Tte8V8Zl.jpg" group-title="Comédia",Lá Vem os Pais (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutando Pela Família (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w8LcQAG2Yo8EQUjNyNPiBZ442B.jpg" group-title="Comédia",Lutando Pela Família (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucuras de Verão (1973)" tvg-logo="http://dns.clientetv.xyz:8000/images/ybRMhoZlZtarZlAmjps02wKdK20ihopW.jpg" group-title="Comédia",Loucuras de Verão (1973)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucuras de Verão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pvaJhDG8NjreXI1JruotEpyBFt.jpg" group-title="Comédia",Loucuras de Verão (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucuras em Familia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23gJ8MMrlMdtlFyhaDP0c77uV8M.jpg" group-title="Comédia",Loucuras em Familia (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucuras na Idade Média (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aibgm0dWaFWTE6XMpF4hQ4tjWcV.jpg" group-title="Comédia",Loucuras na Idade Média (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 2: A Primeira Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WuzjLfMzP7W401g8SxMsGQQHWr.jpg" group-title="Comédia",Loucademia de Polícia 2: A Primeira Missão (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 3: De Volta ao Treinamento (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eNvDaavp5Pc5Jb9bn2f8xxqW8U.jpg" group-title="Comédia",Loucademia de Polícia 3: De Volta ao Treinamento (1986)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 4: O Cidadão se Defende (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u55dMZoQyVr7OJJY6F267xpBAQt.jpg" group-title="Comédia",Loucademia de Polícia 4: O Cidadão se Defende (1987)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 5: Missão Miami Beach (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cohnyM8W0afsD6k18ABxWo9OcoA.jpg" group-title="Comédia",Loucademia de Polícia 5: Missão Miami Beach (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 7: Missão Moscou (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWwJCyN0581JGDJDnMvuUkH7JT.jpg" group-title="Comédia",Loucademia de Polícia 7: Missão Moscou (1994)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9YVToce8sYCEoKMJTFyHdAov4l.jpg" group-title="Comédia",Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQoBCP2SbprgEqKtRYpOflTCKWZ.jpg" group-title="Comédia",Loucademia de Polícia (1984)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Limbo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycjLXNe3apGmcT4ecO2WBbIFPO.jpg" group-title="Comédia",Limbo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legalmente Loira (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlieYqoBgbcIhYT8CgSGu4QRXWw.jpg" group-title="Comédia",Legalmente Loira (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/51916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legalmente Loira 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPTwoOdHMupVncmn3LveSGag4Mt.jpg" group-title="Comédia",Legalmente Loira 2 (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largadas Em Família (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKZlr1zixicZGK6QXk3f7EGfdak.jpg" group-title="Comédia",Largadas Em Família (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistério no Mediterrâneo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg" group-title="Comédia",Mistério no Mediterrâneo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miss Simpatia (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xltCN7p2dsrNMcGWEifcCKDMoR4.jpg" group-title="Comédia",Miss Simpatia (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miss Simpatia 2 - Armada e Poderosa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSJXqa4g3damGoDEhMQ00Snbix8.jpg" group-title="Comédia",Miss Simpatia 2 - Armada e Poderosa (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Vida Perfeita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QkjP5o3FepBX8SujOMnEEOoOqR.jpg" group-title="Comédia",Minha Vida Perfeita (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/71489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MILF (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJGK2006L36f0Ybi7A4LfJpgiBb.jpg" group-title="Comédia",MILF (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Noiva é de Matar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkb9SMXSRzXHlK02tKpZ0K3jdQw.jpg" group-title="Comédia",Minha Noiva é de Matar (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/81266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Primeira Caçada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfByLOy0MEhxw74UvNb8FZYWz4a.jpg" group-title="Comédia",Minha Primeira Caçada (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é Uma Peça 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg" group-title="Comédia",Minha Mãe é Uma Peça 3 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mimadinhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXPWkZ03VfFPhok3DkUlJSxWpFv.jpg" group-title="Comédia",Mimadinhos (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Chefe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvHzkK0VvKQ3noByKaRnKB2VYYt.jpg" group-title="Comédia",O Chefe (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6AJO7VKq0c63zjyS1nFJXIcfZw.jpg" group-title="Comédia",O Bom Doutor (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Auto da Boa Mentira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUPmGxi00UJhzDYuXbvtCXRZEio.jpg" group-title="Comédia",O Auto da Boa Mentira (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/64526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Vamos Pagar Nada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0izXc21pFtf98dwiiudIGmm4lX.jpg" group-title="Comédia",Não Vamos Pagar Nada (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nunca Visto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkvM5TA9S2haJBta1P8p9zzhYd.jpg" group-title="Comédia",Nunca Visto (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/17595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nu (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYOtHuKob0p34ueqcg1nXfpYIz4.jpg" group-title="Comédia",Nu (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nunca Convide o Seu Ex (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7j3vpxA6bUixpTmY3GldOM0FV9M.jpg" group-title="Comédia",Nunca Convide o Seu Ex (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Notas de Rebeldia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNB6DoHiAr1epeDlqIh3onfjv8M.jpg" group-title="Comédia",Notas de Rebeldia (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nossa Vida com Cães (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJoFG7M9edUIkh8y6tYnLCRHZyO.jpg" group-title="Comédia",Nossa Vida com Cães (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nossas Meninas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QHA9UXs34jB1IxeitCgOdWmr5Z.jpg" group-title="Comédia",Nossas Meninas (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite do Jogo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWbGZt8URdS8N4AVpTRupdBXClz.jpg" group-title="Comédia",A Noite do Jogo (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noelle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg" group-title="Comédia",Noelle (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Balanço das Coisas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n18Nnjyl4GUJx2paLNZASRppLkb.jpg" group-title="Comédia",No Balanço das Coisas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/28069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nina: No Palco e Na Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg" group-title="Comédia",Nina: No Palco e Na Vida (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal Sob Fogo Cruzado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPD6FPvQfe3wjySDnlzvfkI58CA.jpg" group-title="Comédia",Natal Sob Fogo Cruzado (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nadando Com Homens (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvWauLn7gh8OfkCpaxeanhERVY.jpg" group-title="Comédia",Nadando Com Homens (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nada a Esconder (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1juJkwaqoJShq5NhdC7q7sBGApa.jpg" group-title="Comédia",Nada a Esconder (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mãe e Muito Mais (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmxpmxuxHCPAKo3anxdFuyu294I.jpg" group-title="Comédia",Mãe e Muito Mais (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Má Educação (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7V9owkUk6mi8iPAYy5LPmLYG49.jpg" group-title="Comédia",Má Educação (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Muito Além do Ordinário (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dngVw1DKVcKZ2lTidROTdCjdsJC.jpg" group-title="Comédia",Muito Além do Ordinário (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Muito Amor Pra Dar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9587vedpUOx1lHk6lcvC53juBg.jpg" group-title="Comédia",Muito Amor Pra Dar (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mudança do Barulho (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBNlGLq1snD1UWOFqdsyp8PcX7q.jpg" group-title="Comédia",Mudança do Barulho (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/79919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mudança de Hábito (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg" group-title="Comédia",Mudança de Hábito (1992)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nekrotronic (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT0G9rNziv26mx5Q2QS1ecwzaQ6.jpg" group-title="Comédia",Nekrotronic (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Ex-Marido (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xpdwyko6HUqWw090UvLYSsbVqy.jpg" group-title="Comédia",Nosso Ex-Marido (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dono da Festa (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rqZ0O4Rc6ckFYqx8ECD0LfchJj.jpg" group-title="Comédia",O Dono da Festa (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dono da Festa 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZUW4xcPoQjwlall4nwroXEcfcd.jpg" group-title="Comédia",O Dono da Festa 2 (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dono da Festa 3 - Diversão sem Limites (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDUGtkcj0wg8jPul4cUNlxabY4S.jpg" group-title="Comédia",O Dono da Festa 3 - Diversão sem Limites (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Doutor da Felicidade (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kNpSdSAHiXxjfezIOAr1nR7lFK.jpg" group-title="Comédia",O Doutor da Felicidade (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Prada (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwaioeouE89lrcnckfluzIKMwSu.jpg" group-title="Comédia",O Diabo Veste Prada (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sol de Riccione (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySCx1nZXw5CRy0BHQdDjx6nc2HS.jpg" group-title="Comédia",O Sol de Riccione (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pequenino (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhz8suBlc45xIyanIIAg7DmWHCB.jpg" group-title="Comédia",O Pequenino (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pai da Noiva (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eoRFcvC2TCDKLv8MFF8remLdzS.jpg" group-title="Comédia",O Pai da Noiva (1991)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pacote (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soOtoU3f2lj23EOWr3VOURJNRfq.jpg" group-title="Comédia",O Pacote (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Melhor está por vir (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scjDcAaxscXJeRUkBjNFOwqc7W.jpg" group-title="Comédia",O Melhor está por vir (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/29056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Melhor Pai do Mundo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg" group-title="Comédia",O Melhor Pai do Mundo (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Melhor Presente é o Amor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drURajYe5LGV9wqNvdmhbJmbdoI.jpg" group-title="Comédia",O Melhor Presente é o Amor (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beeu4ss1lGGU3gctVXHv2C9TLiA.jpg" group-title="Comédia",O Jogo da Vida (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Matou Dom Quixote (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ93dEu9747rsSOTA82hKmtOrn5.jpg" group-title="Comédia",O Homem Que Matou Dom Quixote (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Halloween do Hubie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhWYlsPynRZtyJH6MTsiuLGOCNu.jpg" group-title="Comédia",O Halloween do Hubie (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espaços entre Nós (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzqf3ysrUjEbCVyITHUIBiMUp8q.jpg" group-title="Comédia",O Espaços entre Nós (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/83636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Instituto de Mágica (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKafNWADaGYG3pM9a4ZoyAvjp8A.jpg" group-title="Comédia",O Instituto de Mágica (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jovem Kieslowski (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw8o1moi2snM2s0BQUTkErZo7Qe.jpg" group-title="Comédia",O Jovem Kieslowski (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Jogo de Amor – "Odio" (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg" group-title="Romance",O Jogo de Amor – "Odio" (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pai da Noiva II (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jleYA9C53MR7rajS7LUV0xFbzJo.jpg" group-title="Comédia",O Pai da Noiva II (1995)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Perfeito Sr. Cha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jgL3Hdt3arpW3gsMSx6YI5z9EP.jpg" group-title="Comédia",O Perfeito Sr. Cha (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Spirou (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSGAjR1pm8jpKCWEqOTnstLNlCl.jpg" group-title="Comédia",O Pequeno Spirou (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Jogo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGI67Qu22wAKJQU6CqhZVB3KSmP.jpg" group-title="Comédia",O Último Jogo (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Aloprados (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1X907lfrQQlP1gZNxs5qZ7RhrF.jpg" group-title="Comédia",Os Aloprados (2008)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Amantes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbg3pvt9X1CKNAMu7NHXb68qS2.jpg" group-title="Comédia",Os Amantes (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onde Está a Vovó? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o79P7KjDt7dKXeFhTnLLOSZibx3.jpg" group-title="Comédia",Onde Está a Vovó? (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oitava Série (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cXqKpHo2vydjnaYOGbYrKbqXk8.jpg" group-title="Comédia",Oitava Série (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oito Mulheres e um Segredo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mymTjvZeg9hkSSofg78nH0GOtLS.jpg" group-title="Comédia",Oito Mulheres e um Segredo (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10124.mp4
-
-#EXTM3U url-tvg="http://grade-de-Filme Terror.xml"
-############## Filme Terror ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilme Terror" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Jogo do Bunker (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqnpWetItUfRV7kwmGQ1DTthqWU.jpg" group-title="Terror",O Jogo do Bunker (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora Da Sua Morte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qukqQBC1N2KTakalFPxoKf2SycP.jpg" group-title="Terror",A Hora Da Sua Morte (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Exorcismo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg" group-title="Terror",A Hora do Exorcismo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/52025.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo" tvg-name="A Hora do Pesadelo (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg" group-title="Terror",A Hora do Pesadelo (1984)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12125.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo Parte 2 A Vinganca de Freddy" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHFq7fGucKBm4DeXf84U5ibLhK3.jpg" group-title="Terror",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12126.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo 3 Os Guerreiros dos Sonhos   " tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12121.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo 4 O Mestre dos Sonhos" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12122.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo 5 O Maior Horror de Freddy" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddOLCJVtIyRiRlLlrF5PCu6g7Hg.jpg" group-title="Terror",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12123.mp4
-#EXTINF:-1 tvg-id="A Hora do Pesadelo 6 Pesadelo Final A Morte de Freddy" tvg-name="A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7yb8OS0bFNn6lpjJkdA8pziimF.jpg" group-title="Terror",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12124.mp4
-#EXTINF:-1 tvg-id="O Novo Pesadelo O Retorno de Freddy Krueger" tvg-name="A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEVFm2LfUSfYfuctRWPiBEnberd.jpg" group-title="Terror",A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gruta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" group-title="Terror",A Gruta (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40932.mp4
-#EXTINF:-1 tvg-id="A Freira   " tvg-name="A Freira (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MG9XyyzLvON5iqCp8l8eVI8QiF.jpg" group-title="Terror",A Freira (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Forca 2 - Segundo Ato (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Se1buPgxxMF5iZ4tIK8AzT5td.jpg" group-title="Terror",A Forca 2 - Segundo Ato (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12492.mp4
-#EXTINF:-1 tvg-id="A Criatura Sombria   " tvg-name="A Criatura Sombria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9Zyv8WO36xcSbLqAkBfKK4qlYU.jpg" group-title="Terror",A Criatura Sombria (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="Terror",A Cor Que Caiu do Espaço (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42593.mp4
-#EXTINF:-1 tvg-id="A Casa do Medo Incidente em Ghostland   " tvg-name="A Casa do Medo: Incidente em Ghostland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Terror",A Casa do Medo: Incidente em Ghostland (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Terror",A Casa do Terror (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auYgUlzat97qhDNPk2RjjU6cvnb.jpg" group-title="Terror",A Bruxa da Casa ao Lado (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42850.mp4
-#EXTINF:-1 tvg-id="A Autopsia   " tvg-name="A Autópsia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Terror",A Autópsia (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá: O Chamado das Sombras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnK2b8TgDq5dYXvFdKqrk2lvH4q.jpg" group-title="Terror",A Babá: O Chamado das Sombras (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá: Rainha da Morte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg" group-title="Terror",A Babá: Rainha da Morte (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/34907.mp4
-#EXTINF:-1 tvg-id="60 Minutos para Morrer   " tvg-name="60 Minutos para Morrer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5pJ8IoOanVAPBzKi3GiVnGlOld.jpg" group-title="Terror",60 Minutos para Morrer (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Horas Para Sobreviver: O Ano da Eleição (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MLDMRWXZEIZsQ1KEelUeX2dUAZ.jpg" group-title="Terror",12 Horas Para Sobreviver: O Ano da Eleição (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa no Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="Terror",A Casa no Bayou (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/73702.mp4
-#EXTINF:-1 tvg-id="A Entidade 2   " tvg-name="A Entidade 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="Terror",A Entidade 2 (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12119.mp4
-#EXTINF:-1 tvg-id="A Maldicao da Chorona  " tvg-name="A Maldição da Chorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYNaKWraoWvAwLWukxQksz2NlFa.jpg" group-title="Terror",A Maldição da Chorona (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Floresta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0jIXTio4LMMSjppTHbcYPawews.jpg" group-title="Terror",A Maldição da Floresta (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63797.mp4
-#EXTINF:-1 tvg-id="A Maldicao de Chucky   " tvg-name="A Maldição de Chucky (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLHcsBemdliseJUteA6IuX24op0.jpg" group-title="Terror",A Maldição de Chucky (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Isabelle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j45giQ0qy2rnzPuVDfP13QYIydg.jpg" group-title="Terror",A Maldição de Isabelle (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66008.mp4
-#EXTINF:-1 tvg-id="A Maldicao do Boneco Robert   " tvg-name="A Maldição do Boneco Robert (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA435Cf8C3Mu9Gjqfs4IZPnSNQ.jpg" group-title="Terror",A Maldição do Boneco Robert (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Espelho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ws3ZQ8hCTUwFf6FtSUcksIoo69.jpg" group-title="Terror",A Maldição do Espelho (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição dos Esquecidos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LSwj9bxaNCPVIBShpgwzTZNalt.jpg" group-title="Terror",A Maldição dos Esquecidos (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10903.mp4
-#EXTINF:-1 tvg-id="A Mansao   " tvg-name="A Mansão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWLByXVaPaxxqX0wnCPAm9AccIq.jpg" group-title="Terror",A Mansão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mansão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpz5hyD5YhNMgqnVSvdtMuWmxr4.jpg" group-title="Terror",A Mansão (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Terror",A Maldição (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51Zvpg2kAIrzPdsQcIWojJhEhyS.jpg" group-title="Terror",A Lenda de Candyman (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67283.mp4
-#EXTINF:-1 tvg-id="Invasao Zumbi   " tvg-name="A Invasão Zumbi (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGyeGL033oG4eVaf0CiXNqdUTbH.jpg" group-title="Terror",A Invasão Zumbi (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12210.mp4
-#EXTINF:-1 tvg-id="A Lenda de Golem  " tvg-name="A Lenda de Golem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiclBTEH86P3IoURr9En7vdv2M.jpg" group-title="Terror",A Lenda de Golem (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca do Demônio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysxJaqSEdWXNBYYvIcE5uLFGkDI.jpg" group-title="Terror",A Marca do Demônio (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Mary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg" group-title="Terror",A Possessão de Mary (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24602.mp4
-#EXTINF:-1 tvg-id="A Noiva de Chucky" tvg-name="A Noiva de Chucky (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVKlNWNduGgPwI89I35CWtvIsn.jpg" group-title="Terror",A Noiva de Chucky (1998)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12139.mp4
-#EXTINF:-1 tvg-id="A Noite Devorou O Mundo   " tvg-name="A Noite Devorou o Mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikoAy9X05ZN7dskWC6c7dfIh0RP.jpg" group-title="Terror",A Noite Devorou o Mundo (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12136.mp4
-#EXTINF:-1 tvg-id="A Noite dos Mortos   " tvg-name="A Noite dos Mortos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZzSxliBkqVqRaXKCnQVr59VcNt.jpg" group-title="Terror",A Noite dos Mortos (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12137.mp4
-#EXTINF:-1 tvg-id="A Moca da Limpeza   " tvg-name="A Moça da Limpeza (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44afwxQiJb2qwy0EHE8dVyif3dL.jpg" group-title="Terror",A Moça da Limpeza (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12133.mp4
-#EXTINF:-1 tvg-id="A Morte te da Parabens   " tvg-name="A Morte te dá Parabéns (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="Terror",A Morte te dá Parabéns (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12135.mp4
-#EXTINF:-1 tvg-id="A Morte Te Da Parabens 2   " tvg-name="A Morte Te Dá Parabéns 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvcFFL2B6zcn3cM6ZMshV6w2bev.jpg" group-title="Terror",A Morte Te Dá Parabéns 2 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/12134.mp4
-
-#EXTM3U url-tvg="http://grade-de-Suspense Mistériol.xml"
-############## Suspense Mistério ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSuspense Mistério" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Gangue - Uma Noite de Terror (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxDoeVZBWVqaDpJ6NDh7SGPQvBK.jpg" group-title="Suspense/ Mistério",A Gangue - Uma Noite de Terror (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/39382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufIV7job8TNhl5pcX8D8wAwEXb8.jpg" group-title="Suspense/ Mistério",A Espiã (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Suspense/ Mistério",A Espiã Vermelha (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Sombria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg" group-title="Suspense/ Mistério",A Casa Sombria (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caixa (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVZFQ8V8XBiIgFpWGlG5qyW5z15.jpg" group-title="Suspense/ Mistério",A Caixa (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg" group-title="Suspense/ Mistério",A Bruxa de Blair (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/47449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair 2: O Livro das Sombras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg" group-title="Suspense/ Mistério",A Bruxa de Blair 2: O Livro das Sombras (2000)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/47452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Desejos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg" group-title="Suspense/ Mistério",7 Desejos (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4x4 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg" group-title="Suspense/ Mistério",4x4 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5 Contos De loucura (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gskZDEeR16aKnSE2ju4QiM9iO1b.jpg" group-title="Suspense/ Mistério",5 Contos De loucura (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10x10: O Cativeiro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Suspense/ Mistério",10x10: O Cativeiro (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13º Andar -1999" tvg-logo="http://dns.clientetv.xyz:8000/images/UXJ0x5nzSYjkZPk8ps5lURQc7aTp7KMt.jpg" group-title="Suspense/ Mistério",13º Andar -1999
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1408 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEaMTpG71O0NN7XlQwYyaWVpTyX.jpg" group-title="Suspense/ Mistério",1408 (2007)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15h17 - Trem Para Paris (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg" group-title="Suspense/ Mistério",15h17 - Trem Para Paris (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="16 Quadras (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbWd6N4ORhDJxlMVO4vxRNEZtib.jpg" group-title="Suspense/ Mistério",16 Quadras (2006)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2:22 - Encontro Marcado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1MvGtmfNNLTFyVvJAV2lI9X5JG.jpg" group-title="Suspense/ Mistério",2:22 - Encontro Marcado (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="Suspense/ Mistério",72 Horas (2010)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ameaça (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCuZp4QHcKsgVG8cAy8gsppJTgv.jpg" group-title="Suspense/ Mistério",A Ameaça (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36R8qqx51WE7IkHcn4BohLzLqGY.jpg" group-title="Drama/ História",A Assistente (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTOXrdhDq8EYKAiMVcWbkiVfU9d.jpg" group-title="Suspense/ Mistério",A Casa da Colina (1999)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGfT6Edm2PSXDbGfwIJgCUzbHCl.jpg" group-title="Suspense/ Mistério",A Caverna (2005)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQGWOCFsYBGOwt9hQY7BT5m8rnl.jpg" group-title="Suspense/ Mistério",A Garota no Trem (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg" group-title="Suspense/ Mistério",A Garota no Trem (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/45580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Testemunha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4AcC9CqCJeWXcswUoS3uGdw37F.jpg" group-title="Suspense/ Mistério",A Última Testemunha (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Ele Queria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg" group-title="Suspense/ Mistério",A Última Coisa que Ele Queria (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/24806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vingança da Babá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw0N8q4hHAtIDOdNXzBScL5XzOm.jpg" group-title="Suspense/ Mistério",A Vingança da Babá (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vigilante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqupjV77h9Zno2YPwsUJuGqN8MZ.jpg" group-title="Suspense/ Mistério",A Vigilante (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vastidão da Noite (2020) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg" group-title="Suspense/ Mistério",A Vastidão da Noite (2020) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Soma de Todos os Medos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34u0sGVtrhxmAGR8j32xFrxwlNX.jpg" group-title="Suspense/ Mistério",A Soma de Todos os Medos (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sombra de Stalin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzri2oD8C5h36nBvOJN9SAXqlA.jpg" group-title="Suspense/ Mistério",A Sombra de Stalin (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/76669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rosa Venenosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="Suspense/ Mistério",A Rosa Venenosa (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pedreira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg" group-title="Suspense/ Mistério",A Pedreira (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/23374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pedreira (2020) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg" group-title="Suspense/ Mistério",A Pedreira (2020) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa Winchester (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg" group-title="Suspense/ Mistério",A Maldição da Casa Winchester (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Suspense/ Mistério",A Ira de Deus (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Irmandade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgzvx0Eufk9zfeyEjyb8kuHxADK.jpg" group-title="Suspense/ Mistério",A Irmandade (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/19858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mmd9L8hWbnYQlRbxmnmNswEVYW.jpg" group-title="Suspense/ Mistério",A Marca Negra (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="Suspense/ Mistério",A Morte Salvou Minha Vida (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/60624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mãe Errada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp95wf7lL8j7kIrHkJW6SrtAD9p.jpg" group-title="Suspense/ Mistério",A Mãe Errada (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pele Que Habito (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGiaUmq2O3lkPlNxJ468Raz7Xek.jpg" group-title="Suspense/ Mistério",A Pele Que Habito (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vingança Perfeita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfshkd4jotXFIbmJirYpgxzpdCR.jpg" group-title="Suspense/ Mistério",A Vingança Perfeita (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aluguel de Pesadelo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8VduiTPank0pSoyXFECG0lAiml.jpg" group-title="Suspense/ Mistério",Aluguel de Pesadelo (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/27734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5BV1R0q6IW3h2a1pGWTB7Z40Ea.jpg" group-title="Suspense/ Mistério",Alerta Lobo (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AK vs AK (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg" group-title="Suspense/ Mistério",AK vs AK (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PpgvIQlaYLL3HSNwidsppnpf3A.jpg" group-title="Suspense/ Mistério",Agente Infiltrada (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Advogado do Diabo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL17FxDhLDeTdgZxOg2MQrY8PMv.jpg" group-title="Suspense/ Mistério",Advogado do Diabo (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acrimônia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsY1jFetFR5YgHfbejIAiRx65uT.jpg" group-title="Suspense/ Mistério",Acrimônia (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acusada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg" group-title="Suspense/ Mistério",Acusada (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acima de Qualquer Suspeita (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIFjbhWryllEc0NrlnavEQabb9V.jpg" group-title="Suspense/ Mistério",Acima de Qualquer Suspeita (1990)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adeus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWX7PHjRwSPk0zwWg2SykH1QrMl.jpg" group-title="Suspense/ Mistério",Adeus (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/40396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agentes Duplos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvNJfzSHv3zpmBH0Uu8pZTW3f9x.jpg" group-title="Suspense/ Mistério",Agentes Duplos (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/23364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de um Assassino (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RhycQl6RKfT4GTCReZ0L1nJ4ki.jpg" group-title="Suspense/ Mistério",Ao Lado de um Assassino (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anomalia: Corrida Contra a Vida (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqeHMxO2UZmrRiRJLLxyGog3PdC.jpg" group-title="Suspense/ Mistério",Anomalia: Corrida Contra a Vida (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aniquilação (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DUGK2WvnyiBJwKOYhTR9FHx2Mh.jpg" group-title="Suspense/ Mistério",Aniquilação (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anaconda (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huhasXFLrKfPHEqbz4ALadOnXZZ.jpg" group-title="Suspense/ Mistério",Anaconda (1997)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anaconda 2 - A Caçada pela Orquídea Sangrenta (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi3KRmJlEtRV090wgeEPiFQ6cxm.jpg" group-title="Suspense/ Mistério",Anaconda 2 - A Caçada pela Orquídea Sangrenta (2004)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amizade Radical (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXgkfp7pLw4W8DCawfPyhKW75Ou.jpg" group-title="Suspense/ Mistério",Amizade Radical (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/65996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além da Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFOkbTAUdST5YC1jORfilcrgE4p.jpg" group-title="Suspense/ Mistério",Além da Vida (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além das Profundezas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEgdoPDRyRs9v8dvN4Aqna0wGcM.jpg" group-title="Suspense/ Mistério",Além das Profundezas (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/53007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AmnesiA (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmail7xcnSxJOhG0gWSTVZ4PiAt.jpg" group-title="Suspense/ Mistério",AmnesiA (2001)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anjos e Demônios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Nl3kVgNOWuOSwf0TwseVcR1gLj.jpg" group-title="Suspense/ Mistério",Anjos e Demônios (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aposta Máxima (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xZY1BZWIgkKI2zSfE9qHiADaOF.jpg" group-title="Suspense/ Mistério",Aposta Máxima (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11018.mp4
-
-#EXTM3U url-tvg="http://grade-de-Guerra Policial.xml"
-############## Guerra Policial ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeGuerra Policial" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="Guerra/ Policial",A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urv4UaKHVBSshmxmwTHXy2Qyyji.jpg" group-title="Guerra/ Policial",7 Dias em Entebbe (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uk9GedoTYlnKnbruXPArU09F8oT.jpg" group-title="Guerra/ Policial",7 Prisioneiros (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019) [DUAL]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019) [DUAL]
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/25317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg" group-title="Guerra/ Policial",1917 (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/23376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Guerra/ Policial",15 Minutos de Guerra (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Heróis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Guerra/ Policial",12 Heróis (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="+Velozes +Furiosos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="Guerra/ Policial",+Velozes +Furiosos (2003)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="'71: Esquecido em Belfast (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asyYonjJkOn7Xl4hyfBMocD1i0K.jpg" group-title="Guerra/ Policial",'71: Esquecido em Belfast (2014)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crimes Obscuros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ6L3pV1yKWqYPGv5WZkJE18s8.jpg" group-title="Guerra/ Policial",Crimes Obscuros (2016)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Criminosos de Novembro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBATtnu1bkeeMQx0HHGJQXA1vqp.jpg" group-title="Guerra/ Policial",Criminosos de Novembro (2017)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corações de Ferro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WtUjpboPESZbabGbC4ryd81KcR.jpg" group-title="Guerra/ Policial",Corações de Ferro (2014)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Covil de Ladrões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBmox3I98bkRXzJCyNBCHFhcvDY.jpg" group-title="Guerra/ Policial",Covil de Ladrões (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Guerra/ Policial",A Batalha Esquecida (2021)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/66201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urv4UaKHVBSshmxmwTHXy2Qyyji.jpg" group-title="Guerra/ Policial",7 Dias em Entebbe (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="Guerra/ Policial",A Batalha das Ardenas - A Última Ofensiva de Hitler (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Beira do Abismo - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3TIOW2Ydoq54eXDGJprwu2cuGY.jpg" group-title="Guerra/ Policial",A Beira do Abismo - 2012
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph9s2yu65bQS5IDjKRPdEXoD3tC.jpg" group-title="Guerra/ Policial",A Fera da Guerra (1988)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Guerra/ Policial",13 Horas: Os Soldados Secretos de Benghazi (2016)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Heróis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Guerra/ Policial",12 Heróis (2018)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="'71: Esquecido em Belfast (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asyYonjJkOn7Xl4hyfBMocD1i0K.jpg" group-title="Guerra/ Policial",'71: Esquecido em Belfast (2014)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="+Velozes +Furiosos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="Guerra/ Policial",+Velozes +Furiosos (2003)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Guerra/ Policial",15 Minutos de Guerra (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/9527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6lDTyJl7SEbv4jZkftVBPndZH2.jpg" group-title="Guerra/ Policial",1917 (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/23376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1918 – A Batalha de Kruty (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Guerra/ Policial",1918 – A Batalha de Kruty (2019)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/25475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Emoção: Além do Limite (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1kcojadmCqDM8sqLR8APnYu1lx.jpg" group-title="Guerra/ Policial",Caçadores de Emoção: Além do Limite (2015)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Frenética (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aevqb0AIthxiVIQI3CCkhQy8JYw.jpg" group-title="Guerra/ Policial",Busca Frenética (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglórios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg" group-title="Guerra/ Policial",Bastardos Inglórios (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bastardoz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac9cLKaSWBRtdOEFzOZkm2YnhUh.jpg" group-title="Guerra/ Policial",Bastardoz (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" group-title="Guerra/ Policial",Até o Último Homem (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atraídos Pelo Crime (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVmWICU5rTu9t7B8CwdlIaHRa63.jpg" group-title="Guerra/ Policial",Atraídos Pelo Crime (2009)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atrás da Linha: Fuga para Dunkirk (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg" group-title="Guerra/ Policial",Atrás da Linha: Fuga para Dunkirk (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ato de Coragem (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jwRYDsSEwJQhdBiiWgjvv7jZKX.jpg" group-title="Guerra/ Policial",Ato de Coragem (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armadilha do Caçador (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ind0vC70PbjQeLVYMqhSxGyjfpq.jpg" group-title="Guerra/ Policial",Armadilha do Caçador (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/63932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alvo Triplo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWRI8Ew9RyJweGJycUfnaO6RtVY.jpg" group-title="Guerra/ Policial",Alvo Triplo (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8swZAUefTHzK8cCEpgLOXzBH7QE.jpg" group-title="Guerra/ Policial",A Última Jornada (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Tragédia de Macbeth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIKT6a3bD44a5sY4vVdP4xSPm9f.jpg" group-title="Guerra/ Policial",A Tragédia de Macbeth (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Face da Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg" group-title="Guerra/ Policial",A Outra Face da Guerra (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Guerra/ Policial",A Batalha Esquecida (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Guerra/ Policial",13 Horas: Os Soldados Secretos de Benghazi (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Beira do Abismo - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3TIOW2Ydoq54eXDGJprwu2cuGY.jpg" group-title="Guerra/ Policial",A Beira do Abismo - 2012
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph9s2yu65bQS5IDjKRPdEXoD3tC.jpg" group-title="Guerra/ Policial",A Fera da Guerra (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Resistência (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSOmOm5PlJ3kEhkQJxtqMSeuWpQ.jpg" group-title="Guerra/ Policial",A Última Resistência (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/9532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anne Frank, Minha Melhor Amiga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LEIoUuHQw1UhyyV8TCLNtO3E6g.jpg" group-title="Guerra/ Policial",Anne Frank, Minha Melhor Amiga (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/70558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Braddock - O Super Comando (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntLGHv9mS1bQOio96kWBsXwUM96.jpg" group-title="Guerra/ Policial",Braddock - O Super Comando (1984)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Braddock 2 - O Início da Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daXL5a0BLjaFsN9CsCEf4J7HsIF.jpg" group-title="Guerra/ Policial",Braddock 2 - O Início da Missão (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Braddock 3 - O Resgate (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGGMPMPZnyP4VRWatE1igyje4YY.jpg" group-title="Guerra/ Policial",Braddock 3 - O Resgate (1988)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/42852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Busca Sem Limites (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPImEQzFOn2Ryjb2dRTAepKPCbf.jpg" group-title="Guerra/ Policial",Busca Sem Limites (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caos na Prisão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOllmhr6pVWR18Prmp1dCMPVtw6.jpg" group-title="Guerra/ Policial",Caos na Prisão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carga Bruta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/met0gYYNyQYCZS4uD0TW1SJyPwA.jpg" group-title="Guerra/ Policial",Carga Bruta (2016)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10648.mp4
-
-#EXTM3U url-tvg="http://grade-de-Família Aventura.xml"
-############## Família Aventura ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFamília Aventura" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Leão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="Família/ Aventura",A Menina e o Leão (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina que Acredita em Milagres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="Família/ Aventura",A Menina que Acredita em Milagres (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Família/ Aventura",A Lenda do Cavaleiro Negro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/86653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJaIMHO88X5BWWnnirejsHtgQvF.jpg" group-title="Família/ Aventura",A Invenção de Hugo Cabret (2011)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg" group-title="Família/ Aventura",A Ilha da Fantasia (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/30106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="Família/ Aventura",A Família Noel (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/66898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Família/ Aventura",A Família Perfeita (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/80747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="Família/ Aventura",A Extraordinária Garota Chamada Estrela (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/22267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estranha Vida de Timothy Green (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DzAiR21jQpuy832gIGCdUdnOvm.jpg" group-title="Família/ Aventura",A Estranha Vida de Timothy Green (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWUTDVedmpG4RTFZ8oTy5IyG1jh.jpg" group-title="Família/ Aventura",A Caminho de Casa (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="Família/ Aventura",A Batalha do Ano (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz6rT9M05abWXlU964qJ151On47.jpg" group-title="Família/ Aventura",101 Dálmatas (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/41245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas para o Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwhbcbG9N7yR9Wq5e0UZVAJqUy.jpg" group-title="Família/ Aventura",24 Horas para o Natal (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusões (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86CyysIw6WvboRPN8qrjCP0M0nS.jpg" group-title="Família/ Aventura",8 Mile: Rua das Ilusões (2002)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada - 1986" tvg-logo="http://dns.clientetv.xyz:8000/images/3YdXKgHBg1JGry8xgb69Ftk0JiObrpmc.jpg" group-title="Família/ Aventura",A Encruzilhada - 1986
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fita Cassete (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" group-title="Família/ Aventura",A Fita Cassete (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/68262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Irmandade do Dragão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXn6VkbTmH7wuoqCuTrTxmBPemG.jpg" group-title="Família/ Aventura",A Irmandade do Dragão (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/84284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Música do Silêncio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFLxGQ7YhH5Oc6XgHa2fXAfJTSE.jpg" group-title="Família/ Aventura",A Música do Silêncio (2017)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IyM08kfgW3iMThfJLSOcURgGvN.jpg" group-title="Família/ Aventura",Zoo: Uma Amizade Maior que a Vida (2018)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Família/ Aventura",13: O Musical (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/87188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matilda (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeZlWxfItQZD1qGCqbcKYKqQM8n.jpg" group-title="Família/ Aventura",Matilda (1996)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/88744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deu a Louca na História: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joJGjHPtqgZs8RhcrIRWKdRIJJB.jpg" group-title="Família/ Aventura",Deu a Louca na História: O Filme (2019)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ivy e Bean (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/622G9bcbZWFT61ZUhPfZhhMKilq.jpg" group-title="Família/ Aventura",Ivy e Bean (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinóquio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg" group-title="Família/ Aventura",Pinóquio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/89024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encomenda para o Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mV4WRHGMYjMSL7G7r9PbVGQcxs.jpg" group-title="Família/ Aventura",Encomenda para o Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez um Gênio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg" group-title="Família/ Aventura",Era Uma Vez um Gênio (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Baile de Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbAPhAZm1iUqQUYqwu92aEG309.jpg" group-title="Família/ Aventura",Missão Baile de Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal com Você (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU2sCry1YzuBoeMj06eWqTfponC.jpg" group-title="Família/ Aventura",Natal com Você (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal em Harmonia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCUN0VPubY818v0F3mPtNrFj4MQ.jpg" group-title="Família/ Aventura",Natal em Harmonia (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal em Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BSOsZLMDO6sCNAqwFKwvTXo1BM.jpg" group-title="Família/ Aventura",Natal em Hollywood (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal sem Filtro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovsE4gTvEetIRaZQnCa52otOVU9.jpg" group-title="Família/ Aventura",Natal sem Filtro (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Natal na Fazenda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW8HI9wOfUvcBemr5NHW2N5V7W8.jpg" group-title="Família/ Aventura",Nosso Natal na Fazenda (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Natal dos Mitchell 2: A Competição (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jp5rosMiQnStobFM2T2PZ6cmp3r.jpg" group-title="Família/ Aventura",O Natal dos Mitchell 2: A Competição (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Trem pro Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg" group-title="Família/ Aventura",O Último Trem pro Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Próxima Parada: Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg" group-title="Família/ Aventura",Próxima Parada: Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Um Conto de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jR1JmDCOKbOIfTc3a9pQV36EpZ.jpg" group-title="Família/ Aventura",Scrooge: Um Conto de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spirited: Um Conto Natalino (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4oo31ZE4hK3uON2ojkV39BAX8C.jpg" group-title="Família/ Aventura",Spirited: Um Conto Natalino (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma História de Natal Natalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEqOAXbPKNSOx9QbxmSjtlyYdQM.jpg" group-title="Família/ Aventura",Uma História de Natal Natalina (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valsa de Natal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7j7D50cNqYe0dILye3ASAIOMel.jpg" group-title="Família/ Aventura",Valsa de Natal (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Mistério de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg" group-title="Família/ Aventura",Um Mistério de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imU6zKtkhcH49Ph4Etx7Np2w7nv.jpg" group-title="Família/ Aventura",100 Dias para o Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Família/ Aventura",A Família Noel 2 (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vice-Versa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q5OBXE0JDeyU11bYeHC08cQuE.jpg" group-title="Família/ Aventura",Vice-Versa (2020)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIzKIA43hE26HRV77RTYtZwjOSM.jpg" group-title="Família/ Aventura",Abracadabra (1993)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/90488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Salva o Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA9L8p26slLfDaZ3AUBXGf9JpLy.jpg" group-title="Família/ Aventura",Mickey Salva o Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistério da Terra dos Doces (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPRWZk6tWyrCVnSGMR2Sl0H5rY.jpg" group-title="Família/ Aventura",Mistério da Terra dos Doces (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mucho Locos no Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJEJP8efhKgqu6z4dpe8P845VE7.jpg" group-title="Família/ Aventura",Mucho Locos no Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal no Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGmEWfSuzuqWjqJa2KMuQnK9BqG.jpg" group-title="Família/ Aventura",Natal no Paraíso (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pai A Gente Só Tem Um 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j67LwN2ZwgEmqHaUZaWgTBE8XC7.jpg" group-title="Família/ Aventura",Pai A Gente Só Tem Um 3 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brincando com o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7JONfCpdBGg3IWq4wl9vqmfwm.jpg" group-title="Família/ Aventura",Brincando com o Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/894188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor com Sabor de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIV1ZYWl0EFbB0TXI2MNre6uLUV.jpg" group-title="Família/ Aventura",Um Amor com Sabor de Natal (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/894202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Reis do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4QmLssxhPS9BlUvUQFvyZnv91a.jpg" group-title="Família/ Aventura",Os Reis do Mundo (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/896835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Então é Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u3G10gEpRBjB6874qcx7B3FZaA.jpg" group-title="Família/ Aventura",Então é Natal (2021)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal Outra Vez? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg" group-title="Família/ Aventura",Natal Outra Vez? (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/894198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matilda: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" group-title="Família/ Aventura",Matilda: O Musical (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/894195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Under Wraps: Uma Múmia no Halloween 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg" group-title="Família/ Aventura",Under Wraps: Uma Múmia no Halloween 2 (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reis Magos vs. Papai Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg" group-title="Família/ Aventura",Reis Magos vs. Papai Noel (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ele Acredita em Papai Noel! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMZEycAuLPQ2dBweIzDqUsiS8lp.jpg" group-title="Família/ Aventura",Ele Acredita em Papai Noel! (2022)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ewoks:  A Batalha de Endor (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmiu6FQsFZCtBZlzcnn5vbUG5CW.jpg" group-title="Família/ Aventura",Ewoks:  A Batalha de Endor (1985)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/893358.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Tulsa King.xml"
 ############## SÉRIES | Tulsa King ################# 
@@ -5479,7 +5074,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/221013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Ressurreição do Anticristo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" group-title="Religioso",A Ressurreição do Anticristo - 2015
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/25130.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Corajosos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg" group-title="Religioso",Corajosos (2011)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10741.mp4
 #EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religioso",Rede Vida FHD
@@ -5584,32 +5178,27 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10747.mp4
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/18626.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Em Defesa de Cristo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxN3LztDtPus5JSOv1HiRHkSco.jpg" group-title="Religioso",Em Defesa de Cristo (2017)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/10751.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | EVANGELICO CINEMA.xml"
-############## FILMES | EVANGELICO CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | EVANGELICO CINEMA" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" Sansão e Dalila  " tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="FILMES | EVANGELICO CINEMA",Sansão e Dalila
+#EXTINF:-1 tvg-id="" tvg-name=" Sansão e Dalila  " tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="Religioso",Sansão e Dalila
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  Jesus de Nazaré "tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="FILMES | EVANGELICO CINEMA",Jesus de Nazaré
+#EXTINF:-1 tvg-id="" tvg-name="  Jesus de Nazaré "tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="Religioso",Jesus de Nazaré
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une  " tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FILMES | EVANGELICO CINEMA",A Fé que Nos Une
+#EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une  " tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="Religioso",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - João Paulo II  " tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="FILMES | EVANGELICO CINEMA",Provas de Fé - João Paulo II
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - João Paulo II  " tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="Religioso",Provas de Fé - João Paulo II
 https://play.prod.gcp.vix.services/faith-joao-paulo_pt/faith-joao-paulo_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  Santa Barbara " tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="FILMES | EVANGELICO CINEMA",Santa Barbara
+#EXTINF:-1 tvg-id="" tvg-name="  Santa Barbara " tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="Religioso",Santa Barbara
 https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santo Agostinho  "tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="FILMES | EVANGELICO CINEMA",Provas de Fé - Santo Agostinho
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santo Agostinho  "tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="Religioso",Provas de Fé - Santo Agostinho
 https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santa Rita de Cássia  " tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="FILMES | EVANGELICO CINEMA",Provas de Fé - Santa Rita de Cássia
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santa Rita de Cássia  " tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="Religioso",Provas de Fé - Santa Rita de Cássia
 https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Quando Tudo Parece Perdido  "tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="FILMES | EVANGELICO CINEMA",Quando Tudo Parece Perdido
+#EXTINF:-1 tvg-id="" tvg-name=" Quando Tudo Parece Perdido  "tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="Religioso",Quando Tudo Parece Perdido
 https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Meu Filho Amado  " tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="FILMES | EVANGELICO CINEMA",Meu Filho Amado
+#EXTINF:-1 tvg-id="" tvg-name=" Meu Filho Amado  " tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="Religioso",Meu Filho Amado
 https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  A Voz de Deus " tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="FILMES | EVANGELICO CINEMA",A Voz de Deus
+#EXTINF:-1 tvg-id="" tvg-name="  A Voz de Deus " tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="Religioso",A Voz de Deus
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES | EVANGELICO CINEMA",Tomé
+#EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="Religioso",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FÉ | ESPIRITUAIS.xml"
@@ -5814,6 +5403,8 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL10   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zdDg7MsGGaqcFXeS0IqVMxVKmM5zdmPEGA&usqp=CAU"group-title="FAX | CLIPS AO VIVO",CANAL10
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" tvmax   "  tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/3f875c3fc74f0b3a0b73ac11ac425a46/374000-multimedia-canales-tv-mundo-panama-tvmax.gif"group-title="FAX | CLIPS AO VIVO",tvmax
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 
 #EXTM3U url-tvg="http://grade-de-Variedades  Musicas.xml"
 ############## Variedades  Musicas  ################# 
@@ -6360,8 +5951,6 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/897966
 http://dns.acaidopara.net:8080/21964291463/1964291463a/68867
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Polly Pocket " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDYxiyiaqSNh4s3uxHlyMPRBH4R.jpg" group-title="Desenhos 24hs",[24H] Polly Pocket 
 http://dns.acaidopara.net:8080/21964291463/1964291463a/84505
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Polícia 24hs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZdtvjj4EmllVMCzq4aAQf4fLMN.jpg" group-title="Especiais 24hs ",[24H] Polícia 24hs
-http://dns.acaidopara.net:8080/21964291463/1964291463a/84598
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau Clássico " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jn0QP45EMhthIX9WbDnfUFkDGP3.jpg" group-title="Desenhos 24hs",[24H] Pica Pau Clássico 
 http://dns.acaidopara.net:8080/21964291463/1964291463a/84586
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Pica Pau " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXzRLE9Q1xuU19_b9KnZ3AKF4sJYWhVgkwS3LEkHOlpLxKiB-m" group-title="Desenhos 24hs",[24h] Pica Pau 
@@ -6372,7 +5961,7 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/12511
 http://dns.acaidopara.net:8080/21964291463/1964291463a/93541
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Rick e Morty" tvg-logo="https://imgur.com/4VK4xCT.jpg" group-title="Desenhos 24hs",[24h] Rick e Morty
 http://dns.acaidopara.net:8080/21964291463/1964291463a/12449
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="Desenhos 24hs",[24h] Scooby-Doo! Mistério S/A
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="Desenhos 24hs",[24h] Scooby-Doo Mistério S/A
 http://dns.acaidopara.net:8080/21964291463/1964291463a/890141
 #EXTINF:-1 tvg-id="" tvg-name="[24h] She-Ra Clássico" tvg-logo="https://imgur.com/W1SsLlL.jpg" group-title="Desenhos 24hs",[24h] She-Ra Clássico
 http://dns.acaidopara.net:8080/21964291463/1964291463a/12516
@@ -6969,29 +6558,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
 http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
-
-#EXTM3U url-tvg="http://grade-de- Serie Mulher-Hulk: Defensora de Heróis.xml"
-############## Serie Mulher-Hulk: Defensora de Heróis ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie Mulher-Hulk: Defensora de Heróis" group-title="
-
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x1
-https://seig.tv/15/1/39e58605cd1b928606840cee0261f72f/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x2
-https://seig.tv/13/1/9a4ed1e7a7f83a8777ba4d400806035e/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x3
-https://seig.tv/14/1/6126c262944347be05e1146e6c9e15dd/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x4
-https://seig.tv/13/1/8d9d50ab669ee2f7be6fc19aecb6b80e/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x5
-https://seig.tv/18/1/429d6e0d422b304c90c36bca7017d49d/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x6
-https://seig.tv/14/1/a90ab580f88c4409bba1bb2f6e2562c3/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x7
-https://seig.tv/16/1/a00211d06fb2583d6c388d8d90d2d6af/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x8
-https://seig.tv/17/1/8a54e5468bcc1892800d5ceda6fad371/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Serie Hulk Defensora de Heróis",Hulk Defensora de Heróis 1x9
-https://seig.tv/11/1/311a5c813f02553fa6c17907fbbe1654/720p/720p.m3u8
 
 #EXTM3U url-tvg="http://grade-de- Serie Mulher Hulks.xml"
 ############## Serie Mulher Hulk ################# 
@@ -8126,11 +7692,6 @@ http://meuplay.shop:80/series/67598237854pw/9875352849pw/2271.mp4
 http://meuplay.shop:80/series/67598237854pw/9875352849pw/2272.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E10" tvg-logo="http://image.tmdb.org/t/p/w300/rZyFXwJ1zGKCGgxk2aRCPR9y6Ww.jpg" group-title="STAR+",Arquivo X S11 E10
 http://meuplay.shop:80/series/67598237854pw/9875352849pw/2273.mp4
-
-#EXTM3U url-tvg=" http://grade-de-STAR+ Com a Permissão do Tribunal.xml "
- ############## STAR+ Com a Permissão do Tribunal ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSTAR+ Com a Permissão do Tribunal" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvvjHV2QUGiPPnqPbywzokeTf4j.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/85465.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2CE2mC1uL3p61bD0qqMYpolctEW.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E02
@@ -8155,11 +7716,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/85474.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/85475.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVydmFJrqffdgYwxztoB6FV98LP.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E12
 http://meuplay.shop:80/series/828474929852/34882748924/85476.mp4
-
-#EXTM3U url-tvg=" http://grade-de-STAR+Interligados.xml "
- ############## STAR+Interligados ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSTAR+Interligados" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7pMZ6G2ncvg8O9sLAZ0RtRsZEuh.jpg" group-title="STAR+",Interligados S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/85820.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kaz02qu5Ju08NF8lMf8BaVUdtue.jpg" group-title="STAR+",Interligados S01 E02
@@ -8193,11 +7749,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/82690.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82748.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w300/cmkGbFRwFKoU6ktkp3YwPlNfJyk.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E08
 http://meuplay.shop:80/series/828474929852/34882748924/82916.mp4
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME",Hannibal.xml "
- ############## AMAZON PRIME",Hannibal ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME",Hannibal" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kXGE9Yv63ApoYZSYHcTMtoieqqb.jpg" group-title="AMAZON PRIME",Hannibal S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/81778.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q1MHfWPazc9VAdzfLaVudzM2deI.jpg" group-title="AMAZON PRIME",Hannibal S01 E02
@@ -8276,11 +7827,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/81814.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/81815.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/X4WND6NGPSWkUc7RoFBow0JgJg.jpg" group-title="AMAZON PRIME",Hannibal S03 E13
 http://meuplay.shop:80/series/828474929852/34882748924/81816.mp4
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME Liar: Rede de Mentiras.xml "
- ############## AMAZON PRIME Liar: Rede de Mentiras############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME Liar: Rede de Mentiras" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Liar: Rede de Mentiras S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ldyx5VGJhBzmhvK9wE8NPirtv4f.jpg" group-title="AMAZON PRIME",Liar: Rede de Mentiras S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/85831.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Liar: Rede de Mentiras S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aR5ZuikkKL3ZK0WGHTG0Rzqxd7l.jpg" group-title="AMAZON PRIME",Liar: Rede de Mentiras S01 E02
@@ -8305,11 +7851,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/85848.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/85849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Liar: Rede de Mentiras S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFllEETgzQ9P4ihhYbM0yCKbmof.jpg" group-title="AMAZON PRIME",Liar: Rede de Mentiras S02 E06
 http://meuplay.shop:80/series/828474929852/34882748924/85850.mp4
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME Prisma.xml "
- ############## AMAZON PRIME Prisma############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME Prisma" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Prisma S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30ppC6W6dd3PR26FpLrMaemyass.jpg" group-title="AMAZON PRIME",Prisma S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/83610.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prisma S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6eXt0R6QoXb1yAHjbgQT4xbdz7W.jpg" group-title="AMAZON PRIME",Prisma S01 E02
@@ -8326,22 +7867,12 @@ http://meuplay.shop:80/series/828474929852/34882748924/83615.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/83616.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prisma S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gaURG86LrEuRIijpQYxzcjqplC6.jpg" group-title="AMAZON PRIME",Prisma S01 E08
 http://meuplay.shop:80/series/828474929852/34882748924/83617.mp4
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIMEThree Pines.xml "
- ############## AMAZON PRIME Three Pines############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIMEThree Pines" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Three Pines S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUZDYOEtv6O2Hg4ObQJi0WwkblE.jpg" group-title="AMAZON PRIME",Three Pines S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/83992.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Three Pines S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uABlge3Bwl7FNnYsgIvGWv8AtF.jpg" group-title="AMAZON PRIME",Three Pines S01 E02
 http://meuplay.shop:80/series/828474929852/34882748924/83993.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Three Pines S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4kGY5t6GclShDrFP1SgIj0cflYV.jpg" group-title="AMAZON PRIME",Three Pines S01 E03
 http://meuplay.shop:80/series/828474929852/34882748924/83994.mp4
-
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME 1923.xml "
- ############## AMAZON PRIME 1923############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME1923" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="1923 S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/At324Ks3Ao0I7t8oSy5VrTYdXj3.jpg" group-title="AMAZON PRIME",1923 S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/86194.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923 S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kk5DofIu197Y2omyQJsRO1d3wP4.jpg" group-title="AMAZON PRIME",1923 S01 E02
@@ -8434,7 +7965,6 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
-
 #EXTM3U url-tvg=" http://grade-de-Receitas Culinaria.xml "
  ############## Receitas Culinaria ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeReceitas Culinaria " group-title="
@@ -8477,92 +8007,6 @@ https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_108
 https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
 https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
-
-
-
-
-#EXTM3U url-tvg="http://grade-de-Especiais 24hs.xml"
-############## Especiais 24hs ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeEspeciais 24hs" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tarzan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SkdODSGOfK8awjyLi7VAilctB.jpg" group-title="Especiais 24hs ",[24H] Tarzan
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84600
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[24h] A Familia Hathaway " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24h] A Familia Hathaway 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61321
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Hathaways" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dUhGlPZVWf8KCt4xMZtG1cymHRZ.jpg" group-title="Especiais 24hs ",[24H] A Família Hathaways
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84588
-#EXTINF:-1 tvg-id="" tvg-name="[24h] 220 Volts" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPX7V19ME8y6qjuu1Uj1txrhnSY.jpg" group-title="Especiais 24hs ",[24h] 220 Volts
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/56850
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vida Como Ela é" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjoPxAbzidwPcuzJ4TTJVL7xo6N.jpg" group-title="Especiais 24hs ",[24H] A Vida Como Ela é
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84589
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 9-1-1 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg" group-title="Especiais 24hs ",[24H] 9-1-1 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84628
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF o E. Teimoso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="Especiais 24hs ",[24H] ALF o E. Teimoso
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84590
-#EXTINF:-1 tvg-id="" tvg-name="[24h] ALF o ET Teimoso " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" group-title="Especiais 24hs ",[24h] ALF o ET Teimoso 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61319
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Acorrentada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DD1WVGrjSEVDWpKaDBrVjLvCC8.jpg" group-title="Especiais 24hs ",[24h] Acorrentada
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/897603
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S01 e S02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82896
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S04 e S03" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S04 e S03
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82897
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-YR1Ka9ZL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chaves S05, S06 e S07
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82898
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Changeman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHC80SHVrlQLHjq88isra3r3GV3.jpg" group-title="Especiais 24hs ",[24h] Changeman 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61318
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S01 e S02" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S01 e S02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82899
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S03 e S04" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S03 e S04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82900
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin S05, S06 e S07" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517vDa3kSEL._SY445_.jpg" group-title="Especiais 24hs ",[24H] Chapolin S05, S06 e S07
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82901
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Casamento as Cegas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHbWlIb7ceeNJm7Qb2pNJVBsu8a.jpg" group-title="Especiais 24hs ",[24h] Casamento as Cegas
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/896829
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S01 a S04" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S01 a S04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82749
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S05 a S08" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S05 a S08
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82750
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Dois Homens e meio S09 a S12" tvg-logo="https://imgur.com/e8E8b6Q.jpg" group-title="Especiais 24hs ",[24h] Dois Homens e meio S09 a S12
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82751
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Desafio em Dose Dupla " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJIzXY9xYS9lnqe1Vqfj7SU1HeP.jpg" group-title="Especiais 24hs ",[24H] Desafio em Dose Dupla 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84591
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Criminal Minds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLlH7zxGol0hn7LOkCWx9CdOvZ8.jpg" group-title="Especiais 24hs ",[24H] Criminal Minds
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84626
-#EXTINF:-1 tvg-id="" tvg-name="[24h] CyberCops" tvg-logo="https://imgur.com/peDf3HR.jpg" group-title="Especiais 24hs ",[24h] CyberCops
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/12448
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg" group-title="Especiais 24hs ",[24H] Breaking Bad
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84627
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Black Kamen Raider " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCj0R6fIXz4cfFiydWbxQimTwaV.jpg" group-title="Especiais 24hs ",[24h] Black Kamen Raider 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/61322
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S01 e 02" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S01 e 02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82752
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Drake e Josh S03 e 04" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/79357/1141066-4-optimized.jpg" group-title="Especiais 24hs ",[24H] Drake e Josh S03 e 04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82753
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DR. House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="Especiais 24hs ",[24H] DR. House
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84625
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S01" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S01
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82754
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S02" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S02
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82755
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S03" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S03
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82756
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Eu a Patroa e as Crianças S04" tvg-logo="https://imgur.com/zijVgPG.jpg" group-title="Especiais 24hs ",[24h] Eu a Patroa e as Crianças S04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82757
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Família Dinossauro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="Especiais 24hs ",[24H] Família Dinossauro 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/84593
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S01 e S02 " tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S01 e S02 
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82758
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S03 e S04" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S03 e S04
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82759
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S05 e S06" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S05 e S06
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82760
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S07 e S08" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S07 e S08
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82761
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Friends S09 e S10" tvg-logo="https://imgur.com/3f5nvsn.jpg" group-title="Especiais 24hs ",[24h] Friends S09 e S10
-http://dns.acaidopara.net:8080/Ricardotvbox24/2408rica02/82769
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Reality",90 Dias para Casar.xml"
 ############## SÉRIES | Reality",90 Dias para Casar ################# 
@@ -9907,233 +9351,6 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E65
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43004.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix Funerária Família Bernard.xml"
-############## SÉRIES | Netflix Funerária Família Bernard ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix Funerária Família Bernard" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuaxBBJ3DwTfQGdFS2MS16FjXW.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko4UryJGECAGy4cltascrdfwHQ3.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwitPLKNjKkP9UjDHEfV6ndwkBr.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/174XOXzj7hibATBDZqIbEhTzhkE.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQLd1o1Z6q7HF4OGYqtaaI39okQ.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZFM6N7LHl0q4VukB6J7XtlLYEs.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEEsnd1dshj9WGw1MZztW8sZkA7.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funerária Família Bernard S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5mdvoz1lF0FWBgDykU9PpzhWaa.jpg" group-title=" SÉRIES | Netflix",Funerária Família Bernard S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149244.mp4
-
-#EXTM3U url-tvg="http://grade-de-Chiquititas.xml"
-############## Chiquititas ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeChiquititas" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E01
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E02
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E03
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E04
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E05
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E06
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E07
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E08
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E09
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E10
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E11
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititass S01 E12
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E13
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E14
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E15
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E16
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E17
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E18
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E19
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E20
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E21
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E22
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E23
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E24
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",ChiquititasS01 E25
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E26
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E27
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E28
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E29
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E30
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E31
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E32
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E33
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E34
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E35
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E36
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E37
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E38
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E39
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E40
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E41
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E42
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E43
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E44
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E45
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E46
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E47
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E48
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E49
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E50
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E51
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E52
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E53
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E54
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E55
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E56
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E57
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E58
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E59
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E60
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E61
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E62
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",ChiquititasS01 E63
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E64
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E65
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E66
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E67
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E68
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E69
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E70
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E71
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E72
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E73
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E74
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E75
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E76
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E77
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E78
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E79
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E80
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E81
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E82
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E83
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E84
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E85
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E86
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E87
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E88
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E89
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E90
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E91
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E92
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E93
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E94
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E95
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E96
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E97
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E98
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E99
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chiquititas S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg" group-title="Chiquititas",Chiquititas S01 E100
-http://dns.acaidopara.net:8080/series/Ricardotvbox24/2408rica02/42968.mp4
-
-
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Rebelde.xml"
 ############## SÉRIES | Rebelde ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Rebelde" group-title="
@@ -11220,8 +10437,6 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287240.mp4
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287241.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doogie Kamealoha: Doutora Precoce S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZG8dUE1FISwY4B6M5yEgxUwiZp.jpg" group-title="SÉRIES | Drama",Doogie Kamealoha: Doutora Precoce S02 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287242.mp4
-
-
 
 #EXTM3U url-tvg="http://grade-de-SERIES | Homens de Terno.xml"
 ############## SERIES | Homens de Terno ################# 
